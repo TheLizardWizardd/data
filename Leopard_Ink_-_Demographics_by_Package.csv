@@ -1,0 +1,3457 @@
+Province,Area Type,Age Group,Gender,Income Bracket (ZAR),Package,Customer Count
+Gauteng,Urban,18-25,Male,<10k,10/10 Mbps,11
+Gauteng,Urban,18-25,Male,<10k,50/50 Mbps,62
+Gauteng,Urban,18-25,Male,<10k,100/100 Mbps,18
+Gauteng,Urban,18-25,Male,<10k,200/200 Mbps,72
+Gauteng,Urban,18-25,Male,<10k,500/500 Mbps,96
+Gauteng,Urban,18-25,Male,<10k,1000/1000 Mbps,61
+Gauteng,Urban,18-25,Male,10-20k,10/10 Mbps,93
+Gauteng,Urban,18-25,Male,10-20k,50/50 Mbps,91
+Gauteng,Urban,18-25,Male,10-20k,100/100 Mbps,52
+Gauteng,Urban,18-25,Male,10-20k,200/200 Mbps,74
+Gauteng,Urban,18-25,Male,10-20k,500/500 Mbps,29
+Gauteng,Urban,18-25,Male,10-20k,1000/1000 Mbps,26
+Gauteng,Urban,18-25,Male,20-40k,10/10 Mbps,26
+Gauteng,Urban,18-25,Male,20-40k,50/50 Mbps,63
+Gauteng,Urban,18-25,Male,20-40k,100/100 Mbps,24
+Gauteng,Urban,18-25,Male,20-40k,200/200 Mbps,80
+Gauteng,Urban,18-25,Male,20-40k,500/500 Mbps,71
+Gauteng,Urban,18-25,Male,20-40k,1000/1000 Mbps,93
+Gauteng,Urban,18-25,Male,40k+,10/10 Mbps,77
+Gauteng,Urban,18-25,Male,40k+,50/50 Mbps,43
+Gauteng,Urban,18-25,Male,40k+,100/100 Mbps,78
+Gauteng,Urban,18-25,Male,40k+,200/200 Mbps,93
+Gauteng,Urban,18-25,Male,40k+,500/500 Mbps,34
+Gauteng,Urban,18-25,Male,40k+,1000/1000 Mbps,95
+Gauteng,Urban,18-25,Female,<10k,10/10 Mbps,61
+Gauteng,Urban,18-25,Female,<10k,50/50 Mbps,71
+Gauteng,Urban,18-25,Female,<10k,100/100 Mbps,10
+Gauteng,Urban,18-25,Female,<10k,200/200 Mbps,59
+Gauteng,Urban,18-25,Female,<10k,500/500 Mbps,92
+Gauteng,Urban,18-25,Female,<10k,1000/1000 Mbps,29
+Gauteng,Urban,18-25,Female,10-20k,10/10 Mbps,79
+Gauteng,Urban,18-25,Female,10-20k,50/50 Mbps,66
+Gauteng,Urban,18-25,Female,10-20k,100/100 Mbps,83
+Gauteng,Urban,18-25,Female,10-20k,200/200 Mbps,52
+Gauteng,Urban,18-25,Female,10-20k,500/500 Mbps,20
+Gauteng,Urban,18-25,Female,10-20k,1000/1000 Mbps,9
+Gauteng,Urban,18-25,Female,20-40k,10/10 Mbps,10
+Gauteng,Urban,18-25,Female,20-40k,50/50 Mbps,77
+Gauteng,Urban,18-25,Female,20-40k,100/100 Mbps,13
+Gauteng,Urban,18-25,Female,20-40k,200/200 Mbps,10
+Gauteng,Urban,18-25,Female,20-40k,500/500 Mbps,69
+Gauteng,Urban,18-25,Female,20-40k,1000/1000 Mbps,44
+Gauteng,Urban,18-25,Female,40k+,10/10 Mbps,7
+Gauteng,Urban,18-25,Female,40k+,50/50 Mbps,39
+Gauteng,Urban,18-25,Female,40k+,100/100 Mbps,66
+Gauteng,Urban,18-25,Female,40k+,200/200 Mbps,71
+Gauteng,Urban,18-25,Female,40k+,500/500 Mbps,82
+Gauteng,Urban,18-25,Female,40k+,1000/1000 Mbps,70
+Gauteng,Urban,18-25,Other,<10k,10/10 Mbps,12
+Gauteng,Urban,18-25,Other,<10k,50/50 Mbps,97
+Gauteng,Urban,18-25,Other,<10k,100/100 Mbps,7
+Gauteng,Urban,18-25,Other,<10k,200/200 Mbps,46
+Gauteng,Urban,18-25,Other,<10k,500/500 Mbps,29
+Gauteng,Urban,18-25,Other,<10k,1000/1000 Mbps,98
+Gauteng,Urban,18-25,Other,10-20k,10/10 Mbps,9
+Gauteng,Urban,18-25,Other,10-20k,50/50 Mbps,83
+Gauteng,Urban,18-25,Other,10-20k,100/100 Mbps,89
+Gauteng,Urban,18-25,Other,10-20k,200/200 Mbps,89
+Gauteng,Urban,18-25,Other,10-20k,500/500 Mbps,16
+Gauteng,Urban,18-25,Other,10-20k,1000/1000 Mbps,84
+Gauteng,Urban,18-25,Other,20-40k,10/10 Mbps,10
+Gauteng,Urban,18-25,Other,20-40k,50/50 Mbps,63
+Gauteng,Urban,18-25,Other,20-40k,100/100 Mbps,38
+Gauteng,Urban,18-25,Other,20-40k,200/200 Mbps,98
+Gauteng,Urban,18-25,Other,20-40k,500/500 Mbps,19
+Gauteng,Urban,18-25,Other,20-40k,1000/1000 Mbps,73
+Gauteng,Urban,18-25,Other,40k+,10/10 Mbps,95
+Gauteng,Urban,18-25,Other,40k+,50/50 Mbps,91
+Gauteng,Urban,18-25,Other,40k+,100/100 Mbps,90
+Gauteng,Urban,18-25,Other,40k+,200/200 Mbps,5
+Gauteng,Urban,18-25,Other,40k+,500/500 Mbps,97
+Gauteng,Urban,18-25,Other,40k+,1000/1000 Mbps,71
+Gauteng,Urban,26-35,Male,<10k,10/10 Mbps,88
+Gauteng,Urban,26-35,Male,<10k,50/50 Mbps,61
+Gauteng,Urban,26-35,Male,<10k,100/100 Mbps,84
+Gauteng,Urban,26-35,Male,<10k,200/200 Mbps,89
+Gauteng,Urban,26-35,Male,<10k,500/500 Mbps,33
+Gauteng,Urban,26-35,Male,<10k,1000/1000 Mbps,66
+Gauteng,Urban,26-35,Male,10-20k,10/10 Mbps,29
+Gauteng,Urban,26-35,Male,10-20k,50/50 Mbps,37
+Gauteng,Urban,26-35,Male,10-20k,100/100 Mbps,86
+Gauteng,Urban,26-35,Male,10-20k,200/200 Mbps,82
+Gauteng,Urban,26-35,Male,10-20k,500/500 Mbps,62
+Gauteng,Urban,26-35,Male,10-20k,1000/1000 Mbps,32
+Gauteng,Urban,26-35,Male,20-40k,10/10 Mbps,45
+Gauteng,Urban,26-35,Male,20-40k,50/50 Mbps,96
+Gauteng,Urban,26-35,Male,20-40k,100/100 Mbps,17
+Gauteng,Urban,26-35,Male,20-40k,200/200 Mbps,53
+Gauteng,Urban,26-35,Male,20-40k,500/500 Mbps,50
+Gauteng,Urban,26-35,Male,20-40k,1000/1000 Mbps,28
+Gauteng,Urban,26-35,Male,40k+,10/10 Mbps,79
+Gauteng,Urban,26-35,Male,40k+,50/50 Mbps,56
+Gauteng,Urban,26-35,Male,40k+,100/100 Mbps,84
+Gauteng,Urban,26-35,Male,40k+,200/200 Mbps,65
+Gauteng,Urban,26-35,Male,40k+,500/500 Mbps,83
+Gauteng,Urban,26-35,Male,40k+,1000/1000 Mbps,48
+Gauteng,Urban,26-35,Female,<10k,10/10 Mbps,97
+Gauteng,Urban,26-35,Female,<10k,50/50 Mbps,17
+Gauteng,Urban,26-35,Female,<10k,100/100 Mbps,55
+Gauteng,Urban,26-35,Female,<10k,200/200 Mbps,93
+Gauteng,Urban,26-35,Female,<10k,500/500 Mbps,85
+Gauteng,Urban,26-35,Female,<10k,1000/1000 Mbps,30
+Gauteng,Urban,26-35,Female,10-20k,10/10 Mbps,70
+Gauteng,Urban,26-35,Female,10-20k,50/50 Mbps,54
+Gauteng,Urban,26-35,Female,10-20k,100/100 Mbps,26
+Gauteng,Urban,26-35,Female,10-20k,200/200 Mbps,77
+Gauteng,Urban,26-35,Female,10-20k,500/500 Mbps,62
+Gauteng,Urban,26-35,Female,10-20k,1000/1000 Mbps,99
+Gauteng,Urban,26-35,Female,20-40k,10/10 Mbps,41
+Gauteng,Urban,26-35,Female,20-40k,50/50 Mbps,15
+Gauteng,Urban,26-35,Female,20-40k,100/100 Mbps,32
+Gauteng,Urban,26-35,Female,20-40k,200/200 Mbps,34
+Gauteng,Urban,26-35,Female,20-40k,500/500 Mbps,33
+Gauteng,Urban,26-35,Female,20-40k,1000/1000 Mbps,88
+Gauteng,Urban,26-35,Female,40k+,10/10 Mbps,32
+Gauteng,Urban,26-35,Female,40k+,50/50 Mbps,46
+Gauteng,Urban,26-35,Female,40k+,100/100 Mbps,30
+Gauteng,Urban,26-35,Female,40k+,200/200 Mbps,12
+Gauteng,Urban,26-35,Female,40k+,500/500 Mbps,65
+Gauteng,Urban,26-35,Female,40k+,1000/1000 Mbps,51
+Gauteng,Urban,26-35,Other,<10k,10/10 Mbps,88
+Gauteng,Urban,26-35,Other,<10k,50/50 Mbps,50
+Gauteng,Urban,26-35,Other,<10k,100/100 Mbps,33
+Gauteng,Urban,26-35,Other,<10k,200/200 Mbps,94
+Gauteng,Urban,26-35,Other,<10k,500/500 Mbps,60
+Gauteng,Urban,26-35,Other,<10k,1000/1000 Mbps,91
+Gauteng,Urban,26-35,Other,10-20k,10/10 Mbps,64
+Gauteng,Urban,26-35,Other,10-20k,50/50 Mbps,88
+Gauteng,Urban,26-35,Other,10-20k,100/100 Mbps,44
+Gauteng,Urban,26-35,Other,10-20k,200/200 Mbps,37
+Gauteng,Urban,26-35,Other,10-20k,500/500 Mbps,48
+Gauteng,Urban,26-35,Other,10-20k,1000/1000 Mbps,94
+Gauteng,Urban,26-35,Other,20-40k,10/10 Mbps,29
+Gauteng,Urban,26-35,Other,20-40k,50/50 Mbps,97
+Gauteng,Urban,26-35,Other,20-40k,100/100 Mbps,37
+Gauteng,Urban,26-35,Other,20-40k,200/200 Mbps,73
+Gauteng,Urban,26-35,Other,20-40k,500/500 Mbps,56
+Gauteng,Urban,26-35,Other,20-40k,1000/1000 Mbps,73
+Gauteng,Urban,26-35,Other,40k+,10/10 Mbps,45
+Gauteng,Urban,26-35,Other,40k+,50/50 Mbps,97
+Gauteng,Urban,26-35,Other,40k+,100/100 Mbps,54
+Gauteng,Urban,26-35,Other,40k+,200/200 Mbps,88
+Gauteng,Urban,26-35,Other,40k+,500/500 Mbps,74
+Gauteng,Urban,26-35,Other,40k+,1000/1000 Mbps,67
+Gauteng,Urban,36-50,Male,<10k,10/10 Mbps,61
+Gauteng,Urban,36-50,Male,<10k,50/50 Mbps,66
+Gauteng,Urban,36-50,Male,<10k,100/100 Mbps,72
+Gauteng,Urban,36-50,Male,<10k,200/200 Mbps,57
+Gauteng,Urban,36-50,Male,<10k,500/500 Mbps,32
+Gauteng,Urban,36-50,Male,<10k,1000/1000 Mbps,54
+Gauteng,Urban,36-50,Male,10-20k,10/10 Mbps,67
+Gauteng,Urban,36-50,Male,10-20k,50/50 Mbps,61
+Gauteng,Urban,36-50,Male,10-20k,100/100 Mbps,99
+Gauteng,Urban,36-50,Male,10-20k,200/200 Mbps,77
+Gauteng,Urban,36-50,Male,10-20k,500/500 Mbps,99
+Gauteng,Urban,36-50,Male,10-20k,1000/1000 Mbps,81
+Gauteng,Urban,36-50,Male,20-40k,10/10 Mbps,98
+Gauteng,Urban,36-50,Male,20-40k,50/50 Mbps,63
+Gauteng,Urban,36-50,Male,20-40k,100/100 Mbps,74
+Gauteng,Urban,36-50,Male,20-40k,200/200 Mbps,34
+Gauteng,Urban,36-50,Male,20-40k,500/500 Mbps,8
+Gauteng,Urban,36-50,Male,20-40k,1000/1000 Mbps,43
+Gauteng,Urban,36-50,Male,40k+,10/10 Mbps,54
+Gauteng,Urban,36-50,Male,40k+,50/50 Mbps,89
+Gauteng,Urban,36-50,Male,40k+,100/100 Mbps,83
+Gauteng,Urban,36-50,Male,40k+,200/200 Mbps,94
+Gauteng,Urban,36-50,Male,40k+,500/500 Mbps,64
+Gauteng,Urban,36-50,Male,40k+,1000/1000 Mbps,8
+Gauteng,Urban,36-50,Female,<10k,10/10 Mbps,38
+Gauteng,Urban,36-50,Female,<10k,50/50 Mbps,59
+Gauteng,Urban,36-50,Female,<10k,100/100 Mbps,51
+Gauteng,Urban,36-50,Female,<10k,200/200 Mbps,66
+Gauteng,Urban,36-50,Female,<10k,500/500 Mbps,17
+Gauteng,Urban,36-50,Female,<10k,1000/1000 Mbps,5
+Gauteng,Urban,36-50,Female,10-20k,10/10 Mbps,21
+Gauteng,Urban,36-50,Female,10-20k,50/50 Mbps,23
+Gauteng,Urban,36-50,Female,10-20k,100/100 Mbps,18
+Gauteng,Urban,36-50,Female,10-20k,200/200 Mbps,66
+Gauteng,Urban,36-50,Female,10-20k,500/500 Mbps,69
+Gauteng,Urban,36-50,Female,10-20k,1000/1000 Mbps,83
+Gauteng,Urban,36-50,Female,20-40k,10/10 Mbps,82
+Gauteng,Urban,36-50,Female,20-40k,50/50 Mbps,85
+Gauteng,Urban,36-50,Female,20-40k,100/100 Mbps,39
+Gauteng,Urban,36-50,Female,20-40k,200/200 Mbps,96
+Gauteng,Urban,36-50,Female,20-40k,500/500 Mbps,59
+Gauteng,Urban,36-50,Female,20-40k,1000/1000 Mbps,59
+Gauteng,Urban,36-50,Female,40k+,10/10 Mbps,64
+Gauteng,Urban,36-50,Female,40k+,50/50 Mbps,73
+Gauteng,Urban,36-50,Female,40k+,100/100 Mbps,18
+Gauteng,Urban,36-50,Female,40k+,200/200 Mbps,59
+Gauteng,Urban,36-50,Female,40k+,500/500 Mbps,6
+Gauteng,Urban,36-50,Female,40k+,1000/1000 Mbps,73
+Gauteng,Urban,36-50,Other,<10k,10/10 Mbps,86
+Gauteng,Urban,36-50,Other,<10k,50/50 Mbps,36
+Gauteng,Urban,36-50,Other,<10k,100/100 Mbps,53
+Gauteng,Urban,36-50,Other,<10k,200/200 Mbps,69
+Gauteng,Urban,36-50,Other,<10k,500/500 Mbps,73
+Gauteng,Urban,36-50,Other,<10k,1000/1000 Mbps,21
+Gauteng,Urban,36-50,Other,10-20k,10/10 Mbps,88
+Gauteng,Urban,36-50,Other,10-20k,50/50 Mbps,72
+Gauteng,Urban,36-50,Other,10-20k,100/100 Mbps,31
+Gauteng,Urban,36-50,Other,10-20k,200/200 Mbps,92
+Gauteng,Urban,36-50,Other,10-20k,500/500 Mbps,41
+Gauteng,Urban,36-50,Other,10-20k,1000/1000 Mbps,39
+Gauteng,Urban,36-50,Other,20-40k,10/10 Mbps,9
+Gauteng,Urban,36-50,Other,20-40k,50/50 Mbps,70
+Gauteng,Urban,36-50,Other,20-40k,100/100 Mbps,35
+Gauteng,Urban,36-50,Other,20-40k,200/200 Mbps,54
+Gauteng,Urban,36-50,Other,20-40k,500/500 Mbps,38
+Gauteng,Urban,36-50,Other,20-40k,1000/1000 Mbps,12
+Gauteng,Urban,36-50,Other,40k+,10/10 Mbps,52
+Gauteng,Urban,36-50,Other,40k+,50/50 Mbps,72
+Gauteng,Urban,36-50,Other,40k+,100/100 Mbps,76
+Gauteng,Urban,36-50,Other,40k+,200/200 Mbps,62
+Gauteng,Urban,36-50,Other,40k+,500/500 Mbps,23
+Gauteng,Urban,36-50,Other,40k+,1000/1000 Mbps,90
+Gauteng,Urban,51+,Male,<10k,10/10 Mbps,43
+Gauteng,Urban,51+,Male,<10k,50/50 Mbps,39
+Gauteng,Urban,51+,Male,<10k,100/100 Mbps,55
+Gauteng,Urban,51+,Male,<10k,200/200 Mbps,13
+Gauteng,Urban,51+,Male,<10k,500/500 Mbps,27
+Gauteng,Urban,51+,Male,<10k,1000/1000 Mbps,57
+Gauteng,Urban,51+,Male,10-20k,10/10 Mbps,70
+Gauteng,Urban,51+,Male,10-20k,50/50 Mbps,20
+Gauteng,Urban,51+,Male,10-20k,100/100 Mbps,73
+Gauteng,Urban,51+,Male,10-20k,200/200 Mbps,95
+Gauteng,Urban,51+,Male,10-20k,500/500 Mbps,79
+Gauteng,Urban,51+,Male,10-20k,1000/1000 Mbps,27
+Gauteng,Urban,51+,Male,20-40k,10/10 Mbps,83
+Gauteng,Urban,51+,Male,20-40k,50/50 Mbps,66
+Gauteng,Urban,51+,Male,20-40k,100/100 Mbps,45
+Gauteng,Urban,51+,Male,20-40k,200/200 Mbps,21
+Gauteng,Urban,51+,Male,20-40k,500/500 Mbps,71
+Gauteng,Urban,51+,Male,20-40k,1000/1000 Mbps,25
+Gauteng,Urban,51+,Male,40k+,10/10 Mbps,36
+Gauteng,Urban,51+,Male,40k+,50/50 Mbps,89
+Gauteng,Urban,51+,Male,40k+,100/100 Mbps,31
+Gauteng,Urban,51+,Male,40k+,200/200 Mbps,51
+Gauteng,Urban,51+,Male,40k+,500/500 Mbps,27
+Gauteng,Urban,51+,Male,40k+,1000/1000 Mbps,29
+Gauteng,Urban,51+,Female,<10k,10/10 Mbps,61
+Gauteng,Urban,51+,Female,<10k,50/50 Mbps,85
+Gauteng,Urban,51+,Female,<10k,100/100 Mbps,56
+Gauteng,Urban,51+,Female,<10k,200/200 Mbps,14
+Gauteng,Urban,51+,Female,<10k,500/500 Mbps,15
+Gauteng,Urban,51+,Female,<10k,1000/1000 Mbps,56
+Gauteng,Urban,51+,Female,10-20k,10/10 Mbps,44
+Gauteng,Urban,51+,Female,10-20k,50/50 Mbps,46
+Gauteng,Urban,51+,Female,10-20k,100/100 Mbps,14
+Gauteng,Urban,51+,Female,10-20k,200/200 Mbps,85
+Gauteng,Urban,51+,Female,10-20k,500/500 Mbps,52
+Gauteng,Urban,51+,Female,10-20k,1000/1000 Mbps,20
+Gauteng,Urban,51+,Female,20-40k,10/10 Mbps,62
+Gauteng,Urban,51+,Female,20-40k,50/50 Mbps,6
+Gauteng,Urban,51+,Female,20-40k,100/100 Mbps,42
+Gauteng,Urban,51+,Female,20-40k,200/200 Mbps,20
+Gauteng,Urban,51+,Female,20-40k,500/500 Mbps,52
+Gauteng,Urban,51+,Female,20-40k,1000/1000 Mbps,76
+Gauteng,Urban,51+,Female,40k+,10/10 Mbps,31
+Gauteng,Urban,51+,Female,40k+,50/50 Mbps,16
+Gauteng,Urban,51+,Female,40k+,100/100 Mbps,91
+Gauteng,Urban,51+,Female,40k+,200/200 Mbps,77
+Gauteng,Urban,51+,Female,40k+,500/500 Mbps,47
+Gauteng,Urban,51+,Female,40k+,1000/1000 Mbps,24
+Gauteng,Urban,51+,Other,<10k,10/10 Mbps,95
+Gauteng,Urban,51+,Other,<10k,50/50 Mbps,11
+Gauteng,Urban,51+,Other,<10k,100/100 Mbps,79
+Gauteng,Urban,51+,Other,<10k,200/200 Mbps,68
+Gauteng,Urban,51+,Other,<10k,500/500 Mbps,80
+Gauteng,Urban,51+,Other,<10k,1000/1000 Mbps,53
+Gauteng,Urban,51+,Other,10-20k,10/10 Mbps,45
+Gauteng,Urban,51+,Other,10-20k,50/50 Mbps,27
+Gauteng,Urban,51+,Other,10-20k,100/100 Mbps,20
+Gauteng,Urban,51+,Other,10-20k,200/200 Mbps,6
+Gauteng,Urban,51+,Other,10-20k,500/500 Mbps,25
+Gauteng,Urban,51+,Other,10-20k,1000/1000 Mbps,71
+Gauteng,Urban,51+,Other,20-40k,10/10 Mbps,62
+Gauteng,Urban,51+,Other,20-40k,50/50 Mbps,52
+Gauteng,Urban,51+,Other,20-40k,100/100 Mbps,58
+Gauteng,Urban,51+,Other,20-40k,200/200 Mbps,76
+Gauteng,Urban,51+,Other,20-40k,500/500 Mbps,58
+Gauteng,Urban,51+,Other,20-40k,1000/1000 Mbps,99
+Gauteng,Urban,51+,Other,40k+,10/10 Mbps,87
+Gauteng,Urban,51+,Other,40k+,50/50 Mbps,57
+Gauteng,Urban,51+,Other,40k+,100/100 Mbps,60
+Gauteng,Urban,51+,Other,40k+,200/200 Mbps,32
+Gauteng,Urban,51+,Other,40k+,500/500 Mbps,99
+Gauteng,Urban,51+,Other,40k+,1000/1000 Mbps,21
+Gauteng,Suburban,18-25,Male,<10k,10/10 Mbps,79
+Gauteng,Suburban,18-25,Male,<10k,50/50 Mbps,33
+Gauteng,Suburban,18-25,Male,<10k,100/100 Mbps,31
+Gauteng,Suburban,18-25,Male,<10k,200/200 Mbps,90
+Gauteng,Suburban,18-25,Male,<10k,500/500 Mbps,43
+Gauteng,Suburban,18-25,Male,<10k,1000/1000 Mbps,64
+Gauteng,Suburban,18-25,Male,10-20k,10/10 Mbps,78
+Gauteng,Suburban,18-25,Male,10-20k,50/50 Mbps,8
+Gauteng,Suburban,18-25,Male,10-20k,100/100 Mbps,74
+Gauteng,Suburban,18-25,Male,10-20k,200/200 Mbps,5
+Gauteng,Suburban,18-25,Male,10-20k,500/500 Mbps,92
+Gauteng,Suburban,18-25,Male,10-20k,1000/1000 Mbps,57
+Gauteng,Suburban,18-25,Male,20-40k,10/10 Mbps,55
+Gauteng,Suburban,18-25,Male,20-40k,50/50 Mbps,22
+Gauteng,Suburban,18-25,Male,20-40k,100/100 Mbps,8
+Gauteng,Suburban,18-25,Male,20-40k,200/200 Mbps,57
+Gauteng,Suburban,18-25,Male,20-40k,500/500 Mbps,15
+Gauteng,Suburban,18-25,Male,20-40k,1000/1000 Mbps,31
+Gauteng,Suburban,18-25,Male,40k+,10/10 Mbps,88
+Gauteng,Suburban,18-25,Male,40k+,50/50 Mbps,50
+Gauteng,Suburban,18-25,Male,40k+,100/100 Mbps,41
+Gauteng,Suburban,18-25,Male,40k+,200/200 Mbps,89
+Gauteng,Suburban,18-25,Male,40k+,500/500 Mbps,87
+Gauteng,Suburban,18-25,Male,40k+,1000/1000 Mbps,54
+Gauteng,Suburban,18-25,Female,<10k,10/10 Mbps,17
+Gauteng,Suburban,18-25,Female,<10k,50/50 Mbps,34
+Gauteng,Suburban,18-25,Female,<10k,100/100 Mbps,32
+Gauteng,Suburban,18-25,Female,<10k,200/200 Mbps,17
+Gauteng,Suburban,18-25,Female,<10k,500/500 Mbps,79
+Gauteng,Suburban,18-25,Female,<10k,1000/1000 Mbps,59
+Gauteng,Suburban,18-25,Female,10-20k,10/10 Mbps,87
+Gauteng,Suburban,18-25,Female,10-20k,50/50 Mbps,20
+Gauteng,Suburban,18-25,Female,10-20k,100/100 Mbps,85
+Gauteng,Suburban,18-25,Female,10-20k,200/200 Mbps,28
+Gauteng,Suburban,18-25,Female,10-20k,500/500 Mbps,5
+Gauteng,Suburban,18-25,Female,10-20k,1000/1000 Mbps,21
+Gauteng,Suburban,18-25,Female,20-40k,10/10 Mbps,14
+Gauteng,Suburban,18-25,Female,20-40k,50/50 Mbps,45
+Gauteng,Suburban,18-25,Female,20-40k,100/100 Mbps,28
+Gauteng,Suburban,18-25,Female,20-40k,200/200 Mbps,24
+Gauteng,Suburban,18-25,Female,20-40k,500/500 Mbps,76
+Gauteng,Suburban,18-25,Female,20-40k,1000/1000 Mbps,20
+Gauteng,Suburban,18-25,Female,40k+,10/10 Mbps,55
+Gauteng,Suburban,18-25,Female,40k+,50/50 Mbps,79
+Gauteng,Suburban,18-25,Female,40k+,100/100 Mbps,91
+Gauteng,Suburban,18-25,Female,40k+,200/200 Mbps,92
+Gauteng,Suburban,18-25,Female,40k+,500/500 Mbps,95
+Gauteng,Suburban,18-25,Female,40k+,1000/1000 Mbps,35
+Gauteng,Suburban,18-25,Other,<10k,10/10 Mbps,65
+Gauteng,Suburban,18-25,Other,<10k,50/50 Mbps,75
+Gauteng,Suburban,18-25,Other,<10k,100/100 Mbps,64
+Gauteng,Suburban,18-25,Other,<10k,200/200 Mbps,26
+Gauteng,Suburban,18-25,Other,<10k,500/500 Mbps,59
+Gauteng,Suburban,18-25,Other,<10k,1000/1000 Mbps,45
+Gauteng,Suburban,18-25,Other,10-20k,10/10 Mbps,87
+Gauteng,Suburban,18-25,Other,10-20k,50/50 Mbps,41
+Gauteng,Suburban,18-25,Other,10-20k,100/100 Mbps,58
+Gauteng,Suburban,18-25,Other,10-20k,200/200 Mbps,91
+Gauteng,Suburban,18-25,Other,10-20k,500/500 Mbps,39
+Gauteng,Suburban,18-25,Other,10-20k,1000/1000 Mbps,18
+Gauteng,Suburban,18-25,Other,20-40k,10/10 Mbps,85
+Gauteng,Suburban,18-25,Other,20-40k,50/50 Mbps,10
+Gauteng,Suburban,18-25,Other,20-40k,100/100 Mbps,96
+Gauteng,Suburban,18-25,Other,20-40k,200/200 Mbps,49
+Gauteng,Suburban,18-25,Other,20-40k,500/500 Mbps,10
+Gauteng,Suburban,18-25,Other,20-40k,1000/1000 Mbps,59
+Gauteng,Suburban,18-25,Other,40k+,10/10 Mbps,22
+Gauteng,Suburban,18-25,Other,40k+,50/50 Mbps,51
+Gauteng,Suburban,18-25,Other,40k+,100/100 Mbps,18
+Gauteng,Suburban,18-25,Other,40k+,200/200 Mbps,7
+Gauteng,Suburban,18-25,Other,40k+,500/500 Mbps,44
+Gauteng,Suburban,18-25,Other,40k+,1000/1000 Mbps,97
+Gauteng,Suburban,26-35,Male,<10k,10/10 Mbps,77
+Gauteng,Suburban,26-35,Male,<10k,50/50 Mbps,85
+Gauteng,Suburban,26-35,Male,<10k,100/100 Mbps,50
+Gauteng,Suburban,26-35,Male,<10k,200/200 Mbps,63
+Gauteng,Suburban,26-35,Male,<10k,500/500 Mbps,63
+Gauteng,Suburban,26-35,Male,<10k,1000/1000 Mbps,53
+Gauteng,Suburban,26-35,Male,10-20k,10/10 Mbps,61
+Gauteng,Suburban,26-35,Male,10-20k,50/50 Mbps,46
+Gauteng,Suburban,26-35,Male,10-20k,100/100 Mbps,71
+Gauteng,Suburban,26-35,Male,10-20k,200/200 Mbps,6
+Gauteng,Suburban,26-35,Male,10-20k,500/500 Mbps,52
+Gauteng,Suburban,26-35,Male,10-20k,1000/1000 Mbps,48
+Gauteng,Suburban,26-35,Male,20-40k,10/10 Mbps,71
+Gauteng,Suburban,26-35,Male,20-40k,50/50 Mbps,92
+Gauteng,Suburban,26-35,Male,20-40k,100/100 Mbps,16
+Gauteng,Suburban,26-35,Male,20-40k,200/200 Mbps,29
+Gauteng,Suburban,26-35,Male,20-40k,500/500 Mbps,10
+Gauteng,Suburban,26-35,Male,20-40k,1000/1000 Mbps,88
+Gauteng,Suburban,26-35,Male,40k+,10/10 Mbps,98
+Gauteng,Suburban,26-35,Male,40k+,50/50 Mbps,77
+Gauteng,Suburban,26-35,Male,40k+,100/100 Mbps,98
+Gauteng,Suburban,26-35,Male,40k+,200/200 Mbps,99
+Gauteng,Suburban,26-35,Male,40k+,500/500 Mbps,91
+Gauteng,Suburban,26-35,Male,40k+,1000/1000 Mbps,95
+Gauteng,Suburban,26-35,Female,<10k,10/10 Mbps,85
+Gauteng,Suburban,26-35,Female,<10k,50/50 Mbps,21
+Gauteng,Suburban,26-35,Female,<10k,100/100 Mbps,14
+Gauteng,Suburban,26-35,Female,<10k,200/200 Mbps,11
+Gauteng,Suburban,26-35,Female,<10k,500/500 Mbps,88
+Gauteng,Suburban,26-35,Female,<10k,1000/1000 Mbps,55
+Gauteng,Suburban,26-35,Female,10-20k,10/10 Mbps,76
+Gauteng,Suburban,26-35,Female,10-20k,50/50 Mbps,49
+Gauteng,Suburban,26-35,Female,10-20k,100/100 Mbps,15
+Gauteng,Suburban,26-35,Female,10-20k,200/200 Mbps,40
+Gauteng,Suburban,26-35,Female,10-20k,500/500 Mbps,29
+Gauteng,Suburban,26-35,Female,10-20k,1000/1000 Mbps,89
+Gauteng,Suburban,26-35,Female,20-40k,10/10 Mbps,11
+Gauteng,Suburban,26-35,Female,20-40k,50/50 Mbps,27
+Gauteng,Suburban,26-35,Female,20-40k,100/100 Mbps,58
+Gauteng,Suburban,26-35,Female,20-40k,200/200 Mbps,67
+Gauteng,Suburban,26-35,Female,20-40k,500/500 Mbps,81
+Gauteng,Suburban,26-35,Female,20-40k,1000/1000 Mbps,72
+Gauteng,Suburban,26-35,Female,40k+,10/10 Mbps,23
+Gauteng,Suburban,26-35,Female,40k+,50/50 Mbps,20
+Gauteng,Suburban,26-35,Female,40k+,100/100 Mbps,41
+Gauteng,Suburban,26-35,Female,40k+,200/200 Mbps,19
+Gauteng,Suburban,26-35,Female,40k+,500/500 Mbps,26
+Gauteng,Suburban,26-35,Female,40k+,1000/1000 Mbps,8
+Gauteng,Suburban,26-35,Other,<10k,10/10 Mbps,85
+Gauteng,Suburban,26-35,Other,<10k,50/50 Mbps,78
+Gauteng,Suburban,26-35,Other,<10k,100/100 Mbps,31
+Gauteng,Suburban,26-35,Other,<10k,200/200 Mbps,78
+Gauteng,Suburban,26-35,Other,<10k,500/500 Mbps,20
+Gauteng,Suburban,26-35,Other,<10k,1000/1000 Mbps,71
+Gauteng,Suburban,26-35,Other,10-20k,10/10 Mbps,61
+Gauteng,Suburban,26-35,Other,10-20k,50/50 Mbps,31
+Gauteng,Suburban,26-35,Other,10-20k,100/100 Mbps,35
+Gauteng,Suburban,26-35,Other,10-20k,200/200 Mbps,66
+Gauteng,Suburban,26-35,Other,10-20k,500/500 Mbps,52
+Gauteng,Suburban,26-35,Other,10-20k,1000/1000 Mbps,23
+Gauteng,Suburban,26-35,Other,20-40k,10/10 Mbps,16
+Gauteng,Suburban,26-35,Other,20-40k,50/50 Mbps,50
+Gauteng,Suburban,26-35,Other,20-40k,100/100 Mbps,57
+Gauteng,Suburban,26-35,Other,20-40k,200/200 Mbps,68
+Gauteng,Suburban,26-35,Other,20-40k,500/500 Mbps,6
+Gauteng,Suburban,26-35,Other,20-40k,1000/1000 Mbps,41
+Gauteng,Suburban,26-35,Other,40k+,10/10 Mbps,78
+Gauteng,Suburban,26-35,Other,40k+,50/50 Mbps,5
+Gauteng,Suburban,26-35,Other,40k+,100/100 Mbps,61
+Gauteng,Suburban,26-35,Other,40k+,200/200 Mbps,91
+Gauteng,Suburban,26-35,Other,40k+,500/500 Mbps,27
+Gauteng,Suburban,26-35,Other,40k+,1000/1000 Mbps,85
+Gauteng,Suburban,36-50,Male,<10k,10/10 Mbps,92
+Gauteng,Suburban,36-50,Male,<10k,50/50 Mbps,6
+Gauteng,Suburban,36-50,Male,<10k,100/100 Mbps,45
+Gauteng,Suburban,36-50,Male,<10k,200/200 Mbps,48
+Gauteng,Suburban,36-50,Male,<10k,500/500 Mbps,12
+Gauteng,Suburban,36-50,Male,<10k,1000/1000 Mbps,74
+Gauteng,Suburban,36-50,Male,10-20k,10/10 Mbps,64
+Gauteng,Suburban,36-50,Male,10-20k,50/50 Mbps,70
+Gauteng,Suburban,36-50,Male,10-20k,100/100 Mbps,18
+Gauteng,Suburban,36-50,Male,10-20k,200/200 Mbps,78
+Gauteng,Suburban,36-50,Male,10-20k,500/500 Mbps,80
+Gauteng,Suburban,36-50,Male,10-20k,1000/1000 Mbps,64
+Gauteng,Suburban,36-50,Male,20-40k,10/10 Mbps,80
+Gauteng,Suburban,36-50,Male,20-40k,50/50 Mbps,16
+Gauteng,Suburban,36-50,Male,20-40k,100/100 Mbps,14
+Gauteng,Suburban,36-50,Male,20-40k,200/200 Mbps,30
+Gauteng,Suburban,36-50,Male,20-40k,500/500 Mbps,81
+Gauteng,Suburban,36-50,Male,20-40k,1000/1000 Mbps,67
+Gauteng,Suburban,36-50,Male,40k+,10/10 Mbps,43
+Gauteng,Suburban,36-50,Male,40k+,50/50 Mbps,12
+Gauteng,Suburban,36-50,Male,40k+,100/100 Mbps,34
+Gauteng,Suburban,36-50,Male,40k+,200/200 Mbps,14
+Gauteng,Suburban,36-50,Male,40k+,500/500 Mbps,47
+Gauteng,Suburban,36-50,Male,40k+,1000/1000 Mbps,62
+Gauteng,Suburban,36-50,Female,<10k,10/10 Mbps,60
+Gauteng,Suburban,36-50,Female,<10k,50/50 Mbps,26
+Gauteng,Suburban,36-50,Female,<10k,100/100 Mbps,43
+Gauteng,Suburban,36-50,Female,<10k,200/200 Mbps,85
+Gauteng,Suburban,36-50,Female,<10k,500/500 Mbps,98
+Gauteng,Suburban,36-50,Female,<10k,1000/1000 Mbps,86
+Gauteng,Suburban,36-50,Female,10-20k,10/10 Mbps,80
+Gauteng,Suburban,36-50,Female,10-20k,50/50 Mbps,18
+Gauteng,Suburban,36-50,Female,10-20k,100/100 Mbps,21
+Gauteng,Suburban,36-50,Female,10-20k,200/200 Mbps,46
+Gauteng,Suburban,36-50,Female,10-20k,500/500 Mbps,54
+Gauteng,Suburban,36-50,Female,10-20k,1000/1000 Mbps,91
+Gauteng,Suburban,36-50,Female,20-40k,10/10 Mbps,51
+Gauteng,Suburban,36-50,Female,20-40k,50/50 Mbps,21
+Gauteng,Suburban,36-50,Female,20-40k,100/100 Mbps,8
+Gauteng,Suburban,36-50,Female,20-40k,200/200 Mbps,76
+Gauteng,Suburban,36-50,Female,20-40k,500/500 Mbps,88
+Gauteng,Suburban,36-50,Female,20-40k,1000/1000 Mbps,62
+Gauteng,Suburban,36-50,Female,40k+,10/10 Mbps,17
+Gauteng,Suburban,36-50,Female,40k+,50/50 Mbps,58
+Gauteng,Suburban,36-50,Female,40k+,100/100 Mbps,69
+Gauteng,Suburban,36-50,Female,40k+,200/200 Mbps,49
+Gauteng,Suburban,36-50,Female,40k+,500/500 Mbps,68
+Gauteng,Suburban,36-50,Female,40k+,1000/1000 Mbps,47
+Gauteng,Suburban,36-50,Other,<10k,10/10 Mbps,43
+Gauteng,Suburban,36-50,Other,<10k,50/50 Mbps,50
+Gauteng,Suburban,36-50,Other,<10k,100/100 Mbps,45
+Gauteng,Suburban,36-50,Other,<10k,200/200 Mbps,83
+Gauteng,Suburban,36-50,Other,<10k,500/500 Mbps,65
+Gauteng,Suburban,36-50,Other,<10k,1000/1000 Mbps,57
+Gauteng,Suburban,36-50,Other,10-20k,10/10 Mbps,36
+Gauteng,Suburban,36-50,Other,10-20k,50/50 Mbps,52
+Gauteng,Suburban,36-50,Other,10-20k,100/100 Mbps,32
+Gauteng,Suburban,36-50,Other,10-20k,200/200 Mbps,72
+Gauteng,Suburban,36-50,Other,10-20k,500/500 Mbps,44
+Gauteng,Suburban,36-50,Other,10-20k,1000/1000 Mbps,42
+Gauteng,Suburban,36-50,Other,20-40k,10/10 Mbps,73
+Gauteng,Suburban,36-50,Other,20-40k,50/50 Mbps,75
+Gauteng,Suburban,36-50,Other,20-40k,100/100 Mbps,75
+Gauteng,Suburban,36-50,Other,20-40k,200/200 Mbps,80
+Gauteng,Suburban,36-50,Other,20-40k,500/500 Mbps,65
+Gauteng,Suburban,36-50,Other,20-40k,1000/1000 Mbps,26
+Gauteng,Suburban,36-50,Other,40k+,10/10 Mbps,76
+Gauteng,Suburban,36-50,Other,40k+,50/50 Mbps,57
+Gauteng,Suburban,36-50,Other,40k+,100/100 Mbps,87
+Gauteng,Suburban,36-50,Other,40k+,200/200 Mbps,20
+Gauteng,Suburban,36-50,Other,40k+,500/500 Mbps,79
+Gauteng,Suburban,36-50,Other,40k+,1000/1000 Mbps,95
+Gauteng,Suburban,51+,Male,<10k,10/10 Mbps,64
+Gauteng,Suburban,51+,Male,<10k,50/50 Mbps,87
+Gauteng,Suburban,51+,Male,<10k,100/100 Mbps,37
+Gauteng,Suburban,51+,Male,<10k,200/200 Mbps,17
+Gauteng,Suburban,51+,Male,<10k,500/500 Mbps,8
+Gauteng,Suburban,51+,Male,<10k,1000/1000 Mbps,17
+Gauteng,Suburban,51+,Male,10-20k,10/10 Mbps,50
+Gauteng,Suburban,51+,Male,10-20k,50/50 Mbps,16
+Gauteng,Suburban,51+,Male,10-20k,100/100 Mbps,92
+Gauteng,Suburban,51+,Male,10-20k,200/200 Mbps,52
+Gauteng,Suburban,51+,Male,10-20k,500/500 Mbps,90
+Gauteng,Suburban,51+,Male,10-20k,1000/1000 Mbps,78
+Gauteng,Suburban,51+,Male,20-40k,10/10 Mbps,17
+Gauteng,Suburban,51+,Male,20-40k,50/50 Mbps,31
+Gauteng,Suburban,51+,Male,20-40k,100/100 Mbps,65
+Gauteng,Suburban,51+,Male,20-40k,200/200 Mbps,95
+Gauteng,Suburban,51+,Male,20-40k,500/500 Mbps,13
+Gauteng,Suburban,51+,Male,20-40k,1000/1000 Mbps,55
+Gauteng,Suburban,51+,Male,40k+,10/10 Mbps,98
+Gauteng,Suburban,51+,Male,40k+,50/50 Mbps,47
+Gauteng,Suburban,51+,Male,40k+,100/100 Mbps,56
+Gauteng,Suburban,51+,Male,40k+,200/200 Mbps,85
+Gauteng,Suburban,51+,Male,40k+,500/500 Mbps,61
+Gauteng,Suburban,51+,Male,40k+,1000/1000 Mbps,77
+Gauteng,Suburban,51+,Female,<10k,10/10 Mbps,29
+Gauteng,Suburban,51+,Female,<10k,50/50 Mbps,21
+Gauteng,Suburban,51+,Female,<10k,100/100 Mbps,30
+Gauteng,Suburban,51+,Female,<10k,200/200 Mbps,26
+Gauteng,Suburban,51+,Female,<10k,500/500 Mbps,19
+Gauteng,Suburban,51+,Female,<10k,1000/1000 Mbps,29
+Gauteng,Suburban,51+,Female,10-20k,10/10 Mbps,76
+Gauteng,Suburban,51+,Female,10-20k,50/50 Mbps,13
+Gauteng,Suburban,51+,Female,10-20k,100/100 Mbps,60
+Gauteng,Suburban,51+,Female,10-20k,200/200 Mbps,45
+Gauteng,Suburban,51+,Female,10-20k,500/500 Mbps,94
+Gauteng,Suburban,51+,Female,10-20k,1000/1000 Mbps,81
+Gauteng,Suburban,51+,Female,20-40k,10/10 Mbps,58
+Gauteng,Suburban,51+,Female,20-40k,50/50 Mbps,12
+Gauteng,Suburban,51+,Female,20-40k,100/100 Mbps,64
+Gauteng,Suburban,51+,Female,20-40k,200/200 Mbps,99
+Gauteng,Suburban,51+,Female,20-40k,500/500 Mbps,89
+Gauteng,Suburban,51+,Female,20-40k,1000/1000 Mbps,25
+Gauteng,Suburban,51+,Female,40k+,10/10 Mbps,64
+Gauteng,Suburban,51+,Female,40k+,50/50 Mbps,82
+Gauteng,Suburban,51+,Female,40k+,100/100 Mbps,47
+Gauteng,Suburban,51+,Female,40k+,200/200 Mbps,87
+Gauteng,Suburban,51+,Female,40k+,500/500 Mbps,32
+Gauteng,Suburban,51+,Female,40k+,1000/1000 Mbps,91
+Gauteng,Suburban,51+,Other,<10k,10/10 Mbps,72
+Gauteng,Suburban,51+,Other,<10k,50/50 Mbps,33
+Gauteng,Suburban,51+,Other,<10k,100/100 Mbps,46
+Gauteng,Suburban,51+,Other,<10k,200/200 Mbps,66
+Gauteng,Suburban,51+,Other,<10k,500/500 Mbps,65
+Gauteng,Suburban,51+,Other,<10k,1000/1000 Mbps,82
+Gauteng,Suburban,51+,Other,10-20k,10/10 Mbps,76
+Gauteng,Suburban,51+,Other,10-20k,50/50 Mbps,9
+Gauteng,Suburban,51+,Other,10-20k,100/100 Mbps,6
+Gauteng,Suburban,51+,Other,10-20k,200/200 Mbps,84
+Gauteng,Suburban,51+,Other,10-20k,500/500 Mbps,79
+Gauteng,Suburban,51+,Other,10-20k,1000/1000 Mbps,60
+Gauteng,Suburban,51+,Other,20-40k,10/10 Mbps,95
+Gauteng,Suburban,51+,Other,20-40k,50/50 Mbps,92
+Gauteng,Suburban,51+,Other,20-40k,100/100 Mbps,27
+Gauteng,Suburban,51+,Other,20-40k,200/200 Mbps,64
+Gauteng,Suburban,51+,Other,20-40k,500/500 Mbps,97
+Gauteng,Suburban,51+,Other,20-40k,1000/1000 Mbps,94
+Gauteng,Suburban,51+,Other,40k+,10/10 Mbps,30
+Gauteng,Suburban,51+,Other,40k+,50/50 Mbps,44
+Gauteng,Suburban,51+,Other,40k+,100/100 Mbps,43
+Gauteng,Suburban,51+,Other,40k+,200/200 Mbps,69
+Gauteng,Suburban,51+,Other,40k+,500/500 Mbps,32
+Gauteng,Suburban,51+,Other,40k+,1000/1000 Mbps,8
+Gauteng,Rural,18-25,Male,<10k,10/10 Mbps,8
+Gauteng,Rural,18-25,Male,<10k,50/50 Mbps,87
+Gauteng,Rural,18-25,Male,<10k,100/100 Mbps,76
+Gauteng,Rural,18-25,Male,<10k,200/200 Mbps,77
+Gauteng,Rural,18-25,Male,<10k,500/500 Mbps,72
+Gauteng,Rural,18-25,Male,<10k,1000/1000 Mbps,15
+Gauteng,Rural,18-25,Male,10-20k,10/10 Mbps,33
+Gauteng,Rural,18-25,Male,10-20k,50/50 Mbps,95
+Gauteng,Rural,18-25,Male,10-20k,100/100 Mbps,22
+Gauteng,Rural,18-25,Male,10-20k,200/200 Mbps,19
+Gauteng,Rural,18-25,Male,10-20k,500/500 Mbps,49
+Gauteng,Rural,18-25,Male,10-20k,1000/1000 Mbps,87
+Gauteng,Rural,18-25,Male,20-40k,10/10 Mbps,84
+Gauteng,Rural,18-25,Male,20-40k,50/50 Mbps,74
+Gauteng,Rural,18-25,Male,20-40k,100/100 Mbps,49
+Gauteng,Rural,18-25,Male,20-40k,200/200 Mbps,74
+Gauteng,Rural,18-25,Male,20-40k,500/500 Mbps,92
+Gauteng,Rural,18-25,Male,20-40k,1000/1000 Mbps,81
+Gauteng,Rural,18-25,Male,40k+,10/10 Mbps,5
+Gauteng,Rural,18-25,Male,40k+,50/50 Mbps,80
+Gauteng,Rural,18-25,Male,40k+,100/100 Mbps,21
+Gauteng,Rural,18-25,Male,40k+,200/200 Mbps,31
+Gauteng,Rural,18-25,Male,40k+,500/500 Mbps,17
+Gauteng,Rural,18-25,Male,40k+,1000/1000 Mbps,93
+Gauteng,Rural,18-25,Female,<10k,10/10 Mbps,34
+Gauteng,Rural,18-25,Female,<10k,50/50 Mbps,22
+Gauteng,Rural,18-25,Female,<10k,100/100 Mbps,43
+Gauteng,Rural,18-25,Female,<10k,200/200 Mbps,53
+Gauteng,Rural,18-25,Female,<10k,500/500 Mbps,68
+Gauteng,Rural,18-25,Female,<10k,1000/1000 Mbps,22
+Gauteng,Rural,18-25,Female,10-20k,10/10 Mbps,30
+Gauteng,Rural,18-25,Female,10-20k,50/50 Mbps,48
+Gauteng,Rural,18-25,Female,10-20k,100/100 Mbps,71
+Gauteng,Rural,18-25,Female,10-20k,200/200 Mbps,26
+Gauteng,Rural,18-25,Female,10-20k,500/500 Mbps,17
+Gauteng,Rural,18-25,Female,10-20k,1000/1000 Mbps,74
+Gauteng,Rural,18-25,Female,20-40k,10/10 Mbps,77
+Gauteng,Rural,18-25,Female,20-40k,50/50 Mbps,60
+Gauteng,Rural,18-25,Female,20-40k,100/100 Mbps,73
+Gauteng,Rural,18-25,Female,20-40k,200/200 Mbps,27
+Gauteng,Rural,18-25,Female,20-40k,500/500 Mbps,87
+Gauteng,Rural,18-25,Female,20-40k,1000/1000 Mbps,40
+Gauteng,Rural,18-25,Female,40k+,10/10 Mbps,32
+Gauteng,Rural,18-25,Female,40k+,50/50 Mbps,84
+Gauteng,Rural,18-25,Female,40k+,100/100 Mbps,68
+Gauteng,Rural,18-25,Female,40k+,200/200 Mbps,51
+Gauteng,Rural,18-25,Female,40k+,500/500 Mbps,11
+Gauteng,Rural,18-25,Female,40k+,1000/1000 Mbps,50
+Gauteng,Rural,18-25,Other,<10k,10/10 Mbps,90
+Gauteng,Rural,18-25,Other,<10k,50/50 Mbps,85
+Gauteng,Rural,18-25,Other,<10k,100/100 Mbps,83
+Gauteng,Rural,18-25,Other,<10k,200/200 Mbps,42
+Gauteng,Rural,18-25,Other,<10k,500/500 Mbps,63
+Gauteng,Rural,18-25,Other,<10k,1000/1000 Mbps,52
+Gauteng,Rural,18-25,Other,10-20k,10/10 Mbps,68
+Gauteng,Rural,18-25,Other,10-20k,50/50 Mbps,24
+Gauteng,Rural,18-25,Other,10-20k,100/100 Mbps,20
+Gauteng,Rural,18-25,Other,10-20k,200/200 Mbps,64
+Gauteng,Rural,18-25,Other,10-20k,500/500 Mbps,74
+Gauteng,Rural,18-25,Other,10-20k,1000/1000 Mbps,32
+Gauteng,Rural,18-25,Other,20-40k,10/10 Mbps,95
+Gauteng,Rural,18-25,Other,20-40k,50/50 Mbps,90
+Gauteng,Rural,18-25,Other,20-40k,100/100 Mbps,84
+Gauteng,Rural,18-25,Other,20-40k,200/200 Mbps,47
+Gauteng,Rural,18-25,Other,20-40k,500/500 Mbps,44
+Gauteng,Rural,18-25,Other,20-40k,1000/1000 Mbps,57
+Gauteng,Rural,18-25,Other,40k+,10/10 Mbps,45
+Gauteng,Rural,18-25,Other,40k+,50/50 Mbps,77
+Gauteng,Rural,18-25,Other,40k+,100/100 Mbps,77
+Gauteng,Rural,18-25,Other,40k+,200/200 Mbps,82
+Gauteng,Rural,18-25,Other,40k+,500/500 Mbps,66
+Gauteng,Rural,18-25,Other,40k+,1000/1000 Mbps,43
+Gauteng,Rural,26-35,Male,<10k,10/10 Mbps,82
+Gauteng,Rural,26-35,Male,<10k,50/50 Mbps,86
+Gauteng,Rural,26-35,Male,<10k,100/100 Mbps,15
+Gauteng,Rural,26-35,Male,<10k,200/200 Mbps,8
+Gauteng,Rural,26-35,Male,<10k,500/500 Mbps,7
+Gauteng,Rural,26-35,Male,<10k,1000/1000 Mbps,47
+Gauteng,Rural,26-35,Male,10-20k,10/10 Mbps,37
+Gauteng,Rural,26-35,Male,10-20k,50/50 Mbps,61
+Gauteng,Rural,26-35,Male,10-20k,100/100 Mbps,31
+Gauteng,Rural,26-35,Male,10-20k,200/200 Mbps,90
+Gauteng,Rural,26-35,Male,10-20k,500/500 Mbps,77
+Gauteng,Rural,26-35,Male,10-20k,1000/1000 Mbps,61
+Gauteng,Rural,26-35,Male,20-40k,10/10 Mbps,44
+Gauteng,Rural,26-35,Male,20-40k,50/50 Mbps,68
+Gauteng,Rural,26-35,Male,20-40k,100/100 Mbps,12
+Gauteng,Rural,26-35,Male,20-40k,200/200 Mbps,92
+Gauteng,Rural,26-35,Male,20-40k,500/500 Mbps,75
+Gauteng,Rural,26-35,Male,20-40k,1000/1000 Mbps,30
+Gauteng,Rural,26-35,Male,40k+,10/10 Mbps,50
+Gauteng,Rural,26-35,Male,40k+,50/50 Mbps,77
+Gauteng,Rural,26-35,Male,40k+,100/100 Mbps,82
+Gauteng,Rural,26-35,Male,40k+,200/200 Mbps,51
+Gauteng,Rural,26-35,Male,40k+,500/500 Mbps,72
+Gauteng,Rural,26-35,Male,40k+,1000/1000 Mbps,45
+Gauteng,Rural,26-35,Female,<10k,10/10 Mbps,48
+Gauteng,Rural,26-35,Female,<10k,50/50 Mbps,6
+Gauteng,Rural,26-35,Female,<10k,100/100 Mbps,34
+Gauteng,Rural,26-35,Female,<10k,200/200 Mbps,54
+Gauteng,Rural,26-35,Female,<10k,500/500 Mbps,65
+Gauteng,Rural,26-35,Female,<10k,1000/1000 Mbps,29
+Gauteng,Rural,26-35,Female,10-20k,10/10 Mbps,13
+Gauteng,Rural,26-35,Female,10-20k,50/50 Mbps,65
+Gauteng,Rural,26-35,Female,10-20k,100/100 Mbps,26
+Gauteng,Rural,26-35,Female,10-20k,200/200 Mbps,73
+Gauteng,Rural,26-35,Female,10-20k,500/500 Mbps,5
+Gauteng,Rural,26-35,Female,10-20k,1000/1000 Mbps,34
+Gauteng,Rural,26-35,Female,20-40k,10/10 Mbps,62
+Gauteng,Rural,26-35,Female,20-40k,50/50 Mbps,95
+Gauteng,Rural,26-35,Female,20-40k,100/100 Mbps,6
+Gauteng,Rural,26-35,Female,20-40k,200/200 Mbps,77
+Gauteng,Rural,26-35,Female,20-40k,500/500 Mbps,71
+Gauteng,Rural,26-35,Female,20-40k,1000/1000 Mbps,40
+Gauteng,Rural,26-35,Female,40k+,10/10 Mbps,5
+Gauteng,Rural,26-35,Female,40k+,50/50 Mbps,5
+Gauteng,Rural,26-35,Female,40k+,100/100 Mbps,74
+Gauteng,Rural,26-35,Female,40k+,200/200 Mbps,20
+Gauteng,Rural,26-35,Female,40k+,500/500 Mbps,24
+Gauteng,Rural,26-35,Female,40k+,1000/1000 Mbps,98
+Gauteng,Rural,26-35,Other,<10k,10/10 Mbps,65
+Gauteng,Rural,26-35,Other,<10k,50/50 Mbps,92
+Gauteng,Rural,26-35,Other,<10k,100/100 Mbps,10
+Gauteng,Rural,26-35,Other,<10k,200/200 Mbps,27
+Gauteng,Rural,26-35,Other,<10k,500/500 Mbps,39
+Gauteng,Rural,26-35,Other,<10k,1000/1000 Mbps,29
+Gauteng,Rural,26-35,Other,10-20k,10/10 Mbps,38
+Gauteng,Rural,26-35,Other,10-20k,50/50 Mbps,45
+Gauteng,Rural,26-35,Other,10-20k,100/100 Mbps,52
+Gauteng,Rural,26-35,Other,10-20k,200/200 Mbps,82
+Gauteng,Rural,26-35,Other,10-20k,500/500 Mbps,19
+Gauteng,Rural,26-35,Other,10-20k,1000/1000 Mbps,9
+Gauteng,Rural,26-35,Other,20-40k,10/10 Mbps,5
+Gauteng,Rural,26-35,Other,20-40k,50/50 Mbps,36
+Gauteng,Rural,26-35,Other,20-40k,100/100 Mbps,46
+Gauteng,Rural,26-35,Other,20-40k,200/200 Mbps,56
+Gauteng,Rural,26-35,Other,20-40k,500/500 Mbps,63
+Gauteng,Rural,26-35,Other,20-40k,1000/1000 Mbps,50
+Gauteng,Rural,26-35,Other,40k+,10/10 Mbps,23
+Gauteng,Rural,26-35,Other,40k+,50/50 Mbps,86
+Gauteng,Rural,26-35,Other,40k+,100/100 Mbps,34
+Gauteng,Rural,26-35,Other,40k+,200/200 Mbps,36
+Gauteng,Rural,26-35,Other,40k+,500/500 Mbps,16
+Gauteng,Rural,26-35,Other,40k+,1000/1000 Mbps,32
+Gauteng,Rural,36-50,Male,<10k,10/10 Mbps,76
+Gauteng,Rural,36-50,Male,<10k,50/50 Mbps,80
+Gauteng,Rural,36-50,Male,<10k,100/100 Mbps,22
+Gauteng,Rural,36-50,Male,<10k,200/200 Mbps,86
+Gauteng,Rural,36-50,Male,<10k,500/500 Mbps,19
+Gauteng,Rural,36-50,Male,<10k,1000/1000 Mbps,56
+Gauteng,Rural,36-50,Male,10-20k,10/10 Mbps,60
+Gauteng,Rural,36-50,Male,10-20k,50/50 Mbps,95
+Gauteng,Rural,36-50,Male,10-20k,100/100 Mbps,62
+Gauteng,Rural,36-50,Male,10-20k,200/200 Mbps,17
+Gauteng,Rural,36-50,Male,10-20k,500/500 Mbps,22
+Gauteng,Rural,36-50,Male,10-20k,1000/1000 Mbps,86
+Gauteng,Rural,36-50,Male,20-40k,10/10 Mbps,14
+Gauteng,Rural,36-50,Male,20-40k,50/50 Mbps,53
+Gauteng,Rural,36-50,Male,20-40k,100/100 Mbps,21
+Gauteng,Rural,36-50,Male,20-40k,200/200 Mbps,63
+Gauteng,Rural,36-50,Male,20-40k,500/500 Mbps,26
+Gauteng,Rural,36-50,Male,20-40k,1000/1000 Mbps,7
+Gauteng,Rural,36-50,Male,40k+,10/10 Mbps,17
+Gauteng,Rural,36-50,Male,40k+,50/50 Mbps,13
+Gauteng,Rural,36-50,Male,40k+,100/100 Mbps,80
+Gauteng,Rural,36-50,Male,40k+,200/200 Mbps,6
+Gauteng,Rural,36-50,Male,40k+,500/500 Mbps,96
+Gauteng,Rural,36-50,Male,40k+,1000/1000 Mbps,18
+Gauteng,Rural,36-50,Female,<10k,10/10 Mbps,41
+Gauteng,Rural,36-50,Female,<10k,50/50 Mbps,24
+Gauteng,Rural,36-50,Female,<10k,100/100 Mbps,31
+Gauteng,Rural,36-50,Female,<10k,200/200 Mbps,55
+Gauteng,Rural,36-50,Female,<10k,500/500 Mbps,75
+Gauteng,Rural,36-50,Female,<10k,1000/1000 Mbps,38
+Gauteng,Rural,36-50,Female,10-20k,10/10 Mbps,98
+Gauteng,Rural,36-50,Female,10-20k,50/50 Mbps,25
+Gauteng,Rural,36-50,Female,10-20k,100/100 Mbps,92
+Gauteng,Rural,36-50,Female,10-20k,200/200 Mbps,31
+Gauteng,Rural,36-50,Female,10-20k,500/500 Mbps,77
+Gauteng,Rural,36-50,Female,10-20k,1000/1000 Mbps,37
+Gauteng,Rural,36-50,Female,20-40k,10/10 Mbps,13
+Gauteng,Rural,36-50,Female,20-40k,50/50 Mbps,92
+Gauteng,Rural,36-50,Female,20-40k,100/100 Mbps,79
+Gauteng,Rural,36-50,Female,20-40k,200/200 Mbps,58
+Gauteng,Rural,36-50,Female,20-40k,500/500 Mbps,87
+Gauteng,Rural,36-50,Female,20-40k,1000/1000 Mbps,98
+Gauteng,Rural,36-50,Female,40k+,10/10 Mbps,80
+Gauteng,Rural,36-50,Female,40k+,50/50 Mbps,22
+Gauteng,Rural,36-50,Female,40k+,100/100 Mbps,14
+Gauteng,Rural,36-50,Female,40k+,200/200 Mbps,18
+Gauteng,Rural,36-50,Female,40k+,500/500 Mbps,86
+Gauteng,Rural,36-50,Female,40k+,1000/1000 Mbps,20
+Gauteng,Rural,36-50,Other,<10k,10/10 Mbps,24
+Gauteng,Rural,36-50,Other,<10k,50/50 Mbps,45
+Gauteng,Rural,36-50,Other,<10k,100/100 Mbps,95
+Gauteng,Rural,36-50,Other,<10k,200/200 Mbps,88
+Gauteng,Rural,36-50,Other,<10k,500/500 Mbps,21
+Gauteng,Rural,36-50,Other,<10k,1000/1000 Mbps,77
+Gauteng,Rural,36-50,Other,10-20k,10/10 Mbps,91
+Gauteng,Rural,36-50,Other,10-20k,50/50 Mbps,46
+Gauteng,Rural,36-50,Other,10-20k,100/100 Mbps,29
+Gauteng,Rural,36-50,Other,10-20k,200/200 Mbps,70
+Gauteng,Rural,36-50,Other,10-20k,500/500 Mbps,21
+Gauteng,Rural,36-50,Other,10-20k,1000/1000 Mbps,19
+Gauteng,Rural,36-50,Other,20-40k,10/10 Mbps,35
+Gauteng,Rural,36-50,Other,20-40k,50/50 Mbps,31
+Gauteng,Rural,36-50,Other,20-40k,100/100 Mbps,10
+Gauteng,Rural,36-50,Other,20-40k,200/200 Mbps,85
+Gauteng,Rural,36-50,Other,20-40k,500/500 Mbps,74
+Gauteng,Rural,36-50,Other,20-40k,1000/1000 Mbps,8
+Gauteng,Rural,36-50,Other,40k+,10/10 Mbps,93
+Gauteng,Rural,36-50,Other,40k+,50/50 Mbps,48
+Gauteng,Rural,36-50,Other,40k+,100/100 Mbps,30
+Gauteng,Rural,36-50,Other,40k+,200/200 Mbps,31
+Gauteng,Rural,36-50,Other,40k+,500/500 Mbps,43
+Gauteng,Rural,36-50,Other,40k+,1000/1000 Mbps,63
+Gauteng,Rural,51+,Male,<10k,10/10 Mbps,77
+Gauteng,Rural,51+,Male,<10k,50/50 Mbps,37
+Gauteng,Rural,51+,Male,<10k,100/100 Mbps,11
+Gauteng,Rural,51+,Male,<10k,200/200 Mbps,13
+Gauteng,Rural,51+,Male,<10k,500/500 Mbps,76
+Gauteng,Rural,51+,Male,<10k,1000/1000 Mbps,48
+Gauteng,Rural,51+,Male,10-20k,10/10 Mbps,5
+Gauteng,Rural,51+,Male,10-20k,50/50 Mbps,16
+Gauteng,Rural,51+,Male,10-20k,100/100 Mbps,25
+Gauteng,Rural,51+,Male,10-20k,200/200 Mbps,94
+Gauteng,Rural,51+,Male,10-20k,500/500 Mbps,17
+Gauteng,Rural,51+,Male,10-20k,1000/1000 Mbps,74
+Gauteng,Rural,51+,Male,20-40k,10/10 Mbps,64
+Gauteng,Rural,51+,Male,20-40k,50/50 Mbps,29
+Gauteng,Rural,51+,Male,20-40k,100/100 Mbps,87
+Gauteng,Rural,51+,Male,20-40k,200/200 Mbps,37
+Gauteng,Rural,51+,Male,20-40k,500/500 Mbps,95
+Gauteng,Rural,51+,Male,20-40k,1000/1000 Mbps,92
+Gauteng,Rural,51+,Male,40k+,10/10 Mbps,25
+Gauteng,Rural,51+,Male,40k+,50/50 Mbps,61
+Gauteng,Rural,51+,Male,40k+,100/100 Mbps,60
+Gauteng,Rural,51+,Male,40k+,200/200 Mbps,70
+Gauteng,Rural,51+,Male,40k+,500/500 Mbps,49
+Gauteng,Rural,51+,Male,40k+,1000/1000 Mbps,99
+Gauteng,Rural,51+,Female,<10k,10/10 Mbps,76
+Gauteng,Rural,51+,Female,<10k,50/50 Mbps,80
+Gauteng,Rural,51+,Female,<10k,100/100 Mbps,45
+Gauteng,Rural,51+,Female,<10k,200/200 Mbps,41
+Gauteng,Rural,51+,Female,<10k,500/500 Mbps,88
+Gauteng,Rural,51+,Female,<10k,1000/1000 Mbps,28
+Gauteng,Rural,51+,Female,10-20k,10/10 Mbps,78
+Gauteng,Rural,51+,Female,10-20k,50/50 Mbps,22
+Gauteng,Rural,51+,Female,10-20k,100/100 Mbps,36
+Gauteng,Rural,51+,Female,10-20k,200/200 Mbps,11
+Gauteng,Rural,51+,Female,10-20k,500/500 Mbps,83
+Gauteng,Rural,51+,Female,10-20k,1000/1000 Mbps,40
+Gauteng,Rural,51+,Female,20-40k,10/10 Mbps,34
+Gauteng,Rural,51+,Female,20-40k,50/50 Mbps,84
+Gauteng,Rural,51+,Female,20-40k,100/100 Mbps,81
+Gauteng,Rural,51+,Female,20-40k,200/200 Mbps,31
+Gauteng,Rural,51+,Female,20-40k,500/500 Mbps,90
+Gauteng,Rural,51+,Female,20-40k,1000/1000 Mbps,77
+Gauteng,Rural,51+,Female,40k+,10/10 Mbps,74
+Gauteng,Rural,51+,Female,40k+,50/50 Mbps,32
+Gauteng,Rural,51+,Female,40k+,100/100 Mbps,23
+Gauteng,Rural,51+,Female,40k+,200/200 Mbps,84
+Gauteng,Rural,51+,Female,40k+,500/500 Mbps,95
+Gauteng,Rural,51+,Female,40k+,1000/1000 Mbps,43
+Gauteng,Rural,51+,Other,<10k,10/10 Mbps,67
+Gauteng,Rural,51+,Other,<10k,50/50 Mbps,51
+Gauteng,Rural,51+,Other,<10k,100/100 Mbps,72
+Gauteng,Rural,51+,Other,<10k,200/200 Mbps,57
+Gauteng,Rural,51+,Other,<10k,500/500 Mbps,20
+Gauteng,Rural,51+,Other,<10k,1000/1000 Mbps,86
+Gauteng,Rural,51+,Other,10-20k,10/10 Mbps,66
+Gauteng,Rural,51+,Other,10-20k,50/50 Mbps,35
+Gauteng,Rural,51+,Other,10-20k,100/100 Mbps,37
+Gauteng,Rural,51+,Other,10-20k,200/200 Mbps,26
+Gauteng,Rural,51+,Other,10-20k,500/500 Mbps,73
+Gauteng,Rural,51+,Other,10-20k,1000/1000 Mbps,13
+Gauteng,Rural,51+,Other,20-40k,10/10 Mbps,96
+Gauteng,Rural,51+,Other,20-40k,50/50 Mbps,18
+Gauteng,Rural,51+,Other,20-40k,100/100 Mbps,35
+Gauteng,Rural,51+,Other,20-40k,200/200 Mbps,42
+Gauteng,Rural,51+,Other,20-40k,500/500 Mbps,70
+Gauteng,Rural,51+,Other,20-40k,1000/1000 Mbps,53
+Gauteng,Rural,51+,Other,40k+,10/10 Mbps,53
+Gauteng,Rural,51+,Other,40k+,50/50 Mbps,80
+Gauteng,Rural,51+,Other,40k+,100/100 Mbps,29
+Gauteng,Rural,51+,Other,40k+,200/200 Mbps,70
+Gauteng,Rural,51+,Other,40k+,500/500 Mbps,21
+Gauteng,Rural,51+,Other,40k+,1000/1000 Mbps,94
+Western Cape,Urban,18-25,Male,<10k,10/10 Mbps,17
+Western Cape,Urban,18-25,Male,<10k,50/50 Mbps,5
+Western Cape,Urban,18-25,Male,<10k,100/100 Mbps,38
+Western Cape,Urban,18-25,Male,<10k,200/200 Mbps,67
+Western Cape,Urban,18-25,Male,<10k,500/500 Mbps,56
+Western Cape,Urban,18-25,Male,<10k,1000/1000 Mbps,74
+Western Cape,Urban,18-25,Male,10-20k,10/10 Mbps,81
+Western Cape,Urban,18-25,Male,10-20k,50/50 Mbps,27
+Western Cape,Urban,18-25,Male,10-20k,100/100 Mbps,99
+Western Cape,Urban,18-25,Male,10-20k,200/200 Mbps,66
+Western Cape,Urban,18-25,Male,10-20k,500/500 Mbps,38
+Western Cape,Urban,18-25,Male,10-20k,1000/1000 Mbps,80
+Western Cape,Urban,18-25,Male,20-40k,10/10 Mbps,87
+Western Cape,Urban,18-25,Male,20-40k,50/50 Mbps,17
+Western Cape,Urban,18-25,Male,20-40k,100/100 Mbps,84
+Western Cape,Urban,18-25,Male,20-40k,200/200 Mbps,61
+Western Cape,Urban,18-25,Male,20-40k,500/500 Mbps,77
+Western Cape,Urban,18-25,Male,20-40k,1000/1000 Mbps,89
+Western Cape,Urban,18-25,Male,40k+,10/10 Mbps,51
+Western Cape,Urban,18-25,Male,40k+,50/50 Mbps,13
+Western Cape,Urban,18-25,Male,40k+,100/100 Mbps,40
+Western Cape,Urban,18-25,Male,40k+,200/200 Mbps,96
+Western Cape,Urban,18-25,Male,40k+,500/500 Mbps,43
+Western Cape,Urban,18-25,Male,40k+,1000/1000 Mbps,96
+Western Cape,Urban,18-25,Female,<10k,10/10 Mbps,70
+Western Cape,Urban,18-25,Female,<10k,50/50 Mbps,91
+Western Cape,Urban,18-25,Female,<10k,100/100 Mbps,6
+Western Cape,Urban,18-25,Female,<10k,200/200 Mbps,85
+Western Cape,Urban,18-25,Female,<10k,500/500 Mbps,19
+Western Cape,Urban,18-25,Female,<10k,1000/1000 Mbps,62
+Western Cape,Urban,18-25,Female,10-20k,10/10 Mbps,30
+Western Cape,Urban,18-25,Female,10-20k,50/50 Mbps,19
+Western Cape,Urban,18-25,Female,10-20k,100/100 Mbps,46
+Western Cape,Urban,18-25,Female,10-20k,200/200 Mbps,67
+Western Cape,Urban,18-25,Female,10-20k,500/500 Mbps,6
+Western Cape,Urban,18-25,Female,10-20k,1000/1000 Mbps,11
+Western Cape,Urban,18-25,Female,20-40k,10/10 Mbps,45
+Western Cape,Urban,18-25,Female,20-40k,50/50 Mbps,12
+Western Cape,Urban,18-25,Female,20-40k,100/100 Mbps,67
+Western Cape,Urban,18-25,Female,20-40k,200/200 Mbps,28
+Western Cape,Urban,18-25,Female,20-40k,500/500 Mbps,73
+Western Cape,Urban,18-25,Female,20-40k,1000/1000 Mbps,80
+Western Cape,Urban,18-25,Female,40k+,10/10 Mbps,18
+Western Cape,Urban,18-25,Female,40k+,50/50 Mbps,94
+Western Cape,Urban,18-25,Female,40k+,100/100 Mbps,75
+Western Cape,Urban,18-25,Female,40k+,200/200 Mbps,87
+Western Cape,Urban,18-25,Female,40k+,500/500 Mbps,98
+Western Cape,Urban,18-25,Female,40k+,1000/1000 Mbps,27
+Western Cape,Urban,18-25,Other,<10k,10/10 Mbps,90
+Western Cape,Urban,18-25,Other,<10k,50/50 Mbps,89
+Western Cape,Urban,18-25,Other,<10k,100/100 Mbps,92
+Western Cape,Urban,18-25,Other,<10k,200/200 Mbps,66
+Western Cape,Urban,18-25,Other,<10k,500/500 Mbps,81
+Western Cape,Urban,18-25,Other,<10k,1000/1000 Mbps,30
+Western Cape,Urban,18-25,Other,10-20k,10/10 Mbps,13
+Western Cape,Urban,18-25,Other,10-20k,50/50 Mbps,76
+Western Cape,Urban,18-25,Other,10-20k,100/100 Mbps,41
+Western Cape,Urban,18-25,Other,10-20k,200/200 Mbps,31
+Western Cape,Urban,18-25,Other,10-20k,500/500 Mbps,10
+Western Cape,Urban,18-25,Other,10-20k,1000/1000 Mbps,46
+Western Cape,Urban,18-25,Other,20-40k,10/10 Mbps,31
+Western Cape,Urban,18-25,Other,20-40k,50/50 Mbps,56
+Western Cape,Urban,18-25,Other,20-40k,100/100 Mbps,55
+Western Cape,Urban,18-25,Other,20-40k,200/200 Mbps,34
+Western Cape,Urban,18-25,Other,20-40k,500/500 Mbps,68
+Western Cape,Urban,18-25,Other,20-40k,1000/1000 Mbps,8
+Western Cape,Urban,18-25,Other,40k+,10/10 Mbps,30
+Western Cape,Urban,18-25,Other,40k+,50/50 Mbps,67
+Western Cape,Urban,18-25,Other,40k+,100/100 Mbps,67
+Western Cape,Urban,18-25,Other,40k+,200/200 Mbps,41
+Western Cape,Urban,18-25,Other,40k+,500/500 Mbps,77
+Western Cape,Urban,18-25,Other,40k+,1000/1000 Mbps,24
+Western Cape,Urban,26-35,Male,<10k,10/10 Mbps,62
+Western Cape,Urban,26-35,Male,<10k,50/50 Mbps,47
+Western Cape,Urban,26-35,Male,<10k,100/100 Mbps,43
+Western Cape,Urban,26-35,Male,<10k,200/200 Mbps,97
+Western Cape,Urban,26-35,Male,<10k,500/500 Mbps,28
+Western Cape,Urban,26-35,Male,<10k,1000/1000 Mbps,8
+Western Cape,Urban,26-35,Male,10-20k,10/10 Mbps,27
+Western Cape,Urban,26-35,Male,10-20k,50/50 Mbps,56
+Western Cape,Urban,26-35,Male,10-20k,100/100 Mbps,22
+Western Cape,Urban,26-35,Male,10-20k,200/200 Mbps,99
+Western Cape,Urban,26-35,Male,10-20k,500/500 Mbps,29
+Western Cape,Urban,26-35,Male,10-20k,1000/1000 Mbps,18
+Western Cape,Urban,26-35,Male,20-40k,10/10 Mbps,6
+Western Cape,Urban,26-35,Male,20-40k,50/50 Mbps,27
+Western Cape,Urban,26-35,Male,20-40k,100/100 Mbps,54
+Western Cape,Urban,26-35,Male,20-40k,200/200 Mbps,75
+Western Cape,Urban,26-35,Male,20-40k,500/500 Mbps,52
+Western Cape,Urban,26-35,Male,20-40k,1000/1000 Mbps,58
+Western Cape,Urban,26-35,Male,40k+,10/10 Mbps,58
+Western Cape,Urban,26-35,Male,40k+,50/50 Mbps,83
+Western Cape,Urban,26-35,Male,40k+,100/100 Mbps,87
+Western Cape,Urban,26-35,Male,40k+,200/200 Mbps,45
+Western Cape,Urban,26-35,Male,40k+,500/500 Mbps,31
+Western Cape,Urban,26-35,Male,40k+,1000/1000 Mbps,61
+Western Cape,Urban,26-35,Female,<10k,10/10 Mbps,71
+Western Cape,Urban,26-35,Female,<10k,50/50 Mbps,68
+Western Cape,Urban,26-35,Female,<10k,100/100 Mbps,78
+Western Cape,Urban,26-35,Female,<10k,200/200 Mbps,55
+Western Cape,Urban,26-35,Female,<10k,500/500 Mbps,26
+Western Cape,Urban,26-35,Female,<10k,1000/1000 Mbps,72
+Western Cape,Urban,26-35,Female,10-20k,10/10 Mbps,13
+Western Cape,Urban,26-35,Female,10-20k,50/50 Mbps,38
+Western Cape,Urban,26-35,Female,10-20k,100/100 Mbps,25
+Western Cape,Urban,26-35,Female,10-20k,200/200 Mbps,99
+Western Cape,Urban,26-35,Female,10-20k,500/500 Mbps,86
+Western Cape,Urban,26-35,Female,10-20k,1000/1000 Mbps,40
+Western Cape,Urban,26-35,Female,20-40k,10/10 Mbps,72
+Western Cape,Urban,26-35,Female,20-40k,50/50 Mbps,83
+Western Cape,Urban,26-35,Female,20-40k,100/100 Mbps,83
+Western Cape,Urban,26-35,Female,20-40k,200/200 Mbps,89
+Western Cape,Urban,26-35,Female,20-40k,500/500 Mbps,26
+Western Cape,Urban,26-35,Female,20-40k,1000/1000 Mbps,49
+Western Cape,Urban,26-35,Female,40k+,10/10 Mbps,27
+Western Cape,Urban,26-35,Female,40k+,50/50 Mbps,19
+Western Cape,Urban,26-35,Female,40k+,100/100 Mbps,59
+Western Cape,Urban,26-35,Female,40k+,200/200 Mbps,13
+Western Cape,Urban,26-35,Female,40k+,500/500 Mbps,95
+Western Cape,Urban,26-35,Female,40k+,1000/1000 Mbps,39
+Western Cape,Urban,26-35,Other,<10k,10/10 Mbps,27
+Western Cape,Urban,26-35,Other,<10k,50/50 Mbps,72
+Western Cape,Urban,26-35,Other,<10k,100/100 Mbps,35
+Western Cape,Urban,26-35,Other,<10k,200/200 Mbps,45
+Western Cape,Urban,26-35,Other,<10k,500/500 Mbps,26
+Western Cape,Urban,26-35,Other,<10k,1000/1000 Mbps,33
+Western Cape,Urban,26-35,Other,10-20k,10/10 Mbps,18
+Western Cape,Urban,26-35,Other,10-20k,50/50 Mbps,62
+Western Cape,Urban,26-35,Other,10-20k,100/100 Mbps,52
+Western Cape,Urban,26-35,Other,10-20k,200/200 Mbps,80
+Western Cape,Urban,26-35,Other,10-20k,500/500 Mbps,98
+Western Cape,Urban,26-35,Other,10-20k,1000/1000 Mbps,37
+Western Cape,Urban,26-35,Other,20-40k,10/10 Mbps,58
+Western Cape,Urban,26-35,Other,20-40k,50/50 Mbps,75
+Western Cape,Urban,26-35,Other,20-40k,100/100 Mbps,93
+Western Cape,Urban,26-35,Other,20-40k,200/200 Mbps,44
+Western Cape,Urban,26-35,Other,20-40k,500/500 Mbps,19
+Western Cape,Urban,26-35,Other,20-40k,1000/1000 Mbps,24
+Western Cape,Urban,26-35,Other,40k+,10/10 Mbps,80
+Western Cape,Urban,26-35,Other,40k+,50/50 Mbps,64
+Western Cape,Urban,26-35,Other,40k+,100/100 Mbps,21
+Western Cape,Urban,26-35,Other,40k+,200/200 Mbps,83
+Western Cape,Urban,26-35,Other,40k+,500/500 Mbps,68
+Western Cape,Urban,26-35,Other,40k+,1000/1000 Mbps,35
+Western Cape,Urban,36-50,Male,<10k,10/10 Mbps,99
+Western Cape,Urban,36-50,Male,<10k,50/50 Mbps,14
+Western Cape,Urban,36-50,Male,<10k,100/100 Mbps,66
+Western Cape,Urban,36-50,Male,<10k,200/200 Mbps,70
+Western Cape,Urban,36-50,Male,<10k,500/500 Mbps,40
+Western Cape,Urban,36-50,Male,<10k,1000/1000 Mbps,45
+Western Cape,Urban,36-50,Male,10-20k,10/10 Mbps,96
+Western Cape,Urban,36-50,Male,10-20k,50/50 Mbps,53
+Western Cape,Urban,36-50,Male,10-20k,100/100 Mbps,18
+Western Cape,Urban,36-50,Male,10-20k,200/200 Mbps,54
+Western Cape,Urban,36-50,Male,10-20k,500/500 Mbps,38
+Western Cape,Urban,36-50,Male,10-20k,1000/1000 Mbps,34
+Western Cape,Urban,36-50,Male,20-40k,10/10 Mbps,17
+Western Cape,Urban,36-50,Male,20-40k,50/50 Mbps,46
+Western Cape,Urban,36-50,Male,20-40k,100/100 Mbps,68
+Western Cape,Urban,36-50,Male,20-40k,200/200 Mbps,68
+Western Cape,Urban,36-50,Male,20-40k,500/500 Mbps,87
+Western Cape,Urban,36-50,Male,20-40k,1000/1000 Mbps,81
+Western Cape,Urban,36-50,Male,40k+,10/10 Mbps,73
+Western Cape,Urban,36-50,Male,40k+,50/50 Mbps,8
+Western Cape,Urban,36-50,Male,40k+,100/100 Mbps,82
+Western Cape,Urban,36-50,Male,40k+,200/200 Mbps,66
+Western Cape,Urban,36-50,Male,40k+,500/500 Mbps,48
+Western Cape,Urban,36-50,Male,40k+,1000/1000 Mbps,53
+Western Cape,Urban,36-50,Female,<10k,10/10 Mbps,75
+Western Cape,Urban,36-50,Female,<10k,50/50 Mbps,6
+Western Cape,Urban,36-50,Female,<10k,100/100 Mbps,80
+Western Cape,Urban,36-50,Female,<10k,200/200 Mbps,65
+Western Cape,Urban,36-50,Female,<10k,500/500 Mbps,22
+Western Cape,Urban,36-50,Female,<10k,1000/1000 Mbps,43
+Western Cape,Urban,36-50,Female,10-20k,10/10 Mbps,33
+Western Cape,Urban,36-50,Female,10-20k,50/50 Mbps,93
+Western Cape,Urban,36-50,Female,10-20k,100/100 Mbps,5
+Western Cape,Urban,36-50,Female,10-20k,200/200 Mbps,38
+Western Cape,Urban,36-50,Female,10-20k,500/500 Mbps,76
+Western Cape,Urban,36-50,Female,10-20k,1000/1000 Mbps,44
+Western Cape,Urban,36-50,Female,20-40k,10/10 Mbps,33
+Western Cape,Urban,36-50,Female,20-40k,50/50 Mbps,93
+Western Cape,Urban,36-50,Female,20-40k,100/100 Mbps,11
+Western Cape,Urban,36-50,Female,20-40k,200/200 Mbps,23
+Western Cape,Urban,36-50,Female,20-40k,500/500 Mbps,66
+Western Cape,Urban,36-50,Female,20-40k,1000/1000 Mbps,25
+Western Cape,Urban,36-50,Female,40k+,10/10 Mbps,79
+Western Cape,Urban,36-50,Female,40k+,50/50 Mbps,37
+Western Cape,Urban,36-50,Female,40k+,100/100 Mbps,25
+Western Cape,Urban,36-50,Female,40k+,200/200 Mbps,73
+Western Cape,Urban,36-50,Female,40k+,500/500 Mbps,93
+Western Cape,Urban,36-50,Female,40k+,1000/1000 Mbps,13
+Western Cape,Urban,36-50,Other,<10k,10/10 Mbps,70
+Western Cape,Urban,36-50,Other,<10k,50/50 Mbps,47
+Western Cape,Urban,36-50,Other,<10k,100/100 Mbps,66
+Western Cape,Urban,36-50,Other,<10k,200/200 Mbps,37
+Western Cape,Urban,36-50,Other,<10k,500/500 Mbps,97
+Western Cape,Urban,36-50,Other,<10k,1000/1000 Mbps,21
+Western Cape,Urban,36-50,Other,10-20k,10/10 Mbps,17
+Western Cape,Urban,36-50,Other,10-20k,50/50 Mbps,53
+Western Cape,Urban,36-50,Other,10-20k,100/100 Mbps,14
+Western Cape,Urban,36-50,Other,10-20k,200/200 Mbps,12
+Western Cape,Urban,36-50,Other,10-20k,500/500 Mbps,11
+Western Cape,Urban,36-50,Other,10-20k,1000/1000 Mbps,22
+Western Cape,Urban,36-50,Other,20-40k,10/10 Mbps,91
+Western Cape,Urban,36-50,Other,20-40k,50/50 Mbps,40
+Western Cape,Urban,36-50,Other,20-40k,100/100 Mbps,9
+Western Cape,Urban,36-50,Other,20-40k,200/200 Mbps,38
+Western Cape,Urban,36-50,Other,20-40k,500/500 Mbps,70
+Western Cape,Urban,36-50,Other,20-40k,1000/1000 Mbps,52
+Western Cape,Urban,36-50,Other,40k+,10/10 Mbps,50
+Western Cape,Urban,36-50,Other,40k+,50/50 Mbps,26
+Western Cape,Urban,36-50,Other,40k+,100/100 Mbps,41
+Western Cape,Urban,36-50,Other,40k+,200/200 Mbps,70
+Western Cape,Urban,36-50,Other,40k+,500/500 Mbps,27
+Western Cape,Urban,36-50,Other,40k+,1000/1000 Mbps,75
+Western Cape,Urban,51+,Male,<10k,10/10 Mbps,70
+Western Cape,Urban,51+,Male,<10k,50/50 Mbps,52
+Western Cape,Urban,51+,Male,<10k,100/100 Mbps,93
+Western Cape,Urban,51+,Male,<10k,200/200 Mbps,99
+Western Cape,Urban,51+,Male,<10k,500/500 Mbps,91
+Western Cape,Urban,51+,Male,<10k,1000/1000 Mbps,79
+Western Cape,Urban,51+,Male,10-20k,10/10 Mbps,60
+Western Cape,Urban,51+,Male,10-20k,50/50 Mbps,77
+Western Cape,Urban,51+,Male,10-20k,100/100 Mbps,12
+Western Cape,Urban,51+,Male,10-20k,200/200 Mbps,53
+Western Cape,Urban,51+,Male,10-20k,500/500 Mbps,46
+Western Cape,Urban,51+,Male,10-20k,1000/1000 Mbps,11
+Western Cape,Urban,51+,Male,20-40k,10/10 Mbps,43
+Western Cape,Urban,51+,Male,20-40k,50/50 Mbps,87
+Western Cape,Urban,51+,Male,20-40k,100/100 Mbps,34
+Western Cape,Urban,51+,Male,20-40k,200/200 Mbps,78
+Western Cape,Urban,51+,Male,20-40k,500/500 Mbps,60
+Western Cape,Urban,51+,Male,20-40k,1000/1000 Mbps,32
+Western Cape,Urban,51+,Male,40k+,10/10 Mbps,17
+Western Cape,Urban,51+,Male,40k+,50/50 Mbps,69
+Western Cape,Urban,51+,Male,40k+,100/100 Mbps,63
+Western Cape,Urban,51+,Male,40k+,200/200 Mbps,17
+Western Cape,Urban,51+,Male,40k+,500/500 Mbps,58
+Western Cape,Urban,51+,Male,40k+,1000/1000 Mbps,84
+Western Cape,Urban,51+,Female,<10k,10/10 Mbps,8
+Western Cape,Urban,51+,Female,<10k,50/50 Mbps,6
+Western Cape,Urban,51+,Female,<10k,100/100 Mbps,80
+Western Cape,Urban,51+,Female,<10k,200/200 Mbps,54
+Western Cape,Urban,51+,Female,<10k,500/500 Mbps,82
+Western Cape,Urban,51+,Female,<10k,1000/1000 Mbps,26
+Western Cape,Urban,51+,Female,10-20k,10/10 Mbps,23
+Western Cape,Urban,51+,Female,10-20k,50/50 Mbps,33
+Western Cape,Urban,51+,Female,10-20k,100/100 Mbps,33
+Western Cape,Urban,51+,Female,10-20k,200/200 Mbps,71
+Western Cape,Urban,51+,Female,10-20k,500/500 Mbps,37
+Western Cape,Urban,51+,Female,10-20k,1000/1000 Mbps,90
+Western Cape,Urban,51+,Female,20-40k,10/10 Mbps,78
+Western Cape,Urban,51+,Female,20-40k,50/50 Mbps,72
+Western Cape,Urban,51+,Female,20-40k,100/100 Mbps,67
+Western Cape,Urban,51+,Female,20-40k,200/200 Mbps,77
+Western Cape,Urban,51+,Female,20-40k,500/500 Mbps,85
+Western Cape,Urban,51+,Female,20-40k,1000/1000 Mbps,80
+Western Cape,Urban,51+,Female,40k+,10/10 Mbps,81
+Western Cape,Urban,51+,Female,40k+,50/50 Mbps,35
+Western Cape,Urban,51+,Female,40k+,100/100 Mbps,27
+Western Cape,Urban,51+,Female,40k+,200/200 Mbps,25
+Western Cape,Urban,51+,Female,40k+,500/500 Mbps,12
+Western Cape,Urban,51+,Female,40k+,1000/1000 Mbps,75
+Western Cape,Urban,51+,Other,<10k,10/10 Mbps,75
+Western Cape,Urban,51+,Other,<10k,50/50 Mbps,67
+Western Cape,Urban,51+,Other,<10k,100/100 Mbps,25
+Western Cape,Urban,51+,Other,<10k,200/200 Mbps,56
+Western Cape,Urban,51+,Other,<10k,500/500 Mbps,39
+Western Cape,Urban,51+,Other,<10k,1000/1000 Mbps,96
+Western Cape,Urban,51+,Other,10-20k,10/10 Mbps,56
+Western Cape,Urban,51+,Other,10-20k,50/50 Mbps,49
+Western Cape,Urban,51+,Other,10-20k,100/100 Mbps,41
+Western Cape,Urban,51+,Other,10-20k,200/200 Mbps,85
+Western Cape,Urban,51+,Other,10-20k,500/500 Mbps,18
+Western Cape,Urban,51+,Other,10-20k,1000/1000 Mbps,10
+Western Cape,Urban,51+,Other,20-40k,10/10 Mbps,7
+Western Cape,Urban,51+,Other,20-40k,50/50 Mbps,46
+Western Cape,Urban,51+,Other,20-40k,100/100 Mbps,59
+Western Cape,Urban,51+,Other,20-40k,200/200 Mbps,66
+Western Cape,Urban,51+,Other,20-40k,500/500 Mbps,66
+Western Cape,Urban,51+,Other,20-40k,1000/1000 Mbps,78
+Western Cape,Urban,51+,Other,40k+,10/10 Mbps,60
+Western Cape,Urban,51+,Other,40k+,50/50 Mbps,30
+Western Cape,Urban,51+,Other,40k+,100/100 Mbps,76
+Western Cape,Urban,51+,Other,40k+,200/200 Mbps,65
+Western Cape,Urban,51+,Other,40k+,500/500 Mbps,10
+Western Cape,Urban,51+,Other,40k+,1000/1000 Mbps,61
+Western Cape,Suburban,18-25,Male,<10k,10/10 Mbps,98
+Western Cape,Suburban,18-25,Male,<10k,50/50 Mbps,11
+Western Cape,Suburban,18-25,Male,<10k,100/100 Mbps,76
+Western Cape,Suburban,18-25,Male,<10k,200/200 Mbps,33
+Western Cape,Suburban,18-25,Male,<10k,500/500 Mbps,53
+Western Cape,Suburban,18-25,Male,<10k,1000/1000 Mbps,61
+Western Cape,Suburban,18-25,Male,10-20k,10/10 Mbps,72
+Western Cape,Suburban,18-25,Male,10-20k,50/50 Mbps,74
+Western Cape,Suburban,18-25,Male,10-20k,100/100 Mbps,41
+Western Cape,Suburban,18-25,Male,10-20k,200/200 Mbps,20
+Western Cape,Suburban,18-25,Male,10-20k,500/500 Mbps,51
+Western Cape,Suburban,18-25,Male,10-20k,1000/1000 Mbps,23
+Western Cape,Suburban,18-25,Male,20-40k,10/10 Mbps,77
+Western Cape,Suburban,18-25,Male,20-40k,50/50 Mbps,29
+Western Cape,Suburban,18-25,Male,20-40k,100/100 Mbps,41
+Western Cape,Suburban,18-25,Male,20-40k,200/200 Mbps,97
+Western Cape,Suburban,18-25,Male,20-40k,500/500 Mbps,85
+Western Cape,Suburban,18-25,Male,20-40k,1000/1000 Mbps,26
+Western Cape,Suburban,18-25,Male,40k+,10/10 Mbps,39
+Western Cape,Suburban,18-25,Male,40k+,50/50 Mbps,69
+Western Cape,Suburban,18-25,Male,40k+,100/100 Mbps,80
+Western Cape,Suburban,18-25,Male,40k+,200/200 Mbps,60
+Western Cape,Suburban,18-25,Male,40k+,500/500 Mbps,46
+Western Cape,Suburban,18-25,Male,40k+,1000/1000 Mbps,10
+Western Cape,Suburban,18-25,Female,<10k,10/10 Mbps,85
+Western Cape,Suburban,18-25,Female,<10k,50/50 Mbps,5
+Western Cape,Suburban,18-25,Female,<10k,100/100 Mbps,85
+Western Cape,Suburban,18-25,Female,<10k,200/200 Mbps,11
+Western Cape,Suburban,18-25,Female,<10k,500/500 Mbps,34
+Western Cape,Suburban,18-25,Female,<10k,1000/1000 Mbps,77
+Western Cape,Suburban,18-25,Female,10-20k,10/10 Mbps,6
+Western Cape,Suburban,18-25,Female,10-20k,50/50 Mbps,91
+Western Cape,Suburban,18-25,Female,10-20k,100/100 Mbps,67
+Western Cape,Suburban,18-25,Female,10-20k,200/200 Mbps,24
+Western Cape,Suburban,18-25,Female,10-20k,500/500 Mbps,89
+Western Cape,Suburban,18-25,Female,10-20k,1000/1000 Mbps,14
+Western Cape,Suburban,18-25,Female,20-40k,10/10 Mbps,46
+Western Cape,Suburban,18-25,Female,20-40k,50/50 Mbps,17
+Western Cape,Suburban,18-25,Female,20-40k,100/100 Mbps,72
+Western Cape,Suburban,18-25,Female,20-40k,200/200 Mbps,59
+Western Cape,Suburban,18-25,Female,20-40k,500/500 Mbps,76
+Western Cape,Suburban,18-25,Female,20-40k,1000/1000 Mbps,14
+Western Cape,Suburban,18-25,Female,40k+,10/10 Mbps,73
+Western Cape,Suburban,18-25,Female,40k+,50/50 Mbps,80
+Western Cape,Suburban,18-25,Female,40k+,100/100 Mbps,87
+Western Cape,Suburban,18-25,Female,40k+,200/200 Mbps,75
+Western Cape,Suburban,18-25,Female,40k+,500/500 Mbps,25
+Western Cape,Suburban,18-25,Female,40k+,1000/1000 Mbps,39
+Western Cape,Suburban,18-25,Other,<10k,10/10 Mbps,48
+Western Cape,Suburban,18-25,Other,<10k,50/50 Mbps,89
+Western Cape,Suburban,18-25,Other,<10k,100/100 Mbps,24
+Western Cape,Suburban,18-25,Other,<10k,200/200 Mbps,28
+Western Cape,Suburban,18-25,Other,<10k,500/500 Mbps,87
+Western Cape,Suburban,18-25,Other,<10k,1000/1000 Mbps,11
+Western Cape,Suburban,18-25,Other,10-20k,10/10 Mbps,50
+Western Cape,Suburban,18-25,Other,10-20k,50/50 Mbps,6
+Western Cape,Suburban,18-25,Other,10-20k,100/100 Mbps,90
+Western Cape,Suburban,18-25,Other,10-20k,200/200 Mbps,47
+Western Cape,Suburban,18-25,Other,10-20k,500/500 Mbps,93
+Western Cape,Suburban,18-25,Other,10-20k,1000/1000 Mbps,78
+Western Cape,Suburban,18-25,Other,20-40k,10/10 Mbps,58
+Western Cape,Suburban,18-25,Other,20-40k,50/50 Mbps,33
+Western Cape,Suburban,18-25,Other,20-40k,100/100 Mbps,17
+Western Cape,Suburban,18-25,Other,20-40k,200/200 Mbps,95
+Western Cape,Suburban,18-25,Other,20-40k,500/500 Mbps,81
+Western Cape,Suburban,18-25,Other,20-40k,1000/1000 Mbps,77
+Western Cape,Suburban,18-25,Other,40k+,10/10 Mbps,86
+Western Cape,Suburban,18-25,Other,40k+,50/50 Mbps,5
+Western Cape,Suburban,18-25,Other,40k+,100/100 Mbps,11
+Western Cape,Suburban,18-25,Other,40k+,200/200 Mbps,19
+Western Cape,Suburban,18-25,Other,40k+,500/500 Mbps,70
+Western Cape,Suburban,18-25,Other,40k+,1000/1000 Mbps,64
+Western Cape,Suburban,26-35,Male,<10k,10/10 Mbps,38
+Western Cape,Suburban,26-35,Male,<10k,50/50 Mbps,55
+Western Cape,Suburban,26-35,Male,<10k,100/100 Mbps,52
+Western Cape,Suburban,26-35,Male,<10k,200/200 Mbps,88
+Western Cape,Suburban,26-35,Male,<10k,500/500 Mbps,91
+Western Cape,Suburban,26-35,Male,<10k,1000/1000 Mbps,61
+Western Cape,Suburban,26-35,Male,10-20k,10/10 Mbps,35
+Western Cape,Suburban,26-35,Male,10-20k,50/50 Mbps,50
+Western Cape,Suburban,26-35,Male,10-20k,100/100 Mbps,40
+Western Cape,Suburban,26-35,Male,10-20k,200/200 Mbps,22
+Western Cape,Suburban,26-35,Male,10-20k,500/500 Mbps,5
+Western Cape,Suburban,26-35,Male,10-20k,1000/1000 Mbps,90
+Western Cape,Suburban,26-35,Male,20-40k,10/10 Mbps,48
+Western Cape,Suburban,26-35,Male,20-40k,50/50 Mbps,23
+Western Cape,Suburban,26-35,Male,20-40k,100/100 Mbps,31
+Western Cape,Suburban,26-35,Male,20-40k,200/200 Mbps,98
+Western Cape,Suburban,26-35,Male,20-40k,500/500 Mbps,18
+Western Cape,Suburban,26-35,Male,20-40k,1000/1000 Mbps,81
+Western Cape,Suburban,26-35,Male,40k+,10/10 Mbps,20
+Western Cape,Suburban,26-35,Male,40k+,50/50 Mbps,88
+Western Cape,Suburban,26-35,Male,40k+,100/100 Mbps,48
+Western Cape,Suburban,26-35,Male,40k+,200/200 Mbps,78
+Western Cape,Suburban,26-35,Male,40k+,500/500 Mbps,23
+Western Cape,Suburban,26-35,Male,40k+,1000/1000 Mbps,78
+Western Cape,Suburban,26-35,Female,<10k,10/10 Mbps,19
+Western Cape,Suburban,26-35,Female,<10k,50/50 Mbps,82
+Western Cape,Suburban,26-35,Female,<10k,100/100 Mbps,67
+Western Cape,Suburban,26-35,Female,<10k,200/200 Mbps,57
+Western Cape,Suburban,26-35,Female,<10k,500/500 Mbps,47
+Western Cape,Suburban,26-35,Female,<10k,1000/1000 Mbps,31
+Western Cape,Suburban,26-35,Female,10-20k,10/10 Mbps,74
+Western Cape,Suburban,26-35,Female,10-20k,50/50 Mbps,11
+Western Cape,Suburban,26-35,Female,10-20k,100/100 Mbps,12
+Western Cape,Suburban,26-35,Female,10-20k,200/200 Mbps,38
+Western Cape,Suburban,26-35,Female,10-20k,500/500 Mbps,97
+Western Cape,Suburban,26-35,Female,10-20k,1000/1000 Mbps,7
+Western Cape,Suburban,26-35,Female,20-40k,10/10 Mbps,53
+Western Cape,Suburban,26-35,Female,20-40k,50/50 Mbps,24
+Western Cape,Suburban,26-35,Female,20-40k,100/100 Mbps,11
+Western Cape,Suburban,26-35,Female,20-40k,200/200 Mbps,29
+Western Cape,Suburban,26-35,Female,20-40k,500/500 Mbps,59
+Western Cape,Suburban,26-35,Female,20-40k,1000/1000 Mbps,6
+Western Cape,Suburban,26-35,Female,40k+,10/10 Mbps,15
+Western Cape,Suburban,26-35,Female,40k+,50/50 Mbps,91
+Western Cape,Suburban,26-35,Female,40k+,100/100 Mbps,27
+Western Cape,Suburban,26-35,Female,40k+,200/200 Mbps,98
+Western Cape,Suburban,26-35,Female,40k+,500/500 Mbps,51
+Western Cape,Suburban,26-35,Female,40k+,1000/1000 Mbps,70
+Western Cape,Suburban,26-35,Other,<10k,10/10 Mbps,69
+Western Cape,Suburban,26-35,Other,<10k,50/50 Mbps,51
+Western Cape,Suburban,26-35,Other,<10k,100/100 Mbps,72
+Western Cape,Suburban,26-35,Other,<10k,200/200 Mbps,27
+Western Cape,Suburban,26-35,Other,<10k,500/500 Mbps,97
+Western Cape,Suburban,26-35,Other,<10k,1000/1000 Mbps,71
+Western Cape,Suburban,26-35,Other,10-20k,10/10 Mbps,53
+Western Cape,Suburban,26-35,Other,10-20k,50/50 Mbps,47
+Western Cape,Suburban,26-35,Other,10-20k,100/100 Mbps,97
+Western Cape,Suburban,26-35,Other,10-20k,200/200 Mbps,18
+Western Cape,Suburban,26-35,Other,10-20k,500/500 Mbps,85
+Western Cape,Suburban,26-35,Other,10-20k,1000/1000 Mbps,91
+Western Cape,Suburban,26-35,Other,20-40k,10/10 Mbps,63
+Western Cape,Suburban,26-35,Other,20-40k,50/50 Mbps,17
+Western Cape,Suburban,26-35,Other,20-40k,100/100 Mbps,88
+Western Cape,Suburban,26-35,Other,20-40k,200/200 Mbps,18
+Western Cape,Suburban,26-35,Other,20-40k,500/500 Mbps,9
+Western Cape,Suburban,26-35,Other,20-40k,1000/1000 Mbps,56
+Western Cape,Suburban,26-35,Other,40k+,10/10 Mbps,17
+Western Cape,Suburban,26-35,Other,40k+,50/50 Mbps,8
+Western Cape,Suburban,26-35,Other,40k+,100/100 Mbps,6
+Western Cape,Suburban,26-35,Other,40k+,200/200 Mbps,9
+Western Cape,Suburban,26-35,Other,40k+,500/500 Mbps,67
+Western Cape,Suburban,26-35,Other,40k+,1000/1000 Mbps,69
+Western Cape,Suburban,36-50,Male,<10k,10/10 Mbps,88
+Western Cape,Suburban,36-50,Male,<10k,50/50 Mbps,75
+Western Cape,Suburban,36-50,Male,<10k,100/100 Mbps,27
+Western Cape,Suburban,36-50,Male,<10k,200/200 Mbps,36
+Western Cape,Suburban,36-50,Male,<10k,500/500 Mbps,86
+Western Cape,Suburban,36-50,Male,<10k,1000/1000 Mbps,20
+Western Cape,Suburban,36-50,Male,10-20k,10/10 Mbps,57
+Western Cape,Suburban,36-50,Male,10-20k,50/50 Mbps,10
+Western Cape,Suburban,36-50,Male,10-20k,100/100 Mbps,71
+Western Cape,Suburban,36-50,Male,10-20k,200/200 Mbps,36
+Western Cape,Suburban,36-50,Male,10-20k,500/500 Mbps,11
+Western Cape,Suburban,36-50,Male,10-20k,1000/1000 Mbps,6
+Western Cape,Suburban,36-50,Male,20-40k,10/10 Mbps,30
+Western Cape,Suburban,36-50,Male,20-40k,50/50 Mbps,47
+Western Cape,Suburban,36-50,Male,20-40k,100/100 Mbps,43
+Western Cape,Suburban,36-50,Male,20-40k,200/200 Mbps,23
+Western Cape,Suburban,36-50,Male,20-40k,500/500 Mbps,17
+Western Cape,Suburban,36-50,Male,20-40k,1000/1000 Mbps,96
+Western Cape,Suburban,36-50,Male,40k+,10/10 Mbps,30
+Western Cape,Suburban,36-50,Male,40k+,50/50 Mbps,10
+Western Cape,Suburban,36-50,Male,40k+,100/100 Mbps,69
+Western Cape,Suburban,36-50,Male,40k+,200/200 Mbps,70
+Western Cape,Suburban,36-50,Male,40k+,500/500 Mbps,51
+Western Cape,Suburban,36-50,Male,40k+,1000/1000 Mbps,36
+Western Cape,Suburban,36-50,Female,<10k,10/10 Mbps,15
+Western Cape,Suburban,36-50,Female,<10k,50/50 Mbps,72
+Western Cape,Suburban,36-50,Female,<10k,100/100 Mbps,95
+Western Cape,Suburban,36-50,Female,<10k,200/200 Mbps,11
+Western Cape,Suburban,36-50,Female,<10k,500/500 Mbps,71
+Western Cape,Suburban,36-50,Female,<10k,1000/1000 Mbps,79
+Western Cape,Suburban,36-50,Female,10-20k,10/10 Mbps,44
+Western Cape,Suburban,36-50,Female,10-20k,50/50 Mbps,21
+Western Cape,Suburban,36-50,Female,10-20k,100/100 Mbps,34
+Western Cape,Suburban,36-50,Female,10-20k,200/200 Mbps,78
+Western Cape,Suburban,36-50,Female,10-20k,500/500 Mbps,44
+Western Cape,Suburban,36-50,Female,10-20k,1000/1000 Mbps,46
+Western Cape,Suburban,36-50,Female,20-40k,10/10 Mbps,87
+Western Cape,Suburban,36-50,Female,20-40k,50/50 Mbps,84
+Western Cape,Suburban,36-50,Female,20-40k,100/100 Mbps,38
+Western Cape,Suburban,36-50,Female,20-40k,200/200 Mbps,44
+Western Cape,Suburban,36-50,Female,20-40k,500/500 Mbps,18
+Western Cape,Suburban,36-50,Female,20-40k,1000/1000 Mbps,13
+Western Cape,Suburban,36-50,Female,40k+,10/10 Mbps,94
+Western Cape,Suburban,36-50,Female,40k+,50/50 Mbps,74
+Western Cape,Suburban,36-50,Female,40k+,100/100 Mbps,17
+Western Cape,Suburban,36-50,Female,40k+,200/200 Mbps,70
+Western Cape,Suburban,36-50,Female,40k+,500/500 Mbps,17
+Western Cape,Suburban,36-50,Female,40k+,1000/1000 Mbps,61
+Western Cape,Suburban,36-50,Other,<10k,10/10 Mbps,77
+Western Cape,Suburban,36-50,Other,<10k,50/50 Mbps,9
+Western Cape,Suburban,36-50,Other,<10k,100/100 Mbps,33
+Western Cape,Suburban,36-50,Other,<10k,200/200 Mbps,74
+Western Cape,Suburban,36-50,Other,<10k,500/500 Mbps,96
+Western Cape,Suburban,36-50,Other,<10k,1000/1000 Mbps,37
+Western Cape,Suburban,36-50,Other,10-20k,10/10 Mbps,79
+Western Cape,Suburban,36-50,Other,10-20k,50/50 Mbps,79
+Western Cape,Suburban,36-50,Other,10-20k,100/100 Mbps,65
+Western Cape,Suburban,36-50,Other,10-20k,200/200 Mbps,94
+Western Cape,Suburban,36-50,Other,10-20k,500/500 Mbps,77
+Western Cape,Suburban,36-50,Other,10-20k,1000/1000 Mbps,10
+Western Cape,Suburban,36-50,Other,20-40k,10/10 Mbps,30
+Western Cape,Suburban,36-50,Other,20-40k,50/50 Mbps,44
+Western Cape,Suburban,36-50,Other,20-40k,100/100 Mbps,57
+Western Cape,Suburban,36-50,Other,20-40k,200/200 Mbps,39
+Western Cape,Suburban,36-50,Other,20-40k,500/500 Mbps,49
+Western Cape,Suburban,36-50,Other,20-40k,1000/1000 Mbps,10
+Western Cape,Suburban,36-50,Other,40k+,10/10 Mbps,72
+Western Cape,Suburban,36-50,Other,40k+,50/50 Mbps,5
+Western Cape,Suburban,36-50,Other,40k+,100/100 Mbps,6
+Western Cape,Suburban,36-50,Other,40k+,200/200 Mbps,20
+Western Cape,Suburban,36-50,Other,40k+,500/500 Mbps,89
+Western Cape,Suburban,36-50,Other,40k+,1000/1000 Mbps,20
+Western Cape,Suburban,51+,Male,<10k,10/10 Mbps,18
+Western Cape,Suburban,51+,Male,<10k,50/50 Mbps,62
+Western Cape,Suburban,51+,Male,<10k,100/100 Mbps,35
+Western Cape,Suburban,51+,Male,<10k,200/200 Mbps,11
+Western Cape,Suburban,51+,Male,<10k,500/500 Mbps,21
+Western Cape,Suburban,51+,Male,<10k,1000/1000 Mbps,29
+Western Cape,Suburban,51+,Male,10-20k,10/10 Mbps,70
+Western Cape,Suburban,51+,Male,10-20k,50/50 Mbps,51
+Western Cape,Suburban,51+,Male,10-20k,100/100 Mbps,78
+Western Cape,Suburban,51+,Male,10-20k,200/200 Mbps,12
+Western Cape,Suburban,51+,Male,10-20k,500/500 Mbps,59
+Western Cape,Suburban,51+,Male,10-20k,1000/1000 Mbps,37
+Western Cape,Suburban,51+,Male,20-40k,10/10 Mbps,8
+Western Cape,Suburban,51+,Male,20-40k,50/50 Mbps,70
+Western Cape,Suburban,51+,Male,20-40k,100/100 Mbps,9
+Western Cape,Suburban,51+,Male,20-40k,200/200 Mbps,60
+Western Cape,Suburban,51+,Male,20-40k,500/500 Mbps,26
+Western Cape,Suburban,51+,Male,20-40k,1000/1000 Mbps,60
+Western Cape,Suburban,51+,Male,40k+,10/10 Mbps,84
+Western Cape,Suburban,51+,Male,40k+,50/50 Mbps,82
+Western Cape,Suburban,51+,Male,40k+,100/100 Mbps,96
+Western Cape,Suburban,51+,Male,40k+,200/200 Mbps,59
+Western Cape,Suburban,51+,Male,40k+,500/500 Mbps,6
+Western Cape,Suburban,51+,Male,40k+,1000/1000 Mbps,99
+Western Cape,Suburban,51+,Female,<10k,10/10 Mbps,92
+Western Cape,Suburban,51+,Female,<10k,50/50 Mbps,94
+Western Cape,Suburban,51+,Female,<10k,100/100 Mbps,87
+Western Cape,Suburban,51+,Female,<10k,200/200 Mbps,46
+Western Cape,Suburban,51+,Female,<10k,500/500 Mbps,69
+Western Cape,Suburban,51+,Female,<10k,1000/1000 Mbps,39
+Western Cape,Suburban,51+,Female,10-20k,10/10 Mbps,86
+Western Cape,Suburban,51+,Female,10-20k,50/50 Mbps,32
+Western Cape,Suburban,51+,Female,10-20k,100/100 Mbps,9
+Western Cape,Suburban,51+,Female,10-20k,200/200 Mbps,33
+Western Cape,Suburban,51+,Female,10-20k,500/500 Mbps,16
+Western Cape,Suburban,51+,Female,10-20k,1000/1000 Mbps,24
+Western Cape,Suburban,51+,Female,20-40k,10/10 Mbps,18
+Western Cape,Suburban,51+,Female,20-40k,50/50 Mbps,78
+Western Cape,Suburban,51+,Female,20-40k,100/100 Mbps,21
+Western Cape,Suburban,51+,Female,20-40k,200/200 Mbps,59
+Western Cape,Suburban,51+,Female,20-40k,500/500 Mbps,7
+Western Cape,Suburban,51+,Female,20-40k,1000/1000 Mbps,72
+Western Cape,Suburban,51+,Female,40k+,10/10 Mbps,56
+Western Cape,Suburban,51+,Female,40k+,50/50 Mbps,72
+Western Cape,Suburban,51+,Female,40k+,100/100 Mbps,60
+Western Cape,Suburban,51+,Female,40k+,200/200 Mbps,72
+Western Cape,Suburban,51+,Female,40k+,500/500 Mbps,22
+Western Cape,Suburban,51+,Female,40k+,1000/1000 Mbps,66
+Western Cape,Suburban,51+,Other,<10k,10/10 Mbps,15
+Western Cape,Suburban,51+,Other,<10k,50/50 Mbps,30
+Western Cape,Suburban,51+,Other,<10k,100/100 Mbps,20
+Western Cape,Suburban,51+,Other,<10k,200/200 Mbps,32
+Western Cape,Suburban,51+,Other,<10k,500/500 Mbps,19
+Western Cape,Suburban,51+,Other,<10k,1000/1000 Mbps,77
+Western Cape,Suburban,51+,Other,10-20k,10/10 Mbps,35
+Western Cape,Suburban,51+,Other,10-20k,50/50 Mbps,20
+Western Cape,Suburban,51+,Other,10-20k,100/100 Mbps,80
+Western Cape,Suburban,51+,Other,10-20k,200/200 Mbps,71
+Western Cape,Suburban,51+,Other,10-20k,500/500 Mbps,46
+Western Cape,Suburban,51+,Other,10-20k,1000/1000 Mbps,79
+Western Cape,Suburban,51+,Other,20-40k,10/10 Mbps,34
+Western Cape,Suburban,51+,Other,20-40k,50/50 Mbps,19
+Western Cape,Suburban,51+,Other,20-40k,100/100 Mbps,78
+Western Cape,Suburban,51+,Other,20-40k,200/200 Mbps,91
+Western Cape,Suburban,51+,Other,20-40k,500/500 Mbps,85
+Western Cape,Suburban,51+,Other,20-40k,1000/1000 Mbps,83
+Western Cape,Suburban,51+,Other,40k+,10/10 Mbps,88
+Western Cape,Suburban,51+,Other,40k+,50/50 Mbps,11
+Western Cape,Suburban,51+,Other,40k+,100/100 Mbps,47
+Western Cape,Suburban,51+,Other,40k+,200/200 Mbps,39
+Western Cape,Suburban,51+,Other,40k+,500/500 Mbps,16
+Western Cape,Suburban,51+,Other,40k+,1000/1000 Mbps,77
+Western Cape,Rural,18-25,Male,<10k,10/10 Mbps,80
+Western Cape,Rural,18-25,Male,<10k,50/50 Mbps,69
+Western Cape,Rural,18-25,Male,<10k,100/100 Mbps,13
+Western Cape,Rural,18-25,Male,<10k,200/200 Mbps,16
+Western Cape,Rural,18-25,Male,<10k,500/500 Mbps,34
+Western Cape,Rural,18-25,Male,<10k,1000/1000 Mbps,24
+Western Cape,Rural,18-25,Male,10-20k,10/10 Mbps,15
+Western Cape,Rural,18-25,Male,10-20k,50/50 Mbps,43
+Western Cape,Rural,18-25,Male,10-20k,100/100 Mbps,73
+Western Cape,Rural,18-25,Male,10-20k,200/200 Mbps,53
+Western Cape,Rural,18-25,Male,10-20k,500/500 Mbps,46
+Western Cape,Rural,18-25,Male,10-20k,1000/1000 Mbps,20
+Western Cape,Rural,18-25,Male,20-40k,10/10 Mbps,83
+Western Cape,Rural,18-25,Male,20-40k,50/50 Mbps,66
+Western Cape,Rural,18-25,Male,20-40k,100/100 Mbps,89
+Western Cape,Rural,18-25,Male,20-40k,200/200 Mbps,26
+Western Cape,Rural,18-25,Male,20-40k,500/500 Mbps,45
+Western Cape,Rural,18-25,Male,20-40k,1000/1000 Mbps,34
+Western Cape,Rural,18-25,Male,40k+,10/10 Mbps,91
+Western Cape,Rural,18-25,Male,40k+,50/50 Mbps,34
+Western Cape,Rural,18-25,Male,40k+,100/100 Mbps,20
+Western Cape,Rural,18-25,Male,40k+,200/200 Mbps,48
+Western Cape,Rural,18-25,Male,40k+,500/500 Mbps,18
+Western Cape,Rural,18-25,Male,40k+,1000/1000 Mbps,15
+Western Cape,Rural,18-25,Female,<10k,10/10 Mbps,15
+Western Cape,Rural,18-25,Female,<10k,50/50 Mbps,54
+Western Cape,Rural,18-25,Female,<10k,100/100 Mbps,50
+Western Cape,Rural,18-25,Female,<10k,200/200 Mbps,77
+Western Cape,Rural,18-25,Female,<10k,500/500 Mbps,55
+Western Cape,Rural,18-25,Female,<10k,1000/1000 Mbps,94
+Western Cape,Rural,18-25,Female,10-20k,10/10 Mbps,29
+Western Cape,Rural,18-25,Female,10-20k,50/50 Mbps,92
+Western Cape,Rural,18-25,Female,10-20k,100/100 Mbps,91
+Western Cape,Rural,18-25,Female,10-20k,200/200 Mbps,71
+Western Cape,Rural,18-25,Female,10-20k,500/500 Mbps,81
+Western Cape,Rural,18-25,Female,10-20k,1000/1000 Mbps,91
+Western Cape,Rural,18-25,Female,20-40k,10/10 Mbps,55
+Western Cape,Rural,18-25,Female,20-40k,50/50 Mbps,96
+Western Cape,Rural,18-25,Female,20-40k,100/100 Mbps,87
+Western Cape,Rural,18-25,Female,20-40k,200/200 Mbps,32
+Western Cape,Rural,18-25,Female,20-40k,500/500 Mbps,18
+Western Cape,Rural,18-25,Female,20-40k,1000/1000 Mbps,19
+Western Cape,Rural,18-25,Female,40k+,10/10 Mbps,22
+Western Cape,Rural,18-25,Female,40k+,50/50 Mbps,70
+Western Cape,Rural,18-25,Female,40k+,100/100 Mbps,86
+Western Cape,Rural,18-25,Female,40k+,200/200 Mbps,94
+Western Cape,Rural,18-25,Female,40k+,500/500 Mbps,68
+Western Cape,Rural,18-25,Female,40k+,1000/1000 Mbps,25
+Western Cape,Rural,18-25,Other,<10k,10/10 Mbps,99
+Western Cape,Rural,18-25,Other,<10k,50/50 Mbps,9
+Western Cape,Rural,18-25,Other,<10k,100/100 Mbps,54
+Western Cape,Rural,18-25,Other,<10k,200/200 Mbps,91
+Western Cape,Rural,18-25,Other,<10k,500/500 Mbps,74
+Western Cape,Rural,18-25,Other,<10k,1000/1000 Mbps,30
+Western Cape,Rural,18-25,Other,10-20k,10/10 Mbps,30
+Western Cape,Rural,18-25,Other,10-20k,50/50 Mbps,22
+Western Cape,Rural,18-25,Other,10-20k,100/100 Mbps,30
+Western Cape,Rural,18-25,Other,10-20k,200/200 Mbps,6
+Western Cape,Rural,18-25,Other,10-20k,500/500 Mbps,82
+Western Cape,Rural,18-25,Other,10-20k,1000/1000 Mbps,32
+Western Cape,Rural,18-25,Other,20-40k,10/10 Mbps,49
+Western Cape,Rural,18-25,Other,20-40k,50/50 Mbps,64
+Western Cape,Rural,18-25,Other,20-40k,100/100 Mbps,12
+Western Cape,Rural,18-25,Other,20-40k,200/200 Mbps,81
+Western Cape,Rural,18-25,Other,20-40k,500/500 Mbps,46
+Western Cape,Rural,18-25,Other,20-40k,1000/1000 Mbps,54
+Western Cape,Rural,18-25,Other,40k+,10/10 Mbps,92
+Western Cape,Rural,18-25,Other,40k+,50/50 Mbps,23
+Western Cape,Rural,18-25,Other,40k+,100/100 Mbps,40
+Western Cape,Rural,18-25,Other,40k+,200/200 Mbps,45
+Western Cape,Rural,18-25,Other,40k+,500/500 Mbps,86
+Western Cape,Rural,18-25,Other,40k+,1000/1000 Mbps,42
+Western Cape,Rural,26-35,Male,<10k,10/10 Mbps,51
+Western Cape,Rural,26-35,Male,<10k,50/50 Mbps,28
+Western Cape,Rural,26-35,Male,<10k,100/100 Mbps,21
+Western Cape,Rural,26-35,Male,<10k,200/200 Mbps,78
+Western Cape,Rural,26-35,Male,<10k,500/500 Mbps,21
+Western Cape,Rural,26-35,Male,<10k,1000/1000 Mbps,76
+Western Cape,Rural,26-35,Male,10-20k,10/10 Mbps,77
+Western Cape,Rural,26-35,Male,10-20k,50/50 Mbps,46
+Western Cape,Rural,26-35,Male,10-20k,100/100 Mbps,93
+Western Cape,Rural,26-35,Male,10-20k,200/200 Mbps,20
+Western Cape,Rural,26-35,Male,10-20k,500/500 Mbps,6
+Western Cape,Rural,26-35,Male,10-20k,1000/1000 Mbps,42
+Western Cape,Rural,26-35,Male,20-40k,10/10 Mbps,30
+Western Cape,Rural,26-35,Male,20-40k,50/50 Mbps,93
+Western Cape,Rural,26-35,Male,20-40k,100/100 Mbps,63
+Western Cape,Rural,26-35,Male,20-40k,200/200 Mbps,91
+Western Cape,Rural,26-35,Male,20-40k,500/500 Mbps,75
+Western Cape,Rural,26-35,Male,20-40k,1000/1000 Mbps,74
+Western Cape,Rural,26-35,Male,40k+,10/10 Mbps,9
+Western Cape,Rural,26-35,Male,40k+,50/50 Mbps,47
+Western Cape,Rural,26-35,Male,40k+,100/100 Mbps,70
+Western Cape,Rural,26-35,Male,40k+,200/200 Mbps,77
+Western Cape,Rural,26-35,Male,40k+,500/500 Mbps,29
+Western Cape,Rural,26-35,Male,40k+,1000/1000 Mbps,44
+Western Cape,Rural,26-35,Female,<10k,10/10 Mbps,92
+Western Cape,Rural,26-35,Female,<10k,50/50 Mbps,17
+Western Cape,Rural,26-35,Female,<10k,100/100 Mbps,88
+Western Cape,Rural,26-35,Female,<10k,200/200 Mbps,33
+Western Cape,Rural,26-35,Female,<10k,500/500 Mbps,93
+Western Cape,Rural,26-35,Female,<10k,1000/1000 Mbps,41
+Western Cape,Rural,26-35,Female,10-20k,10/10 Mbps,38
+Western Cape,Rural,26-35,Female,10-20k,50/50 Mbps,11
+Western Cape,Rural,26-35,Female,10-20k,100/100 Mbps,6
+Western Cape,Rural,26-35,Female,10-20k,200/200 Mbps,40
+Western Cape,Rural,26-35,Female,10-20k,500/500 Mbps,82
+Western Cape,Rural,26-35,Female,10-20k,1000/1000 Mbps,8
+Western Cape,Rural,26-35,Female,20-40k,10/10 Mbps,70
+Western Cape,Rural,26-35,Female,20-40k,50/50 Mbps,65
+Western Cape,Rural,26-35,Female,20-40k,100/100 Mbps,38
+Western Cape,Rural,26-35,Female,20-40k,200/200 Mbps,5
+Western Cape,Rural,26-35,Female,20-40k,500/500 Mbps,70
+Western Cape,Rural,26-35,Female,20-40k,1000/1000 Mbps,69
+Western Cape,Rural,26-35,Female,40k+,10/10 Mbps,64
+Western Cape,Rural,26-35,Female,40k+,50/50 Mbps,78
+Western Cape,Rural,26-35,Female,40k+,100/100 Mbps,66
+Western Cape,Rural,26-35,Female,40k+,200/200 Mbps,38
+Western Cape,Rural,26-35,Female,40k+,500/500 Mbps,28
+Western Cape,Rural,26-35,Female,40k+,1000/1000 Mbps,67
+Western Cape,Rural,26-35,Other,<10k,10/10 Mbps,98
+Western Cape,Rural,26-35,Other,<10k,50/50 Mbps,94
+Western Cape,Rural,26-35,Other,<10k,100/100 Mbps,9
+Western Cape,Rural,26-35,Other,<10k,200/200 Mbps,7
+Western Cape,Rural,26-35,Other,<10k,500/500 Mbps,69
+Western Cape,Rural,26-35,Other,<10k,1000/1000 Mbps,32
+Western Cape,Rural,26-35,Other,10-20k,10/10 Mbps,36
+Western Cape,Rural,26-35,Other,10-20k,50/50 Mbps,5
+Western Cape,Rural,26-35,Other,10-20k,100/100 Mbps,45
+Western Cape,Rural,26-35,Other,10-20k,200/200 Mbps,39
+Western Cape,Rural,26-35,Other,10-20k,500/500 Mbps,43
+Western Cape,Rural,26-35,Other,10-20k,1000/1000 Mbps,84
+Western Cape,Rural,26-35,Other,20-40k,10/10 Mbps,46
+Western Cape,Rural,26-35,Other,20-40k,50/50 Mbps,42
+Western Cape,Rural,26-35,Other,20-40k,100/100 Mbps,93
+Western Cape,Rural,26-35,Other,20-40k,200/200 Mbps,14
+Western Cape,Rural,26-35,Other,20-40k,500/500 Mbps,73
+Western Cape,Rural,26-35,Other,20-40k,1000/1000 Mbps,50
+Western Cape,Rural,26-35,Other,40k+,10/10 Mbps,14
+Western Cape,Rural,26-35,Other,40k+,50/50 Mbps,90
+Western Cape,Rural,26-35,Other,40k+,100/100 Mbps,55
+Western Cape,Rural,26-35,Other,40k+,200/200 Mbps,89
+Western Cape,Rural,26-35,Other,40k+,500/500 Mbps,88
+Western Cape,Rural,26-35,Other,40k+,1000/1000 Mbps,6
+Western Cape,Rural,36-50,Male,<10k,10/10 Mbps,12
+Western Cape,Rural,36-50,Male,<10k,50/50 Mbps,46
+Western Cape,Rural,36-50,Male,<10k,100/100 Mbps,77
+Western Cape,Rural,36-50,Male,<10k,200/200 Mbps,79
+Western Cape,Rural,36-50,Male,<10k,500/500 Mbps,90
+Western Cape,Rural,36-50,Male,<10k,1000/1000 Mbps,48
+Western Cape,Rural,36-50,Male,10-20k,10/10 Mbps,98
+Western Cape,Rural,36-50,Male,10-20k,50/50 Mbps,55
+Western Cape,Rural,36-50,Male,10-20k,100/100 Mbps,58
+Western Cape,Rural,36-50,Male,10-20k,200/200 Mbps,75
+Western Cape,Rural,36-50,Male,10-20k,500/500 Mbps,81
+Western Cape,Rural,36-50,Male,10-20k,1000/1000 Mbps,22
+Western Cape,Rural,36-50,Male,20-40k,10/10 Mbps,77
+Western Cape,Rural,36-50,Male,20-40k,50/50 Mbps,57
+Western Cape,Rural,36-50,Male,20-40k,100/100 Mbps,87
+Western Cape,Rural,36-50,Male,20-40k,200/200 Mbps,62
+Western Cape,Rural,36-50,Male,20-40k,500/500 Mbps,40
+Western Cape,Rural,36-50,Male,20-40k,1000/1000 Mbps,27
+Western Cape,Rural,36-50,Male,40k+,10/10 Mbps,43
+Western Cape,Rural,36-50,Male,40k+,50/50 Mbps,17
+Western Cape,Rural,36-50,Male,40k+,100/100 Mbps,77
+Western Cape,Rural,36-50,Male,40k+,200/200 Mbps,63
+Western Cape,Rural,36-50,Male,40k+,500/500 Mbps,19
+Western Cape,Rural,36-50,Male,40k+,1000/1000 Mbps,10
+Western Cape,Rural,36-50,Female,<10k,10/10 Mbps,31
+Western Cape,Rural,36-50,Female,<10k,50/50 Mbps,99
+Western Cape,Rural,36-50,Female,<10k,100/100 Mbps,95
+Western Cape,Rural,36-50,Female,<10k,200/200 Mbps,46
+Western Cape,Rural,36-50,Female,<10k,500/500 Mbps,43
+Western Cape,Rural,36-50,Female,<10k,1000/1000 Mbps,11
+Western Cape,Rural,36-50,Female,10-20k,10/10 Mbps,74
+Western Cape,Rural,36-50,Female,10-20k,50/50 Mbps,93
+Western Cape,Rural,36-50,Female,10-20k,100/100 Mbps,62
+Western Cape,Rural,36-50,Female,10-20k,200/200 Mbps,50
+Western Cape,Rural,36-50,Female,10-20k,500/500 Mbps,84
+Western Cape,Rural,36-50,Female,10-20k,1000/1000 Mbps,60
+Western Cape,Rural,36-50,Female,20-40k,10/10 Mbps,38
+Western Cape,Rural,36-50,Female,20-40k,50/50 Mbps,64
+Western Cape,Rural,36-50,Female,20-40k,100/100 Mbps,7
+Western Cape,Rural,36-50,Female,20-40k,200/200 Mbps,97
+Western Cape,Rural,36-50,Female,20-40k,500/500 Mbps,12
+Western Cape,Rural,36-50,Female,20-40k,1000/1000 Mbps,8
+Western Cape,Rural,36-50,Female,40k+,10/10 Mbps,44
+Western Cape,Rural,36-50,Female,40k+,50/50 Mbps,17
+Western Cape,Rural,36-50,Female,40k+,100/100 Mbps,76
+Western Cape,Rural,36-50,Female,40k+,200/200 Mbps,87
+Western Cape,Rural,36-50,Female,40k+,500/500 Mbps,73
+Western Cape,Rural,36-50,Female,40k+,1000/1000 Mbps,91
+Western Cape,Rural,36-50,Other,<10k,10/10 Mbps,65
+Western Cape,Rural,36-50,Other,<10k,50/50 Mbps,6
+Western Cape,Rural,36-50,Other,<10k,100/100 Mbps,10
+Western Cape,Rural,36-50,Other,<10k,200/200 Mbps,38
+Western Cape,Rural,36-50,Other,<10k,500/500 Mbps,74
+Western Cape,Rural,36-50,Other,<10k,1000/1000 Mbps,39
+Western Cape,Rural,36-50,Other,10-20k,10/10 Mbps,64
+Western Cape,Rural,36-50,Other,10-20k,50/50 Mbps,44
+Western Cape,Rural,36-50,Other,10-20k,100/100 Mbps,9
+Western Cape,Rural,36-50,Other,10-20k,200/200 Mbps,90
+Western Cape,Rural,36-50,Other,10-20k,500/500 Mbps,29
+Western Cape,Rural,36-50,Other,10-20k,1000/1000 Mbps,34
+Western Cape,Rural,36-50,Other,20-40k,10/10 Mbps,95
+Western Cape,Rural,36-50,Other,20-40k,50/50 Mbps,59
+Western Cape,Rural,36-50,Other,20-40k,100/100 Mbps,54
+Western Cape,Rural,36-50,Other,20-40k,200/200 Mbps,34
+Western Cape,Rural,36-50,Other,20-40k,500/500 Mbps,67
+Western Cape,Rural,36-50,Other,20-40k,1000/1000 Mbps,46
+Western Cape,Rural,36-50,Other,40k+,10/10 Mbps,37
+Western Cape,Rural,36-50,Other,40k+,50/50 Mbps,88
+Western Cape,Rural,36-50,Other,40k+,100/100 Mbps,76
+Western Cape,Rural,36-50,Other,40k+,200/200 Mbps,76
+Western Cape,Rural,36-50,Other,40k+,500/500 Mbps,68
+Western Cape,Rural,36-50,Other,40k+,1000/1000 Mbps,41
+Western Cape,Rural,51+,Male,<10k,10/10 Mbps,40
+Western Cape,Rural,51+,Male,<10k,50/50 Mbps,15
+Western Cape,Rural,51+,Male,<10k,100/100 Mbps,21
+Western Cape,Rural,51+,Male,<10k,200/200 Mbps,49
+Western Cape,Rural,51+,Male,<10k,500/500 Mbps,35
+Western Cape,Rural,51+,Male,<10k,1000/1000 Mbps,29
+Western Cape,Rural,51+,Male,10-20k,10/10 Mbps,71
+Western Cape,Rural,51+,Male,10-20k,50/50 Mbps,24
+Western Cape,Rural,51+,Male,10-20k,100/100 Mbps,30
+Western Cape,Rural,51+,Male,10-20k,200/200 Mbps,10
+Western Cape,Rural,51+,Male,10-20k,500/500 Mbps,99
+Western Cape,Rural,51+,Male,10-20k,1000/1000 Mbps,94
+Western Cape,Rural,51+,Male,20-40k,10/10 Mbps,75
+Western Cape,Rural,51+,Male,20-40k,50/50 Mbps,61
+Western Cape,Rural,51+,Male,20-40k,100/100 Mbps,5
+Western Cape,Rural,51+,Male,20-40k,200/200 Mbps,43
+Western Cape,Rural,51+,Male,20-40k,500/500 Mbps,5
+Western Cape,Rural,51+,Male,20-40k,1000/1000 Mbps,15
+Western Cape,Rural,51+,Male,40k+,10/10 Mbps,94
+Western Cape,Rural,51+,Male,40k+,50/50 Mbps,71
+Western Cape,Rural,51+,Male,40k+,100/100 Mbps,54
+Western Cape,Rural,51+,Male,40k+,200/200 Mbps,30
+Western Cape,Rural,51+,Male,40k+,500/500 Mbps,39
+Western Cape,Rural,51+,Male,40k+,1000/1000 Mbps,64
+Western Cape,Rural,51+,Female,<10k,10/10 Mbps,84
+Western Cape,Rural,51+,Female,<10k,50/50 Mbps,7
+Western Cape,Rural,51+,Female,<10k,100/100 Mbps,84
+Western Cape,Rural,51+,Female,<10k,200/200 Mbps,44
+Western Cape,Rural,51+,Female,<10k,500/500 Mbps,60
+Western Cape,Rural,51+,Female,<10k,1000/1000 Mbps,59
+Western Cape,Rural,51+,Female,10-20k,10/10 Mbps,71
+Western Cape,Rural,51+,Female,10-20k,50/50 Mbps,21
+Western Cape,Rural,51+,Female,10-20k,100/100 Mbps,60
+Western Cape,Rural,51+,Female,10-20k,200/200 Mbps,96
+Western Cape,Rural,51+,Female,10-20k,500/500 Mbps,51
+Western Cape,Rural,51+,Female,10-20k,1000/1000 Mbps,18
+Western Cape,Rural,51+,Female,20-40k,10/10 Mbps,63
+Western Cape,Rural,51+,Female,20-40k,50/50 Mbps,40
+Western Cape,Rural,51+,Female,20-40k,100/100 Mbps,24
+Western Cape,Rural,51+,Female,20-40k,200/200 Mbps,94
+Western Cape,Rural,51+,Female,20-40k,500/500 Mbps,45
+Western Cape,Rural,51+,Female,20-40k,1000/1000 Mbps,83
+Western Cape,Rural,51+,Female,40k+,10/10 Mbps,67
+Western Cape,Rural,51+,Female,40k+,50/50 Mbps,55
+Western Cape,Rural,51+,Female,40k+,100/100 Mbps,33
+Western Cape,Rural,51+,Female,40k+,200/200 Mbps,45
+Western Cape,Rural,51+,Female,40k+,500/500 Mbps,51
+Western Cape,Rural,51+,Female,40k+,1000/1000 Mbps,67
+Western Cape,Rural,51+,Other,<10k,10/10 Mbps,24
+Western Cape,Rural,51+,Other,<10k,50/50 Mbps,76
+Western Cape,Rural,51+,Other,<10k,100/100 Mbps,19
+Western Cape,Rural,51+,Other,<10k,200/200 Mbps,27
+Western Cape,Rural,51+,Other,<10k,500/500 Mbps,43
+Western Cape,Rural,51+,Other,<10k,1000/1000 Mbps,96
+Western Cape,Rural,51+,Other,10-20k,10/10 Mbps,26
+Western Cape,Rural,51+,Other,10-20k,50/50 Mbps,20
+Western Cape,Rural,51+,Other,10-20k,100/100 Mbps,63
+Western Cape,Rural,51+,Other,10-20k,200/200 Mbps,74
+Western Cape,Rural,51+,Other,10-20k,500/500 Mbps,52
+Western Cape,Rural,51+,Other,10-20k,1000/1000 Mbps,70
+Western Cape,Rural,51+,Other,20-40k,10/10 Mbps,95
+Western Cape,Rural,51+,Other,20-40k,50/50 Mbps,93
+Western Cape,Rural,51+,Other,20-40k,100/100 Mbps,19
+Western Cape,Rural,51+,Other,20-40k,200/200 Mbps,23
+Western Cape,Rural,51+,Other,20-40k,500/500 Mbps,66
+Western Cape,Rural,51+,Other,20-40k,1000/1000 Mbps,32
+Western Cape,Rural,51+,Other,40k+,10/10 Mbps,91
+Western Cape,Rural,51+,Other,40k+,50/50 Mbps,90
+Western Cape,Rural,51+,Other,40k+,100/100 Mbps,94
+Western Cape,Rural,51+,Other,40k+,200/200 Mbps,91
+Western Cape,Rural,51+,Other,40k+,500/500 Mbps,27
+Western Cape,Rural,51+,Other,40k+,1000/1000 Mbps,90
+KwaZulu-Natal,Urban,18-25,Male,<10k,10/10 Mbps,22
+KwaZulu-Natal,Urban,18-25,Male,<10k,50/50 Mbps,9
+KwaZulu-Natal,Urban,18-25,Male,<10k,100/100 Mbps,95
+KwaZulu-Natal,Urban,18-25,Male,<10k,200/200 Mbps,99
+KwaZulu-Natal,Urban,18-25,Male,<10k,500/500 Mbps,55
+KwaZulu-Natal,Urban,18-25,Male,<10k,1000/1000 Mbps,99
+KwaZulu-Natal,Urban,18-25,Male,10-20k,10/10 Mbps,67
+KwaZulu-Natal,Urban,18-25,Male,10-20k,50/50 Mbps,5
+KwaZulu-Natal,Urban,18-25,Male,10-20k,100/100 Mbps,25
+KwaZulu-Natal,Urban,18-25,Male,10-20k,200/200 Mbps,96
+KwaZulu-Natal,Urban,18-25,Male,10-20k,500/500 Mbps,71
+KwaZulu-Natal,Urban,18-25,Male,10-20k,1000/1000 Mbps,93
+KwaZulu-Natal,Urban,18-25,Male,20-40k,10/10 Mbps,39
+KwaZulu-Natal,Urban,18-25,Male,20-40k,50/50 Mbps,40
+KwaZulu-Natal,Urban,18-25,Male,20-40k,100/100 Mbps,23
+KwaZulu-Natal,Urban,18-25,Male,20-40k,200/200 Mbps,56
+KwaZulu-Natal,Urban,18-25,Male,20-40k,500/500 Mbps,25
+KwaZulu-Natal,Urban,18-25,Male,20-40k,1000/1000 Mbps,71
+KwaZulu-Natal,Urban,18-25,Male,40k+,10/10 Mbps,19
+KwaZulu-Natal,Urban,18-25,Male,40k+,50/50 Mbps,52
+KwaZulu-Natal,Urban,18-25,Male,40k+,100/100 Mbps,72
+KwaZulu-Natal,Urban,18-25,Male,40k+,200/200 Mbps,98
+KwaZulu-Natal,Urban,18-25,Male,40k+,500/500 Mbps,18
+KwaZulu-Natal,Urban,18-25,Male,40k+,1000/1000 Mbps,74
+KwaZulu-Natal,Urban,18-25,Female,<10k,10/10 Mbps,27
+KwaZulu-Natal,Urban,18-25,Female,<10k,50/50 Mbps,59
+KwaZulu-Natal,Urban,18-25,Female,<10k,100/100 Mbps,78
+KwaZulu-Natal,Urban,18-25,Female,<10k,200/200 Mbps,16
+KwaZulu-Natal,Urban,18-25,Female,<10k,500/500 Mbps,77
+KwaZulu-Natal,Urban,18-25,Female,<10k,1000/1000 Mbps,19
+KwaZulu-Natal,Urban,18-25,Female,10-20k,10/10 Mbps,87
+KwaZulu-Natal,Urban,18-25,Female,10-20k,50/50 Mbps,41
+KwaZulu-Natal,Urban,18-25,Female,10-20k,100/100 Mbps,75
+KwaZulu-Natal,Urban,18-25,Female,10-20k,200/200 Mbps,39
+KwaZulu-Natal,Urban,18-25,Female,10-20k,500/500 Mbps,88
+KwaZulu-Natal,Urban,18-25,Female,10-20k,1000/1000 Mbps,31
+KwaZulu-Natal,Urban,18-25,Female,20-40k,10/10 Mbps,6
+KwaZulu-Natal,Urban,18-25,Female,20-40k,50/50 Mbps,44
+KwaZulu-Natal,Urban,18-25,Female,20-40k,100/100 Mbps,10
+KwaZulu-Natal,Urban,18-25,Female,20-40k,200/200 Mbps,81
+KwaZulu-Natal,Urban,18-25,Female,20-40k,500/500 Mbps,51
+KwaZulu-Natal,Urban,18-25,Female,20-40k,1000/1000 Mbps,20
+KwaZulu-Natal,Urban,18-25,Female,40k+,10/10 Mbps,64
+KwaZulu-Natal,Urban,18-25,Female,40k+,50/50 Mbps,61
+KwaZulu-Natal,Urban,18-25,Female,40k+,100/100 Mbps,34
+KwaZulu-Natal,Urban,18-25,Female,40k+,200/200 Mbps,87
+KwaZulu-Natal,Urban,18-25,Female,40k+,500/500 Mbps,16
+KwaZulu-Natal,Urban,18-25,Female,40k+,1000/1000 Mbps,11
+KwaZulu-Natal,Urban,18-25,Other,<10k,10/10 Mbps,51
+KwaZulu-Natal,Urban,18-25,Other,<10k,50/50 Mbps,42
+KwaZulu-Natal,Urban,18-25,Other,<10k,100/100 Mbps,42
+KwaZulu-Natal,Urban,18-25,Other,<10k,200/200 Mbps,9
+KwaZulu-Natal,Urban,18-25,Other,<10k,500/500 Mbps,64
+KwaZulu-Natal,Urban,18-25,Other,<10k,1000/1000 Mbps,54
+KwaZulu-Natal,Urban,18-25,Other,10-20k,10/10 Mbps,83
+KwaZulu-Natal,Urban,18-25,Other,10-20k,50/50 Mbps,77
+KwaZulu-Natal,Urban,18-25,Other,10-20k,100/100 Mbps,21
+KwaZulu-Natal,Urban,18-25,Other,10-20k,200/200 Mbps,88
+KwaZulu-Natal,Urban,18-25,Other,10-20k,500/500 Mbps,35
+KwaZulu-Natal,Urban,18-25,Other,10-20k,1000/1000 Mbps,6
+KwaZulu-Natal,Urban,18-25,Other,20-40k,10/10 Mbps,49
+KwaZulu-Natal,Urban,18-25,Other,20-40k,50/50 Mbps,85
+KwaZulu-Natal,Urban,18-25,Other,20-40k,100/100 Mbps,58
+KwaZulu-Natal,Urban,18-25,Other,20-40k,200/200 Mbps,27
+KwaZulu-Natal,Urban,18-25,Other,20-40k,500/500 Mbps,28
+KwaZulu-Natal,Urban,18-25,Other,20-40k,1000/1000 Mbps,48
+KwaZulu-Natal,Urban,18-25,Other,40k+,10/10 Mbps,67
+KwaZulu-Natal,Urban,18-25,Other,40k+,50/50 Mbps,22
+KwaZulu-Natal,Urban,18-25,Other,40k+,100/100 Mbps,56
+KwaZulu-Natal,Urban,18-25,Other,40k+,200/200 Mbps,19
+KwaZulu-Natal,Urban,18-25,Other,40k+,500/500 Mbps,92
+KwaZulu-Natal,Urban,18-25,Other,40k+,1000/1000 Mbps,71
+KwaZulu-Natal,Urban,26-35,Male,<10k,10/10 Mbps,60
+KwaZulu-Natal,Urban,26-35,Male,<10k,50/50 Mbps,23
+KwaZulu-Natal,Urban,26-35,Male,<10k,100/100 Mbps,9
+KwaZulu-Natal,Urban,26-35,Male,<10k,200/200 Mbps,63
+KwaZulu-Natal,Urban,26-35,Male,<10k,500/500 Mbps,19
+KwaZulu-Natal,Urban,26-35,Male,<10k,1000/1000 Mbps,36
+KwaZulu-Natal,Urban,26-35,Male,10-20k,10/10 Mbps,26
+KwaZulu-Natal,Urban,26-35,Male,10-20k,50/50 Mbps,84
+KwaZulu-Natal,Urban,26-35,Male,10-20k,100/100 Mbps,94
+KwaZulu-Natal,Urban,26-35,Male,10-20k,200/200 Mbps,31
+KwaZulu-Natal,Urban,26-35,Male,10-20k,500/500 Mbps,66
+KwaZulu-Natal,Urban,26-35,Male,10-20k,1000/1000 Mbps,53
+KwaZulu-Natal,Urban,26-35,Male,20-40k,10/10 Mbps,45
+KwaZulu-Natal,Urban,26-35,Male,20-40k,50/50 Mbps,26
+KwaZulu-Natal,Urban,26-35,Male,20-40k,100/100 Mbps,64
+KwaZulu-Natal,Urban,26-35,Male,20-40k,200/200 Mbps,21
+KwaZulu-Natal,Urban,26-35,Male,20-40k,500/500 Mbps,50
+KwaZulu-Natal,Urban,26-35,Male,20-40k,1000/1000 Mbps,64
+KwaZulu-Natal,Urban,26-35,Male,40k+,10/10 Mbps,15
+KwaZulu-Natal,Urban,26-35,Male,40k+,50/50 Mbps,86
+KwaZulu-Natal,Urban,26-35,Male,40k+,100/100 Mbps,46
+KwaZulu-Natal,Urban,26-35,Male,40k+,200/200 Mbps,50
+KwaZulu-Natal,Urban,26-35,Male,40k+,500/500 Mbps,91
+KwaZulu-Natal,Urban,26-35,Male,40k+,1000/1000 Mbps,37
+KwaZulu-Natal,Urban,26-35,Female,<10k,10/10 Mbps,25
+KwaZulu-Natal,Urban,26-35,Female,<10k,50/50 Mbps,69
+KwaZulu-Natal,Urban,26-35,Female,<10k,100/100 Mbps,42
+KwaZulu-Natal,Urban,26-35,Female,<10k,200/200 Mbps,63
+KwaZulu-Natal,Urban,26-35,Female,<10k,500/500 Mbps,49
+KwaZulu-Natal,Urban,26-35,Female,<10k,1000/1000 Mbps,9
+KwaZulu-Natal,Urban,26-35,Female,10-20k,10/10 Mbps,6
+KwaZulu-Natal,Urban,26-35,Female,10-20k,50/50 Mbps,80
+KwaZulu-Natal,Urban,26-35,Female,10-20k,100/100 Mbps,37
+KwaZulu-Natal,Urban,26-35,Female,10-20k,200/200 Mbps,28
+KwaZulu-Natal,Urban,26-35,Female,10-20k,500/500 Mbps,61
+KwaZulu-Natal,Urban,26-35,Female,10-20k,1000/1000 Mbps,13
+KwaZulu-Natal,Urban,26-35,Female,20-40k,10/10 Mbps,76
+KwaZulu-Natal,Urban,26-35,Female,20-40k,50/50 Mbps,24
+KwaZulu-Natal,Urban,26-35,Female,20-40k,100/100 Mbps,65
+KwaZulu-Natal,Urban,26-35,Female,20-40k,200/200 Mbps,31
+KwaZulu-Natal,Urban,26-35,Female,20-40k,500/500 Mbps,36
+KwaZulu-Natal,Urban,26-35,Female,20-40k,1000/1000 Mbps,8
+KwaZulu-Natal,Urban,26-35,Female,40k+,10/10 Mbps,6
+KwaZulu-Natal,Urban,26-35,Female,40k+,50/50 Mbps,83
+KwaZulu-Natal,Urban,26-35,Female,40k+,100/100 Mbps,16
+KwaZulu-Natal,Urban,26-35,Female,40k+,200/200 Mbps,37
+KwaZulu-Natal,Urban,26-35,Female,40k+,500/500 Mbps,36
+KwaZulu-Natal,Urban,26-35,Female,40k+,1000/1000 Mbps,47
+KwaZulu-Natal,Urban,26-35,Other,<10k,10/10 Mbps,34
+KwaZulu-Natal,Urban,26-35,Other,<10k,50/50 Mbps,78
+KwaZulu-Natal,Urban,26-35,Other,<10k,100/100 Mbps,97
+KwaZulu-Natal,Urban,26-35,Other,<10k,200/200 Mbps,93
+KwaZulu-Natal,Urban,26-35,Other,<10k,500/500 Mbps,27
+KwaZulu-Natal,Urban,26-35,Other,<10k,1000/1000 Mbps,38
+KwaZulu-Natal,Urban,26-35,Other,10-20k,10/10 Mbps,79
+KwaZulu-Natal,Urban,26-35,Other,10-20k,50/50 Mbps,36
+KwaZulu-Natal,Urban,26-35,Other,10-20k,100/100 Mbps,56
+KwaZulu-Natal,Urban,26-35,Other,10-20k,200/200 Mbps,67
+KwaZulu-Natal,Urban,26-35,Other,10-20k,500/500 Mbps,33
+KwaZulu-Natal,Urban,26-35,Other,10-20k,1000/1000 Mbps,25
+KwaZulu-Natal,Urban,26-35,Other,20-40k,10/10 Mbps,74
+KwaZulu-Natal,Urban,26-35,Other,20-40k,50/50 Mbps,94
+KwaZulu-Natal,Urban,26-35,Other,20-40k,100/100 Mbps,16
+KwaZulu-Natal,Urban,26-35,Other,20-40k,200/200 Mbps,81
+KwaZulu-Natal,Urban,26-35,Other,20-40k,500/500 Mbps,8
+KwaZulu-Natal,Urban,26-35,Other,20-40k,1000/1000 Mbps,64
+KwaZulu-Natal,Urban,26-35,Other,40k+,10/10 Mbps,76
+KwaZulu-Natal,Urban,26-35,Other,40k+,50/50 Mbps,32
+KwaZulu-Natal,Urban,26-35,Other,40k+,100/100 Mbps,6
+KwaZulu-Natal,Urban,26-35,Other,40k+,200/200 Mbps,41
+KwaZulu-Natal,Urban,26-35,Other,40k+,500/500 Mbps,38
+KwaZulu-Natal,Urban,26-35,Other,40k+,1000/1000 Mbps,16
+KwaZulu-Natal,Urban,36-50,Male,<10k,10/10 Mbps,51
+KwaZulu-Natal,Urban,36-50,Male,<10k,50/50 Mbps,88
+KwaZulu-Natal,Urban,36-50,Male,<10k,100/100 Mbps,10
+KwaZulu-Natal,Urban,36-50,Male,<10k,200/200 Mbps,43
+KwaZulu-Natal,Urban,36-50,Male,<10k,500/500 Mbps,44
+KwaZulu-Natal,Urban,36-50,Male,<10k,1000/1000 Mbps,85
+KwaZulu-Natal,Urban,36-50,Male,10-20k,10/10 Mbps,14
+KwaZulu-Natal,Urban,36-50,Male,10-20k,50/50 Mbps,55
+KwaZulu-Natal,Urban,36-50,Male,10-20k,100/100 Mbps,99
+KwaZulu-Natal,Urban,36-50,Male,10-20k,200/200 Mbps,41
+KwaZulu-Natal,Urban,36-50,Male,10-20k,500/500 Mbps,58
+KwaZulu-Natal,Urban,36-50,Male,10-20k,1000/1000 Mbps,34
+KwaZulu-Natal,Urban,36-50,Male,20-40k,10/10 Mbps,34
+KwaZulu-Natal,Urban,36-50,Male,20-40k,50/50 Mbps,48
+KwaZulu-Natal,Urban,36-50,Male,20-40k,100/100 Mbps,78
+KwaZulu-Natal,Urban,36-50,Male,20-40k,200/200 Mbps,12
+KwaZulu-Natal,Urban,36-50,Male,20-40k,500/500 Mbps,15
+KwaZulu-Natal,Urban,36-50,Male,20-40k,1000/1000 Mbps,60
+KwaZulu-Natal,Urban,36-50,Male,40k+,10/10 Mbps,44
+KwaZulu-Natal,Urban,36-50,Male,40k+,50/50 Mbps,10
+KwaZulu-Natal,Urban,36-50,Male,40k+,100/100 Mbps,99
+KwaZulu-Natal,Urban,36-50,Male,40k+,200/200 Mbps,95
+KwaZulu-Natal,Urban,36-50,Male,40k+,500/500 Mbps,78
+KwaZulu-Natal,Urban,36-50,Male,40k+,1000/1000 Mbps,26
+KwaZulu-Natal,Urban,36-50,Female,<10k,10/10 Mbps,7
+KwaZulu-Natal,Urban,36-50,Female,<10k,50/50 Mbps,59
+KwaZulu-Natal,Urban,36-50,Female,<10k,100/100 Mbps,30
+KwaZulu-Natal,Urban,36-50,Female,<10k,200/200 Mbps,5
+KwaZulu-Natal,Urban,36-50,Female,<10k,500/500 Mbps,33
+KwaZulu-Natal,Urban,36-50,Female,<10k,1000/1000 Mbps,37
+KwaZulu-Natal,Urban,36-50,Female,10-20k,10/10 Mbps,82
+KwaZulu-Natal,Urban,36-50,Female,10-20k,50/50 Mbps,91
+KwaZulu-Natal,Urban,36-50,Female,10-20k,100/100 Mbps,56
+KwaZulu-Natal,Urban,36-50,Female,10-20k,200/200 Mbps,75
+KwaZulu-Natal,Urban,36-50,Female,10-20k,500/500 Mbps,60
+KwaZulu-Natal,Urban,36-50,Female,10-20k,1000/1000 Mbps,41
+KwaZulu-Natal,Urban,36-50,Female,20-40k,10/10 Mbps,19
+KwaZulu-Natal,Urban,36-50,Female,20-40k,50/50 Mbps,75
+KwaZulu-Natal,Urban,36-50,Female,20-40k,100/100 Mbps,30
+KwaZulu-Natal,Urban,36-50,Female,20-40k,200/200 Mbps,73
+KwaZulu-Natal,Urban,36-50,Female,20-40k,500/500 Mbps,86
+KwaZulu-Natal,Urban,36-50,Female,20-40k,1000/1000 Mbps,22
+KwaZulu-Natal,Urban,36-50,Female,40k+,10/10 Mbps,28
+KwaZulu-Natal,Urban,36-50,Female,40k+,50/50 Mbps,52
+KwaZulu-Natal,Urban,36-50,Female,40k+,100/100 Mbps,84
+KwaZulu-Natal,Urban,36-50,Female,40k+,200/200 Mbps,53
+KwaZulu-Natal,Urban,36-50,Female,40k+,500/500 Mbps,31
+KwaZulu-Natal,Urban,36-50,Female,40k+,1000/1000 Mbps,40
+KwaZulu-Natal,Urban,36-50,Other,<10k,10/10 Mbps,96
+KwaZulu-Natal,Urban,36-50,Other,<10k,50/50 Mbps,98
+KwaZulu-Natal,Urban,36-50,Other,<10k,100/100 Mbps,18
+KwaZulu-Natal,Urban,36-50,Other,<10k,200/200 Mbps,38
+KwaZulu-Natal,Urban,36-50,Other,<10k,500/500 Mbps,64
+KwaZulu-Natal,Urban,36-50,Other,<10k,1000/1000 Mbps,72
+KwaZulu-Natal,Urban,36-50,Other,10-20k,10/10 Mbps,37
+KwaZulu-Natal,Urban,36-50,Other,10-20k,50/50 Mbps,13
+KwaZulu-Natal,Urban,36-50,Other,10-20k,100/100 Mbps,26
+KwaZulu-Natal,Urban,36-50,Other,10-20k,200/200 Mbps,77
+KwaZulu-Natal,Urban,36-50,Other,10-20k,500/500 Mbps,19
+KwaZulu-Natal,Urban,36-50,Other,10-20k,1000/1000 Mbps,84
+KwaZulu-Natal,Urban,36-50,Other,20-40k,10/10 Mbps,20
+KwaZulu-Natal,Urban,36-50,Other,20-40k,50/50 Mbps,73
+KwaZulu-Natal,Urban,36-50,Other,20-40k,100/100 Mbps,25
+KwaZulu-Natal,Urban,36-50,Other,20-40k,200/200 Mbps,59
+KwaZulu-Natal,Urban,36-50,Other,20-40k,500/500 Mbps,74
+KwaZulu-Natal,Urban,36-50,Other,20-40k,1000/1000 Mbps,99
+KwaZulu-Natal,Urban,36-50,Other,40k+,10/10 Mbps,44
+KwaZulu-Natal,Urban,36-50,Other,40k+,50/50 Mbps,66
+KwaZulu-Natal,Urban,36-50,Other,40k+,100/100 Mbps,92
+KwaZulu-Natal,Urban,36-50,Other,40k+,200/200 Mbps,87
+KwaZulu-Natal,Urban,36-50,Other,40k+,500/500 Mbps,47
+KwaZulu-Natal,Urban,36-50,Other,40k+,1000/1000 Mbps,99
+KwaZulu-Natal,Urban,51+,Male,<10k,10/10 Mbps,47
+KwaZulu-Natal,Urban,51+,Male,<10k,50/50 Mbps,98
+KwaZulu-Natal,Urban,51+,Male,<10k,100/100 Mbps,68
+KwaZulu-Natal,Urban,51+,Male,<10k,200/200 Mbps,97
+KwaZulu-Natal,Urban,51+,Male,<10k,500/500 Mbps,98
+KwaZulu-Natal,Urban,51+,Male,<10k,1000/1000 Mbps,99
+KwaZulu-Natal,Urban,51+,Male,10-20k,10/10 Mbps,77
+KwaZulu-Natal,Urban,51+,Male,10-20k,50/50 Mbps,17
+KwaZulu-Natal,Urban,51+,Male,10-20k,100/100 Mbps,50
+KwaZulu-Natal,Urban,51+,Male,10-20k,200/200 Mbps,13
+KwaZulu-Natal,Urban,51+,Male,10-20k,500/500 Mbps,31
+KwaZulu-Natal,Urban,51+,Male,10-20k,1000/1000 Mbps,82
+KwaZulu-Natal,Urban,51+,Male,20-40k,10/10 Mbps,27
+KwaZulu-Natal,Urban,51+,Male,20-40k,50/50 Mbps,89
+KwaZulu-Natal,Urban,51+,Male,20-40k,100/100 Mbps,15
+KwaZulu-Natal,Urban,51+,Male,20-40k,200/200 Mbps,82
+KwaZulu-Natal,Urban,51+,Male,20-40k,500/500 Mbps,62
+KwaZulu-Natal,Urban,51+,Male,20-40k,1000/1000 Mbps,44
+KwaZulu-Natal,Urban,51+,Male,40k+,10/10 Mbps,73
+KwaZulu-Natal,Urban,51+,Male,40k+,50/50 Mbps,55
+KwaZulu-Natal,Urban,51+,Male,40k+,100/100 Mbps,5
+KwaZulu-Natal,Urban,51+,Male,40k+,200/200 Mbps,62
+KwaZulu-Natal,Urban,51+,Male,40k+,500/500 Mbps,8
+KwaZulu-Natal,Urban,51+,Male,40k+,1000/1000 Mbps,87
+KwaZulu-Natal,Urban,51+,Female,<10k,10/10 Mbps,40
+KwaZulu-Natal,Urban,51+,Female,<10k,50/50 Mbps,21
+KwaZulu-Natal,Urban,51+,Female,<10k,100/100 Mbps,91
+KwaZulu-Natal,Urban,51+,Female,<10k,200/200 Mbps,21
+KwaZulu-Natal,Urban,51+,Female,<10k,500/500 Mbps,22
+KwaZulu-Natal,Urban,51+,Female,<10k,1000/1000 Mbps,53
+KwaZulu-Natal,Urban,51+,Female,10-20k,10/10 Mbps,84
+KwaZulu-Natal,Urban,51+,Female,10-20k,50/50 Mbps,93
+KwaZulu-Natal,Urban,51+,Female,10-20k,100/100 Mbps,29
+KwaZulu-Natal,Urban,51+,Female,10-20k,200/200 Mbps,81
+KwaZulu-Natal,Urban,51+,Female,10-20k,500/500 Mbps,67
+KwaZulu-Natal,Urban,51+,Female,10-20k,1000/1000 Mbps,66
+KwaZulu-Natal,Urban,51+,Female,20-40k,10/10 Mbps,31
+KwaZulu-Natal,Urban,51+,Female,20-40k,50/50 Mbps,71
+KwaZulu-Natal,Urban,51+,Female,20-40k,100/100 Mbps,23
+KwaZulu-Natal,Urban,51+,Female,20-40k,200/200 Mbps,94
+KwaZulu-Natal,Urban,51+,Female,20-40k,500/500 Mbps,29
+KwaZulu-Natal,Urban,51+,Female,20-40k,1000/1000 Mbps,75
+KwaZulu-Natal,Urban,51+,Female,40k+,10/10 Mbps,87
+KwaZulu-Natal,Urban,51+,Female,40k+,50/50 Mbps,60
+KwaZulu-Natal,Urban,51+,Female,40k+,100/100 Mbps,24
+KwaZulu-Natal,Urban,51+,Female,40k+,200/200 Mbps,78
+KwaZulu-Natal,Urban,51+,Female,40k+,500/500 Mbps,90
+KwaZulu-Natal,Urban,51+,Female,40k+,1000/1000 Mbps,99
+KwaZulu-Natal,Urban,51+,Other,<10k,10/10 Mbps,68
+KwaZulu-Natal,Urban,51+,Other,<10k,50/50 Mbps,68
+KwaZulu-Natal,Urban,51+,Other,<10k,100/100 Mbps,26
+KwaZulu-Natal,Urban,51+,Other,<10k,200/200 Mbps,11
+KwaZulu-Natal,Urban,51+,Other,<10k,500/500 Mbps,88
+KwaZulu-Natal,Urban,51+,Other,<10k,1000/1000 Mbps,46
+KwaZulu-Natal,Urban,51+,Other,10-20k,10/10 Mbps,59
+KwaZulu-Natal,Urban,51+,Other,10-20k,50/50 Mbps,98
+KwaZulu-Natal,Urban,51+,Other,10-20k,100/100 Mbps,55
+KwaZulu-Natal,Urban,51+,Other,10-20k,200/200 Mbps,47
+KwaZulu-Natal,Urban,51+,Other,10-20k,500/500 Mbps,51
+KwaZulu-Natal,Urban,51+,Other,10-20k,1000/1000 Mbps,78
+KwaZulu-Natal,Urban,51+,Other,20-40k,10/10 Mbps,57
+KwaZulu-Natal,Urban,51+,Other,20-40k,50/50 Mbps,78
+KwaZulu-Natal,Urban,51+,Other,20-40k,100/100 Mbps,72
+KwaZulu-Natal,Urban,51+,Other,20-40k,200/200 Mbps,6
+KwaZulu-Natal,Urban,51+,Other,20-40k,500/500 Mbps,71
+KwaZulu-Natal,Urban,51+,Other,20-40k,1000/1000 Mbps,73
+KwaZulu-Natal,Urban,51+,Other,40k+,10/10 Mbps,77
+KwaZulu-Natal,Urban,51+,Other,40k+,50/50 Mbps,18
+KwaZulu-Natal,Urban,51+,Other,40k+,100/100 Mbps,42
+KwaZulu-Natal,Urban,51+,Other,40k+,200/200 Mbps,71
+KwaZulu-Natal,Urban,51+,Other,40k+,500/500 Mbps,70
+KwaZulu-Natal,Urban,51+,Other,40k+,1000/1000 Mbps,67
+KwaZulu-Natal,Suburban,18-25,Male,<10k,10/10 Mbps,14
+KwaZulu-Natal,Suburban,18-25,Male,<10k,50/50 Mbps,5
+KwaZulu-Natal,Suburban,18-25,Male,<10k,100/100 Mbps,20
+KwaZulu-Natal,Suburban,18-25,Male,<10k,200/200 Mbps,12
+KwaZulu-Natal,Suburban,18-25,Male,<10k,500/500 Mbps,76
+KwaZulu-Natal,Suburban,18-25,Male,<10k,1000/1000 Mbps,32
+KwaZulu-Natal,Suburban,18-25,Male,10-20k,10/10 Mbps,36
+KwaZulu-Natal,Suburban,18-25,Male,10-20k,50/50 Mbps,8
+KwaZulu-Natal,Suburban,18-25,Male,10-20k,100/100 Mbps,48
+KwaZulu-Natal,Suburban,18-25,Male,10-20k,200/200 Mbps,61
+KwaZulu-Natal,Suburban,18-25,Male,10-20k,500/500 Mbps,94
+KwaZulu-Natal,Suburban,18-25,Male,10-20k,1000/1000 Mbps,70
+KwaZulu-Natal,Suburban,18-25,Male,20-40k,10/10 Mbps,72
+KwaZulu-Natal,Suburban,18-25,Male,20-40k,50/50 Mbps,55
+KwaZulu-Natal,Suburban,18-25,Male,20-40k,100/100 Mbps,24
+KwaZulu-Natal,Suburban,18-25,Male,20-40k,200/200 Mbps,16
+KwaZulu-Natal,Suburban,18-25,Male,20-40k,500/500 Mbps,98
+KwaZulu-Natal,Suburban,18-25,Male,20-40k,1000/1000 Mbps,99
+KwaZulu-Natal,Suburban,18-25,Male,40k+,10/10 Mbps,18
+KwaZulu-Natal,Suburban,18-25,Male,40k+,50/50 Mbps,50
+KwaZulu-Natal,Suburban,18-25,Male,40k+,100/100 Mbps,84
+KwaZulu-Natal,Suburban,18-25,Male,40k+,200/200 Mbps,9
+KwaZulu-Natal,Suburban,18-25,Male,40k+,500/500 Mbps,18
+KwaZulu-Natal,Suburban,18-25,Male,40k+,1000/1000 Mbps,8
+KwaZulu-Natal,Suburban,18-25,Female,<10k,10/10 Mbps,21
+KwaZulu-Natal,Suburban,18-25,Female,<10k,50/50 Mbps,97
+KwaZulu-Natal,Suburban,18-25,Female,<10k,100/100 Mbps,25
+KwaZulu-Natal,Suburban,18-25,Female,<10k,200/200 Mbps,35
+KwaZulu-Natal,Suburban,18-25,Female,<10k,500/500 Mbps,46
+KwaZulu-Natal,Suburban,18-25,Female,<10k,1000/1000 Mbps,7
+KwaZulu-Natal,Suburban,18-25,Female,10-20k,10/10 Mbps,32
+KwaZulu-Natal,Suburban,18-25,Female,10-20k,50/50 Mbps,99
+KwaZulu-Natal,Suburban,18-25,Female,10-20k,100/100 Mbps,41
+KwaZulu-Natal,Suburban,18-25,Female,10-20k,200/200 Mbps,31
+KwaZulu-Natal,Suburban,18-25,Female,10-20k,500/500 Mbps,16
+KwaZulu-Natal,Suburban,18-25,Female,10-20k,1000/1000 Mbps,95
+KwaZulu-Natal,Suburban,18-25,Female,20-40k,10/10 Mbps,99
+KwaZulu-Natal,Suburban,18-25,Female,20-40k,50/50 Mbps,97
+KwaZulu-Natal,Suburban,18-25,Female,20-40k,100/100 Mbps,92
+KwaZulu-Natal,Suburban,18-25,Female,20-40k,200/200 Mbps,62
+KwaZulu-Natal,Suburban,18-25,Female,20-40k,500/500 Mbps,75
+KwaZulu-Natal,Suburban,18-25,Female,20-40k,1000/1000 Mbps,45
+KwaZulu-Natal,Suburban,18-25,Female,40k+,10/10 Mbps,82
+KwaZulu-Natal,Suburban,18-25,Female,40k+,50/50 Mbps,83
+KwaZulu-Natal,Suburban,18-25,Female,40k+,100/100 Mbps,54
+KwaZulu-Natal,Suburban,18-25,Female,40k+,200/200 Mbps,80
+KwaZulu-Natal,Suburban,18-25,Female,40k+,500/500 Mbps,16
+KwaZulu-Natal,Suburban,18-25,Female,40k+,1000/1000 Mbps,28
+KwaZulu-Natal,Suburban,18-25,Other,<10k,10/10 Mbps,36
+KwaZulu-Natal,Suburban,18-25,Other,<10k,50/50 Mbps,43
+KwaZulu-Natal,Suburban,18-25,Other,<10k,100/100 Mbps,92
+KwaZulu-Natal,Suburban,18-25,Other,<10k,200/200 Mbps,59
+KwaZulu-Natal,Suburban,18-25,Other,<10k,500/500 Mbps,22
+KwaZulu-Natal,Suburban,18-25,Other,<10k,1000/1000 Mbps,63
+KwaZulu-Natal,Suburban,18-25,Other,10-20k,10/10 Mbps,60
+KwaZulu-Natal,Suburban,18-25,Other,10-20k,50/50 Mbps,81
+KwaZulu-Natal,Suburban,18-25,Other,10-20k,100/100 Mbps,30
+KwaZulu-Natal,Suburban,18-25,Other,10-20k,200/200 Mbps,60
+KwaZulu-Natal,Suburban,18-25,Other,10-20k,500/500 Mbps,79
+KwaZulu-Natal,Suburban,18-25,Other,10-20k,1000/1000 Mbps,31
+KwaZulu-Natal,Suburban,18-25,Other,20-40k,10/10 Mbps,66
+KwaZulu-Natal,Suburban,18-25,Other,20-40k,50/50 Mbps,48
+KwaZulu-Natal,Suburban,18-25,Other,20-40k,100/100 Mbps,84
+KwaZulu-Natal,Suburban,18-25,Other,20-40k,200/200 Mbps,82
+KwaZulu-Natal,Suburban,18-25,Other,20-40k,500/500 Mbps,33
+KwaZulu-Natal,Suburban,18-25,Other,20-40k,1000/1000 Mbps,63
+KwaZulu-Natal,Suburban,18-25,Other,40k+,10/10 Mbps,58
+KwaZulu-Natal,Suburban,18-25,Other,40k+,50/50 Mbps,14
+KwaZulu-Natal,Suburban,18-25,Other,40k+,100/100 Mbps,51
+KwaZulu-Natal,Suburban,18-25,Other,40k+,200/200 Mbps,56
+KwaZulu-Natal,Suburban,18-25,Other,40k+,500/500 Mbps,63
+KwaZulu-Natal,Suburban,18-25,Other,40k+,1000/1000 Mbps,98
+KwaZulu-Natal,Suburban,26-35,Male,<10k,10/10 Mbps,12
+KwaZulu-Natal,Suburban,26-35,Male,<10k,50/50 Mbps,19
+KwaZulu-Natal,Suburban,26-35,Male,<10k,100/100 Mbps,21
+KwaZulu-Natal,Suburban,26-35,Male,<10k,200/200 Mbps,57
+KwaZulu-Natal,Suburban,26-35,Male,<10k,500/500 Mbps,6
+KwaZulu-Natal,Suburban,26-35,Male,<10k,1000/1000 Mbps,59
+KwaZulu-Natal,Suburban,26-35,Male,10-20k,10/10 Mbps,50
+KwaZulu-Natal,Suburban,26-35,Male,10-20k,50/50 Mbps,87
+KwaZulu-Natal,Suburban,26-35,Male,10-20k,100/100 Mbps,97
+KwaZulu-Natal,Suburban,26-35,Male,10-20k,200/200 Mbps,80
+KwaZulu-Natal,Suburban,26-35,Male,10-20k,500/500 Mbps,91
+KwaZulu-Natal,Suburban,26-35,Male,10-20k,1000/1000 Mbps,94
+KwaZulu-Natal,Suburban,26-35,Male,20-40k,10/10 Mbps,70
+KwaZulu-Natal,Suburban,26-35,Male,20-40k,50/50 Mbps,37
+KwaZulu-Natal,Suburban,26-35,Male,20-40k,100/100 Mbps,99
+KwaZulu-Natal,Suburban,26-35,Male,20-40k,200/200 Mbps,92
+KwaZulu-Natal,Suburban,26-35,Male,20-40k,500/500 Mbps,73
+KwaZulu-Natal,Suburban,26-35,Male,20-40k,1000/1000 Mbps,78
+KwaZulu-Natal,Suburban,26-35,Male,40k+,10/10 Mbps,10
+KwaZulu-Natal,Suburban,26-35,Male,40k+,50/50 Mbps,31
+KwaZulu-Natal,Suburban,26-35,Male,40k+,100/100 Mbps,52
+KwaZulu-Natal,Suburban,26-35,Male,40k+,200/200 Mbps,22
+KwaZulu-Natal,Suburban,26-35,Male,40k+,500/500 Mbps,44
+KwaZulu-Natal,Suburban,26-35,Male,40k+,1000/1000 Mbps,28
+KwaZulu-Natal,Suburban,26-35,Female,<10k,10/10 Mbps,34
+KwaZulu-Natal,Suburban,26-35,Female,<10k,50/50 Mbps,14
+KwaZulu-Natal,Suburban,26-35,Female,<10k,100/100 Mbps,85
+KwaZulu-Natal,Suburban,26-35,Female,<10k,200/200 Mbps,77
+KwaZulu-Natal,Suburban,26-35,Female,<10k,500/500 Mbps,8
+KwaZulu-Natal,Suburban,26-35,Female,<10k,1000/1000 Mbps,82
+KwaZulu-Natal,Suburban,26-35,Female,10-20k,10/10 Mbps,76
+KwaZulu-Natal,Suburban,26-35,Female,10-20k,50/50 Mbps,72
+KwaZulu-Natal,Suburban,26-35,Female,10-20k,100/100 Mbps,25
+KwaZulu-Natal,Suburban,26-35,Female,10-20k,200/200 Mbps,81
+KwaZulu-Natal,Suburban,26-35,Female,10-20k,500/500 Mbps,12
+KwaZulu-Natal,Suburban,26-35,Female,10-20k,1000/1000 Mbps,65
+KwaZulu-Natal,Suburban,26-35,Female,20-40k,10/10 Mbps,87
+KwaZulu-Natal,Suburban,26-35,Female,20-40k,50/50 Mbps,9
+KwaZulu-Natal,Suburban,26-35,Female,20-40k,100/100 Mbps,49
+KwaZulu-Natal,Suburban,26-35,Female,20-40k,200/200 Mbps,93
+KwaZulu-Natal,Suburban,26-35,Female,20-40k,500/500 Mbps,9
+KwaZulu-Natal,Suburban,26-35,Female,20-40k,1000/1000 Mbps,19
+KwaZulu-Natal,Suburban,26-35,Female,40k+,10/10 Mbps,49
+KwaZulu-Natal,Suburban,26-35,Female,40k+,50/50 Mbps,82
+KwaZulu-Natal,Suburban,26-35,Female,40k+,100/100 Mbps,12
+KwaZulu-Natal,Suburban,26-35,Female,40k+,200/200 Mbps,9
+KwaZulu-Natal,Suburban,26-35,Female,40k+,500/500 Mbps,90
+KwaZulu-Natal,Suburban,26-35,Female,40k+,1000/1000 Mbps,91
+KwaZulu-Natal,Suburban,26-35,Other,<10k,10/10 Mbps,77
+KwaZulu-Natal,Suburban,26-35,Other,<10k,50/50 Mbps,21
+KwaZulu-Natal,Suburban,26-35,Other,<10k,100/100 Mbps,70
+KwaZulu-Natal,Suburban,26-35,Other,<10k,200/200 Mbps,43
+KwaZulu-Natal,Suburban,26-35,Other,<10k,500/500 Mbps,83
+KwaZulu-Natal,Suburban,26-35,Other,<10k,1000/1000 Mbps,34
+KwaZulu-Natal,Suburban,26-35,Other,10-20k,10/10 Mbps,89
+KwaZulu-Natal,Suburban,26-35,Other,10-20k,50/50 Mbps,96
+KwaZulu-Natal,Suburban,26-35,Other,10-20k,100/100 Mbps,97
+KwaZulu-Natal,Suburban,26-35,Other,10-20k,200/200 Mbps,81
+KwaZulu-Natal,Suburban,26-35,Other,10-20k,500/500 Mbps,71
+KwaZulu-Natal,Suburban,26-35,Other,10-20k,1000/1000 Mbps,29
+KwaZulu-Natal,Suburban,26-35,Other,20-40k,10/10 Mbps,49
+KwaZulu-Natal,Suburban,26-35,Other,20-40k,50/50 Mbps,27
+KwaZulu-Natal,Suburban,26-35,Other,20-40k,100/100 Mbps,28
+KwaZulu-Natal,Suburban,26-35,Other,20-40k,200/200 Mbps,38
+KwaZulu-Natal,Suburban,26-35,Other,20-40k,500/500 Mbps,23
+KwaZulu-Natal,Suburban,26-35,Other,20-40k,1000/1000 Mbps,65
+KwaZulu-Natal,Suburban,26-35,Other,40k+,10/10 Mbps,57
+KwaZulu-Natal,Suburban,26-35,Other,40k+,50/50 Mbps,80
+KwaZulu-Natal,Suburban,26-35,Other,40k+,100/100 Mbps,46
+KwaZulu-Natal,Suburban,26-35,Other,40k+,200/200 Mbps,98
+KwaZulu-Natal,Suburban,26-35,Other,40k+,500/500 Mbps,37
+KwaZulu-Natal,Suburban,26-35,Other,40k+,1000/1000 Mbps,78
+KwaZulu-Natal,Suburban,36-50,Male,<10k,10/10 Mbps,68
+KwaZulu-Natal,Suburban,36-50,Male,<10k,50/50 Mbps,98
+KwaZulu-Natal,Suburban,36-50,Male,<10k,100/100 Mbps,10
+KwaZulu-Natal,Suburban,36-50,Male,<10k,200/200 Mbps,73
+KwaZulu-Natal,Suburban,36-50,Male,<10k,500/500 Mbps,57
+KwaZulu-Natal,Suburban,36-50,Male,<10k,1000/1000 Mbps,60
+KwaZulu-Natal,Suburban,36-50,Male,10-20k,10/10 Mbps,76
+KwaZulu-Natal,Suburban,36-50,Male,10-20k,50/50 Mbps,56
+KwaZulu-Natal,Suburban,36-50,Male,10-20k,100/100 Mbps,74
+KwaZulu-Natal,Suburban,36-50,Male,10-20k,200/200 Mbps,54
+KwaZulu-Natal,Suburban,36-50,Male,10-20k,500/500 Mbps,69
+KwaZulu-Natal,Suburban,36-50,Male,10-20k,1000/1000 Mbps,85
+KwaZulu-Natal,Suburban,36-50,Male,20-40k,10/10 Mbps,78
+KwaZulu-Natal,Suburban,36-50,Male,20-40k,50/50 Mbps,98
+KwaZulu-Natal,Suburban,36-50,Male,20-40k,100/100 Mbps,37
+KwaZulu-Natal,Suburban,36-50,Male,20-40k,200/200 Mbps,70
+KwaZulu-Natal,Suburban,36-50,Male,20-40k,500/500 Mbps,49
+KwaZulu-Natal,Suburban,36-50,Male,20-40k,1000/1000 Mbps,37
+KwaZulu-Natal,Suburban,36-50,Male,40k+,10/10 Mbps,59
+KwaZulu-Natal,Suburban,36-50,Male,40k+,50/50 Mbps,36
+KwaZulu-Natal,Suburban,36-50,Male,40k+,100/100 Mbps,64
+KwaZulu-Natal,Suburban,36-50,Male,40k+,200/200 Mbps,16
+KwaZulu-Natal,Suburban,36-50,Male,40k+,500/500 Mbps,38
+KwaZulu-Natal,Suburban,36-50,Male,40k+,1000/1000 Mbps,27
+KwaZulu-Natal,Suburban,36-50,Female,<10k,10/10 Mbps,67
+KwaZulu-Natal,Suburban,36-50,Female,<10k,50/50 Mbps,89
+KwaZulu-Natal,Suburban,36-50,Female,<10k,100/100 Mbps,74
+KwaZulu-Natal,Suburban,36-50,Female,<10k,200/200 Mbps,55
+KwaZulu-Natal,Suburban,36-50,Female,<10k,500/500 Mbps,81
+KwaZulu-Natal,Suburban,36-50,Female,<10k,1000/1000 Mbps,71
+KwaZulu-Natal,Suburban,36-50,Female,10-20k,10/10 Mbps,21
+KwaZulu-Natal,Suburban,36-50,Female,10-20k,50/50 Mbps,48
+KwaZulu-Natal,Suburban,36-50,Female,10-20k,100/100 Mbps,14
+KwaZulu-Natal,Suburban,36-50,Female,10-20k,200/200 Mbps,75
+KwaZulu-Natal,Suburban,36-50,Female,10-20k,500/500 Mbps,57
+KwaZulu-Natal,Suburban,36-50,Female,10-20k,1000/1000 Mbps,23
+KwaZulu-Natal,Suburban,36-50,Female,20-40k,10/10 Mbps,11
+KwaZulu-Natal,Suburban,36-50,Female,20-40k,50/50 Mbps,94
+KwaZulu-Natal,Suburban,36-50,Female,20-40k,100/100 Mbps,77
+KwaZulu-Natal,Suburban,36-50,Female,20-40k,200/200 Mbps,34
+KwaZulu-Natal,Suburban,36-50,Female,20-40k,500/500 Mbps,72
+KwaZulu-Natal,Suburban,36-50,Female,20-40k,1000/1000 Mbps,35
+KwaZulu-Natal,Suburban,36-50,Female,40k+,10/10 Mbps,32
+KwaZulu-Natal,Suburban,36-50,Female,40k+,50/50 Mbps,73
+KwaZulu-Natal,Suburban,36-50,Female,40k+,100/100 Mbps,35
+KwaZulu-Natal,Suburban,36-50,Female,40k+,200/200 Mbps,94
+KwaZulu-Natal,Suburban,36-50,Female,40k+,500/500 Mbps,29
+KwaZulu-Natal,Suburban,36-50,Female,40k+,1000/1000 Mbps,45
+KwaZulu-Natal,Suburban,36-50,Other,<10k,10/10 Mbps,63
+KwaZulu-Natal,Suburban,36-50,Other,<10k,50/50 Mbps,60
+KwaZulu-Natal,Suburban,36-50,Other,<10k,100/100 Mbps,50
+KwaZulu-Natal,Suburban,36-50,Other,<10k,200/200 Mbps,88
+KwaZulu-Natal,Suburban,36-50,Other,<10k,500/500 Mbps,43
+KwaZulu-Natal,Suburban,36-50,Other,<10k,1000/1000 Mbps,78
+KwaZulu-Natal,Suburban,36-50,Other,10-20k,10/10 Mbps,34
+KwaZulu-Natal,Suburban,36-50,Other,10-20k,50/50 Mbps,37
+KwaZulu-Natal,Suburban,36-50,Other,10-20k,100/100 Mbps,49
+KwaZulu-Natal,Suburban,36-50,Other,10-20k,200/200 Mbps,15
+KwaZulu-Natal,Suburban,36-50,Other,10-20k,500/500 Mbps,61
+KwaZulu-Natal,Suburban,36-50,Other,10-20k,1000/1000 Mbps,5
+KwaZulu-Natal,Suburban,36-50,Other,20-40k,10/10 Mbps,88
+KwaZulu-Natal,Suburban,36-50,Other,20-40k,50/50 Mbps,30
+KwaZulu-Natal,Suburban,36-50,Other,20-40k,100/100 Mbps,83
+KwaZulu-Natal,Suburban,36-50,Other,20-40k,200/200 Mbps,81
+KwaZulu-Natal,Suburban,36-50,Other,20-40k,500/500 Mbps,31
+KwaZulu-Natal,Suburban,36-50,Other,20-40k,1000/1000 Mbps,67
+KwaZulu-Natal,Suburban,36-50,Other,40k+,10/10 Mbps,62
+KwaZulu-Natal,Suburban,36-50,Other,40k+,50/50 Mbps,50
+KwaZulu-Natal,Suburban,36-50,Other,40k+,100/100 Mbps,84
+KwaZulu-Natal,Suburban,36-50,Other,40k+,200/200 Mbps,6
+KwaZulu-Natal,Suburban,36-50,Other,40k+,500/500 Mbps,73
+KwaZulu-Natal,Suburban,36-50,Other,40k+,1000/1000 Mbps,22
+KwaZulu-Natal,Suburban,51+,Male,<10k,10/10 Mbps,7
+KwaZulu-Natal,Suburban,51+,Male,<10k,50/50 Mbps,98
+KwaZulu-Natal,Suburban,51+,Male,<10k,100/100 Mbps,38
+KwaZulu-Natal,Suburban,51+,Male,<10k,200/200 Mbps,75
+KwaZulu-Natal,Suburban,51+,Male,<10k,500/500 Mbps,44
+KwaZulu-Natal,Suburban,51+,Male,<10k,1000/1000 Mbps,61
+KwaZulu-Natal,Suburban,51+,Male,10-20k,10/10 Mbps,26
+KwaZulu-Natal,Suburban,51+,Male,10-20k,50/50 Mbps,93
+KwaZulu-Natal,Suburban,51+,Male,10-20k,100/100 Mbps,58
+KwaZulu-Natal,Suburban,51+,Male,10-20k,200/200 Mbps,49
+KwaZulu-Natal,Suburban,51+,Male,10-20k,500/500 Mbps,88
+KwaZulu-Natal,Suburban,51+,Male,10-20k,1000/1000 Mbps,14
+KwaZulu-Natal,Suburban,51+,Male,20-40k,10/10 Mbps,29
+KwaZulu-Natal,Suburban,51+,Male,20-40k,50/50 Mbps,97
+KwaZulu-Natal,Suburban,51+,Male,20-40k,100/100 Mbps,56
+KwaZulu-Natal,Suburban,51+,Male,20-40k,200/200 Mbps,49
+KwaZulu-Natal,Suburban,51+,Male,20-40k,500/500 Mbps,95
+KwaZulu-Natal,Suburban,51+,Male,20-40k,1000/1000 Mbps,99
+KwaZulu-Natal,Suburban,51+,Male,40k+,10/10 Mbps,80
+KwaZulu-Natal,Suburban,51+,Male,40k+,50/50 Mbps,94
+KwaZulu-Natal,Suburban,51+,Male,40k+,100/100 Mbps,64
+KwaZulu-Natal,Suburban,51+,Male,40k+,200/200 Mbps,73
+KwaZulu-Natal,Suburban,51+,Male,40k+,500/500 Mbps,77
+KwaZulu-Natal,Suburban,51+,Male,40k+,1000/1000 Mbps,18
+KwaZulu-Natal,Suburban,51+,Female,<10k,10/10 Mbps,40
+KwaZulu-Natal,Suburban,51+,Female,<10k,50/50 Mbps,18
+KwaZulu-Natal,Suburban,51+,Female,<10k,100/100 Mbps,68
+KwaZulu-Natal,Suburban,51+,Female,<10k,200/200 Mbps,58
+KwaZulu-Natal,Suburban,51+,Female,<10k,500/500 Mbps,60
+KwaZulu-Natal,Suburban,51+,Female,<10k,1000/1000 Mbps,53
+KwaZulu-Natal,Suburban,51+,Female,10-20k,10/10 Mbps,33
+KwaZulu-Natal,Suburban,51+,Female,10-20k,50/50 Mbps,65
+KwaZulu-Natal,Suburban,51+,Female,10-20k,100/100 Mbps,65
+KwaZulu-Natal,Suburban,51+,Female,10-20k,200/200 Mbps,87
+KwaZulu-Natal,Suburban,51+,Female,10-20k,500/500 Mbps,24
+KwaZulu-Natal,Suburban,51+,Female,10-20k,1000/1000 Mbps,29
+KwaZulu-Natal,Suburban,51+,Female,20-40k,10/10 Mbps,16
+KwaZulu-Natal,Suburban,51+,Female,20-40k,50/50 Mbps,24
+KwaZulu-Natal,Suburban,51+,Female,20-40k,100/100 Mbps,62
+KwaZulu-Natal,Suburban,51+,Female,20-40k,200/200 Mbps,51
+KwaZulu-Natal,Suburban,51+,Female,20-40k,500/500 Mbps,68
+KwaZulu-Natal,Suburban,51+,Female,20-40k,1000/1000 Mbps,59
+KwaZulu-Natal,Suburban,51+,Female,40k+,10/10 Mbps,76
+KwaZulu-Natal,Suburban,51+,Female,40k+,50/50 Mbps,72
+KwaZulu-Natal,Suburban,51+,Female,40k+,100/100 Mbps,63
+KwaZulu-Natal,Suburban,51+,Female,40k+,200/200 Mbps,73
+KwaZulu-Natal,Suburban,51+,Female,40k+,500/500 Mbps,86
+KwaZulu-Natal,Suburban,51+,Female,40k+,1000/1000 Mbps,99
+KwaZulu-Natal,Suburban,51+,Other,<10k,10/10 Mbps,10
+KwaZulu-Natal,Suburban,51+,Other,<10k,50/50 Mbps,80
+KwaZulu-Natal,Suburban,51+,Other,<10k,100/100 Mbps,47
+KwaZulu-Natal,Suburban,51+,Other,<10k,200/200 Mbps,90
+KwaZulu-Natal,Suburban,51+,Other,<10k,500/500 Mbps,89
+KwaZulu-Natal,Suburban,51+,Other,<10k,1000/1000 Mbps,44
+KwaZulu-Natal,Suburban,51+,Other,10-20k,10/10 Mbps,46
+KwaZulu-Natal,Suburban,51+,Other,10-20k,50/50 Mbps,20
+KwaZulu-Natal,Suburban,51+,Other,10-20k,100/100 Mbps,49
+KwaZulu-Natal,Suburban,51+,Other,10-20k,200/200 Mbps,67
+KwaZulu-Natal,Suburban,51+,Other,10-20k,500/500 Mbps,68
+KwaZulu-Natal,Suburban,51+,Other,10-20k,1000/1000 Mbps,30
+KwaZulu-Natal,Suburban,51+,Other,20-40k,10/10 Mbps,58
+KwaZulu-Natal,Suburban,51+,Other,20-40k,50/50 Mbps,9
+KwaZulu-Natal,Suburban,51+,Other,20-40k,100/100 Mbps,29
+KwaZulu-Natal,Suburban,51+,Other,20-40k,200/200 Mbps,5
+KwaZulu-Natal,Suburban,51+,Other,20-40k,500/500 Mbps,71
+KwaZulu-Natal,Suburban,51+,Other,20-40k,1000/1000 Mbps,81
+KwaZulu-Natal,Suburban,51+,Other,40k+,10/10 Mbps,74
+KwaZulu-Natal,Suburban,51+,Other,40k+,50/50 Mbps,74
+KwaZulu-Natal,Suburban,51+,Other,40k+,100/100 Mbps,52
+KwaZulu-Natal,Suburban,51+,Other,40k+,200/200 Mbps,17
+KwaZulu-Natal,Suburban,51+,Other,40k+,500/500 Mbps,74
+KwaZulu-Natal,Suburban,51+,Other,40k+,1000/1000 Mbps,6
+KwaZulu-Natal,Rural,18-25,Male,<10k,10/10 Mbps,74
+KwaZulu-Natal,Rural,18-25,Male,<10k,50/50 Mbps,42
+KwaZulu-Natal,Rural,18-25,Male,<10k,100/100 Mbps,12
+KwaZulu-Natal,Rural,18-25,Male,<10k,200/200 Mbps,51
+KwaZulu-Natal,Rural,18-25,Male,<10k,500/500 Mbps,18
+KwaZulu-Natal,Rural,18-25,Male,<10k,1000/1000 Mbps,81
+KwaZulu-Natal,Rural,18-25,Male,10-20k,10/10 Mbps,44
+KwaZulu-Natal,Rural,18-25,Male,10-20k,50/50 Mbps,69
+KwaZulu-Natal,Rural,18-25,Male,10-20k,100/100 Mbps,21
+KwaZulu-Natal,Rural,18-25,Male,10-20k,200/200 Mbps,10
+KwaZulu-Natal,Rural,18-25,Male,10-20k,500/500 Mbps,17
+KwaZulu-Natal,Rural,18-25,Male,10-20k,1000/1000 Mbps,48
+KwaZulu-Natal,Rural,18-25,Male,20-40k,10/10 Mbps,48
+KwaZulu-Natal,Rural,18-25,Male,20-40k,50/50 Mbps,28
+KwaZulu-Natal,Rural,18-25,Male,20-40k,100/100 Mbps,9
+KwaZulu-Natal,Rural,18-25,Male,20-40k,200/200 Mbps,28
+KwaZulu-Natal,Rural,18-25,Male,20-40k,500/500 Mbps,93
+KwaZulu-Natal,Rural,18-25,Male,20-40k,1000/1000 Mbps,88
+KwaZulu-Natal,Rural,18-25,Male,40k+,10/10 Mbps,70
+KwaZulu-Natal,Rural,18-25,Male,40k+,50/50 Mbps,69
+KwaZulu-Natal,Rural,18-25,Male,40k+,100/100 Mbps,20
+KwaZulu-Natal,Rural,18-25,Male,40k+,200/200 Mbps,33
+KwaZulu-Natal,Rural,18-25,Male,40k+,500/500 Mbps,21
+KwaZulu-Natal,Rural,18-25,Male,40k+,1000/1000 Mbps,31
+KwaZulu-Natal,Rural,18-25,Female,<10k,10/10 Mbps,65
+KwaZulu-Natal,Rural,18-25,Female,<10k,50/50 Mbps,20
+KwaZulu-Natal,Rural,18-25,Female,<10k,100/100 Mbps,72
+KwaZulu-Natal,Rural,18-25,Female,<10k,200/200 Mbps,39
+KwaZulu-Natal,Rural,18-25,Female,<10k,500/500 Mbps,96
+KwaZulu-Natal,Rural,18-25,Female,<10k,1000/1000 Mbps,68
+KwaZulu-Natal,Rural,18-25,Female,10-20k,10/10 Mbps,45
+KwaZulu-Natal,Rural,18-25,Female,10-20k,50/50 Mbps,29
+KwaZulu-Natal,Rural,18-25,Female,10-20k,100/100 Mbps,57
+KwaZulu-Natal,Rural,18-25,Female,10-20k,200/200 Mbps,44
+KwaZulu-Natal,Rural,18-25,Female,10-20k,500/500 Mbps,9
+KwaZulu-Natal,Rural,18-25,Female,10-20k,1000/1000 Mbps,51
+KwaZulu-Natal,Rural,18-25,Female,20-40k,10/10 Mbps,41
+KwaZulu-Natal,Rural,18-25,Female,20-40k,50/50 Mbps,53
+KwaZulu-Natal,Rural,18-25,Female,20-40k,100/100 Mbps,24
+KwaZulu-Natal,Rural,18-25,Female,20-40k,200/200 Mbps,50
+KwaZulu-Natal,Rural,18-25,Female,20-40k,500/500 Mbps,45
+KwaZulu-Natal,Rural,18-25,Female,20-40k,1000/1000 Mbps,87
+KwaZulu-Natal,Rural,18-25,Female,40k+,10/10 Mbps,41
+KwaZulu-Natal,Rural,18-25,Female,40k+,50/50 Mbps,86
+KwaZulu-Natal,Rural,18-25,Female,40k+,100/100 Mbps,16
+KwaZulu-Natal,Rural,18-25,Female,40k+,200/200 Mbps,94
+KwaZulu-Natal,Rural,18-25,Female,40k+,500/500 Mbps,61
+KwaZulu-Natal,Rural,18-25,Female,40k+,1000/1000 Mbps,56
+KwaZulu-Natal,Rural,18-25,Other,<10k,10/10 Mbps,35
+KwaZulu-Natal,Rural,18-25,Other,<10k,50/50 Mbps,99
+KwaZulu-Natal,Rural,18-25,Other,<10k,100/100 Mbps,51
+KwaZulu-Natal,Rural,18-25,Other,<10k,200/200 Mbps,98
+KwaZulu-Natal,Rural,18-25,Other,<10k,500/500 Mbps,69
+KwaZulu-Natal,Rural,18-25,Other,<10k,1000/1000 Mbps,58
+KwaZulu-Natal,Rural,18-25,Other,10-20k,10/10 Mbps,15
+KwaZulu-Natal,Rural,18-25,Other,10-20k,50/50 Mbps,62
+KwaZulu-Natal,Rural,18-25,Other,10-20k,100/100 Mbps,55
+KwaZulu-Natal,Rural,18-25,Other,10-20k,200/200 Mbps,76
+KwaZulu-Natal,Rural,18-25,Other,10-20k,500/500 Mbps,99
+KwaZulu-Natal,Rural,18-25,Other,10-20k,1000/1000 Mbps,96
+KwaZulu-Natal,Rural,18-25,Other,20-40k,10/10 Mbps,64
+KwaZulu-Natal,Rural,18-25,Other,20-40k,50/50 Mbps,13
+KwaZulu-Natal,Rural,18-25,Other,20-40k,100/100 Mbps,66
+KwaZulu-Natal,Rural,18-25,Other,20-40k,200/200 Mbps,17
+KwaZulu-Natal,Rural,18-25,Other,20-40k,500/500 Mbps,61
+KwaZulu-Natal,Rural,18-25,Other,20-40k,1000/1000 Mbps,77
+KwaZulu-Natal,Rural,18-25,Other,40k+,10/10 Mbps,65
+KwaZulu-Natal,Rural,18-25,Other,40k+,50/50 Mbps,16
+KwaZulu-Natal,Rural,18-25,Other,40k+,100/100 Mbps,67
+KwaZulu-Natal,Rural,18-25,Other,40k+,200/200 Mbps,90
+KwaZulu-Natal,Rural,18-25,Other,40k+,500/500 Mbps,9
+KwaZulu-Natal,Rural,18-25,Other,40k+,1000/1000 Mbps,96
+KwaZulu-Natal,Rural,26-35,Male,<10k,10/10 Mbps,18
+KwaZulu-Natal,Rural,26-35,Male,<10k,50/50 Mbps,94
+KwaZulu-Natal,Rural,26-35,Male,<10k,100/100 Mbps,27
+KwaZulu-Natal,Rural,26-35,Male,<10k,200/200 Mbps,14
+KwaZulu-Natal,Rural,26-35,Male,<10k,500/500 Mbps,79
+KwaZulu-Natal,Rural,26-35,Male,<10k,1000/1000 Mbps,31
+KwaZulu-Natal,Rural,26-35,Male,10-20k,10/10 Mbps,21
+KwaZulu-Natal,Rural,26-35,Male,10-20k,50/50 Mbps,58
+KwaZulu-Natal,Rural,26-35,Male,10-20k,100/100 Mbps,92
+KwaZulu-Natal,Rural,26-35,Male,10-20k,200/200 Mbps,29
+KwaZulu-Natal,Rural,26-35,Male,10-20k,500/500 Mbps,83
+KwaZulu-Natal,Rural,26-35,Male,10-20k,1000/1000 Mbps,61
+KwaZulu-Natal,Rural,26-35,Male,20-40k,10/10 Mbps,5
+KwaZulu-Natal,Rural,26-35,Male,20-40k,50/50 Mbps,21
+KwaZulu-Natal,Rural,26-35,Male,20-40k,100/100 Mbps,81
+KwaZulu-Natal,Rural,26-35,Male,20-40k,200/200 Mbps,17
+KwaZulu-Natal,Rural,26-35,Male,20-40k,500/500 Mbps,40
+KwaZulu-Natal,Rural,26-35,Male,20-40k,1000/1000 Mbps,80
+KwaZulu-Natal,Rural,26-35,Male,40k+,10/10 Mbps,95
+KwaZulu-Natal,Rural,26-35,Male,40k+,50/50 Mbps,86
+KwaZulu-Natal,Rural,26-35,Male,40k+,100/100 Mbps,49
+KwaZulu-Natal,Rural,26-35,Male,40k+,200/200 Mbps,34
+KwaZulu-Natal,Rural,26-35,Male,40k+,500/500 Mbps,79
+KwaZulu-Natal,Rural,26-35,Male,40k+,1000/1000 Mbps,50
+KwaZulu-Natal,Rural,26-35,Female,<10k,10/10 Mbps,60
+KwaZulu-Natal,Rural,26-35,Female,<10k,50/50 Mbps,25
+KwaZulu-Natal,Rural,26-35,Female,<10k,100/100 Mbps,28
+KwaZulu-Natal,Rural,26-35,Female,<10k,200/200 Mbps,39
+KwaZulu-Natal,Rural,26-35,Female,<10k,500/500 Mbps,96
+KwaZulu-Natal,Rural,26-35,Female,<10k,1000/1000 Mbps,27
+KwaZulu-Natal,Rural,26-35,Female,10-20k,10/10 Mbps,50
+KwaZulu-Natal,Rural,26-35,Female,10-20k,50/50 Mbps,35
+KwaZulu-Natal,Rural,26-35,Female,10-20k,100/100 Mbps,16
+KwaZulu-Natal,Rural,26-35,Female,10-20k,200/200 Mbps,30
+KwaZulu-Natal,Rural,26-35,Female,10-20k,500/500 Mbps,27
+KwaZulu-Natal,Rural,26-35,Female,10-20k,1000/1000 Mbps,60
+KwaZulu-Natal,Rural,26-35,Female,20-40k,10/10 Mbps,33
+KwaZulu-Natal,Rural,26-35,Female,20-40k,50/50 Mbps,73
+KwaZulu-Natal,Rural,26-35,Female,20-40k,100/100 Mbps,15
+KwaZulu-Natal,Rural,26-35,Female,20-40k,200/200 Mbps,65
+KwaZulu-Natal,Rural,26-35,Female,20-40k,500/500 Mbps,98
+KwaZulu-Natal,Rural,26-35,Female,20-40k,1000/1000 Mbps,98
+KwaZulu-Natal,Rural,26-35,Female,40k+,10/10 Mbps,88
+KwaZulu-Natal,Rural,26-35,Female,40k+,50/50 Mbps,42
+KwaZulu-Natal,Rural,26-35,Female,40k+,100/100 Mbps,40
+KwaZulu-Natal,Rural,26-35,Female,40k+,200/200 Mbps,85
+KwaZulu-Natal,Rural,26-35,Female,40k+,500/500 Mbps,75
+KwaZulu-Natal,Rural,26-35,Female,40k+,1000/1000 Mbps,80
+KwaZulu-Natal,Rural,26-35,Other,<10k,10/10 Mbps,92
+KwaZulu-Natal,Rural,26-35,Other,<10k,50/50 Mbps,30
+KwaZulu-Natal,Rural,26-35,Other,<10k,100/100 Mbps,18
+KwaZulu-Natal,Rural,26-35,Other,<10k,200/200 Mbps,59
+KwaZulu-Natal,Rural,26-35,Other,<10k,500/500 Mbps,52
+KwaZulu-Natal,Rural,26-35,Other,<10k,1000/1000 Mbps,40
+KwaZulu-Natal,Rural,26-35,Other,10-20k,10/10 Mbps,21
+KwaZulu-Natal,Rural,26-35,Other,10-20k,50/50 Mbps,69
+KwaZulu-Natal,Rural,26-35,Other,10-20k,100/100 Mbps,40
+KwaZulu-Natal,Rural,26-35,Other,10-20k,200/200 Mbps,77
+KwaZulu-Natal,Rural,26-35,Other,10-20k,500/500 Mbps,64
+KwaZulu-Natal,Rural,26-35,Other,10-20k,1000/1000 Mbps,52
+KwaZulu-Natal,Rural,26-35,Other,20-40k,10/10 Mbps,8
+KwaZulu-Natal,Rural,26-35,Other,20-40k,50/50 Mbps,14
+KwaZulu-Natal,Rural,26-35,Other,20-40k,100/100 Mbps,58
+KwaZulu-Natal,Rural,26-35,Other,20-40k,200/200 Mbps,21
+KwaZulu-Natal,Rural,26-35,Other,20-40k,500/500 Mbps,22
+KwaZulu-Natal,Rural,26-35,Other,20-40k,1000/1000 Mbps,88
+KwaZulu-Natal,Rural,26-35,Other,40k+,10/10 Mbps,47
+KwaZulu-Natal,Rural,26-35,Other,40k+,50/50 Mbps,95
+KwaZulu-Natal,Rural,26-35,Other,40k+,100/100 Mbps,23
+KwaZulu-Natal,Rural,26-35,Other,40k+,200/200 Mbps,74
+KwaZulu-Natal,Rural,26-35,Other,40k+,500/500 Mbps,90
+KwaZulu-Natal,Rural,26-35,Other,40k+,1000/1000 Mbps,45
+KwaZulu-Natal,Rural,36-50,Male,<10k,10/10 Mbps,81
+KwaZulu-Natal,Rural,36-50,Male,<10k,50/50 Mbps,63
+KwaZulu-Natal,Rural,36-50,Male,<10k,100/100 Mbps,84
+KwaZulu-Natal,Rural,36-50,Male,<10k,200/200 Mbps,89
+KwaZulu-Natal,Rural,36-50,Male,<10k,500/500 Mbps,91
+KwaZulu-Natal,Rural,36-50,Male,<10k,1000/1000 Mbps,29
+KwaZulu-Natal,Rural,36-50,Male,10-20k,10/10 Mbps,88
+KwaZulu-Natal,Rural,36-50,Male,10-20k,50/50 Mbps,44
+KwaZulu-Natal,Rural,36-50,Male,10-20k,100/100 Mbps,51
+KwaZulu-Natal,Rural,36-50,Male,10-20k,200/200 Mbps,94
+KwaZulu-Natal,Rural,36-50,Male,10-20k,500/500 Mbps,34
+KwaZulu-Natal,Rural,36-50,Male,10-20k,1000/1000 Mbps,12
+KwaZulu-Natal,Rural,36-50,Male,20-40k,10/10 Mbps,61
+KwaZulu-Natal,Rural,36-50,Male,20-40k,50/50 Mbps,18
+KwaZulu-Natal,Rural,36-50,Male,20-40k,100/100 Mbps,71
+KwaZulu-Natal,Rural,36-50,Male,20-40k,200/200 Mbps,34
+KwaZulu-Natal,Rural,36-50,Male,20-40k,500/500 Mbps,65
+KwaZulu-Natal,Rural,36-50,Male,20-40k,1000/1000 Mbps,75
+KwaZulu-Natal,Rural,36-50,Male,40k+,10/10 Mbps,86
+KwaZulu-Natal,Rural,36-50,Male,40k+,50/50 Mbps,68
+KwaZulu-Natal,Rural,36-50,Male,40k+,100/100 Mbps,41
+KwaZulu-Natal,Rural,36-50,Male,40k+,200/200 Mbps,82
+KwaZulu-Natal,Rural,36-50,Male,40k+,500/500 Mbps,80
+KwaZulu-Natal,Rural,36-50,Male,40k+,1000/1000 Mbps,69
+KwaZulu-Natal,Rural,36-50,Female,<10k,10/10 Mbps,76
+KwaZulu-Natal,Rural,36-50,Female,<10k,50/50 Mbps,32
+KwaZulu-Natal,Rural,36-50,Female,<10k,100/100 Mbps,89
+KwaZulu-Natal,Rural,36-50,Female,<10k,200/200 Mbps,35
+KwaZulu-Natal,Rural,36-50,Female,<10k,500/500 Mbps,21
+KwaZulu-Natal,Rural,36-50,Female,<10k,1000/1000 Mbps,63
+KwaZulu-Natal,Rural,36-50,Female,10-20k,10/10 Mbps,35
+KwaZulu-Natal,Rural,36-50,Female,10-20k,50/50 Mbps,32
+KwaZulu-Natal,Rural,36-50,Female,10-20k,100/100 Mbps,13
+KwaZulu-Natal,Rural,36-50,Female,10-20k,200/200 Mbps,30
+KwaZulu-Natal,Rural,36-50,Female,10-20k,500/500 Mbps,30
+KwaZulu-Natal,Rural,36-50,Female,10-20k,1000/1000 Mbps,51
+KwaZulu-Natal,Rural,36-50,Female,20-40k,10/10 Mbps,21
+KwaZulu-Natal,Rural,36-50,Female,20-40k,50/50 Mbps,95
+KwaZulu-Natal,Rural,36-50,Female,20-40k,100/100 Mbps,93
+KwaZulu-Natal,Rural,36-50,Female,20-40k,200/200 Mbps,33
+KwaZulu-Natal,Rural,36-50,Female,20-40k,500/500 Mbps,5
+KwaZulu-Natal,Rural,36-50,Female,20-40k,1000/1000 Mbps,19
+KwaZulu-Natal,Rural,36-50,Female,40k+,10/10 Mbps,75
+KwaZulu-Natal,Rural,36-50,Female,40k+,50/50 Mbps,72
+KwaZulu-Natal,Rural,36-50,Female,40k+,100/100 Mbps,8
+KwaZulu-Natal,Rural,36-50,Female,40k+,200/200 Mbps,34
+KwaZulu-Natal,Rural,36-50,Female,40k+,500/500 Mbps,77
+KwaZulu-Natal,Rural,36-50,Female,40k+,1000/1000 Mbps,28
+KwaZulu-Natal,Rural,36-50,Other,<10k,10/10 Mbps,16
+KwaZulu-Natal,Rural,36-50,Other,<10k,50/50 Mbps,67
+KwaZulu-Natal,Rural,36-50,Other,<10k,100/100 Mbps,60
+KwaZulu-Natal,Rural,36-50,Other,<10k,200/200 Mbps,83
+KwaZulu-Natal,Rural,36-50,Other,<10k,500/500 Mbps,17
+KwaZulu-Natal,Rural,36-50,Other,<10k,1000/1000 Mbps,81
+KwaZulu-Natal,Rural,36-50,Other,10-20k,10/10 Mbps,47
+KwaZulu-Natal,Rural,36-50,Other,10-20k,50/50 Mbps,67
+KwaZulu-Natal,Rural,36-50,Other,10-20k,100/100 Mbps,87
+KwaZulu-Natal,Rural,36-50,Other,10-20k,200/200 Mbps,91
+KwaZulu-Natal,Rural,36-50,Other,10-20k,500/500 Mbps,11
+KwaZulu-Natal,Rural,36-50,Other,10-20k,1000/1000 Mbps,69
+KwaZulu-Natal,Rural,36-50,Other,20-40k,10/10 Mbps,63
+KwaZulu-Natal,Rural,36-50,Other,20-40k,50/50 Mbps,64
+KwaZulu-Natal,Rural,36-50,Other,20-40k,100/100 Mbps,42
+KwaZulu-Natal,Rural,36-50,Other,20-40k,200/200 Mbps,83
+KwaZulu-Natal,Rural,36-50,Other,20-40k,500/500 Mbps,29
+KwaZulu-Natal,Rural,36-50,Other,20-40k,1000/1000 Mbps,39
+KwaZulu-Natal,Rural,36-50,Other,40k+,10/10 Mbps,50
+KwaZulu-Natal,Rural,36-50,Other,40k+,50/50 Mbps,49
+KwaZulu-Natal,Rural,36-50,Other,40k+,100/100 Mbps,9
+KwaZulu-Natal,Rural,36-50,Other,40k+,200/200 Mbps,77
+KwaZulu-Natal,Rural,36-50,Other,40k+,500/500 Mbps,39
+KwaZulu-Natal,Rural,36-50,Other,40k+,1000/1000 Mbps,44
+KwaZulu-Natal,Rural,51+,Male,<10k,10/10 Mbps,99
+KwaZulu-Natal,Rural,51+,Male,<10k,50/50 Mbps,22
+KwaZulu-Natal,Rural,51+,Male,<10k,100/100 Mbps,85
+KwaZulu-Natal,Rural,51+,Male,<10k,200/200 Mbps,56
+KwaZulu-Natal,Rural,51+,Male,<10k,500/500 Mbps,61
+KwaZulu-Natal,Rural,51+,Male,<10k,1000/1000 Mbps,57
+KwaZulu-Natal,Rural,51+,Male,10-20k,10/10 Mbps,52
+KwaZulu-Natal,Rural,51+,Male,10-20k,50/50 Mbps,48
+KwaZulu-Natal,Rural,51+,Male,10-20k,100/100 Mbps,48
+KwaZulu-Natal,Rural,51+,Male,10-20k,200/200 Mbps,99
+KwaZulu-Natal,Rural,51+,Male,10-20k,500/500 Mbps,36
+KwaZulu-Natal,Rural,51+,Male,10-20k,1000/1000 Mbps,73
+KwaZulu-Natal,Rural,51+,Male,20-40k,10/10 Mbps,67
+KwaZulu-Natal,Rural,51+,Male,20-40k,50/50 Mbps,65
+KwaZulu-Natal,Rural,51+,Male,20-40k,100/100 Mbps,29
+KwaZulu-Natal,Rural,51+,Male,20-40k,200/200 Mbps,23
+KwaZulu-Natal,Rural,51+,Male,20-40k,500/500 Mbps,48
+KwaZulu-Natal,Rural,51+,Male,20-40k,1000/1000 Mbps,96
+KwaZulu-Natal,Rural,51+,Male,40k+,10/10 Mbps,91
+KwaZulu-Natal,Rural,51+,Male,40k+,50/50 Mbps,41
+KwaZulu-Natal,Rural,51+,Male,40k+,100/100 Mbps,91
+KwaZulu-Natal,Rural,51+,Male,40k+,200/200 Mbps,41
+KwaZulu-Natal,Rural,51+,Male,40k+,500/500 Mbps,47
+KwaZulu-Natal,Rural,51+,Male,40k+,1000/1000 Mbps,32
+KwaZulu-Natal,Rural,51+,Female,<10k,10/10 Mbps,80
+KwaZulu-Natal,Rural,51+,Female,<10k,50/50 Mbps,38
+KwaZulu-Natal,Rural,51+,Female,<10k,100/100 Mbps,31
+KwaZulu-Natal,Rural,51+,Female,<10k,200/200 Mbps,89
+KwaZulu-Natal,Rural,51+,Female,<10k,500/500 Mbps,15
+KwaZulu-Natal,Rural,51+,Female,<10k,1000/1000 Mbps,81
+KwaZulu-Natal,Rural,51+,Female,10-20k,10/10 Mbps,23
+KwaZulu-Natal,Rural,51+,Female,10-20k,50/50 Mbps,94
+KwaZulu-Natal,Rural,51+,Female,10-20k,100/100 Mbps,16
+KwaZulu-Natal,Rural,51+,Female,10-20k,200/200 Mbps,9
+KwaZulu-Natal,Rural,51+,Female,10-20k,500/500 Mbps,27
+KwaZulu-Natal,Rural,51+,Female,10-20k,1000/1000 Mbps,7
+KwaZulu-Natal,Rural,51+,Female,20-40k,10/10 Mbps,13
+KwaZulu-Natal,Rural,51+,Female,20-40k,50/50 Mbps,48
+KwaZulu-Natal,Rural,51+,Female,20-40k,100/100 Mbps,65
+KwaZulu-Natal,Rural,51+,Female,20-40k,200/200 Mbps,31
+KwaZulu-Natal,Rural,51+,Female,20-40k,500/500 Mbps,68
+KwaZulu-Natal,Rural,51+,Female,20-40k,1000/1000 Mbps,68
+KwaZulu-Natal,Rural,51+,Female,40k+,10/10 Mbps,8
+KwaZulu-Natal,Rural,51+,Female,40k+,50/50 Mbps,95
+KwaZulu-Natal,Rural,51+,Female,40k+,100/100 Mbps,32
+KwaZulu-Natal,Rural,51+,Female,40k+,200/200 Mbps,95
+KwaZulu-Natal,Rural,51+,Female,40k+,500/500 Mbps,26
+KwaZulu-Natal,Rural,51+,Female,40k+,1000/1000 Mbps,62
+KwaZulu-Natal,Rural,51+,Other,<10k,10/10 Mbps,33
+KwaZulu-Natal,Rural,51+,Other,<10k,50/50 Mbps,55
+KwaZulu-Natal,Rural,51+,Other,<10k,100/100 Mbps,29
+KwaZulu-Natal,Rural,51+,Other,<10k,200/200 Mbps,23
+KwaZulu-Natal,Rural,51+,Other,<10k,500/500 Mbps,73
+KwaZulu-Natal,Rural,51+,Other,<10k,1000/1000 Mbps,81
+KwaZulu-Natal,Rural,51+,Other,10-20k,10/10 Mbps,36
+KwaZulu-Natal,Rural,51+,Other,10-20k,50/50 Mbps,23
+KwaZulu-Natal,Rural,51+,Other,10-20k,100/100 Mbps,84
+KwaZulu-Natal,Rural,51+,Other,10-20k,200/200 Mbps,81
+KwaZulu-Natal,Rural,51+,Other,10-20k,500/500 Mbps,93
+KwaZulu-Natal,Rural,51+,Other,10-20k,1000/1000 Mbps,70
+KwaZulu-Natal,Rural,51+,Other,20-40k,10/10 Mbps,47
+KwaZulu-Natal,Rural,51+,Other,20-40k,50/50 Mbps,40
+KwaZulu-Natal,Rural,51+,Other,20-40k,100/100 Mbps,41
+KwaZulu-Natal,Rural,51+,Other,20-40k,200/200 Mbps,81
+KwaZulu-Natal,Rural,51+,Other,20-40k,500/500 Mbps,22
+KwaZulu-Natal,Rural,51+,Other,20-40k,1000/1000 Mbps,13
+KwaZulu-Natal,Rural,51+,Other,40k+,10/10 Mbps,45
+KwaZulu-Natal,Rural,51+,Other,40k+,50/50 Mbps,19
+KwaZulu-Natal,Rural,51+,Other,40k+,100/100 Mbps,38
+KwaZulu-Natal,Rural,51+,Other,40k+,200/200 Mbps,48
+KwaZulu-Natal,Rural,51+,Other,40k+,500/500 Mbps,96
+KwaZulu-Natal,Rural,51+,Other,40k+,1000/1000 Mbps,95
+Eastern Cape,Urban,18-25,Male,<10k,10/10 Mbps,76
+Eastern Cape,Urban,18-25,Male,<10k,50/50 Mbps,45
+Eastern Cape,Urban,18-25,Male,<10k,100/100 Mbps,28
+Eastern Cape,Urban,18-25,Male,<10k,200/200 Mbps,98
+Eastern Cape,Urban,18-25,Male,<10k,500/500 Mbps,25
+Eastern Cape,Urban,18-25,Male,<10k,1000/1000 Mbps,77
+Eastern Cape,Urban,18-25,Male,10-20k,10/10 Mbps,30
+Eastern Cape,Urban,18-25,Male,10-20k,50/50 Mbps,36
+Eastern Cape,Urban,18-25,Male,10-20k,100/100 Mbps,43
+Eastern Cape,Urban,18-25,Male,10-20k,200/200 Mbps,93
+Eastern Cape,Urban,18-25,Male,10-20k,500/500 Mbps,19
+Eastern Cape,Urban,18-25,Male,10-20k,1000/1000 Mbps,61
+Eastern Cape,Urban,18-25,Male,20-40k,10/10 Mbps,72
+Eastern Cape,Urban,18-25,Male,20-40k,50/50 Mbps,15
+Eastern Cape,Urban,18-25,Male,20-40k,100/100 Mbps,61
+Eastern Cape,Urban,18-25,Male,20-40k,200/200 Mbps,24
+Eastern Cape,Urban,18-25,Male,20-40k,500/500 Mbps,99
+Eastern Cape,Urban,18-25,Male,20-40k,1000/1000 Mbps,39
+Eastern Cape,Urban,18-25,Male,40k+,10/10 Mbps,51
+Eastern Cape,Urban,18-25,Male,40k+,50/50 Mbps,79
+Eastern Cape,Urban,18-25,Male,40k+,100/100 Mbps,29
+Eastern Cape,Urban,18-25,Male,40k+,200/200 Mbps,75
+Eastern Cape,Urban,18-25,Male,40k+,500/500 Mbps,73
+Eastern Cape,Urban,18-25,Male,40k+,1000/1000 Mbps,48
+Eastern Cape,Urban,18-25,Female,<10k,10/10 Mbps,73
+Eastern Cape,Urban,18-25,Female,<10k,50/50 Mbps,50
+Eastern Cape,Urban,18-25,Female,<10k,100/100 Mbps,75
+Eastern Cape,Urban,18-25,Female,<10k,200/200 Mbps,79
+Eastern Cape,Urban,18-25,Female,<10k,500/500 Mbps,56
+Eastern Cape,Urban,18-25,Female,<10k,1000/1000 Mbps,45
+Eastern Cape,Urban,18-25,Female,10-20k,10/10 Mbps,60
+Eastern Cape,Urban,18-25,Female,10-20k,50/50 Mbps,11
+Eastern Cape,Urban,18-25,Female,10-20k,100/100 Mbps,18
+Eastern Cape,Urban,18-25,Female,10-20k,200/200 Mbps,61
+Eastern Cape,Urban,18-25,Female,10-20k,500/500 Mbps,89
+Eastern Cape,Urban,18-25,Female,10-20k,1000/1000 Mbps,72
+Eastern Cape,Urban,18-25,Female,20-40k,10/10 Mbps,20
+Eastern Cape,Urban,18-25,Female,20-40k,50/50 Mbps,18
+Eastern Cape,Urban,18-25,Female,20-40k,100/100 Mbps,56
+Eastern Cape,Urban,18-25,Female,20-40k,200/200 Mbps,58
+Eastern Cape,Urban,18-25,Female,20-40k,500/500 Mbps,84
+Eastern Cape,Urban,18-25,Female,20-40k,1000/1000 Mbps,98
+Eastern Cape,Urban,18-25,Female,40k+,10/10 Mbps,34
+Eastern Cape,Urban,18-25,Female,40k+,50/50 Mbps,44
+Eastern Cape,Urban,18-25,Female,40k+,100/100 Mbps,77
+Eastern Cape,Urban,18-25,Female,40k+,200/200 Mbps,7
+Eastern Cape,Urban,18-25,Female,40k+,500/500 Mbps,71
+Eastern Cape,Urban,18-25,Female,40k+,1000/1000 Mbps,32
+Eastern Cape,Urban,18-25,Other,<10k,10/10 Mbps,11
+Eastern Cape,Urban,18-25,Other,<10k,50/50 Mbps,71
+Eastern Cape,Urban,18-25,Other,<10k,100/100 Mbps,66
+Eastern Cape,Urban,18-25,Other,<10k,200/200 Mbps,41
+Eastern Cape,Urban,18-25,Other,<10k,500/500 Mbps,95
+Eastern Cape,Urban,18-25,Other,<10k,1000/1000 Mbps,29
+Eastern Cape,Urban,18-25,Other,10-20k,10/10 Mbps,35
+Eastern Cape,Urban,18-25,Other,10-20k,50/50 Mbps,15
+Eastern Cape,Urban,18-25,Other,10-20k,100/100 Mbps,6
+Eastern Cape,Urban,18-25,Other,10-20k,200/200 Mbps,57
+Eastern Cape,Urban,18-25,Other,10-20k,500/500 Mbps,60
+Eastern Cape,Urban,18-25,Other,10-20k,1000/1000 Mbps,29
+Eastern Cape,Urban,18-25,Other,20-40k,10/10 Mbps,42
+Eastern Cape,Urban,18-25,Other,20-40k,50/50 Mbps,85
+Eastern Cape,Urban,18-25,Other,20-40k,100/100 Mbps,28
+Eastern Cape,Urban,18-25,Other,20-40k,200/200 Mbps,6
+Eastern Cape,Urban,18-25,Other,20-40k,500/500 Mbps,7
+Eastern Cape,Urban,18-25,Other,20-40k,1000/1000 Mbps,56
+Eastern Cape,Urban,18-25,Other,40k+,10/10 Mbps,17
+Eastern Cape,Urban,18-25,Other,40k+,50/50 Mbps,82
+Eastern Cape,Urban,18-25,Other,40k+,100/100 Mbps,69
+Eastern Cape,Urban,18-25,Other,40k+,200/200 Mbps,7
+Eastern Cape,Urban,18-25,Other,40k+,500/500 Mbps,7
+Eastern Cape,Urban,18-25,Other,40k+,1000/1000 Mbps,83
+Eastern Cape,Urban,26-35,Male,<10k,10/10 Mbps,75
+Eastern Cape,Urban,26-35,Male,<10k,50/50 Mbps,89
+Eastern Cape,Urban,26-35,Male,<10k,100/100 Mbps,37
+Eastern Cape,Urban,26-35,Male,<10k,200/200 Mbps,92
+Eastern Cape,Urban,26-35,Male,<10k,500/500 Mbps,92
+Eastern Cape,Urban,26-35,Male,<10k,1000/1000 Mbps,5
+Eastern Cape,Urban,26-35,Male,10-20k,10/10 Mbps,67
+Eastern Cape,Urban,26-35,Male,10-20k,50/50 Mbps,74
+Eastern Cape,Urban,26-35,Male,10-20k,100/100 Mbps,27
+Eastern Cape,Urban,26-35,Male,10-20k,200/200 Mbps,71
+Eastern Cape,Urban,26-35,Male,10-20k,500/500 Mbps,20
+Eastern Cape,Urban,26-35,Male,10-20k,1000/1000 Mbps,73
+Eastern Cape,Urban,26-35,Male,20-40k,10/10 Mbps,77
+Eastern Cape,Urban,26-35,Male,20-40k,50/50 Mbps,82
+Eastern Cape,Urban,26-35,Male,20-40k,100/100 Mbps,13
+Eastern Cape,Urban,26-35,Male,20-40k,200/200 Mbps,56
+Eastern Cape,Urban,26-35,Male,20-40k,500/500 Mbps,12
+Eastern Cape,Urban,26-35,Male,20-40k,1000/1000 Mbps,91
+Eastern Cape,Urban,26-35,Male,40k+,10/10 Mbps,27
+Eastern Cape,Urban,26-35,Male,40k+,50/50 Mbps,12
+Eastern Cape,Urban,26-35,Male,40k+,100/100 Mbps,16
+Eastern Cape,Urban,26-35,Male,40k+,200/200 Mbps,80
+Eastern Cape,Urban,26-35,Male,40k+,500/500 Mbps,62
+Eastern Cape,Urban,26-35,Male,40k+,1000/1000 Mbps,96
+Eastern Cape,Urban,26-35,Female,<10k,10/10 Mbps,52
+Eastern Cape,Urban,26-35,Female,<10k,50/50 Mbps,64
+Eastern Cape,Urban,26-35,Female,<10k,100/100 Mbps,96
+Eastern Cape,Urban,26-35,Female,<10k,200/200 Mbps,79
+Eastern Cape,Urban,26-35,Female,<10k,500/500 Mbps,6
+Eastern Cape,Urban,26-35,Female,<10k,1000/1000 Mbps,55
+Eastern Cape,Urban,26-35,Female,10-20k,10/10 Mbps,69
+Eastern Cape,Urban,26-35,Female,10-20k,50/50 Mbps,53
+Eastern Cape,Urban,26-35,Female,10-20k,100/100 Mbps,35
+Eastern Cape,Urban,26-35,Female,10-20k,200/200 Mbps,99
+Eastern Cape,Urban,26-35,Female,10-20k,500/500 Mbps,99
+Eastern Cape,Urban,26-35,Female,10-20k,1000/1000 Mbps,95
+Eastern Cape,Urban,26-35,Female,20-40k,10/10 Mbps,46
+Eastern Cape,Urban,26-35,Female,20-40k,50/50 Mbps,75
+Eastern Cape,Urban,26-35,Female,20-40k,100/100 Mbps,89
+Eastern Cape,Urban,26-35,Female,20-40k,200/200 Mbps,44
+Eastern Cape,Urban,26-35,Female,20-40k,500/500 Mbps,66
+Eastern Cape,Urban,26-35,Female,20-40k,1000/1000 Mbps,87
+Eastern Cape,Urban,26-35,Female,40k+,10/10 Mbps,64
+Eastern Cape,Urban,26-35,Female,40k+,50/50 Mbps,85
+Eastern Cape,Urban,26-35,Female,40k+,100/100 Mbps,61
+Eastern Cape,Urban,26-35,Female,40k+,200/200 Mbps,67
+Eastern Cape,Urban,26-35,Female,40k+,500/500 Mbps,46
+Eastern Cape,Urban,26-35,Female,40k+,1000/1000 Mbps,89
+Eastern Cape,Urban,26-35,Other,<10k,10/10 Mbps,90
+Eastern Cape,Urban,26-35,Other,<10k,50/50 Mbps,34
+Eastern Cape,Urban,26-35,Other,<10k,100/100 Mbps,9
+Eastern Cape,Urban,26-35,Other,<10k,200/200 Mbps,81
+Eastern Cape,Urban,26-35,Other,<10k,500/500 Mbps,14
+Eastern Cape,Urban,26-35,Other,<10k,1000/1000 Mbps,67
+Eastern Cape,Urban,26-35,Other,10-20k,10/10 Mbps,72
+Eastern Cape,Urban,26-35,Other,10-20k,50/50 Mbps,10
+Eastern Cape,Urban,26-35,Other,10-20k,100/100 Mbps,77
+Eastern Cape,Urban,26-35,Other,10-20k,200/200 Mbps,93
+Eastern Cape,Urban,26-35,Other,10-20k,500/500 Mbps,80
+Eastern Cape,Urban,26-35,Other,10-20k,1000/1000 Mbps,69
+Eastern Cape,Urban,26-35,Other,20-40k,10/10 Mbps,58
+Eastern Cape,Urban,26-35,Other,20-40k,50/50 Mbps,47
+Eastern Cape,Urban,26-35,Other,20-40k,100/100 Mbps,62
+Eastern Cape,Urban,26-35,Other,20-40k,200/200 Mbps,90
+Eastern Cape,Urban,26-35,Other,20-40k,500/500 Mbps,47
+Eastern Cape,Urban,26-35,Other,20-40k,1000/1000 Mbps,99
+Eastern Cape,Urban,26-35,Other,40k+,10/10 Mbps,97
+Eastern Cape,Urban,26-35,Other,40k+,50/50 Mbps,86
+Eastern Cape,Urban,26-35,Other,40k+,100/100 Mbps,76
+Eastern Cape,Urban,26-35,Other,40k+,200/200 Mbps,34
+Eastern Cape,Urban,26-35,Other,40k+,500/500 Mbps,38
+Eastern Cape,Urban,26-35,Other,40k+,1000/1000 Mbps,82
+Eastern Cape,Urban,36-50,Male,<10k,10/10 Mbps,32
+Eastern Cape,Urban,36-50,Male,<10k,50/50 Mbps,39
+Eastern Cape,Urban,36-50,Male,<10k,100/100 Mbps,5
+Eastern Cape,Urban,36-50,Male,<10k,200/200 Mbps,65
+Eastern Cape,Urban,36-50,Male,<10k,500/500 Mbps,85
+Eastern Cape,Urban,36-50,Male,<10k,1000/1000 Mbps,64
+Eastern Cape,Urban,36-50,Male,10-20k,10/10 Mbps,17
+Eastern Cape,Urban,36-50,Male,10-20k,50/50 Mbps,26
+Eastern Cape,Urban,36-50,Male,10-20k,100/100 Mbps,5
+Eastern Cape,Urban,36-50,Male,10-20k,200/200 Mbps,49
+Eastern Cape,Urban,36-50,Male,10-20k,500/500 Mbps,20
+Eastern Cape,Urban,36-50,Male,10-20k,1000/1000 Mbps,61
+Eastern Cape,Urban,36-50,Male,20-40k,10/10 Mbps,16
+Eastern Cape,Urban,36-50,Male,20-40k,50/50 Mbps,76
+Eastern Cape,Urban,36-50,Male,20-40k,100/100 Mbps,48
+Eastern Cape,Urban,36-50,Male,20-40k,200/200 Mbps,55
+Eastern Cape,Urban,36-50,Male,20-40k,500/500 Mbps,93
+Eastern Cape,Urban,36-50,Male,20-40k,1000/1000 Mbps,64
+Eastern Cape,Urban,36-50,Male,40k+,10/10 Mbps,65
+Eastern Cape,Urban,36-50,Male,40k+,50/50 Mbps,6
+Eastern Cape,Urban,36-50,Male,40k+,100/100 Mbps,20
+Eastern Cape,Urban,36-50,Male,40k+,200/200 Mbps,91
+Eastern Cape,Urban,36-50,Male,40k+,500/500 Mbps,62
+Eastern Cape,Urban,36-50,Male,40k+,1000/1000 Mbps,94
+Eastern Cape,Urban,36-50,Female,<10k,10/10 Mbps,44
+Eastern Cape,Urban,36-50,Female,<10k,50/50 Mbps,33
+Eastern Cape,Urban,36-50,Female,<10k,100/100 Mbps,79
+Eastern Cape,Urban,36-50,Female,<10k,200/200 Mbps,13
+Eastern Cape,Urban,36-50,Female,<10k,500/500 Mbps,33
+Eastern Cape,Urban,36-50,Female,<10k,1000/1000 Mbps,57
+Eastern Cape,Urban,36-50,Female,10-20k,10/10 Mbps,14
+Eastern Cape,Urban,36-50,Female,10-20k,50/50 Mbps,17
+Eastern Cape,Urban,36-50,Female,10-20k,100/100 Mbps,36
+Eastern Cape,Urban,36-50,Female,10-20k,200/200 Mbps,82
+Eastern Cape,Urban,36-50,Female,10-20k,500/500 Mbps,75
+Eastern Cape,Urban,36-50,Female,10-20k,1000/1000 Mbps,22
+Eastern Cape,Urban,36-50,Female,20-40k,10/10 Mbps,46
+Eastern Cape,Urban,36-50,Female,20-40k,50/50 Mbps,22
+Eastern Cape,Urban,36-50,Female,20-40k,100/100 Mbps,98
+Eastern Cape,Urban,36-50,Female,20-40k,200/200 Mbps,86
+Eastern Cape,Urban,36-50,Female,20-40k,500/500 Mbps,36
+Eastern Cape,Urban,36-50,Female,20-40k,1000/1000 Mbps,54
+Eastern Cape,Urban,36-50,Female,40k+,10/10 Mbps,91
+Eastern Cape,Urban,36-50,Female,40k+,50/50 Mbps,47
+Eastern Cape,Urban,36-50,Female,40k+,100/100 Mbps,57
+Eastern Cape,Urban,36-50,Female,40k+,200/200 Mbps,67
+Eastern Cape,Urban,36-50,Female,40k+,500/500 Mbps,22
+Eastern Cape,Urban,36-50,Female,40k+,1000/1000 Mbps,37
+Eastern Cape,Urban,36-50,Other,<10k,10/10 Mbps,52
+Eastern Cape,Urban,36-50,Other,<10k,50/50 Mbps,18
+Eastern Cape,Urban,36-50,Other,<10k,100/100 Mbps,63
+Eastern Cape,Urban,36-50,Other,<10k,200/200 Mbps,19
+Eastern Cape,Urban,36-50,Other,<10k,500/500 Mbps,24
+Eastern Cape,Urban,36-50,Other,<10k,1000/1000 Mbps,33
+Eastern Cape,Urban,36-50,Other,10-20k,10/10 Mbps,73
+Eastern Cape,Urban,36-50,Other,10-20k,50/50 Mbps,54
+Eastern Cape,Urban,36-50,Other,10-20k,100/100 Mbps,57
+Eastern Cape,Urban,36-50,Other,10-20k,200/200 Mbps,54
+Eastern Cape,Urban,36-50,Other,10-20k,500/500 Mbps,18
+Eastern Cape,Urban,36-50,Other,10-20k,1000/1000 Mbps,96
+Eastern Cape,Urban,36-50,Other,20-40k,10/10 Mbps,7
+Eastern Cape,Urban,36-50,Other,20-40k,50/50 Mbps,83
+Eastern Cape,Urban,36-50,Other,20-40k,100/100 Mbps,75
+Eastern Cape,Urban,36-50,Other,20-40k,200/200 Mbps,23
+Eastern Cape,Urban,36-50,Other,20-40k,500/500 Mbps,68
+Eastern Cape,Urban,36-50,Other,20-40k,1000/1000 Mbps,45
+Eastern Cape,Urban,36-50,Other,40k+,10/10 Mbps,50
+Eastern Cape,Urban,36-50,Other,40k+,50/50 Mbps,23
+Eastern Cape,Urban,36-50,Other,40k+,100/100 Mbps,93
+Eastern Cape,Urban,36-50,Other,40k+,200/200 Mbps,7
+Eastern Cape,Urban,36-50,Other,40k+,500/500 Mbps,55
+Eastern Cape,Urban,36-50,Other,40k+,1000/1000 Mbps,49
+Eastern Cape,Urban,51+,Male,<10k,10/10 Mbps,79
+Eastern Cape,Urban,51+,Male,<10k,50/50 Mbps,56
+Eastern Cape,Urban,51+,Male,<10k,100/100 Mbps,9
+Eastern Cape,Urban,51+,Male,<10k,200/200 Mbps,20
+Eastern Cape,Urban,51+,Male,<10k,500/500 Mbps,6
+Eastern Cape,Urban,51+,Male,<10k,1000/1000 Mbps,39
+Eastern Cape,Urban,51+,Male,10-20k,10/10 Mbps,34
+Eastern Cape,Urban,51+,Male,10-20k,50/50 Mbps,75
+Eastern Cape,Urban,51+,Male,10-20k,100/100 Mbps,50
+Eastern Cape,Urban,51+,Male,10-20k,200/200 Mbps,90
+Eastern Cape,Urban,51+,Male,10-20k,500/500 Mbps,25
+Eastern Cape,Urban,51+,Male,10-20k,1000/1000 Mbps,23
+Eastern Cape,Urban,51+,Male,20-40k,10/10 Mbps,46
+Eastern Cape,Urban,51+,Male,20-40k,50/50 Mbps,24
+Eastern Cape,Urban,51+,Male,20-40k,100/100 Mbps,86
+Eastern Cape,Urban,51+,Male,20-40k,200/200 Mbps,65
+Eastern Cape,Urban,51+,Male,20-40k,500/500 Mbps,51
+Eastern Cape,Urban,51+,Male,20-40k,1000/1000 Mbps,35
+Eastern Cape,Urban,51+,Male,40k+,10/10 Mbps,75
+Eastern Cape,Urban,51+,Male,40k+,50/50 Mbps,5
+Eastern Cape,Urban,51+,Male,40k+,100/100 Mbps,91
+Eastern Cape,Urban,51+,Male,40k+,200/200 Mbps,40
+Eastern Cape,Urban,51+,Male,40k+,500/500 Mbps,43
+Eastern Cape,Urban,51+,Male,40k+,1000/1000 Mbps,55
+Eastern Cape,Urban,51+,Female,<10k,10/10 Mbps,31
+Eastern Cape,Urban,51+,Female,<10k,50/50 Mbps,39
+Eastern Cape,Urban,51+,Female,<10k,100/100 Mbps,99
+Eastern Cape,Urban,51+,Female,<10k,200/200 Mbps,72
+Eastern Cape,Urban,51+,Female,<10k,500/500 Mbps,36
+Eastern Cape,Urban,51+,Female,<10k,1000/1000 Mbps,40
+Eastern Cape,Urban,51+,Female,10-20k,10/10 Mbps,64
+Eastern Cape,Urban,51+,Female,10-20k,50/50 Mbps,17
+Eastern Cape,Urban,51+,Female,10-20k,100/100 Mbps,25
+Eastern Cape,Urban,51+,Female,10-20k,200/200 Mbps,22
+Eastern Cape,Urban,51+,Female,10-20k,500/500 Mbps,25
+Eastern Cape,Urban,51+,Female,10-20k,1000/1000 Mbps,75
+Eastern Cape,Urban,51+,Female,20-40k,10/10 Mbps,85
+Eastern Cape,Urban,51+,Female,20-40k,50/50 Mbps,29
+Eastern Cape,Urban,51+,Female,20-40k,100/100 Mbps,58
+Eastern Cape,Urban,51+,Female,20-40k,200/200 Mbps,80
+Eastern Cape,Urban,51+,Female,20-40k,500/500 Mbps,31
+Eastern Cape,Urban,51+,Female,20-40k,1000/1000 Mbps,91
+Eastern Cape,Urban,51+,Female,40k+,10/10 Mbps,89
+Eastern Cape,Urban,51+,Female,40k+,50/50 Mbps,73
+Eastern Cape,Urban,51+,Female,40k+,100/100 Mbps,87
+Eastern Cape,Urban,51+,Female,40k+,200/200 Mbps,87
+Eastern Cape,Urban,51+,Female,40k+,500/500 Mbps,22
+Eastern Cape,Urban,51+,Female,40k+,1000/1000 Mbps,22
+Eastern Cape,Urban,51+,Other,<10k,10/10 Mbps,64
+Eastern Cape,Urban,51+,Other,<10k,50/50 Mbps,13
+Eastern Cape,Urban,51+,Other,<10k,100/100 Mbps,38
+Eastern Cape,Urban,51+,Other,<10k,200/200 Mbps,93
+Eastern Cape,Urban,51+,Other,<10k,500/500 Mbps,17
+Eastern Cape,Urban,51+,Other,<10k,1000/1000 Mbps,13
+Eastern Cape,Urban,51+,Other,10-20k,10/10 Mbps,86
+Eastern Cape,Urban,51+,Other,10-20k,50/50 Mbps,52
+Eastern Cape,Urban,51+,Other,10-20k,100/100 Mbps,62
+Eastern Cape,Urban,51+,Other,10-20k,200/200 Mbps,70
+Eastern Cape,Urban,51+,Other,10-20k,500/500 Mbps,24
+Eastern Cape,Urban,51+,Other,10-20k,1000/1000 Mbps,67
+Eastern Cape,Urban,51+,Other,20-40k,10/10 Mbps,59
+Eastern Cape,Urban,51+,Other,20-40k,50/50 Mbps,27
+Eastern Cape,Urban,51+,Other,20-40k,100/100 Mbps,91
+Eastern Cape,Urban,51+,Other,20-40k,200/200 Mbps,67
+Eastern Cape,Urban,51+,Other,20-40k,500/500 Mbps,81
+Eastern Cape,Urban,51+,Other,20-40k,1000/1000 Mbps,22
+Eastern Cape,Urban,51+,Other,40k+,10/10 Mbps,30
+Eastern Cape,Urban,51+,Other,40k+,50/50 Mbps,46
+Eastern Cape,Urban,51+,Other,40k+,100/100 Mbps,61
+Eastern Cape,Urban,51+,Other,40k+,200/200 Mbps,38
+Eastern Cape,Urban,51+,Other,40k+,500/500 Mbps,33
+Eastern Cape,Urban,51+,Other,40k+,1000/1000 Mbps,99
+Eastern Cape,Suburban,18-25,Male,<10k,10/10 Mbps,36
+Eastern Cape,Suburban,18-25,Male,<10k,50/50 Mbps,45
+Eastern Cape,Suburban,18-25,Male,<10k,100/100 Mbps,28
+Eastern Cape,Suburban,18-25,Male,<10k,200/200 Mbps,20
+Eastern Cape,Suburban,18-25,Male,<10k,500/500 Mbps,33
+Eastern Cape,Suburban,18-25,Male,<10k,1000/1000 Mbps,52
+Eastern Cape,Suburban,18-25,Male,10-20k,10/10 Mbps,43
+Eastern Cape,Suburban,18-25,Male,10-20k,50/50 Mbps,53
+Eastern Cape,Suburban,18-25,Male,10-20k,100/100 Mbps,85
+Eastern Cape,Suburban,18-25,Male,10-20k,200/200 Mbps,42
+Eastern Cape,Suburban,18-25,Male,10-20k,500/500 Mbps,42
+Eastern Cape,Suburban,18-25,Male,10-20k,1000/1000 Mbps,49
+Eastern Cape,Suburban,18-25,Male,20-40k,10/10 Mbps,70
+Eastern Cape,Suburban,18-25,Male,20-40k,50/50 Mbps,81
+Eastern Cape,Suburban,18-25,Male,20-40k,100/100 Mbps,99
+Eastern Cape,Suburban,18-25,Male,20-40k,200/200 Mbps,65
+Eastern Cape,Suburban,18-25,Male,20-40k,500/500 Mbps,41
+Eastern Cape,Suburban,18-25,Male,20-40k,1000/1000 Mbps,97
+Eastern Cape,Suburban,18-25,Male,40k+,10/10 Mbps,82
+Eastern Cape,Suburban,18-25,Male,40k+,50/50 Mbps,51
+Eastern Cape,Suburban,18-25,Male,40k+,100/100 Mbps,41
+Eastern Cape,Suburban,18-25,Male,40k+,200/200 Mbps,95
+Eastern Cape,Suburban,18-25,Male,40k+,500/500 Mbps,73
+Eastern Cape,Suburban,18-25,Male,40k+,1000/1000 Mbps,35
+Eastern Cape,Suburban,18-25,Female,<10k,10/10 Mbps,32
+Eastern Cape,Suburban,18-25,Female,<10k,50/50 Mbps,54
+Eastern Cape,Suburban,18-25,Female,<10k,100/100 Mbps,13
+Eastern Cape,Suburban,18-25,Female,<10k,200/200 Mbps,72
+Eastern Cape,Suburban,18-25,Female,<10k,500/500 Mbps,45
+Eastern Cape,Suburban,18-25,Female,<10k,1000/1000 Mbps,97
+Eastern Cape,Suburban,18-25,Female,10-20k,10/10 Mbps,85
+Eastern Cape,Suburban,18-25,Female,10-20k,50/50 Mbps,54
+Eastern Cape,Suburban,18-25,Female,10-20k,100/100 Mbps,42
+Eastern Cape,Suburban,18-25,Female,10-20k,200/200 Mbps,71
+Eastern Cape,Suburban,18-25,Female,10-20k,500/500 Mbps,35
+Eastern Cape,Suburban,18-25,Female,10-20k,1000/1000 Mbps,36
+Eastern Cape,Suburban,18-25,Female,20-40k,10/10 Mbps,44
+Eastern Cape,Suburban,18-25,Female,20-40k,50/50 Mbps,58
+Eastern Cape,Suburban,18-25,Female,20-40k,100/100 Mbps,62
+Eastern Cape,Suburban,18-25,Female,20-40k,200/200 Mbps,88
+Eastern Cape,Suburban,18-25,Female,20-40k,500/500 Mbps,8
+Eastern Cape,Suburban,18-25,Female,20-40k,1000/1000 Mbps,63
+Eastern Cape,Suburban,18-25,Female,40k+,10/10 Mbps,12
+Eastern Cape,Suburban,18-25,Female,40k+,50/50 Mbps,68
+Eastern Cape,Suburban,18-25,Female,40k+,100/100 Mbps,17
+Eastern Cape,Suburban,18-25,Female,40k+,200/200 Mbps,84
+Eastern Cape,Suburban,18-25,Female,40k+,500/500 Mbps,28
+Eastern Cape,Suburban,18-25,Female,40k+,1000/1000 Mbps,82
+Eastern Cape,Suburban,18-25,Other,<10k,10/10 Mbps,40
+Eastern Cape,Suburban,18-25,Other,<10k,50/50 Mbps,93
+Eastern Cape,Suburban,18-25,Other,<10k,100/100 Mbps,28
+Eastern Cape,Suburban,18-25,Other,<10k,200/200 Mbps,92
+Eastern Cape,Suburban,18-25,Other,<10k,500/500 Mbps,38
+Eastern Cape,Suburban,18-25,Other,<10k,1000/1000 Mbps,66
+Eastern Cape,Suburban,18-25,Other,10-20k,10/10 Mbps,73
+Eastern Cape,Suburban,18-25,Other,10-20k,50/50 Mbps,93
+Eastern Cape,Suburban,18-25,Other,10-20k,100/100 Mbps,56
+Eastern Cape,Suburban,18-25,Other,10-20k,200/200 Mbps,87
+Eastern Cape,Suburban,18-25,Other,10-20k,500/500 Mbps,36
+Eastern Cape,Suburban,18-25,Other,10-20k,1000/1000 Mbps,75
+Eastern Cape,Suburban,18-25,Other,20-40k,10/10 Mbps,95
+Eastern Cape,Suburban,18-25,Other,20-40k,50/50 Mbps,8
+Eastern Cape,Suburban,18-25,Other,20-40k,100/100 Mbps,61
+Eastern Cape,Suburban,18-25,Other,20-40k,200/200 Mbps,83
+Eastern Cape,Suburban,18-25,Other,20-40k,500/500 Mbps,97
+Eastern Cape,Suburban,18-25,Other,20-40k,1000/1000 Mbps,44
+Eastern Cape,Suburban,18-25,Other,40k+,10/10 Mbps,30
+Eastern Cape,Suburban,18-25,Other,40k+,50/50 Mbps,81
+Eastern Cape,Suburban,18-25,Other,40k+,100/100 Mbps,58
+Eastern Cape,Suburban,18-25,Other,40k+,200/200 Mbps,90
+Eastern Cape,Suburban,18-25,Other,40k+,500/500 Mbps,81
+Eastern Cape,Suburban,18-25,Other,40k+,1000/1000 Mbps,99
+Eastern Cape,Suburban,26-35,Male,<10k,10/10 Mbps,85
+Eastern Cape,Suburban,26-35,Male,<10k,50/50 Mbps,72
+Eastern Cape,Suburban,26-35,Male,<10k,100/100 Mbps,80
+Eastern Cape,Suburban,26-35,Male,<10k,200/200 Mbps,49
+Eastern Cape,Suburban,26-35,Male,<10k,500/500 Mbps,94
+Eastern Cape,Suburban,26-35,Male,<10k,1000/1000 Mbps,48
+Eastern Cape,Suburban,26-35,Male,10-20k,10/10 Mbps,28
+Eastern Cape,Suburban,26-35,Male,10-20k,50/50 Mbps,66
+Eastern Cape,Suburban,26-35,Male,10-20k,100/100 Mbps,5
+Eastern Cape,Suburban,26-35,Male,10-20k,200/200 Mbps,51
+Eastern Cape,Suburban,26-35,Male,10-20k,500/500 Mbps,16
+Eastern Cape,Suburban,26-35,Male,10-20k,1000/1000 Mbps,18
+Eastern Cape,Suburban,26-35,Male,20-40k,10/10 Mbps,70
+Eastern Cape,Suburban,26-35,Male,20-40k,50/50 Mbps,15
+Eastern Cape,Suburban,26-35,Male,20-40k,100/100 Mbps,54
+Eastern Cape,Suburban,26-35,Male,20-40k,200/200 Mbps,91
+Eastern Cape,Suburban,26-35,Male,20-40k,500/500 Mbps,93
+Eastern Cape,Suburban,26-35,Male,20-40k,1000/1000 Mbps,27
+Eastern Cape,Suburban,26-35,Male,40k+,10/10 Mbps,50
+Eastern Cape,Suburban,26-35,Male,40k+,50/50 Mbps,51
+Eastern Cape,Suburban,26-35,Male,40k+,100/100 Mbps,38
+Eastern Cape,Suburban,26-35,Male,40k+,200/200 Mbps,81
+Eastern Cape,Suburban,26-35,Male,40k+,500/500 Mbps,56
+Eastern Cape,Suburban,26-35,Male,40k+,1000/1000 Mbps,67
+Eastern Cape,Suburban,26-35,Female,<10k,10/10 Mbps,23
+Eastern Cape,Suburban,26-35,Female,<10k,50/50 Mbps,6
+Eastern Cape,Suburban,26-35,Female,<10k,100/100 Mbps,91
+Eastern Cape,Suburban,26-35,Female,<10k,200/200 Mbps,33
+Eastern Cape,Suburban,26-35,Female,<10k,500/500 Mbps,47
+Eastern Cape,Suburban,26-35,Female,<10k,1000/1000 Mbps,34
+Eastern Cape,Suburban,26-35,Female,10-20k,10/10 Mbps,18
+Eastern Cape,Suburban,26-35,Female,10-20k,50/50 Mbps,94
+Eastern Cape,Suburban,26-35,Female,10-20k,100/100 Mbps,82
+Eastern Cape,Suburban,26-35,Female,10-20k,200/200 Mbps,13
+Eastern Cape,Suburban,26-35,Female,10-20k,500/500 Mbps,34
+Eastern Cape,Suburban,26-35,Female,10-20k,1000/1000 Mbps,34
+Eastern Cape,Suburban,26-35,Female,20-40k,10/10 Mbps,80
+Eastern Cape,Suburban,26-35,Female,20-40k,50/50 Mbps,63
+Eastern Cape,Suburban,26-35,Female,20-40k,100/100 Mbps,99
+Eastern Cape,Suburban,26-35,Female,20-40k,200/200 Mbps,61
+Eastern Cape,Suburban,26-35,Female,20-40k,500/500 Mbps,96
+Eastern Cape,Suburban,26-35,Female,20-40k,1000/1000 Mbps,71
+Eastern Cape,Suburban,26-35,Female,40k+,10/10 Mbps,44
+Eastern Cape,Suburban,26-35,Female,40k+,50/50 Mbps,95
+Eastern Cape,Suburban,26-35,Female,40k+,100/100 Mbps,90
+Eastern Cape,Suburban,26-35,Female,40k+,200/200 Mbps,75
+Eastern Cape,Suburban,26-35,Female,40k+,500/500 Mbps,16
+Eastern Cape,Suburban,26-35,Female,40k+,1000/1000 Mbps,64
+Eastern Cape,Suburban,26-35,Other,<10k,10/10 Mbps,34
+Eastern Cape,Suburban,26-35,Other,<10k,50/50 Mbps,64
+Eastern Cape,Suburban,26-35,Other,<10k,100/100 Mbps,26
+Eastern Cape,Suburban,26-35,Other,<10k,200/200 Mbps,31
+Eastern Cape,Suburban,26-35,Other,<10k,500/500 Mbps,5
+Eastern Cape,Suburban,26-35,Other,<10k,1000/1000 Mbps,39
+Eastern Cape,Suburban,26-35,Other,10-20k,10/10 Mbps,95
+Eastern Cape,Suburban,26-35,Other,10-20k,50/50 Mbps,8
+Eastern Cape,Suburban,26-35,Other,10-20k,100/100 Mbps,58
+Eastern Cape,Suburban,26-35,Other,10-20k,200/200 Mbps,91
+Eastern Cape,Suburban,26-35,Other,10-20k,500/500 Mbps,87
+Eastern Cape,Suburban,26-35,Other,10-20k,1000/1000 Mbps,12
+Eastern Cape,Suburban,26-35,Other,20-40k,10/10 Mbps,94
+Eastern Cape,Suburban,26-35,Other,20-40k,50/50 Mbps,20
+Eastern Cape,Suburban,26-35,Other,20-40k,100/100 Mbps,23
+Eastern Cape,Suburban,26-35,Other,20-40k,200/200 Mbps,66
+Eastern Cape,Suburban,26-35,Other,20-40k,500/500 Mbps,35
+Eastern Cape,Suburban,26-35,Other,20-40k,1000/1000 Mbps,96
+Eastern Cape,Suburban,26-35,Other,40k+,10/10 Mbps,24
+Eastern Cape,Suburban,26-35,Other,40k+,50/50 Mbps,63
+Eastern Cape,Suburban,26-35,Other,40k+,100/100 Mbps,95
+Eastern Cape,Suburban,26-35,Other,40k+,200/200 Mbps,97
+Eastern Cape,Suburban,26-35,Other,40k+,500/500 Mbps,96
+Eastern Cape,Suburban,26-35,Other,40k+,1000/1000 Mbps,27
+Eastern Cape,Suburban,36-50,Male,<10k,10/10 Mbps,91
+Eastern Cape,Suburban,36-50,Male,<10k,50/50 Mbps,48
+Eastern Cape,Suburban,36-50,Male,<10k,100/100 Mbps,94
+Eastern Cape,Suburban,36-50,Male,<10k,200/200 Mbps,11
+Eastern Cape,Suburban,36-50,Male,<10k,500/500 Mbps,39
+Eastern Cape,Suburban,36-50,Male,<10k,1000/1000 Mbps,84
+Eastern Cape,Suburban,36-50,Male,10-20k,10/10 Mbps,16
+Eastern Cape,Suburban,36-50,Male,10-20k,50/50 Mbps,24
+Eastern Cape,Suburban,36-50,Male,10-20k,100/100 Mbps,18
+Eastern Cape,Suburban,36-50,Male,10-20k,200/200 Mbps,26
+Eastern Cape,Suburban,36-50,Male,10-20k,500/500 Mbps,99
+Eastern Cape,Suburban,36-50,Male,10-20k,1000/1000 Mbps,62
+Eastern Cape,Suburban,36-50,Male,20-40k,10/10 Mbps,56
+Eastern Cape,Suburban,36-50,Male,20-40k,50/50 Mbps,27
+Eastern Cape,Suburban,36-50,Male,20-40k,100/100 Mbps,49
+Eastern Cape,Suburban,36-50,Male,20-40k,200/200 Mbps,87
+Eastern Cape,Suburban,36-50,Male,20-40k,500/500 Mbps,23
+Eastern Cape,Suburban,36-50,Male,20-40k,1000/1000 Mbps,95
+Eastern Cape,Suburban,36-50,Male,40k+,10/10 Mbps,81
+Eastern Cape,Suburban,36-50,Male,40k+,50/50 Mbps,60
+Eastern Cape,Suburban,36-50,Male,40k+,100/100 Mbps,48
+Eastern Cape,Suburban,36-50,Male,40k+,200/200 Mbps,64
+Eastern Cape,Suburban,36-50,Male,40k+,500/500 Mbps,15
+Eastern Cape,Suburban,36-50,Male,40k+,1000/1000 Mbps,41
+Eastern Cape,Suburban,36-50,Female,<10k,10/10 Mbps,28
+Eastern Cape,Suburban,36-50,Female,<10k,50/50 Mbps,95
+Eastern Cape,Suburban,36-50,Female,<10k,100/100 Mbps,26
+Eastern Cape,Suburban,36-50,Female,<10k,200/200 Mbps,59
+Eastern Cape,Suburban,36-50,Female,<10k,500/500 Mbps,85
+Eastern Cape,Suburban,36-50,Female,<10k,1000/1000 Mbps,79
+Eastern Cape,Suburban,36-50,Female,10-20k,10/10 Mbps,69
+Eastern Cape,Suburban,36-50,Female,10-20k,50/50 Mbps,91
+Eastern Cape,Suburban,36-50,Female,10-20k,100/100 Mbps,11
+Eastern Cape,Suburban,36-50,Female,10-20k,200/200 Mbps,85
+Eastern Cape,Suburban,36-50,Female,10-20k,500/500 Mbps,27
+Eastern Cape,Suburban,36-50,Female,10-20k,1000/1000 Mbps,16
+Eastern Cape,Suburban,36-50,Female,20-40k,10/10 Mbps,13
+Eastern Cape,Suburban,36-50,Female,20-40k,50/50 Mbps,68
+Eastern Cape,Suburban,36-50,Female,20-40k,100/100 Mbps,83
+Eastern Cape,Suburban,36-50,Female,20-40k,200/200 Mbps,14
+Eastern Cape,Suburban,36-50,Female,20-40k,500/500 Mbps,49
+Eastern Cape,Suburban,36-50,Female,20-40k,1000/1000 Mbps,37
+Eastern Cape,Suburban,36-50,Female,40k+,10/10 Mbps,53
+Eastern Cape,Suburban,36-50,Female,40k+,50/50 Mbps,97
+Eastern Cape,Suburban,36-50,Female,40k+,100/100 Mbps,31
+Eastern Cape,Suburban,36-50,Female,40k+,200/200 Mbps,84
+Eastern Cape,Suburban,36-50,Female,40k+,500/500 Mbps,27
+Eastern Cape,Suburban,36-50,Female,40k+,1000/1000 Mbps,73
+Eastern Cape,Suburban,36-50,Other,<10k,10/10 Mbps,45
+Eastern Cape,Suburban,36-50,Other,<10k,50/50 Mbps,89
+Eastern Cape,Suburban,36-50,Other,<10k,100/100 Mbps,8
+Eastern Cape,Suburban,36-50,Other,<10k,200/200 Mbps,14
+Eastern Cape,Suburban,36-50,Other,<10k,500/500 Mbps,39
+Eastern Cape,Suburban,36-50,Other,<10k,1000/1000 Mbps,71
+Eastern Cape,Suburban,36-50,Other,10-20k,10/10 Mbps,68
+Eastern Cape,Suburban,36-50,Other,10-20k,50/50 Mbps,52
+Eastern Cape,Suburban,36-50,Other,10-20k,100/100 Mbps,67
+Eastern Cape,Suburban,36-50,Other,10-20k,200/200 Mbps,8
+Eastern Cape,Suburban,36-50,Other,10-20k,500/500 Mbps,5
+Eastern Cape,Suburban,36-50,Other,10-20k,1000/1000 Mbps,76
+Eastern Cape,Suburban,36-50,Other,20-40k,10/10 Mbps,11
+Eastern Cape,Suburban,36-50,Other,20-40k,50/50 Mbps,76
+Eastern Cape,Suburban,36-50,Other,20-40k,100/100 Mbps,71
+Eastern Cape,Suburban,36-50,Other,20-40k,200/200 Mbps,77
+Eastern Cape,Suburban,36-50,Other,20-40k,500/500 Mbps,25
+Eastern Cape,Suburban,36-50,Other,20-40k,1000/1000 Mbps,81
+Eastern Cape,Suburban,36-50,Other,40k+,10/10 Mbps,11
+Eastern Cape,Suburban,36-50,Other,40k+,50/50 Mbps,59
+Eastern Cape,Suburban,36-50,Other,40k+,100/100 Mbps,64
+Eastern Cape,Suburban,36-50,Other,40k+,200/200 Mbps,34
+Eastern Cape,Suburban,36-50,Other,40k+,500/500 Mbps,67
+Eastern Cape,Suburban,36-50,Other,40k+,1000/1000 Mbps,61
+Eastern Cape,Suburban,51+,Male,<10k,10/10 Mbps,82
+Eastern Cape,Suburban,51+,Male,<10k,50/50 Mbps,92
+Eastern Cape,Suburban,51+,Male,<10k,100/100 Mbps,57
+Eastern Cape,Suburban,51+,Male,<10k,200/200 Mbps,20
+Eastern Cape,Suburban,51+,Male,<10k,500/500 Mbps,17
+Eastern Cape,Suburban,51+,Male,<10k,1000/1000 Mbps,40
+Eastern Cape,Suburban,51+,Male,10-20k,10/10 Mbps,83
+Eastern Cape,Suburban,51+,Male,10-20k,50/50 Mbps,75
+Eastern Cape,Suburban,51+,Male,10-20k,100/100 Mbps,89
+Eastern Cape,Suburban,51+,Male,10-20k,200/200 Mbps,67
+Eastern Cape,Suburban,51+,Male,10-20k,500/500 Mbps,61
+Eastern Cape,Suburban,51+,Male,10-20k,1000/1000 Mbps,43
+Eastern Cape,Suburban,51+,Male,20-40k,10/10 Mbps,41
+Eastern Cape,Suburban,51+,Male,20-40k,50/50 Mbps,34
+Eastern Cape,Suburban,51+,Male,20-40k,100/100 Mbps,9
+Eastern Cape,Suburban,51+,Male,20-40k,200/200 Mbps,95
+Eastern Cape,Suburban,51+,Male,20-40k,500/500 Mbps,9
+Eastern Cape,Suburban,51+,Male,20-40k,1000/1000 Mbps,41
+Eastern Cape,Suburban,51+,Male,40k+,10/10 Mbps,31
+Eastern Cape,Suburban,51+,Male,40k+,50/50 Mbps,70
+Eastern Cape,Suburban,51+,Male,40k+,100/100 Mbps,71
+Eastern Cape,Suburban,51+,Male,40k+,200/200 Mbps,43
+Eastern Cape,Suburban,51+,Male,40k+,500/500 Mbps,50
+Eastern Cape,Suburban,51+,Male,40k+,1000/1000 Mbps,13
+Eastern Cape,Suburban,51+,Female,<10k,10/10 Mbps,99
+Eastern Cape,Suburban,51+,Female,<10k,50/50 Mbps,31
+Eastern Cape,Suburban,51+,Female,<10k,100/100 Mbps,84
+Eastern Cape,Suburban,51+,Female,<10k,200/200 Mbps,8
+Eastern Cape,Suburban,51+,Female,<10k,500/500 Mbps,44
+Eastern Cape,Suburban,51+,Female,<10k,1000/1000 Mbps,34
+Eastern Cape,Suburban,51+,Female,10-20k,10/10 Mbps,65
+Eastern Cape,Suburban,51+,Female,10-20k,50/50 Mbps,76
+Eastern Cape,Suburban,51+,Female,10-20k,100/100 Mbps,17
+Eastern Cape,Suburban,51+,Female,10-20k,200/200 Mbps,23
+Eastern Cape,Suburban,51+,Female,10-20k,500/500 Mbps,59
+Eastern Cape,Suburban,51+,Female,10-20k,1000/1000 Mbps,13
+Eastern Cape,Suburban,51+,Female,20-40k,10/10 Mbps,63
+Eastern Cape,Suburban,51+,Female,20-40k,50/50 Mbps,15
+Eastern Cape,Suburban,51+,Female,20-40k,100/100 Mbps,49
+Eastern Cape,Suburban,51+,Female,20-40k,200/200 Mbps,22
+Eastern Cape,Suburban,51+,Female,20-40k,500/500 Mbps,45
+Eastern Cape,Suburban,51+,Female,20-40k,1000/1000 Mbps,48
+Eastern Cape,Suburban,51+,Female,40k+,10/10 Mbps,45
+Eastern Cape,Suburban,51+,Female,40k+,50/50 Mbps,48
+Eastern Cape,Suburban,51+,Female,40k+,100/100 Mbps,46
+Eastern Cape,Suburban,51+,Female,40k+,200/200 Mbps,60
+Eastern Cape,Suburban,51+,Female,40k+,500/500 Mbps,47
+Eastern Cape,Suburban,51+,Female,40k+,1000/1000 Mbps,80
+Eastern Cape,Suburban,51+,Other,<10k,10/10 Mbps,21
+Eastern Cape,Suburban,51+,Other,<10k,50/50 Mbps,90
+Eastern Cape,Suburban,51+,Other,<10k,100/100 Mbps,83
+Eastern Cape,Suburban,51+,Other,<10k,200/200 Mbps,5
+Eastern Cape,Suburban,51+,Other,<10k,500/500 Mbps,46
+Eastern Cape,Suburban,51+,Other,<10k,1000/1000 Mbps,17
+Eastern Cape,Suburban,51+,Other,10-20k,10/10 Mbps,16
+Eastern Cape,Suburban,51+,Other,10-20k,50/50 Mbps,28
+Eastern Cape,Suburban,51+,Other,10-20k,100/100 Mbps,59
+Eastern Cape,Suburban,51+,Other,10-20k,200/200 Mbps,59
+Eastern Cape,Suburban,51+,Other,10-20k,500/500 Mbps,64
+Eastern Cape,Suburban,51+,Other,10-20k,1000/1000 Mbps,12
+Eastern Cape,Suburban,51+,Other,20-40k,10/10 Mbps,46
+Eastern Cape,Suburban,51+,Other,20-40k,50/50 Mbps,9
+Eastern Cape,Suburban,51+,Other,20-40k,100/100 Mbps,38
+Eastern Cape,Suburban,51+,Other,20-40k,200/200 Mbps,24
+Eastern Cape,Suburban,51+,Other,20-40k,500/500 Mbps,80
+Eastern Cape,Suburban,51+,Other,20-40k,1000/1000 Mbps,17
+Eastern Cape,Suburban,51+,Other,40k+,10/10 Mbps,53
+Eastern Cape,Suburban,51+,Other,40k+,50/50 Mbps,79
+Eastern Cape,Suburban,51+,Other,40k+,100/100 Mbps,80
+Eastern Cape,Suburban,51+,Other,40k+,200/200 Mbps,34
+Eastern Cape,Suburban,51+,Other,40k+,500/500 Mbps,6
+Eastern Cape,Suburban,51+,Other,40k+,1000/1000 Mbps,52
+Eastern Cape,Rural,18-25,Male,<10k,10/10 Mbps,12
+Eastern Cape,Rural,18-25,Male,<10k,50/50 Mbps,79
+Eastern Cape,Rural,18-25,Male,<10k,100/100 Mbps,94
+Eastern Cape,Rural,18-25,Male,<10k,200/200 Mbps,5
+Eastern Cape,Rural,18-25,Male,<10k,500/500 Mbps,37
+Eastern Cape,Rural,18-25,Male,<10k,1000/1000 Mbps,32
+Eastern Cape,Rural,18-25,Male,10-20k,10/10 Mbps,13
+Eastern Cape,Rural,18-25,Male,10-20k,50/50 Mbps,71
+Eastern Cape,Rural,18-25,Male,10-20k,100/100 Mbps,19
+Eastern Cape,Rural,18-25,Male,10-20k,200/200 Mbps,92
+Eastern Cape,Rural,18-25,Male,10-20k,500/500 Mbps,70
+Eastern Cape,Rural,18-25,Male,10-20k,1000/1000 Mbps,97
+Eastern Cape,Rural,18-25,Male,20-40k,10/10 Mbps,97
+Eastern Cape,Rural,18-25,Male,20-40k,50/50 Mbps,46
+Eastern Cape,Rural,18-25,Male,20-40k,100/100 Mbps,88
+Eastern Cape,Rural,18-25,Male,20-40k,200/200 Mbps,34
+Eastern Cape,Rural,18-25,Male,20-40k,500/500 Mbps,31
+Eastern Cape,Rural,18-25,Male,20-40k,1000/1000 Mbps,33
+Eastern Cape,Rural,18-25,Male,40k+,10/10 Mbps,54
+Eastern Cape,Rural,18-25,Male,40k+,50/50 Mbps,48
+Eastern Cape,Rural,18-25,Male,40k+,100/100 Mbps,44
+Eastern Cape,Rural,18-25,Male,40k+,200/200 Mbps,69
+Eastern Cape,Rural,18-25,Male,40k+,500/500 Mbps,33
+Eastern Cape,Rural,18-25,Male,40k+,1000/1000 Mbps,92
+Eastern Cape,Rural,18-25,Female,<10k,10/10 Mbps,33
+Eastern Cape,Rural,18-25,Female,<10k,50/50 Mbps,12
+Eastern Cape,Rural,18-25,Female,<10k,100/100 Mbps,75
+Eastern Cape,Rural,18-25,Female,<10k,200/200 Mbps,80
+Eastern Cape,Rural,18-25,Female,<10k,500/500 Mbps,69
+Eastern Cape,Rural,18-25,Female,<10k,1000/1000 Mbps,59
+Eastern Cape,Rural,18-25,Female,10-20k,10/10 Mbps,93
+Eastern Cape,Rural,18-25,Female,10-20k,50/50 Mbps,51
+Eastern Cape,Rural,18-25,Female,10-20k,100/100 Mbps,28
+Eastern Cape,Rural,18-25,Female,10-20k,200/200 Mbps,26
+Eastern Cape,Rural,18-25,Female,10-20k,500/500 Mbps,34
+Eastern Cape,Rural,18-25,Female,10-20k,1000/1000 Mbps,57
+Eastern Cape,Rural,18-25,Female,20-40k,10/10 Mbps,11
+Eastern Cape,Rural,18-25,Female,20-40k,50/50 Mbps,40
+Eastern Cape,Rural,18-25,Female,20-40k,100/100 Mbps,58
+Eastern Cape,Rural,18-25,Female,20-40k,200/200 Mbps,8
+Eastern Cape,Rural,18-25,Female,20-40k,500/500 Mbps,76
+Eastern Cape,Rural,18-25,Female,20-40k,1000/1000 Mbps,93
+Eastern Cape,Rural,18-25,Female,40k+,10/10 Mbps,28
+Eastern Cape,Rural,18-25,Female,40k+,50/50 Mbps,70
+Eastern Cape,Rural,18-25,Female,40k+,100/100 Mbps,24
+Eastern Cape,Rural,18-25,Female,40k+,200/200 Mbps,73
+Eastern Cape,Rural,18-25,Female,40k+,500/500 Mbps,96
+Eastern Cape,Rural,18-25,Female,40k+,1000/1000 Mbps,17
+Eastern Cape,Rural,18-25,Other,<10k,10/10 Mbps,27
+Eastern Cape,Rural,18-25,Other,<10k,50/50 Mbps,79
+Eastern Cape,Rural,18-25,Other,<10k,100/100 Mbps,9
+Eastern Cape,Rural,18-25,Other,<10k,200/200 Mbps,27
+Eastern Cape,Rural,18-25,Other,<10k,500/500 Mbps,40
+Eastern Cape,Rural,18-25,Other,<10k,1000/1000 Mbps,55
+Eastern Cape,Rural,18-25,Other,10-20k,10/10 Mbps,16
+Eastern Cape,Rural,18-25,Other,10-20k,50/50 Mbps,46
+Eastern Cape,Rural,18-25,Other,10-20k,100/100 Mbps,58
+Eastern Cape,Rural,18-25,Other,10-20k,200/200 Mbps,10
+Eastern Cape,Rural,18-25,Other,10-20k,500/500 Mbps,90
+Eastern Cape,Rural,18-25,Other,10-20k,1000/1000 Mbps,27
+Eastern Cape,Rural,18-25,Other,20-40k,10/10 Mbps,67
+Eastern Cape,Rural,18-25,Other,20-40k,50/50 Mbps,31
+Eastern Cape,Rural,18-25,Other,20-40k,100/100 Mbps,29
+Eastern Cape,Rural,18-25,Other,20-40k,200/200 Mbps,12
+Eastern Cape,Rural,18-25,Other,20-40k,500/500 Mbps,15
+Eastern Cape,Rural,18-25,Other,20-40k,1000/1000 Mbps,73
+Eastern Cape,Rural,18-25,Other,40k+,10/10 Mbps,81
+Eastern Cape,Rural,18-25,Other,40k+,50/50 Mbps,38
+Eastern Cape,Rural,18-25,Other,40k+,100/100 Mbps,74
+Eastern Cape,Rural,18-25,Other,40k+,200/200 Mbps,68
+Eastern Cape,Rural,18-25,Other,40k+,500/500 Mbps,46
+Eastern Cape,Rural,18-25,Other,40k+,1000/1000 Mbps,55
+Eastern Cape,Rural,26-35,Male,<10k,10/10 Mbps,42
+Eastern Cape,Rural,26-35,Male,<10k,50/50 Mbps,40
+Eastern Cape,Rural,26-35,Male,<10k,100/100 Mbps,81
+Eastern Cape,Rural,26-35,Male,<10k,200/200 Mbps,88
+Eastern Cape,Rural,26-35,Male,<10k,500/500 Mbps,93
+Eastern Cape,Rural,26-35,Male,<10k,1000/1000 Mbps,14
+Eastern Cape,Rural,26-35,Male,10-20k,10/10 Mbps,9
+Eastern Cape,Rural,26-35,Male,10-20k,50/50 Mbps,89
+Eastern Cape,Rural,26-35,Male,10-20k,100/100 Mbps,25
+Eastern Cape,Rural,26-35,Male,10-20k,200/200 Mbps,78
+Eastern Cape,Rural,26-35,Male,10-20k,500/500 Mbps,96
+Eastern Cape,Rural,26-35,Male,10-20k,1000/1000 Mbps,14
+Eastern Cape,Rural,26-35,Male,20-40k,10/10 Mbps,92
+Eastern Cape,Rural,26-35,Male,20-40k,50/50 Mbps,63
+Eastern Cape,Rural,26-35,Male,20-40k,100/100 Mbps,60
+Eastern Cape,Rural,26-35,Male,20-40k,200/200 Mbps,99
+Eastern Cape,Rural,26-35,Male,20-40k,500/500 Mbps,31
+Eastern Cape,Rural,26-35,Male,20-40k,1000/1000 Mbps,42
+Eastern Cape,Rural,26-35,Male,40k+,10/10 Mbps,76
+Eastern Cape,Rural,26-35,Male,40k+,50/50 Mbps,5
+Eastern Cape,Rural,26-35,Male,40k+,100/100 Mbps,86
+Eastern Cape,Rural,26-35,Male,40k+,200/200 Mbps,98
+Eastern Cape,Rural,26-35,Male,40k+,500/500 Mbps,74
+Eastern Cape,Rural,26-35,Male,40k+,1000/1000 Mbps,90
+Eastern Cape,Rural,26-35,Female,<10k,10/10 Mbps,59
+Eastern Cape,Rural,26-35,Female,<10k,50/50 Mbps,19
+Eastern Cape,Rural,26-35,Female,<10k,100/100 Mbps,42
+Eastern Cape,Rural,26-35,Female,<10k,200/200 Mbps,63
+Eastern Cape,Rural,26-35,Female,<10k,500/500 Mbps,18
+Eastern Cape,Rural,26-35,Female,<10k,1000/1000 Mbps,64
+Eastern Cape,Rural,26-35,Female,10-20k,10/10 Mbps,45
+Eastern Cape,Rural,26-35,Female,10-20k,50/50 Mbps,45
+Eastern Cape,Rural,26-35,Female,10-20k,100/100 Mbps,30
+Eastern Cape,Rural,26-35,Female,10-20k,200/200 Mbps,86
+Eastern Cape,Rural,26-35,Female,10-20k,500/500 Mbps,51
+Eastern Cape,Rural,26-35,Female,10-20k,1000/1000 Mbps,28
+Eastern Cape,Rural,26-35,Female,20-40k,10/10 Mbps,93
+Eastern Cape,Rural,26-35,Female,20-40k,50/50 Mbps,98
+Eastern Cape,Rural,26-35,Female,20-40k,100/100 Mbps,5
+Eastern Cape,Rural,26-35,Female,20-40k,200/200 Mbps,97
+Eastern Cape,Rural,26-35,Female,20-40k,500/500 Mbps,67
+Eastern Cape,Rural,26-35,Female,20-40k,1000/1000 Mbps,28
+Eastern Cape,Rural,26-35,Female,40k+,10/10 Mbps,32
+Eastern Cape,Rural,26-35,Female,40k+,50/50 Mbps,22
+Eastern Cape,Rural,26-35,Female,40k+,100/100 Mbps,78
+Eastern Cape,Rural,26-35,Female,40k+,200/200 Mbps,52
+Eastern Cape,Rural,26-35,Female,40k+,500/500 Mbps,42
+Eastern Cape,Rural,26-35,Female,40k+,1000/1000 Mbps,75
+Eastern Cape,Rural,26-35,Other,<10k,10/10 Mbps,68
+Eastern Cape,Rural,26-35,Other,<10k,50/50 Mbps,46
+Eastern Cape,Rural,26-35,Other,<10k,100/100 Mbps,6
+Eastern Cape,Rural,26-35,Other,<10k,200/200 Mbps,82
+Eastern Cape,Rural,26-35,Other,<10k,500/500 Mbps,80
+Eastern Cape,Rural,26-35,Other,<10k,1000/1000 Mbps,63
+Eastern Cape,Rural,26-35,Other,10-20k,10/10 Mbps,46
+Eastern Cape,Rural,26-35,Other,10-20k,50/50 Mbps,33
+Eastern Cape,Rural,26-35,Other,10-20k,100/100 Mbps,44
+Eastern Cape,Rural,26-35,Other,10-20k,200/200 Mbps,74
+Eastern Cape,Rural,26-35,Other,10-20k,500/500 Mbps,24
+Eastern Cape,Rural,26-35,Other,10-20k,1000/1000 Mbps,41
+Eastern Cape,Rural,26-35,Other,20-40k,10/10 Mbps,95
+Eastern Cape,Rural,26-35,Other,20-40k,50/50 Mbps,10
+Eastern Cape,Rural,26-35,Other,20-40k,100/100 Mbps,99
+Eastern Cape,Rural,26-35,Other,20-40k,200/200 Mbps,16
+Eastern Cape,Rural,26-35,Other,20-40k,500/500 Mbps,7
+Eastern Cape,Rural,26-35,Other,20-40k,1000/1000 Mbps,78
+Eastern Cape,Rural,26-35,Other,40k+,10/10 Mbps,22
+Eastern Cape,Rural,26-35,Other,40k+,50/50 Mbps,54
+Eastern Cape,Rural,26-35,Other,40k+,100/100 Mbps,99
+Eastern Cape,Rural,26-35,Other,40k+,200/200 Mbps,42
+Eastern Cape,Rural,26-35,Other,40k+,500/500 Mbps,86
+Eastern Cape,Rural,26-35,Other,40k+,1000/1000 Mbps,78
+Eastern Cape,Rural,36-50,Male,<10k,10/10 Mbps,24
+Eastern Cape,Rural,36-50,Male,<10k,50/50 Mbps,12
+Eastern Cape,Rural,36-50,Male,<10k,100/100 Mbps,11
+Eastern Cape,Rural,36-50,Male,<10k,200/200 Mbps,32
+Eastern Cape,Rural,36-50,Male,<10k,500/500 Mbps,98
+Eastern Cape,Rural,36-50,Male,<10k,1000/1000 Mbps,52
+Eastern Cape,Rural,36-50,Male,10-20k,10/10 Mbps,33
+Eastern Cape,Rural,36-50,Male,10-20k,50/50 Mbps,42
+Eastern Cape,Rural,36-50,Male,10-20k,100/100 Mbps,75
+Eastern Cape,Rural,36-50,Male,10-20k,200/200 Mbps,83
+Eastern Cape,Rural,36-50,Male,10-20k,500/500 Mbps,11
+Eastern Cape,Rural,36-50,Male,10-20k,1000/1000 Mbps,27
+Eastern Cape,Rural,36-50,Male,20-40k,10/10 Mbps,83
+Eastern Cape,Rural,36-50,Male,20-40k,50/50 Mbps,66
+Eastern Cape,Rural,36-50,Male,20-40k,100/100 Mbps,84
+Eastern Cape,Rural,36-50,Male,20-40k,200/200 Mbps,68
+Eastern Cape,Rural,36-50,Male,20-40k,500/500 Mbps,17
+Eastern Cape,Rural,36-50,Male,20-40k,1000/1000 Mbps,13
+Eastern Cape,Rural,36-50,Male,40k+,10/10 Mbps,54
+Eastern Cape,Rural,36-50,Male,40k+,50/50 Mbps,77
+Eastern Cape,Rural,36-50,Male,40k+,100/100 Mbps,49
+Eastern Cape,Rural,36-50,Male,40k+,200/200 Mbps,72
+Eastern Cape,Rural,36-50,Male,40k+,500/500 Mbps,35
+Eastern Cape,Rural,36-50,Male,40k+,1000/1000 Mbps,29
+Eastern Cape,Rural,36-50,Female,<10k,10/10 Mbps,98
+Eastern Cape,Rural,36-50,Female,<10k,50/50 Mbps,11
+Eastern Cape,Rural,36-50,Female,<10k,100/100 Mbps,45
+Eastern Cape,Rural,36-50,Female,<10k,200/200 Mbps,38
+Eastern Cape,Rural,36-50,Female,<10k,500/500 Mbps,81
+Eastern Cape,Rural,36-50,Female,<10k,1000/1000 Mbps,15
+Eastern Cape,Rural,36-50,Female,10-20k,10/10 Mbps,87
+Eastern Cape,Rural,36-50,Female,10-20k,50/50 Mbps,66
+Eastern Cape,Rural,36-50,Female,10-20k,100/100 Mbps,95
+Eastern Cape,Rural,36-50,Female,10-20k,200/200 Mbps,80
+Eastern Cape,Rural,36-50,Female,10-20k,500/500 Mbps,33
+Eastern Cape,Rural,36-50,Female,10-20k,1000/1000 Mbps,68
+Eastern Cape,Rural,36-50,Female,20-40k,10/10 Mbps,41
+Eastern Cape,Rural,36-50,Female,20-40k,50/50 Mbps,26
+Eastern Cape,Rural,36-50,Female,20-40k,100/100 Mbps,42
+Eastern Cape,Rural,36-50,Female,20-40k,200/200 Mbps,21
+Eastern Cape,Rural,36-50,Female,20-40k,500/500 Mbps,96
+Eastern Cape,Rural,36-50,Female,20-40k,1000/1000 Mbps,39
+Eastern Cape,Rural,36-50,Female,40k+,10/10 Mbps,63
+Eastern Cape,Rural,36-50,Female,40k+,50/50 Mbps,92
+Eastern Cape,Rural,36-50,Female,40k+,100/100 Mbps,33
+Eastern Cape,Rural,36-50,Female,40k+,200/200 Mbps,6
+Eastern Cape,Rural,36-50,Female,40k+,500/500 Mbps,89
+Eastern Cape,Rural,36-50,Female,40k+,1000/1000 Mbps,87
+Eastern Cape,Rural,36-50,Other,<10k,10/10 Mbps,24
+Eastern Cape,Rural,36-50,Other,<10k,50/50 Mbps,8
+Eastern Cape,Rural,36-50,Other,<10k,100/100 Mbps,65
+Eastern Cape,Rural,36-50,Other,<10k,200/200 Mbps,52
+Eastern Cape,Rural,36-50,Other,<10k,500/500 Mbps,86
+Eastern Cape,Rural,36-50,Other,<10k,1000/1000 Mbps,5
+Eastern Cape,Rural,36-50,Other,10-20k,10/10 Mbps,75
+Eastern Cape,Rural,36-50,Other,10-20k,50/50 Mbps,55
+Eastern Cape,Rural,36-50,Other,10-20k,100/100 Mbps,41
+Eastern Cape,Rural,36-50,Other,10-20k,200/200 Mbps,84
+Eastern Cape,Rural,36-50,Other,10-20k,500/500 Mbps,41
+Eastern Cape,Rural,36-50,Other,10-20k,1000/1000 Mbps,66
+Eastern Cape,Rural,36-50,Other,20-40k,10/10 Mbps,51
+Eastern Cape,Rural,36-50,Other,20-40k,50/50 Mbps,79
+Eastern Cape,Rural,36-50,Other,20-40k,100/100 Mbps,37
+Eastern Cape,Rural,36-50,Other,20-40k,200/200 Mbps,99
+Eastern Cape,Rural,36-50,Other,20-40k,500/500 Mbps,20
+Eastern Cape,Rural,36-50,Other,20-40k,1000/1000 Mbps,21
+Eastern Cape,Rural,36-50,Other,40k+,10/10 Mbps,70
+Eastern Cape,Rural,36-50,Other,40k+,50/50 Mbps,36
+Eastern Cape,Rural,36-50,Other,40k+,100/100 Mbps,74
+Eastern Cape,Rural,36-50,Other,40k+,200/200 Mbps,13
+Eastern Cape,Rural,36-50,Other,40k+,500/500 Mbps,20
+Eastern Cape,Rural,36-50,Other,40k+,1000/1000 Mbps,71
+Eastern Cape,Rural,51+,Male,<10k,10/10 Mbps,85
+Eastern Cape,Rural,51+,Male,<10k,50/50 Mbps,51
+Eastern Cape,Rural,51+,Male,<10k,100/100 Mbps,86
+Eastern Cape,Rural,51+,Male,<10k,200/200 Mbps,18
+Eastern Cape,Rural,51+,Male,<10k,500/500 Mbps,61
+Eastern Cape,Rural,51+,Male,<10k,1000/1000 Mbps,14
+Eastern Cape,Rural,51+,Male,10-20k,10/10 Mbps,67
+Eastern Cape,Rural,51+,Male,10-20k,50/50 Mbps,77
+Eastern Cape,Rural,51+,Male,10-20k,100/100 Mbps,57
+Eastern Cape,Rural,51+,Male,10-20k,200/200 Mbps,26
+Eastern Cape,Rural,51+,Male,10-20k,500/500 Mbps,45
+Eastern Cape,Rural,51+,Male,10-20k,1000/1000 Mbps,57
+Eastern Cape,Rural,51+,Male,20-40k,10/10 Mbps,29
+Eastern Cape,Rural,51+,Male,20-40k,50/50 Mbps,94
+Eastern Cape,Rural,51+,Male,20-40k,100/100 Mbps,64
+Eastern Cape,Rural,51+,Male,20-40k,200/200 Mbps,93
+Eastern Cape,Rural,51+,Male,20-40k,500/500 Mbps,98
+Eastern Cape,Rural,51+,Male,20-40k,1000/1000 Mbps,7
+Eastern Cape,Rural,51+,Male,40k+,10/10 Mbps,94
+Eastern Cape,Rural,51+,Male,40k+,50/50 Mbps,68
+Eastern Cape,Rural,51+,Male,40k+,100/100 Mbps,90
+Eastern Cape,Rural,51+,Male,40k+,200/200 Mbps,68
+Eastern Cape,Rural,51+,Male,40k+,500/500 Mbps,71
+Eastern Cape,Rural,51+,Male,40k+,1000/1000 Mbps,63
+Eastern Cape,Rural,51+,Female,<10k,10/10 Mbps,8
+Eastern Cape,Rural,51+,Female,<10k,50/50 Mbps,54
+Eastern Cape,Rural,51+,Female,<10k,100/100 Mbps,96
+Eastern Cape,Rural,51+,Female,<10k,200/200 Mbps,15
+Eastern Cape,Rural,51+,Female,<10k,500/500 Mbps,90
+Eastern Cape,Rural,51+,Female,<10k,1000/1000 Mbps,45
+Eastern Cape,Rural,51+,Female,10-20k,10/10 Mbps,50
+Eastern Cape,Rural,51+,Female,10-20k,50/50 Mbps,59
+Eastern Cape,Rural,51+,Female,10-20k,100/100 Mbps,67
+Eastern Cape,Rural,51+,Female,10-20k,200/200 Mbps,60
+Eastern Cape,Rural,51+,Female,10-20k,500/500 Mbps,98
+Eastern Cape,Rural,51+,Female,10-20k,1000/1000 Mbps,23
+Eastern Cape,Rural,51+,Female,20-40k,10/10 Mbps,55
+Eastern Cape,Rural,51+,Female,20-40k,50/50 Mbps,63
+Eastern Cape,Rural,51+,Female,20-40k,100/100 Mbps,6
+Eastern Cape,Rural,51+,Female,20-40k,200/200 Mbps,66
+Eastern Cape,Rural,51+,Female,20-40k,500/500 Mbps,72
+Eastern Cape,Rural,51+,Female,20-40k,1000/1000 Mbps,20
+Eastern Cape,Rural,51+,Female,40k+,10/10 Mbps,51
+Eastern Cape,Rural,51+,Female,40k+,50/50 Mbps,5
+Eastern Cape,Rural,51+,Female,40k+,100/100 Mbps,79
+Eastern Cape,Rural,51+,Female,40k+,200/200 Mbps,88
+Eastern Cape,Rural,51+,Female,40k+,500/500 Mbps,52
+Eastern Cape,Rural,51+,Female,40k+,1000/1000 Mbps,69
+Eastern Cape,Rural,51+,Other,<10k,10/10 Mbps,30
+Eastern Cape,Rural,51+,Other,<10k,50/50 Mbps,73
+Eastern Cape,Rural,51+,Other,<10k,100/100 Mbps,36
+Eastern Cape,Rural,51+,Other,<10k,200/200 Mbps,54
+Eastern Cape,Rural,51+,Other,<10k,500/500 Mbps,54
+Eastern Cape,Rural,51+,Other,<10k,1000/1000 Mbps,39
+Eastern Cape,Rural,51+,Other,10-20k,10/10 Mbps,48
+Eastern Cape,Rural,51+,Other,10-20k,50/50 Mbps,51
+Eastern Cape,Rural,51+,Other,10-20k,100/100 Mbps,42
+Eastern Cape,Rural,51+,Other,10-20k,200/200 Mbps,57
+Eastern Cape,Rural,51+,Other,10-20k,500/500 Mbps,5
+Eastern Cape,Rural,51+,Other,10-20k,1000/1000 Mbps,25
+Eastern Cape,Rural,51+,Other,20-40k,10/10 Mbps,21
+Eastern Cape,Rural,51+,Other,20-40k,50/50 Mbps,43
+Eastern Cape,Rural,51+,Other,20-40k,100/100 Mbps,68
+Eastern Cape,Rural,51+,Other,20-40k,200/200 Mbps,36
+Eastern Cape,Rural,51+,Other,20-40k,500/500 Mbps,96
+Eastern Cape,Rural,51+,Other,20-40k,1000/1000 Mbps,64
+Eastern Cape,Rural,51+,Other,40k+,10/10 Mbps,10
+Eastern Cape,Rural,51+,Other,40k+,50/50 Mbps,54
+Eastern Cape,Rural,51+,Other,40k+,100/100 Mbps,32
+Eastern Cape,Rural,51+,Other,40k+,200/200 Mbps,55
+Eastern Cape,Rural,51+,Other,40k+,500/500 Mbps,98
+Eastern Cape,Rural,51+,Other,40k+,1000/1000 Mbps,38

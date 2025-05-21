@@ -1,0 +1,2305 @@
+Month,Province,Campaign,Lead Source,Package,Leads Generated,Conversion Rate,Leads Converted
+2025-01-31,Gauteng,Digital Ads,Facebook,10/10 Mbps,203,0.19,38
+2025-01-31,Gauteng,Digital Ads,Facebook,50/50 Mbps,27,0.05,1
+2025-01-31,Gauteng,Digital Ads,Facebook,100/100 Mbps,115,0.08,9
+2025-01-31,Gauteng,Digital Ads,Facebook,200/200 Mbps,189,0.18,34
+2025-01-31,Gauteng,Digital Ads,Facebook,500/500 Mbps,257,0.11,28
+2025-01-31,Gauteng,Digital Ads,Facebook,1000/1000 Mbps,214,0.15,32
+2025-01-31,Gauteng,Digital Ads,Google,10/10 Mbps,90,0.17,15
+2025-01-31,Gauteng,Digital Ads,Google,50/50 Mbps,255,0.12,30
+2025-01-31,Gauteng,Digital Ads,Google,100/100 Mbps,29,0.09,2
+2025-01-31,Gauteng,Digital Ads,Google,200/200 Mbps,215,0.17,36
+2025-01-31,Gauteng,Digital Ads,Google,500/500 Mbps,234,0.14,32
+2025-01-31,Gauteng,Digital Ads,Google,1000/1000 Mbps,246,0.11,27
+2025-01-31,Gauteng,Digital Ads,Word of Mouth,10/10 Mbps,44,0.13,5
+2025-01-31,Gauteng,Digital Ads,Word of Mouth,50/50 Mbps,106,0.08,8
+2025-01-31,Gauteng,Digital Ads,Word of Mouth,100/100 Mbps,177,0.16,28
+2025-01-31,Gauteng,Digital Ads,Word of Mouth,200/200 Mbps,129,0.19,24
+2025-01-31,Gauteng,Digital Ads,Word of Mouth,500/500 Mbps,54,0.17,9
+2025-01-31,Gauteng,Digital Ads,Word of Mouth,1000/1000 Mbps,202,0.12,24
+2025-01-31,Gauteng,Digital Ads,Local Radio,10/10 Mbps,147,0.17,24
+2025-01-31,Gauteng,Digital Ads,Local Radio,50/50 Mbps,56,0.06,3
+2025-01-31,Gauteng,Digital Ads,Local Radio,100/100 Mbps,150,0.13,19
+2025-01-31,Gauteng,Digital Ads,Local Radio,200/200 Mbps,211,0.14,29
+2025-01-31,Gauteng,Digital Ads,Local Radio,500/500 Mbps,127,0.1,12
+2025-01-31,Gauteng,Digital Ads,Local Radio,1000/1000 Mbps,177,0.18,31
+2025-01-31,Gauteng,Referral,Facebook,10/10 Mbps,270,0.13,35
+2025-01-31,Gauteng,Referral,Facebook,50/50 Mbps,167,0.14,23
+2025-01-31,Gauteng,Referral,Facebook,100/100 Mbps,267,0.18,48
+2025-01-31,Gauteng,Referral,Facebook,200/200 Mbps,217,0.08,17
+2025-01-31,Gauteng,Referral,Facebook,500/500 Mbps,183,0.1,18
+2025-01-31,Gauteng,Referral,Facebook,1000/1000 Mbps,245,0.14,34
+2025-01-31,Gauteng,Referral,Google,10/10 Mbps,223,0.13,28
+2025-01-31,Gauteng,Referral,Google,50/50 Mbps,282,0.16,45
+2025-01-31,Gauteng,Referral,Google,100/100 Mbps,226,0.17,38
+2025-01-31,Gauteng,Referral,Google,200/200 Mbps,29,0.17,4
+2025-01-31,Gauteng,Referral,Google,500/500 Mbps,35,0.11,3
+2025-01-31,Gauteng,Referral,Google,1000/1000 Mbps,288,0.08,23
+2025-01-31,Gauteng,Referral,Word of Mouth,10/10 Mbps,149,0.05,7
+2025-01-31,Gauteng,Referral,Word of Mouth,50/50 Mbps,168,0.06,10
+2025-01-31,Gauteng,Referral,Word of Mouth,100/100 Mbps,175,0.06,10
+2025-01-31,Gauteng,Referral,Word of Mouth,200/200 Mbps,178,0.06,10
+2025-01-31,Gauteng,Referral,Word of Mouth,500/500 Mbps,210,0.09,18
+2025-01-31,Gauteng,Referral,Word of Mouth,1000/1000 Mbps,39,0.18,7
+2025-01-31,Gauteng,Referral,Local Radio,10/10 Mbps,233,0.17,39
+2025-01-31,Gauteng,Referral,Local Radio,50/50 Mbps,88,0.11,9
+2025-01-31,Gauteng,Referral,Local Radio,100/100 Mbps,236,0.13,30
+2025-01-31,Gauteng,Referral,Local Radio,200/200 Mbps,146,0.09,13
+2025-01-31,Gauteng,Referral,Local Radio,500/500 Mbps,288,0.1,28
+2025-01-31,Gauteng,Referral,Local Radio,1000/1000 Mbps,218,0.05,10
+2025-01-31,Gauteng,Outdoor,Facebook,10/10 Mbps,258,0.2,51
+2025-01-31,Gauteng,Outdoor,Facebook,50/50 Mbps,283,0.15,42
+2025-01-31,Gauteng,Outdoor,Facebook,100/100 Mbps,248,0.06,14
+2025-01-31,Gauteng,Outdoor,Facebook,200/200 Mbps,185,0.08,14
+2025-01-31,Gauteng,Outdoor,Facebook,500/500 Mbps,230,0.16,36
+2025-01-31,Gauteng,Outdoor,Facebook,1000/1000 Mbps,257,0.07,17
+2025-01-31,Gauteng,Outdoor,Google,10/10 Mbps,86,0.16,13
+2025-01-31,Gauteng,Outdoor,Google,50/50 Mbps,129,0.1,12
+2025-01-31,Gauteng,Outdoor,Google,100/100 Mbps,110,0.12,13
+2025-01-31,Gauteng,Outdoor,Google,200/200 Mbps,171,0.06,10
+2025-01-31,Gauteng,Outdoor,Google,500/500 Mbps,105,0.18,18
+2025-01-31,Gauteng,Outdoor,Google,1000/1000 Mbps,141,0.2,28
+2025-01-31,Gauteng,Outdoor,Word of Mouth,10/10 Mbps,87,0.08,6
+2025-01-31,Gauteng,Outdoor,Word of Mouth,50/50 Mbps,83,0.15,12
+2025-01-31,Gauteng,Outdoor,Word of Mouth,100/100 Mbps,215,0.05,10
+2025-01-31,Gauteng,Outdoor,Word of Mouth,200/200 Mbps,199,0.17,33
+2025-01-31,Gauteng,Outdoor,Word of Mouth,500/500 Mbps,21,0.07,1
+2025-01-31,Gauteng,Outdoor,Word of Mouth,1000/1000 Mbps,203,0.09,18
+2025-01-31,Gauteng,Outdoor,Local Radio,10/10 Mbps,265,0.15,39
+2025-01-31,Gauteng,Outdoor,Local Radio,50/50 Mbps,114,0.08,9
+2025-01-31,Gauteng,Outdoor,Local Radio,100/100 Mbps,210,0.09,18
+2025-01-31,Gauteng,Outdoor,Local Radio,200/200 Mbps,155,0.11,17
+2025-01-31,Gauteng,Outdoor,Local Radio,500/500 Mbps,256,0.08,20
+2025-01-31,Gauteng,Outdoor,Local Radio,1000/1000 Mbps,154,0.06,9
+2025-01-31,Gauteng,Events,Facebook,10/10 Mbps,60,0.07,4
+2025-01-31,Gauteng,Events,Facebook,50/50 Mbps,46,0.1,4
+2025-01-31,Gauteng,Events,Facebook,100/100 Mbps,252,0.14,35
+2025-01-31,Gauteng,Events,Facebook,200/200 Mbps,118,0.09,10
+2025-01-31,Gauteng,Events,Facebook,500/500 Mbps,88,0.11,9
+2025-01-31,Gauteng,Events,Facebook,1000/1000 Mbps,78,0.15,11
+2025-01-31,Gauteng,Events,Google,10/10 Mbps,281,0.12,33
+2025-01-31,Gauteng,Events,Google,50/50 Mbps,240,0.18,43
+2025-01-31,Gauteng,Events,Google,100/100 Mbps,297,0.11,32
+2025-01-31,Gauteng,Events,Google,200/200 Mbps,164,0.17,27
+2025-01-31,Gauteng,Events,Google,500/500 Mbps,218,0.11,23
+2025-01-31,Gauteng,Events,Google,1000/1000 Mbps,245,0.1,24
+2025-01-31,Gauteng,Events,Word of Mouth,10/10 Mbps,62,0.08,4
+2025-01-31,Gauteng,Events,Word of Mouth,50/50 Mbps,133,0.14,18
+2025-01-31,Gauteng,Events,Word of Mouth,100/100 Mbps,260,0.16,41
+2025-01-31,Gauteng,Events,Word of Mouth,200/200 Mbps,279,0.2,55
+2025-01-31,Gauteng,Events,Word of Mouth,500/500 Mbps,247,0.05,12
+2025-01-31,Gauteng,Events,Word of Mouth,1000/1000 Mbps,93,0.16,14
+2025-01-31,Gauteng,Events,Local Radio,10/10 Mbps,234,0.05,11
+2025-01-31,Gauteng,Events,Local Radio,50/50 Mbps,69,0.07,4
+2025-01-31,Gauteng,Events,Local Radio,100/100 Mbps,163,0.19,30
+2025-01-31,Gauteng,Events,Local Radio,200/200 Mbps,86,0.1,8
+2025-01-31,Gauteng,Events,Local Radio,500/500 Mbps,288,0.13,37
+2025-01-31,Gauteng,Events,Local Radio,1000/1000 Mbps,267,0.07,18
+2025-01-31,Western Cape,Digital Ads,Facebook,10/10 Mbps,96,0.08,7
+2025-01-31,Western Cape,Digital Ads,Facebook,50/50 Mbps,256,0.13,33
+2025-01-31,Western Cape,Digital Ads,Facebook,100/100 Mbps,200,0.2,40
+2025-01-31,Western Cape,Digital Ads,Facebook,200/200 Mbps,172,0.08,13
+2025-01-31,Western Cape,Digital Ads,Facebook,500/500 Mbps,238,0.18,42
+2025-01-31,Western Cape,Digital Ads,Facebook,1000/1000 Mbps,269,0.07,18
+2025-01-31,Western Cape,Digital Ads,Google,10/10 Mbps,297,0.19,56
+2025-01-31,Western Cape,Digital Ads,Google,50/50 Mbps,183,0.16,29
+2025-01-31,Western Cape,Digital Ads,Google,100/100 Mbps,178,0.1,17
+2025-01-31,Western Cape,Digital Ads,Google,200/200 Mbps,34,0.19,6
+2025-01-31,Western Cape,Digital Ads,Google,500/500 Mbps,219,0.15,32
+2025-01-31,Western Cape,Digital Ads,Google,1000/1000 Mbps,46,0.07,3
+2025-01-31,Western Cape,Digital Ads,Word of Mouth,10/10 Mbps,27,0.15,4
+2025-01-31,Western Cape,Digital Ads,Word of Mouth,50/50 Mbps,124,0.08,9
+2025-01-31,Western Cape,Digital Ads,Word of Mouth,100/100 Mbps,253,0.19,48
+2025-01-31,Western Cape,Digital Ads,Word of Mouth,200/200 Mbps,254,0.16,40
+2025-01-31,Western Cape,Digital Ads,Word of Mouth,500/500 Mbps,183,0.09,16
+2025-01-31,Western Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,243,0.17,41
+2025-01-31,Western Cape,Digital Ads,Local Radio,10/10 Mbps,151,0.17,25
+2025-01-31,Western Cape,Digital Ads,Local Radio,50/50 Mbps,228,0.11,25
+2025-01-31,Western Cape,Digital Ads,Local Radio,100/100 Mbps,280,0.16,44
+2025-01-31,Western Cape,Digital Ads,Local Radio,200/200 Mbps,110,0.13,14
+2025-01-31,Western Cape,Digital Ads,Local Radio,500/500 Mbps,82,0.1,8
+2025-01-31,Western Cape,Digital Ads,Local Radio,1000/1000 Mbps,250,0.18,45
+2025-01-31,Western Cape,Referral,Facebook,10/10 Mbps,24,0.14,3
+2025-01-31,Western Cape,Referral,Facebook,50/50 Mbps,117,0.06,7
+2025-01-31,Western Cape,Referral,Facebook,100/100 Mbps,89,0.08,7
+2025-01-31,Western Cape,Referral,Facebook,200/200 Mbps,93,0.15,13
+2025-01-31,Western Cape,Referral,Facebook,500/500 Mbps,85,0.14,11
+2025-01-31,Western Cape,Referral,Facebook,1000/1000 Mbps,85,0.08,6
+2025-01-31,Western Cape,Referral,Google,10/10 Mbps,224,0.18,40
+2025-01-31,Western Cape,Referral,Google,50/50 Mbps,254,0.09,22
+2025-01-31,Western Cape,Referral,Google,100/100 Mbps,177,0.14,24
+2025-01-31,Western Cape,Referral,Google,200/200 Mbps,125,0.18,22
+2025-01-31,Western Cape,Referral,Google,500/500 Mbps,139,0.07,9
+2025-01-31,Western Cape,Referral,Google,1000/1000 Mbps,219,0.06,13
+2025-01-31,Western Cape,Referral,Word of Mouth,10/10 Mbps,93,0.1,9
+2025-01-31,Western Cape,Referral,Word of Mouth,50/50 Mbps,164,0.1,16
+2025-01-31,Western Cape,Referral,Word of Mouth,100/100 Mbps,75,0.08,6
+2025-01-31,Western Cape,Referral,Word of Mouth,200/200 Mbps,120,0.11,13
+2025-01-31,Western Cape,Referral,Word of Mouth,500/500 Mbps,249,0.13,32
+2025-01-31,Western Cape,Referral,Word of Mouth,1000/1000 Mbps,284,0.05,14
+2025-01-31,Western Cape,Referral,Local Radio,10/10 Mbps,240,0.18,43
+2025-01-31,Western Cape,Referral,Local Radio,50/50 Mbps,287,0.14,40
+2025-01-31,Western Cape,Referral,Local Radio,100/100 Mbps,239,0.09,21
+2025-01-31,Western Cape,Referral,Local Radio,200/200 Mbps,160,0.11,17
+2025-01-31,Western Cape,Referral,Local Radio,500/500 Mbps,89,0.1,8
+2025-01-31,Western Cape,Referral,Local Radio,1000/1000 Mbps,100,0.11,11
+2025-01-31,Western Cape,Outdoor,Facebook,10/10 Mbps,124,0.13,16
+2025-01-31,Western Cape,Outdoor,Facebook,50/50 Mbps,180,0.2,36
+2025-01-31,Western Cape,Outdoor,Facebook,100/100 Mbps,203,0.15,30
+2025-01-31,Western Cape,Outdoor,Facebook,200/200 Mbps,290,0.17,49
+2025-01-31,Western Cape,Outdoor,Facebook,500/500 Mbps,32,0.09,2
+2025-01-31,Western Cape,Outdoor,Facebook,1000/1000 Mbps,297,0.19,56
+2025-01-31,Western Cape,Outdoor,Google,10/10 Mbps,216,0.05,10
+2025-01-31,Western Cape,Outdoor,Google,50/50 Mbps,292,0.15,43
+2025-01-31,Western Cape,Outdoor,Google,100/100 Mbps,121,0.13,15
+2025-01-31,Western Cape,Outdoor,Google,200/200 Mbps,265,0.17,45
+2025-01-31,Western Cape,Outdoor,Google,500/500 Mbps,43,0.06,2
+2025-01-31,Western Cape,Outdoor,Google,1000/1000 Mbps,264,0.11,29
+2025-01-31,Western Cape,Outdoor,Word of Mouth,10/10 Mbps,190,0.08,15
+2025-01-31,Western Cape,Outdoor,Word of Mouth,50/50 Mbps,299,0.15,44
+2025-01-31,Western Cape,Outdoor,Word of Mouth,100/100 Mbps,80,0.09,7
+2025-01-31,Western Cape,Outdoor,Word of Mouth,200/200 Mbps,85,0.16,13
+2025-01-31,Western Cape,Outdoor,Word of Mouth,500/500 Mbps,173,0.05,8
+2025-01-31,Western Cape,Outdoor,Word of Mouth,1000/1000 Mbps,198,0.18,35
+2025-01-31,Western Cape,Outdoor,Local Radio,10/10 Mbps,64,0.08,5
+2025-01-31,Western Cape,Outdoor,Local Radio,50/50 Mbps,61,0.19,11
+2025-01-31,Western Cape,Outdoor,Local Radio,100/100 Mbps,251,0.19,47
+2025-01-31,Western Cape,Outdoor,Local Radio,200/200 Mbps,270,0.12,32
+2025-01-31,Western Cape,Outdoor,Local Radio,500/500 Mbps,246,0.07,17
+2025-01-31,Western Cape,Outdoor,Local Radio,1000/1000 Mbps,112,0.05,5
+2025-01-31,Western Cape,Events,Facebook,10/10 Mbps,45,0.07,3
+2025-01-31,Western Cape,Events,Facebook,50/50 Mbps,61,0.08,4
+2025-01-31,Western Cape,Events,Facebook,100/100 Mbps,109,0.14,15
+2025-01-31,Western Cape,Events,Facebook,200/200 Mbps,135,0.17,22
+2025-01-31,Western Cape,Events,Facebook,500/500 Mbps,26,0.15,3
+2025-01-31,Western Cape,Events,Facebook,1000/1000 Mbps,20,0.07,1
+2025-01-31,Western Cape,Events,Google,10/10 Mbps,249,0.1,24
+2025-01-31,Western Cape,Events,Google,50/50 Mbps,98,0.15,14
+2025-01-31,Western Cape,Events,Google,100/100 Mbps,133,0.1,13
+2025-01-31,Western Cape,Events,Google,200/200 Mbps,169,0.15,25
+2025-01-31,Western Cape,Events,Google,500/500 Mbps,62,0.06,3
+2025-01-31,Western Cape,Events,Google,1000/1000 Mbps,45,0.1,4
+2025-01-31,Western Cape,Events,Word of Mouth,10/10 Mbps,26,0.17,4
+2025-01-31,Western Cape,Events,Word of Mouth,50/50 Mbps,219,0.18,39
+2025-01-31,Western Cape,Events,Word of Mouth,100/100 Mbps,133,0.14,18
+2025-01-31,Western Cape,Events,Word of Mouth,200/200 Mbps,119,0.06,7
+2025-01-31,Western Cape,Events,Word of Mouth,500/500 Mbps,193,0.11,21
+2025-01-31,Western Cape,Events,Word of Mouth,1000/1000 Mbps,203,0.06,12
+2025-01-31,Western Cape,Events,Local Radio,10/10 Mbps,39,0.11,4
+2025-01-31,Western Cape,Events,Local Radio,50/50 Mbps,238,0.14,33
+2025-01-31,Western Cape,Events,Local Radio,100/100 Mbps,266,0.2,53
+2025-01-31,Western Cape,Events,Local Radio,200/200 Mbps,142,0.07,9
+2025-01-31,Western Cape,Events,Local Radio,500/500 Mbps,121,0.13,15
+2025-01-31,Western Cape,Events,Local Radio,1000/1000 Mbps,104,0.05,5
+2025-01-31,KwaZulu-Natal,Digital Ads,Facebook,10/10 Mbps,68,0.05,3
+2025-01-31,KwaZulu-Natal,Digital Ads,Facebook,50/50 Mbps,250,0.16,40
+2025-01-31,KwaZulu-Natal,Digital Ads,Facebook,100/100 Mbps,267,0.1,26
+2025-01-31,KwaZulu-Natal,Digital Ads,Facebook,200/200 Mbps,157,0.06,9
+2025-01-31,KwaZulu-Natal,Digital Ads,Facebook,500/500 Mbps,248,0.12,29
+2025-01-31,KwaZulu-Natal,Digital Ads,Facebook,1000/1000 Mbps,26,0.06,1
+2025-01-31,KwaZulu-Natal,Digital Ads,Google,10/10 Mbps,231,0.1,23
+2025-01-31,KwaZulu-Natal,Digital Ads,Google,50/50 Mbps,86,0.12,10
+2025-01-31,KwaZulu-Natal,Digital Ads,Google,100/100 Mbps,102,0.07,7
+2025-01-31,KwaZulu-Natal,Digital Ads,Google,200/200 Mbps,44,0.11,4
+2025-01-31,KwaZulu-Natal,Digital Ads,Google,500/500 Mbps,26,0.06,1
+2025-01-31,KwaZulu-Natal,Digital Ads,Google,1000/1000 Mbps,204,0.05,10
+2025-01-31,KwaZulu-Natal,Digital Ads,Word of Mouth,10/10 Mbps,240,0.08,19
+2025-01-31,KwaZulu-Natal,Digital Ads,Word of Mouth,50/50 Mbps,285,0.15,42
+2025-01-31,KwaZulu-Natal,Digital Ads,Word of Mouth,100/100 Mbps,111,0.08,8
+2025-01-31,KwaZulu-Natal,Digital Ads,Word of Mouth,200/200 Mbps,176,0.08,14
+2025-01-31,KwaZulu-Natal,Digital Ads,Word of Mouth,500/500 Mbps,127,0.11,13
+2025-01-31,KwaZulu-Natal,Digital Ads,Word of Mouth,1000/1000 Mbps,69,0.14,9
+2025-01-31,KwaZulu-Natal,Digital Ads,Local Radio,10/10 Mbps,186,0.1,18
+2025-01-31,KwaZulu-Natal,Digital Ads,Local Radio,50/50 Mbps,214,0.2,42
+2025-01-31,KwaZulu-Natal,Digital Ads,Local Radio,100/100 Mbps,268,0.19,50
+2025-01-31,KwaZulu-Natal,Digital Ads,Local Radio,200/200 Mbps,268,0.06,16
+2025-01-31,KwaZulu-Natal,Digital Ads,Local Radio,500/500 Mbps,58,0.15,8
+2025-01-31,KwaZulu-Natal,Digital Ads,Local Radio,1000/1000 Mbps,258,0.17,43
+2025-01-31,KwaZulu-Natal,Referral,Facebook,10/10 Mbps,53,0.16,8
+2025-01-31,KwaZulu-Natal,Referral,Facebook,50/50 Mbps,225,0.12,27
+2025-01-31,KwaZulu-Natal,Referral,Facebook,100/100 Mbps,189,0.09,17
+2025-01-31,KwaZulu-Natal,Referral,Facebook,200/200 Mbps,39,0.16,6
+2025-01-31,KwaZulu-Natal,Referral,Facebook,500/500 Mbps,30,0.12,3
+2025-01-31,KwaZulu-Natal,Referral,Facebook,1000/1000 Mbps,267,0.08,21
+2025-01-31,KwaZulu-Natal,Referral,Google,10/10 Mbps,68,0.15,10
+2025-01-31,KwaZulu-Natal,Referral,Google,50/50 Mbps,162,0.08,12
+2025-01-31,KwaZulu-Natal,Referral,Google,100/100 Mbps,42,0.18,7
+2025-01-31,KwaZulu-Natal,Referral,Google,200/200 Mbps,123,0.11,13
+2025-01-31,KwaZulu-Natal,Referral,Google,500/500 Mbps,99,0.13,12
+2025-01-31,KwaZulu-Natal,Referral,Google,1000/1000 Mbps,253,0.15,37
+2025-01-31,KwaZulu-Natal,Referral,Word of Mouth,10/10 Mbps,236,0.1,23
+2025-01-31,KwaZulu-Natal,Referral,Word of Mouth,50/50 Mbps,125,0.17,21
+2025-01-31,KwaZulu-Natal,Referral,Word of Mouth,100/100 Mbps,294,0.07,20
+2025-01-31,KwaZulu-Natal,Referral,Word of Mouth,200/200 Mbps,39,0.06,2
+2025-01-31,KwaZulu-Natal,Referral,Word of Mouth,500/500 Mbps,188,0.15,28
+2025-01-31,KwaZulu-Natal,Referral,Word of Mouth,1000/1000 Mbps,49,0.16,7
+2025-01-31,KwaZulu-Natal,Referral,Local Radio,10/10 Mbps,293,0.11,32
+2025-01-31,KwaZulu-Natal,Referral,Local Radio,50/50 Mbps,149,0.14,20
+2025-01-31,KwaZulu-Natal,Referral,Local Radio,100/100 Mbps,85,0.05,4
+2025-01-31,KwaZulu-Natal,Referral,Local Radio,200/200 Mbps,183,0.06,10
+2025-01-31,KwaZulu-Natal,Referral,Local Radio,500/500 Mbps,201,0.15,30
+2025-01-31,KwaZulu-Natal,Referral,Local Radio,1000/1000 Mbps,295,0.12,35
+2025-01-31,KwaZulu-Natal,Outdoor,Facebook,10/10 Mbps,68,0.15,10
+2025-01-31,KwaZulu-Natal,Outdoor,Facebook,50/50 Mbps,133,0.1,13
+2025-01-31,KwaZulu-Natal,Outdoor,Facebook,100/100 Mbps,246,0.07,17
+2025-01-31,KwaZulu-Natal,Outdoor,Facebook,200/200 Mbps,71,0.15,10
+2025-01-31,KwaZulu-Natal,Outdoor,Facebook,500/500 Mbps,105,0.17,17
+2025-01-31,KwaZulu-Natal,Outdoor,Facebook,1000/1000 Mbps,105,0.15,15
+2025-01-31,KwaZulu-Natal,Outdoor,Google,10/10 Mbps,160,0.09,14
+2025-01-31,KwaZulu-Natal,Outdoor,Google,50/50 Mbps,232,0.18,41
+2025-01-31,KwaZulu-Natal,Outdoor,Google,100/100 Mbps,39,0.16,6
+2025-01-31,KwaZulu-Natal,Outdoor,Google,200/200 Mbps,70,0.18,12
+2025-01-31,KwaZulu-Natal,Outdoor,Google,500/500 Mbps,81,0.15,12
+2025-01-31,KwaZulu-Natal,Outdoor,Google,1000/1000 Mbps,287,0.18,51
+2025-01-31,KwaZulu-Natal,Outdoor,Word of Mouth,10/10 Mbps,199,0.07,13
+2025-01-31,KwaZulu-Natal,Outdoor,Word of Mouth,50/50 Mbps,148,0.13,19
+2025-01-31,KwaZulu-Natal,Outdoor,Word of Mouth,100/100 Mbps,184,0.17,31
+2025-01-31,KwaZulu-Natal,Outdoor,Word of Mouth,200/200 Mbps,153,0.16,24
+2025-01-31,KwaZulu-Natal,Outdoor,Word of Mouth,500/500 Mbps,190,0.18,34
+2025-01-31,KwaZulu-Natal,Outdoor,Word of Mouth,1000/1000 Mbps,103,0.12,12
+2025-01-31,KwaZulu-Natal,Outdoor,Local Radio,10/10 Mbps,158,0.17,26
+2025-01-31,KwaZulu-Natal,Outdoor,Local Radio,50/50 Mbps,46,0.1,4
+2025-01-31,KwaZulu-Natal,Outdoor,Local Radio,100/100 Mbps,234,0.12,28
+2025-01-31,KwaZulu-Natal,Outdoor,Local Radio,200/200 Mbps,165,0.09,14
+2025-01-31,KwaZulu-Natal,Outdoor,Local Radio,500/500 Mbps,45,0.17,7
+2025-01-31,KwaZulu-Natal,Outdoor,Local Radio,1000/1000 Mbps,73,0.08,5
+2025-01-31,KwaZulu-Natal,Events,Facebook,10/10 Mbps,189,0.11,20
+2025-01-31,KwaZulu-Natal,Events,Facebook,50/50 Mbps,88,0.17,14
+2025-01-31,KwaZulu-Natal,Events,Facebook,100/100 Mbps,179,0.13,23
+2025-01-31,KwaZulu-Natal,Events,Facebook,200/200 Mbps,55,0.06,3
+2025-01-31,KwaZulu-Natal,Events,Facebook,500/500 Mbps,79,0.18,14
+2025-01-31,KwaZulu-Natal,Events,Facebook,1000/1000 Mbps,174,0.2,34
+2025-01-31,KwaZulu-Natal,Events,Google,10/10 Mbps,149,0.18,26
+2025-01-31,KwaZulu-Natal,Events,Google,50/50 Mbps,117,0.19,22
+2025-01-31,KwaZulu-Natal,Events,Google,100/100 Mbps,143,0.12,17
+2025-01-31,KwaZulu-Natal,Events,Google,200/200 Mbps,140,0.07,9
+2025-01-31,KwaZulu-Natal,Events,Google,500/500 Mbps,161,0.13,20
+2025-01-31,KwaZulu-Natal,Events,Google,1000/1000 Mbps,112,0.18,20
+2025-01-31,KwaZulu-Natal,Events,Word of Mouth,10/10 Mbps,170,0.17,28
+2025-01-31,KwaZulu-Natal,Events,Word of Mouth,50/50 Mbps,179,0.15,26
+2025-01-31,KwaZulu-Natal,Events,Word of Mouth,100/100 Mbps,121,0.17,20
+2025-01-31,KwaZulu-Natal,Events,Word of Mouth,200/200 Mbps,107,0.08,8
+2025-01-31,KwaZulu-Natal,Events,Word of Mouth,500/500 Mbps,107,0.05,5
+2025-01-31,KwaZulu-Natal,Events,Word of Mouth,1000/1000 Mbps,110,0.15,16
+2025-01-31,KwaZulu-Natal,Events,Local Radio,10/10 Mbps,298,0.08,23
+2025-01-31,KwaZulu-Natal,Events,Local Radio,50/50 Mbps,98,0.07,6
+2025-01-31,KwaZulu-Natal,Events,Local Radio,100/100 Mbps,210,0.13,27
+2025-01-31,KwaZulu-Natal,Events,Local Radio,200/200 Mbps,230,0.1,23
+2025-01-31,KwaZulu-Natal,Events,Local Radio,500/500 Mbps,138,0.05,6
+2025-01-31,KwaZulu-Natal,Events,Local Radio,1000/1000 Mbps,289,0.14,40
+2025-01-31,Eastern Cape,Digital Ads,Facebook,10/10 Mbps,255,0.18,45
+2025-01-31,Eastern Cape,Digital Ads,Facebook,50/50 Mbps,59,0.15,8
+2025-01-31,Eastern Cape,Digital Ads,Facebook,100/100 Mbps,220,0.1,22
+2025-01-31,Eastern Cape,Digital Ads,Facebook,200/200 Mbps,75,0.12,9
+2025-01-31,Eastern Cape,Digital Ads,Facebook,500/500 Mbps,252,0.17,42
+2025-01-31,Eastern Cape,Digital Ads,Facebook,1000/1000 Mbps,270,0.12,32
+2025-01-31,Eastern Cape,Digital Ads,Google,10/10 Mbps,226,0.16,36
+2025-01-31,Eastern Cape,Digital Ads,Google,50/50 Mbps,132,0.06,7
+2025-01-31,Eastern Cape,Digital Ads,Google,100/100 Mbps,104,0.07,7
+2025-01-31,Eastern Cape,Digital Ads,Google,200/200 Mbps,118,0.13,15
+2025-01-31,Eastern Cape,Digital Ads,Google,500/500 Mbps,191,0.13,24
+2025-01-31,Eastern Cape,Digital Ads,Google,1000/1000 Mbps,146,0.1,14
+2025-01-31,Eastern Cape,Digital Ads,Word of Mouth,10/10 Mbps,286,0.16,45
+2025-01-31,Eastern Cape,Digital Ads,Word of Mouth,50/50 Mbps,200,0.11,22
+2025-01-31,Eastern Cape,Digital Ads,Word of Mouth,100/100 Mbps,192,0.18,34
+2025-01-31,Eastern Cape,Digital Ads,Word of Mouth,200/200 Mbps,77,0.16,12
+2025-01-31,Eastern Cape,Digital Ads,Word of Mouth,500/500 Mbps,51,0.14,7
+2025-01-31,Eastern Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,252,0.12,30
+2025-01-31,Eastern Cape,Digital Ads,Local Radio,10/10 Mbps,267,0.08,21
+2025-01-31,Eastern Cape,Digital Ads,Local Radio,50/50 Mbps,87,0.07,6
+2025-01-31,Eastern Cape,Digital Ads,Local Radio,100/100 Mbps,97,0.12,11
+2025-01-31,Eastern Cape,Digital Ads,Local Radio,200/200 Mbps,137,0.13,17
+2025-01-31,Eastern Cape,Digital Ads,Local Radio,500/500 Mbps,276,0.07,19
+2025-01-31,Eastern Cape,Digital Ads,Local Radio,1000/1000 Mbps,255,0.09,22
+2025-01-31,Eastern Cape,Referral,Facebook,10/10 Mbps,212,0.13,27
+2025-01-31,Eastern Cape,Referral,Facebook,50/50 Mbps,52,0.07,3
+2025-01-31,Eastern Cape,Referral,Facebook,100/100 Mbps,189,0.11,20
+2025-01-31,Eastern Cape,Referral,Facebook,200/200 Mbps,145,0.18,26
+2025-01-31,Eastern Cape,Referral,Facebook,500/500 Mbps,227,0.15,34
+2025-01-31,Eastern Cape,Referral,Facebook,1000/1000 Mbps,71,0.17,12
+2025-01-31,Eastern Cape,Referral,Google,10/10 Mbps,21,0.12,2
+2025-01-31,Eastern Cape,Referral,Google,50/50 Mbps,22,0.1,2
+2025-01-31,Eastern Cape,Referral,Google,100/100 Mbps,156,0.1,15
+2025-01-31,Eastern Cape,Referral,Google,200/200 Mbps,67,0.09,6
+2025-01-31,Eastern Cape,Referral,Google,500/500 Mbps,110,0.11,12
+2025-01-31,Eastern Cape,Referral,Google,1000/1000 Mbps,289,0.09,26
+2025-01-31,Eastern Cape,Referral,Word of Mouth,10/10 Mbps,24,0.05,1
+2025-01-31,Eastern Cape,Referral,Word of Mouth,50/50 Mbps,165,0.17,28
+2025-01-31,Eastern Cape,Referral,Word of Mouth,100/100 Mbps,239,0.09,21
+2025-01-31,Eastern Cape,Referral,Word of Mouth,200/200 Mbps,257,0.1,25
+2025-01-31,Eastern Cape,Referral,Word of Mouth,500/500 Mbps,250,0.15,37
+2025-01-31,Eastern Cape,Referral,Word of Mouth,1000/1000 Mbps,31,0.16,4
+2025-01-31,Eastern Cape,Referral,Local Radio,10/10 Mbps,264,0.11,29
+2025-01-31,Eastern Cape,Referral,Local Radio,50/50 Mbps,280,0.16,44
+2025-01-31,Eastern Cape,Referral,Local Radio,100/100 Mbps,103,0.14,14
+2025-01-31,Eastern Cape,Referral,Local Radio,200/200 Mbps,231,0.1,23
+2025-01-31,Eastern Cape,Referral,Local Radio,500/500 Mbps,59,0.19,11
+2025-01-31,Eastern Cape,Referral,Local Radio,1000/1000 Mbps,79,0.15,11
+2025-01-31,Eastern Cape,Outdoor,Facebook,10/10 Mbps,38,0.09,3
+2025-01-31,Eastern Cape,Outdoor,Facebook,50/50 Mbps,52,0.13,6
+2025-01-31,Eastern Cape,Outdoor,Facebook,100/100 Mbps,152,0.18,27
+2025-01-31,Eastern Cape,Outdoor,Facebook,200/200 Mbps,145,0.07,10
+2025-01-31,Eastern Cape,Outdoor,Facebook,500/500 Mbps,171,0.06,10
+2025-01-31,Eastern Cape,Outdoor,Facebook,1000/1000 Mbps,91,0.11,10
+2025-01-31,Eastern Cape,Outdoor,Google,10/10 Mbps,290,0.07,20
+2025-01-31,Eastern Cape,Outdoor,Google,50/50 Mbps,135,0.06,8
+2025-01-31,Eastern Cape,Outdoor,Google,100/100 Mbps,232,0.12,27
+2025-01-31,Eastern Cape,Outdoor,Google,200/200 Mbps,43,0.11,4
+2025-01-31,Eastern Cape,Outdoor,Google,500/500 Mbps,153,0.08,12
+2025-01-31,Eastern Cape,Outdoor,Google,1000/1000 Mbps,252,0.19,47
+2025-01-31,Eastern Cape,Outdoor,Word of Mouth,10/10 Mbps,166,0.09,14
+2025-01-31,Eastern Cape,Outdoor,Word of Mouth,50/50 Mbps,56,0.18,10
+2025-01-31,Eastern Cape,Outdoor,Word of Mouth,100/100 Mbps,291,0.1,29
+2025-01-31,Eastern Cape,Outdoor,Word of Mouth,200/200 Mbps,106,0.07,7
+2025-01-31,Eastern Cape,Outdoor,Word of Mouth,500/500 Mbps,117,0.18,21
+2025-01-31,Eastern Cape,Outdoor,Word of Mouth,1000/1000 Mbps,100,0.1,10
+2025-01-31,Eastern Cape,Outdoor,Local Radio,10/10 Mbps,92,0.16,14
+2025-01-31,Eastern Cape,Outdoor,Local Radio,50/50 Mbps,195,0.08,15
+2025-01-31,Eastern Cape,Outdoor,Local Radio,100/100 Mbps,84,0.16,13
+2025-01-31,Eastern Cape,Outdoor,Local Radio,200/200 Mbps,213,0.2,42
+2025-01-31,Eastern Cape,Outdoor,Local Radio,500/500 Mbps,279,0.12,33
+2025-01-31,Eastern Cape,Outdoor,Local Radio,1000/1000 Mbps,291,0.08,23
+2025-01-31,Eastern Cape,Events,Facebook,10/10 Mbps,39,0.2,7
+2025-01-31,Eastern Cape,Events,Facebook,50/50 Mbps,267,0.15,40
+2025-01-31,Eastern Cape,Events,Facebook,100/100 Mbps,51,0.11,5
+2025-01-31,Eastern Cape,Events,Facebook,200/200 Mbps,146,0.17,24
+2025-01-31,Eastern Cape,Events,Facebook,500/500 Mbps,60,0.2,12
+2025-01-31,Eastern Cape,Events,Facebook,1000/1000 Mbps,51,0.16,8
+2025-01-31,Eastern Cape,Events,Google,10/10 Mbps,231,0.1,23
+2025-01-31,Eastern Cape,Events,Google,50/50 Mbps,25,0.17,4
+2025-01-31,Eastern Cape,Events,Google,100/100 Mbps,126,0.08,10
+2025-01-31,Eastern Cape,Events,Google,200/200 Mbps,141,0.14,19
+2025-01-31,Eastern Cape,Events,Google,500/500 Mbps,249,0.14,34
+2025-01-31,Eastern Cape,Events,Google,1000/1000 Mbps,297,0.06,17
+2025-01-31,Eastern Cape,Events,Word of Mouth,10/10 Mbps,28,0.1,2
+2025-01-31,Eastern Cape,Events,Word of Mouth,50/50 Mbps,196,0.17,33
+2025-01-31,Eastern Cape,Events,Word of Mouth,100/100 Mbps,202,0.1,20
+2025-01-31,Eastern Cape,Events,Word of Mouth,200/200 Mbps,294,0.1,29
+2025-01-31,Eastern Cape,Events,Word of Mouth,500/500 Mbps,47,0.1,4
+2025-01-31,Eastern Cape,Events,Word of Mouth,1000/1000 Mbps,234,0.08,18
+2025-01-31,Eastern Cape,Events,Local Radio,10/10 Mbps,238,0.08,19
+2025-01-31,Eastern Cape,Events,Local Radio,50/50 Mbps,235,0.09,21
+2025-01-31,Eastern Cape,Events,Local Radio,100/100 Mbps,123,0.13,15
+2025-01-31,Eastern Cape,Events,Local Radio,200/200 Mbps,135,0.11,14
+2025-01-31,Eastern Cape,Events,Local Radio,500/500 Mbps,71,0.19,13
+2025-01-31,Eastern Cape,Events,Local Radio,1000/1000 Mbps,114,0.09,10
+2025-02-28,Gauteng,Digital Ads,Facebook,10/10 Mbps,63,0.12,7
+2025-02-28,Gauteng,Digital Ads,Facebook,50/50 Mbps,281,0.09,25
+2025-02-28,Gauteng,Digital Ads,Facebook,100/100 Mbps,161,0.18,28
+2025-02-28,Gauteng,Digital Ads,Facebook,200/200 Mbps,67,0.18,12
+2025-02-28,Gauteng,Digital Ads,Facebook,500/500 Mbps,244,0.06,14
+2025-02-28,Gauteng,Digital Ads,Facebook,1000/1000 Mbps,90,0.15,13
+2025-02-28,Gauteng,Digital Ads,Google,10/10 Mbps,158,0.06,9
+2025-02-28,Gauteng,Digital Ads,Google,50/50 Mbps,67,0.11,7
+2025-02-28,Gauteng,Digital Ads,Google,100/100 Mbps,26,0.11,2
+2025-02-28,Gauteng,Digital Ads,Google,200/200 Mbps,247,0.15,37
+2025-02-28,Gauteng,Digital Ads,Google,500/500 Mbps,68,0.07,4
+2025-02-28,Gauteng,Digital Ads,Google,1000/1000 Mbps,115,0.12,13
+2025-02-28,Gauteng,Digital Ads,Word of Mouth,10/10 Mbps,29,0.12,3
+2025-02-28,Gauteng,Digital Ads,Word of Mouth,50/50 Mbps,83,0.07,5
+2025-02-28,Gauteng,Digital Ads,Word of Mouth,100/100 Mbps,180,0.09,16
+2025-02-28,Gauteng,Digital Ads,Word of Mouth,200/200 Mbps,120,0.06,7
+2025-02-28,Gauteng,Digital Ads,Word of Mouth,500/500 Mbps,272,0.19,51
+2025-02-28,Gauteng,Digital Ads,Word of Mouth,1000/1000 Mbps,33,0.1,3
+2025-02-28,Gauteng,Digital Ads,Local Radio,10/10 Mbps,205,0.18,36
+2025-02-28,Gauteng,Digital Ads,Local Radio,50/50 Mbps,80,0.19,15
+2025-02-28,Gauteng,Digital Ads,Local Radio,100/100 Mbps,170,0.13,22
+2025-02-28,Gauteng,Digital Ads,Local Radio,200/200 Mbps,83,0.17,14
+2025-02-28,Gauteng,Digital Ads,Local Radio,500/500 Mbps,153,0.09,13
+2025-02-28,Gauteng,Digital Ads,Local Radio,1000/1000 Mbps,177,0.11,19
+2025-02-28,Gauteng,Referral,Facebook,10/10 Mbps,204,0.13,26
+2025-02-28,Gauteng,Referral,Facebook,50/50 Mbps,277,0.13,36
+2025-02-28,Gauteng,Referral,Facebook,100/100 Mbps,197,0.19,37
+2025-02-28,Gauteng,Referral,Facebook,200/200 Mbps,67,0.2,13
+2025-02-28,Gauteng,Referral,Facebook,500/500 Mbps,249,0.05,12
+2025-02-28,Gauteng,Referral,Facebook,1000/1000 Mbps,274,0.14,38
+2025-02-28,Gauteng,Referral,Google,10/10 Mbps,176,0.05,8
+2025-02-28,Gauteng,Referral,Google,50/50 Mbps,119,0.17,20
+2025-02-28,Gauteng,Referral,Google,100/100 Mbps,91,0.08,7
+2025-02-28,Gauteng,Referral,Google,200/200 Mbps,156,0.14,21
+2025-02-28,Gauteng,Referral,Google,500/500 Mbps,171,0.18,30
+2025-02-28,Gauteng,Referral,Google,1000/1000 Mbps,239,0.15,35
+2025-02-28,Gauteng,Referral,Word of Mouth,10/10 Mbps,251,0.14,35
+2025-02-28,Gauteng,Referral,Word of Mouth,50/50 Mbps,63,0.15,9
+2025-02-28,Gauteng,Referral,Word of Mouth,100/100 Mbps,167,0.05,8
+2025-02-28,Gauteng,Referral,Word of Mouth,200/200 Mbps,123,0.06,7
+2025-02-28,Gauteng,Referral,Word of Mouth,500/500 Mbps,193,0.07,13
+2025-02-28,Gauteng,Referral,Word of Mouth,1000/1000 Mbps,249,0.09,22
+2025-02-28,Gauteng,Referral,Local Radio,10/10 Mbps,288,0.12,34
+2025-02-28,Gauteng,Referral,Local Radio,50/50 Mbps,33,0.14,4
+2025-02-28,Gauteng,Referral,Local Radio,100/100 Mbps,190,0.12,22
+2025-02-28,Gauteng,Referral,Local Radio,200/200 Mbps,186,0.19,35
+2025-02-28,Gauteng,Referral,Local Radio,500/500 Mbps,108,0.06,6
+2025-02-28,Gauteng,Referral,Local Radio,1000/1000 Mbps,190,0.15,28
+2025-02-28,Gauteng,Outdoor,Facebook,10/10 Mbps,276,0.05,13
+2025-02-28,Gauteng,Outdoor,Facebook,50/50 Mbps,181,0.12,21
+2025-02-28,Gauteng,Outdoor,Facebook,100/100 Mbps,125,0.08,10
+2025-02-28,Gauteng,Outdoor,Facebook,200/200 Mbps,100,0.15,15
+2025-02-28,Gauteng,Outdoor,Facebook,500/500 Mbps,170,0.18,30
+2025-02-28,Gauteng,Outdoor,Facebook,1000/1000 Mbps,84,0.09,7
+2025-02-28,Gauteng,Outdoor,Google,10/10 Mbps,119,0.12,14
+2025-02-28,Gauteng,Outdoor,Google,50/50 Mbps,286,0.19,54
+2025-02-28,Gauteng,Outdoor,Google,100/100 Mbps,76,0.07,5
+2025-02-28,Gauteng,Outdoor,Google,200/200 Mbps,211,0.13,27
+2025-02-28,Gauteng,Outdoor,Google,500/500 Mbps,117,0.18,21
+2025-02-28,Gauteng,Outdoor,Google,1000/1000 Mbps,164,0.08,13
+2025-02-28,Gauteng,Outdoor,Word of Mouth,10/10 Mbps,72,0.15,10
+2025-02-28,Gauteng,Outdoor,Word of Mouth,50/50 Mbps,269,0.18,48
+2025-02-28,Gauteng,Outdoor,Word of Mouth,100/100 Mbps,63,0.14,8
+2025-02-28,Gauteng,Outdoor,Word of Mouth,200/200 Mbps,159,0.06,9
+2025-02-28,Gauteng,Outdoor,Word of Mouth,500/500 Mbps,256,0.1,25
+2025-02-28,Gauteng,Outdoor,Word of Mouth,1000/1000 Mbps,211,0.1,21
+2025-02-28,Gauteng,Outdoor,Local Radio,10/10 Mbps,33,0.08,2
+2025-02-28,Gauteng,Outdoor,Local Radio,50/50 Mbps,143,0.2,28
+2025-02-28,Gauteng,Outdoor,Local Radio,100/100 Mbps,298,0.11,32
+2025-02-28,Gauteng,Outdoor,Local Radio,200/200 Mbps,195,0.12,23
+2025-02-28,Gauteng,Outdoor,Local Radio,500/500 Mbps,65,0.09,5
+2025-02-28,Gauteng,Outdoor,Local Radio,1000/1000 Mbps,61,0.16,9
+2025-02-28,Gauteng,Events,Facebook,10/10 Mbps,115,0.17,19
+2025-02-28,Gauteng,Events,Facebook,50/50 Mbps,284,0.17,48
+2025-02-28,Gauteng,Events,Facebook,100/100 Mbps,48,0.07,3
+2025-02-28,Gauteng,Events,Facebook,200/200 Mbps,126,0.18,22
+2025-02-28,Gauteng,Events,Facebook,500/500 Mbps,247,0.13,32
+2025-02-28,Gauteng,Events,Facebook,1000/1000 Mbps,147,0.07,10
+2025-02-28,Gauteng,Events,Google,10/10 Mbps,244,0.13,31
+2025-02-28,Gauteng,Events,Google,50/50 Mbps,35,0.12,4
+2025-02-28,Gauteng,Events,Google,100/100 Mbps,163,0.2,32
+2025-02-28,Gauteng,Events,Google,200/200 Mbps,209,0.07,14
+2025-02-28,Gauteng,Events,Google,500/500 Mbps,295,0.14,41
+2025-02-28,Gauteng,Events,Google,1000/1000 Mbps,293,0.14,41
+2025-02-28,Gauteng,Events,Word of Mouth,10/10 Mbps,262,0.1,26
+2025-02-28,Gauteng,Events,Word of Mouth,50/50 Mbps,235,0.17,39
+2025-02-28,Gauteng,Events,Word of Mouth,100/100 Mbps,225,0.17,38
+2025-02-28,Gauteng,Events,Word of Mouth,200/200 Mbps,150,0.18,27
+2025-02-28,Gauteng,Events,Word of Mouth,500/500 Mbps,20,0.2,4
+2025-02-28,Gauteng,Events,Word of Mouth,1000/1000 Mbps,203,0.06,12
+2025-02-28,Gauteng,Events,Local Radio,10/10 Mbps,283,0.12,33
+2025-02-28,Gauteng,Events,Local Radio,50/50 Mbps,96,0.06,5
+2025-02-28,Gauteng,Events,Local Radio,100/100 Mbps,214,0.06,12
+2025-02-28,Gauteng,Events,Local Radio,200/200 Mbps,76,0.07,5
+2025-02-28,Gauteng,Events,Local Radio,500/500 Mbps,236,0.13,30
+2025-02-28,Gauteng,Events,Local Radio,1000/1000 Mbps,225,0.11,24
+2025-02-28,Western Cape,Digital Ads,Facebook,10/10 Mbps,178,0.08,14
+2025-02-28,Western Cape,Digital Ads,Facebook,50/50 Mbps,188,0.07,13
+2025-02-28,Western Cape,Digital Ads,Facebook,100/100 Mbps,126,0.07,8
+2025-02-28,Western Cape,Digital Ads,Facebook,200/200 Mbps,172,0.06,10
+2025-02-28,Western Cape,Digital Ads,Facebook,500/500 Mbps,149,0.07,10
+2025-02-28,Western Cape,Digital Ads,Facebook,1000/1000 Mbps,171,0.13,22
+2025-02-28,Western Cape,Digital Ads,Google,10/10 Mbps,78,0.14,10
+2025-02-28,Western Cape,Digital Ads,Google,50/50 Mbps,30,0.14,4
+2025-02-28,Western Cape,Digital Ads,Google,100/100 Mbps,63,0.06,3
+2025-02-28,Western Cape,Digital Ads,Google,200/200 Mbps,108,0.15,16
+2025-02-28,Western Cape,Digital Ads,Google,500/500 Mbps,88,0.14,12
+2025-02-28,Western Cape,Digital Ads,Google,1000/1000 Mbps,197,0.18,35
+2025-02-28,Western Cape,Digital Ads,Word of Mouth,10/10 Mbps,278,0.12,33
+2025-02-28,Western Cape,Digital Ads,Word of Mouth,50/50 Mbps,243,0.18,43
+2025-02-28,Western Cape,Digital Ads,Word of Mouth,100/100 Mbps,95,0.17,16
+2025-02-28,Western Cape,Digital Ads,Word of Mouth,200/200 Mbps,192,0.18,34
+2025-02-28,Western Cape,Digital Ads,Word of Mouth,500/500 Mbps,88,0.2,17
+2025-02-28,Western Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,160,0.06,9
+2025-02-28,Western Cape,Digital Ads,Local Radio,10/10 Mbps,71,0.2,14
+2025-02-28,Western Cape,Digital Ads,Local Radio,50/50 Mbps,212,0.14,29
+2025-02-28,Western Cape,Digital Ads,Local Radio,100/100 Mbps,233,0.07,16
+2025-02-28,Western Cape,Digital Ads,Local Radio,200/200 Mbps,297,0.11,32
+2025-02-28,Western Cape,Digital Ads,Local Radio,500/500 Mbps,189,0.1,18
+2025-02-28,Western Cape,Digital Ads,Local Radio,1000/1000 Mbps,262,0.07,18
+2025-02-28,Western Cape,Referral,Facebook,10/10 Mbps,84,0.09,7
+2025-02-28,Western Cape,Referral,Facebook,50/50 Mbps,120,0.08,9
+2025-02-28,Western Cape,Referral,Facebook,100/100 Mbps,44,0.18,7
+2025-02-28,Western Cape,Referral,Facebook,200/200 Mbps,133,0.12,15
+2025-02-28,Western Cape,Referral,Facebook,500/500 Mbps,158,0.16,25
+2025-02-28,Western Cape,Referral,Facebook,1000/1000 Mbps,222,0.18,39
+2025-02-28,Western Cape,Referral,Google,10/10 Mbps,20,0.08,1
+2025-02-28,Western Cape,Referral,Google,50/50 Mbps,234,0.14,32
+2025-02-28,Western Cape,Referral,Google,100/100 Mbps,270,0.19,51
+2025-02-28,Western Cape,Referral,Google,200/200 Mbps,295,0.12,35
+2025-02-28,Western Cape,Referral,Google,500/500 Mbps,162,0.17,27
+2025-02-28,Western Cape,Referral,Google,1000/1000 Mbps,29,0.05,1
+2025-02-28,Western Cape,Referral,Word of Mouth,10/10 Mbps,299,0.18,53
+2025-02-28,Western Cape,Referral,Word of Mouth,50/50 Mbps,202,0.15,30
+2025-02-28,Western Cape,Referral,Word of Mouth,100/100 Mbps,68,0.13,8
+2025-02-28,Western Cape,Referral,Word of Mouth,200/200 Mbps,169,0.19,32
+2025-02-28,Western Cape,Referral,Word of Mouth,500/500 Mbps,255,0.09,22
+2025-02-28,Western Cape,Referral,Word of Mouth,1000/1000 Mbps,223,0.19,42
+2025-02-28,Western Cape,Referral,Local Radio,10/10 Mbps,256,0.06,15
+2025-02-28,Western Cape,Referral,Local Radio,50/50 Mbps,50,0.16,8
+2025-02-28,Western Cape,Referral,Local Radio,100/100 Mbps,201,0.08,16
+2025-02-28,Western Cape,Referral,Local Radio,200/200 Mbps,137,0.18,24
+2025-02-28,Western Cape,Referral,Local Radio,500/500 Mbps,295,0.18,53
+2025-02-28,Western Cape,Referral,Local Radio,1000/1000 Mbps,140,0.14,19
+2025-02-28,Western Cape,Outdoor,Facebook,10/10 Mbps,189,0.06,11
+2025-02-28,Western Cape,Outdoor,Facebook,50/50 Mbps,228,0.07,15
+2025-02-28,Western Cape,Outdoor,Facebook,100/100 Mbps,129,0.17,21
+2025-02-28,Western Cape,Outdoor,Facebook,200/200 Mbps,230,0.18,41
+2025-02-28,Western Cape,Outdoor,Facebook,500/500 Mbps,132,0.06,7
+2025-02-28,Western Cape,Outdoor,Facebook,1000/1000 Mbps,274,0.15,41
+2025-02-28,Western Cape,Outdoor,Google,10/10 Mbps,295,0.2,59
+2025-02-28,Western Cape,Outdoor,Google,50/50 Mbps,239,0.12,28
+2025-02-28,Western Cape,Outdoor,Google,100/100 Mbps,230,0.07,16
+2025-02-28,Western Cape,Outdoor,Google,200/200 Mbps,280,0.19,53
+2025-02-28,Western Cape,Outdoor,Google,500/500 Mbps,50,0.13,6
+2025-02-28,Western Cape,Outdoor,Google,1000/1000 Mbps,74,0.17,12
+2025-02-28,Western Cape,Outdoor,Word of Mouth,10/10 Mbps,45,0.11,4
+2025-02-28,Western Cape,Outdoor,Word of Mouth,50/50 Mbps,47,0.11,5
+2025-02-28,Western Cape,Outdoor,Word of Mouth,100/100 Mbps,90,0.09,8
+2025-02-28,Western Cape,Outdoor,Word of Mouth,200/200 Mbps,169,0.1,16
+2025-02-28,Western Cape,Outdoor,Word of Mouth,500/500 Mbps,138,0.14,19
+2025-02-28,Western Cape,Outdoor,Word of Mouth,1000/1000 Mbps,85,0.08,6
+2025-02-28,Western Cape,Outdoor,Local Radio,10/10 Mbps,153,0.18,27
+2025-02-28,Western Cape,Outdoor,Local Radio,50/50 Mbps,206,0.1,20
+2025-02-28,Western Cape,Outdoor,Local Radio,100/100 Mbps,66,0.11,7
+2025-02-28,Western Cape,Outdoor,Local Radio,200/200 Mbps,295,0.17,50
+2025-02-28,Western Cape,Outdoor,Local Radio,500/500 Mbps,55,0.15,8
+2025-02-28,Western Cape,Outdoor,Local Radio,1000/1000 Mbps,113,0.18,20
+2025-02-28,Western Cape,Events,Facebook,10/10 Mbps,43,0.14,6
+2025-02-28,Western Cape,Events,Facebook,50/50 Mbps,60,0.16,9
+2025-02-28,Western Cape,Events,Facebook,100/100 Mbps,137,0.12,16
+2025-02-28,Western Cape,Events,Facebook,200/200 Mbps,285,0.19,54
+2025-02-28,Western Cape,Events,Facebook,500/500 Mbps,45,0.19,8
+2025-02-28,Western Cape,Events,Facebook,1000/1000 Mbps,68,0.12,8
+2025-02-28,Western Cape,Events,Google,10/10 Mbps,282,0.18,50
+2025-02-28,Western Cape,Events,Google,50/50 Mbps,169,0.13,21
+2025-02-28,Western Cape,Events,Google,100/100 Mbps,198,0.14,27
+2025-02-28,Western Cape,Events,Google,200/200 Mbps,116,0.05,5
+2025-02-28,Western Cape,Events,Google,500/500 Mbps,178,0.18,32
+2025-02-28,Western Cape,Events,Google,1000/1000 Mbps,155,0.06,9
+2025-02-28,Western Cape,Events,Word of Mouth,10/10 Mbps,208,0.1,20
+2025-02-28,Western Cape,Events,Word of Mouth,50/50 Mbps,265,0.1,26
+2025-02-28,Western Cape,Events,Word of Mouth,100/100 Mbps,177,0.19,33
+2025-02-28,Western Cape,Events,Word of Mouth,200/200 Mbps,204,0.12,24
+2025-02-28,Western Cape,Events,Word of Mouth,500/500 Mbps,199,0.16,31
+2025-02-28,Western Cape,Events,Word of Mouth,1000/1000 Mbps,50,0.09,4
+2025-02-28,Western Cape,Events,Local Radio,10/10 Mbps,80,0.2,16
+2025-02-28,Western Cape,Events,Local Radio,50/50 Mbps,253,0.15,37
+2025-02-28,Western Cape,Events,Local Radio,100/100 Mbps,89,0.11,9
+2025-02-28,Western Cape,Events,Local Radio,200/200 Mbps,112,0.13,14
+2025-02-28,Western Cape,Events,Local Radio,500/500 Mbps,272,0.2,54
+2025-02-28,Western Cape,Events,Local Radio,1000/1000 Mbps,278,0.12,33
+2025-02-28,KwaZulu-Natal,Digital Ads,Facebook,10/10 Mbps,166,0.09,14
+2025-02-28,KwaZulu-Natal,Digital Ads,Facebook,50/50 Mbps,33,0.17,5
+2025-02-28,KwaZulu-Natal,Digital Ads,Facebook,100/100 Mbps,284,0.13,36
+2025-02-28,KwaZulu-Natal,Digital Ads,Facebook,200/200 Mbps,241,0.18,43
+2025-02-28,KwaZulu-Natal,Digital Ads,Facebook,500/500 Mbps,62,0.12,7
+2025-02-28,KwaZulu-Natal,Digital Ads,Facebook,1000/1000 Mbps,182,0.16,29
+2025-02-28,KwaZulu-Natal,Digital Ads,Google,10/10 Mbps,176,0.16,28
+2025-02-28,KwaZulu-Natal,Digital Ads,Google,50/50 Mbps,109,0.14,15
+2025-02-28,KwaZulu-Natal,Digital Ads,Google,100/100 Mbps,34,0.19,6
+2025-02-28,KwaZulu-Natal,Digital Ads,Google,200/200 Mbps,243,0.1,24
+2025-02-28,KwaZulu-Natal,Digital Ads,Google,500/500 Mbps,60,0.15,9
+2025-02-28,KwaZulu-Natal,Digital Ads,Google,1000/1000 Mbps,277,0.2,55
+2025-02-28,KwaZulu-Natal,Digital Ads,Word of Mouth,10/10 Mbps,52,0.15,7
+2025-02-28,KwaZulu-Natal,Digital Ads,Word of Mouth,50/50 Mbps,56,0.17,9
+2025-02-28,KwaZulu-Natal,Digital Ads,Word of Mouth,100/100 Mbps,206,0.13,26
+2025-02-28,KwaZulu-Natal,Digital Ads,Word of Mouth,200/200 Mbps,155,0.06,9
+2025-02-28,KwaZulu-Natal,Digital Ads,Word of Mouth,500/500 Mbps,278,0.1,27
+2025-02-28,KwaZulu-Natal,Digital Ads,Word of Mouth,1000/1000 Mbps,104,0.05,5
+2025-02-28,KwaZulu-Natal,Digital Ads,Local Radio,10/10 Mbps,153,0.15,22
+2025-02-28,KwaZulu-Natal,Digital Ads,Local Radio,50/50 Mbps,101,0.19,19
+2025-02-28,KwaZulu-Natal,Digital Ads,Local Radio,100/100 Mbps,264,0.11,29
+2025-02-28,KwaZulu-Natal,Digital Ads,Local Radio,200/200 Mbps,78,0.06,4
+2025-02-28,KwaZulu-Natal,Digital Ads,Local Radio,500/500 Mbps,217,0.07,15
+2025-02-28,KwaZulu-Natal,Digital Ads,Local Radio,1000/1000 Mbps,33,0.19,6
+2025-02-28,KwaZulu-Natal,Referral,Facebook,10/10 Mbps,131,0.06,7
+2025-02-28,KwaZulu-Natal,Referral,Facebook,50/50 Mbps,207,0.13,26
+2025-02-28,KwaZulu-Natal,Referral,Facebook,100/100 Mbps,87,0.05,4
+2025-02-28,KwaZulu-Natal,Referral,Facebook,200/200 Mbps,168,0.07,11
+2025-02-28,KwaZulu-Natal,Referral,Facebook,500/500 Mbps,160,0.15,24
+2025-02-28,KwaZulu-Natal,Referral,Facebook,1000/1000 Mbps,25,0.18,4
+2025-02-28,KwaZulu-Natal,Referral,Google,10/10 Mbps,61,0.08,4
+2025-02-28,KwaZulu-Natal,Referral,Google,50/50 Mbps,137,0.2,27
+2025-02-28,KwaZulu-Natal,Referral,Google,100/100 Mbps,114,0.1,11
+2025-02-28,KwaZulu-Natal,Referral,Google,200/200 Mbps,39,0.1,3
+2025-02-28,KwaZulu-Natal,Referral,Google,500/500 Mbps,63,0.18,11
+2025-02-28,KwaZulu-Natal,Referral,Google,1000/1000 Mbps,266,0.16,42
+2025-02-28,KwaZulu-Natal,Referral,Word of Mouth,10/10 Mbps,210,0.09,18
+2025-02-28,KwaZulu-Natal,Referral,Word of Mouth,50/50 Mbps,141,0.06,8
+2025-02-28,KwaZulu-Natal,Referral,Word of Mouth,100/100 Mbps,148,0.19,28
+2025-02-28,KwaZulu-Natal,Referral,Word of Mouth,200/200 Mbps,216,0.05,10
+2025-02-28,KwaZulu-Natal,Referral,Word of Mouth,500/500 Mbps,132,0.2,26
+2025-02-28,KwaZulu-Natal,Referral,Word of Mouth,1000/1000 Mbps,125,0.18,22
+2025-02-28,KwaZulu-Natal,Referral,Local Radio,10/10 Mbps,42,0.05,2
+2025-02-28,KwaZulu-Natal,Referral,Local Radio,50/50 Mbps,100,0.06,6
+2025-02-28,KwaZulu-Natal,Referral,Local Radio,100/100 Mbps,197,0.16,31
+2025-02-28,KwaZulu-Natal,Referral,Local Radio,200/200 Mbps,71,0.15,10
+2025-02-28,KwaZulu-Natal,Referral,Local Radio,500/500 Mbps,156,0.11,17
+2025-02-28,KwaZulu-Natal,Referral,Local Radio,1000/1000 Mbps,248,0.2,49
+2025-02-28,KwaZulu-Natal,Outdoor,Facebook,10/10 Mbps,178,0.12,21
+2025-02-28,KwaZulu-Natal,Outdoor,Facebook,50/50 Mbps,277,0.07,19
+2025-02-28,KwaZulu-Natal,Outdoor,Facebook,100/100 Mbps,192,0.07,13
+2025-02-28,KwaZulu-Natal,Outdoor,Facebook,200/200 Mbps,273,0.15,40
+2025-02-28,KwaZulu-Natal,Outdoor,Facebook,500/500 Mbps,78,0.14,10
+2025-02-28,KwaZulu-Natal,Outdoor,Facebook,1000/1000 Mbps,292,0.17,49
+2025-02-28,KwaZulu-Natal,Outdoor,Google,10/10 Mbps,159,0.1,15
+2025-02-28,KwaZulu-Natal,Outdoor,Google,50/50 Mbps,90,0.1,9
+2025-02-28,KwaZulu-Natal,Outdoor,Google,100/100 Mbps,67,0.1,6
+2025-02-28,KwaZulu-Natal,Outdoor,Google,200/200 Mbps,268,0.19,50
+2025-02-28,KwaZulu-Natal,Outdoor,Google,500/500 Mbps,53,0.08,4
+2025-02-28,KwaZulu-Natal,Outdoor,Google,1000/1000 Mbps,227,0.19,43
+2025-02-28,KwaZulu-Natal,Outdoor,Word of Mouth,10/10 Mbps,265,0.19,50
+2025-02-28,KwaZulu-Natal,Outdoor,Word of Mouth,50/50 Mbps,157,0.13,20
+2025-02-28,KwaZulu-Natal,Outdoor,Word of Mouth,100/100 Mbps,244,0.18,43
+2025-02-28,KwaZulu-Natal,Outdoor,Word of Mouth,200/200 Mbps,282,0.16,45
+2025-02-28,KwaZulu-Natal,Outdoor,Word of Mouth,500/500 Mbps,266,0.12,31
+2025-02-28,KwaZulu-Natal,Outdoor,Word of Mouth,1000/1000 Mbps,39,0.08,3
+2025-02-28,KwaZulu-Natal,Outdoor,Local Radio,10/10 Mbps,57,0.13,7
+2025-02-28,KwaZulu-Natal,Outdoor,Local Radio,50/50 Mbps,140,0.1,14
+2025-02-28,KwaZulu-Natal,Outdoor,Local Radio,100/100 Mbps,54,0.12,6
+2025-02-28,KwaZulu-Natal,Outdoor,Local Radio,200/200 Mbps,210,0.14,29
+2025-02-28,KwaZulu-Natal,Outdoor,Local Radio,500/500 Mbps,287,0.09,25
+2025-02-28,KwaZulu-Natal,Outdoor,Local Radio,1000/1000 Mbps,54,0.08,4
+2025-02-28,KwaZulu-Natal,Events,Facebook,10/10 Mbps,273,0.06,16
+2025-02-28,KwaZulu-Natal,Events,Facebook,50/50 Mbps,247,0.18,44
+2025-02-28,KwaZulu-Natal,Events,Facebook,100/100 Mbps,81,0.1,8
+2025-02-28,KwaZulu-Natal,Events,Facebook,200/200 Mbps,127,0.17,21
+2025-02-28,KwaZulu-Natal,Events,Facebook,500/500 Mbps,226,0.13,29
+2025-02-28,KwaZulu-Natal,Events,Facebook,1000/1000 Mbps,117,0.19,22
+2025-02-28,KwaZulu-Natal,Events,Google,10/10 Mbps,288,0.09,25
+2025-02-28,KwaZulu-Natal,Events,Google,50/50 Mbps,132,0.11,14
+2025-02-28,KwaZulu-Natal,Events,Google,100/100 Mbps,210,0.17,35
+2025-02-28,KwaZulu-Natal,Events,Google,200/200 Mbps,209,0.2,41
+2025-02-28,KwaZulu-Natal,Events,Google,500/500 Mbps,295,0.12,35
+2025-02-28,KwaZulu-Natal,Events,Google,1000/1000 Mbps,85,0.15,12
+2025-02-28,KwaZulu-Natal,Events,Word of Mouth,10/10 Mbps,277,0.1,27
+2025-02-28,KwaZulu-Natal,Events,Word of Mouth,50/50 Mbps,241,0.15,36
+2025-02-28,KwaZulu-Natal,Events,Word of Mouth,100/100 Mbps,242,0.08,19
+2025-02-28,KwaZulu-Natal,Events,Word of Mouth,200/200 Mbps,172,0.11,18
+2025-02-28,KwaZulu-Natal,Events,Word of Mouth,500/500 Mbps,103,0.08,8
+2025-02-28,KwaZulu-Natal,Events,Word of Mouth,1000/1000 Mbps,204,0.12,24
+2025-02-28,KwaZulu-Natal,Events,Local Radio,10/10 Mbps,272,0.05,13
+2025-02-28,KwaZulu-Natal,Events,Local Radio,50/50 Mbps,255,0.13,33
+2025-02-28,KwaZulu-Natal,Events,Local Radio,100/100 Mbps,128,0.14,17
+2025-02-28,KwaZulu-Natal,Events,Local Radio,200/200 Mbps,165,0.09,14
+2025-02-28,KwaZulu-Natal,Events,Local Radio,500/500 Mbps,106,0.16,16
+2025-02-28,KwaZulu-Natal,Events,Local Radio,1000/1000 Mbps,73,0.09,6
+2025-02-28,Eastern Cape,Digital Ads,Facebook,10/10 Mbps,146,0.17,24
+2025-02-28,Eastern Cape,Digital Ads,Facebook,50/50 Mbps,31,0.16,4
+2025-02-28,Eastern Cape,Digital Ads,Facebook,100/100 Mbps,29,0.19,5
+2025-02-28,Eastern Cape,Digital Ads,Facebook,200/200 Mbps,254,0.12,30
+2025-02-28,Eastern Cape,Digital Ads,Facebook,500/500 Mbps,268,0.09,24
+2025-02-28,Eastern Cape,Digital Ads,Facebook,1000/1000 Mbps,93,0.06,5
+2025-02-28,Eastern Cape,Digital Ads,Google,10/10 Mbps,61,0.16,9
+2025-02-28,Eastern Cape,Digital Ads,Google,50/50 Mbps,74,0.14,10
+2025-02-28,Eastern Cape,Digital Ads,Google,100/100 Mbps,28,0.07,1
+2025-02-28,Eastern Cape,Digital Ads,Google,200/200 Mbps,61,0.17,10
+2025-02-28,Eastern Cape,Digital Ads,Google,500/500 Mbps,141,0.12,16
+2025-02-28,Eastern Cape,Digital Ads,Google,1000/1000 Mbps,178,0.06,10
+2025-02-28,Eastern Cape,Digital Ads,Word of Mouth,10/10 Mbps,86,0.1,8
+2025-02-28,Eastern Cape,Digital Ads,Word of Mouth,50/50 Mbps,82,0.16,13
+2025-02-28,Eastern Cape,Digital Ads,Word of Mouth,100/100 Mbps,47,0.16,7
+2025-02-28,Eastern Cape,Digital Ads,Word of Mouth,200/200 Mbps,295,0.1,29
+2025-02-28,Eastern Cape,Digital Ads,Word of Mouth,500/500 Mbps,124,0.05,6
+2025-02-28,Eastern Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,206,0.09,18
+2025-02-28,Eastern Cape,Digital Ads,Local Radio,10/10 Mbps,79,0.07,5
+2025-02-28,Eastern Cape,Digital Ads,Local Radio,50/50 Mbps,242,0.07,16
+2025-02-28,Eastern Cape,Digital Ads,Local Radio,100/100 Mbps,66,0.07,4
+2025-02-28,Eastern Cape,Digital Ads,Local Radio,200/200 Mbps,214,0.15,32
+2025-02-28,Eastern Cape,Digital Ads,Local Radio,500/500 Mbps,119,0.06,7
+2025-02-28,Eastern Cape,Digital Ads,Local Radio,1000/1000 Mbps,288,0.07,20
+2025-02-28,Eastern Cape,Referral,Facebook,10/10 Mbps,107,0.15,16
+2025-02-28,Eastern Cape,Referral,Facebook,50/50 Mbps,217,0.16,34
+2025-02-28,Eastern Cape,Referral,Facebook,100/100 Mbps,144,0.19,27
+2025-02-28,Eastern Cape,Referral,Facebook,200/200 Mbps,267,0.18,48
+2025-02-28,Eastern Cape,Referral,Facebook,500/500 Mbps,246,0.06,14
+2025-02-28,Eastern Cape,Referral,Facebook,1000/1000 Mbps,272,0.12,32
+2025-02-28,Eastern Cape,Referral,Google,10/10 Mbps,180,0.06,10
+2025-02-28,Eastern Cape,Referral,Google,50/50 Mbps,231,0.11,25
+2025-02-28,Eastern Cape,Referral,Google,100/100 Mbps,153,0.12,18
+2025-02-28,Eastern Cape,Referral,Google,200/200 Mbps,93,0.15,13
+2025-02-28,Eastern Cape,Referral,Google,500/500 Mbps,242,0.09,21
+2025-02-28,Eastern Cape,Referral,Google,1000/1000 Mbps,160,0.09,14
+2025-02-28,Eastern Cape,Referral,Word of Mouth,10/10 Mbps,241,0.07,16
+2025-02-28,Eastern Cape,Referral,Word of Mouth,50/50 Mbps,196,0.16,31
+2025-02-28,Eastern Cape,Referral,Word of Mouth,100/100 Mbps,288,0.1,28
+2025-02-28,Eastern Cape,Referral,Word of Mouth,200/200 Mbps,32,0.16,5
+2025-02-28,Eastern Cape,Referral,Word of Mouth,500/500 Mbps,255,0.06,15
+2025-02-28,Eastern Cape,Referral,Word of Mouth,1000/1000 Mbps,117,0.13,15
+2025-02-28,Eastern Cape,Referral,Local Radio,10/10 Mbps,190,0.15,28
+2025-02-28,Eastern Cape,Referral,Local Radio,50/50 Mbps,197,0.08,15
+2025-02-28,Eastern Cape,Referral,Local Radio,100/100 Mbps,205,0.15,30
+2025-02-28,Eastern Cape,Referral,Local Radio,200/200 Mbps,259,0.12,31
+2025-02-28,Eastern Cape,Referral,Local Radio,500/500 Mbps,144,0.13,18
+2025-02-28,Eastern Cape,Referral,Local Radio,1000/1000 Mbps,255,0.09,22
+2025-02-28,Eastern Cape,Outdoor,Facebook,10/10 Mbps,231,0.16,36
+2025-02-28,Eastern Cape,Outdoor,Facebook,50/50 Mbps,264,0.13,34
+2025-02-28,Eastern Cape,Outdoor,Facebook,100/100 Mbps,299,0.15,44
+2025-02-28,Eastern Cape,Outdoor,Facebook,200/200 Mbps,161,0.16,25
+2025-02-28,Eastern Cape,Outdoor,Facebook,500/500 Mbps,134,0.18,24
+2025-02-28,Eastern Cape,Outdoor,Facebook,1000/1000 Mbps,191,0.05,9
+2025-02-28,Eastern Cape,Outdoor,Google,10/10 Mbps,207,0.18,37
+2025-02-28,Eastern Cape,Outdoor,Google,50/50 Mbps,77,0.06,4
+2025-02-28,Eastern Cape,Outdoor,Google,100/100 Mbps,116,0.12,13
+2025-02-28,Eastern Cape,Outdoor,Google,200/200 Mbps,113,0.07,7
+2025-02-28,Eastern Cape,Outdoor,Google,500/500 Mbps,27,0.08,2
+2025-02-28,Eastern Cape,Outdoor,Google,1000/1000 Mbps,277,0.18,49
+2025-02-28,Eastern Cape,Outdoor,Word of Mouth,10/10 Mbps,195,0.19,37
+2025-02-28,Eastern Cape,Outdoor,Word of Mouth,50/50 Mbps,299,0.06,17
+2025-02-28,Eastern Cape,Outdoor,Word of Mouth,100/100 Mbps,119,0.12,14
+2025-02-28,Eastern Cape,Outdoor,Word of Mouth,200/200 Mbps,35,0.13,4
+2025-02-28,Eastern Cape,Outdoor,Word of Mouth,500/500 Mbps,165,0.14,23
+2025-02-28,Eastern Cape,Outdoor,Word of Mouth,1000/1000 Mbps,115,0.15,17
+2025-02-28,Eastern Cape,Outdoor,Local Radio,10/10 Mbps,185,0.11,20
+2025-02-28,Eastern Cape,Outdoor,Local Radio,50/50 Mbps,115,0.12,13
+2025-02-28,Eastern Cape,Outdoor,Local Radio,100/100 Mbps,209,0.18,37
+2025-02-28,Eastern Cape,Outdoor,Local Radio,200/200 Mbps,234,0.1,23
+2025-02-28,Eastern Cape,Outdoor,Local Radio,500/500 Mbps,94,0.06,5
+2025-02-28,Eastern Cape,Outdoor,Local Radio,1000/1000 Mbps,294,0.14,41
+2025-02-28,Eastern Cape,Events,Facebook,10/10 Mbps,202,0.09,18
+2025-02-28,Eastern Cape,Events,Facebook,50/50 Mbps,123,0.07,8
+2025-02-28,Eastern Cape,Events,Facebook,100/100 Mbps,108,0.15,16
+2025-02-28,Eastern Cape,Events,Facebook,200/200 Mbps,150,0.18,27
+2025-02-28,Eastern Cape,Events,Facebook,500/500 Mbps,37,0.1,3
+2025-02-28,Eastern Cape,Events,Facebook,1000/1000 Mbps,171,0.07,11
+2025-02-28,Eastern Cape,Events,Google,10/10 Mbps,227,0.11,24
+2025-02-28,Eastern Cape,Events,Google,50/50 Mbps,159,0.1,15
+2025-02-28,Eastern Cape,Events,Google,100/100 Mbps,216,0.07,15
+2025-02-28,Eastern Cape,Events,Google,200/200 Mbps,125,0.11,13
+2025-02-28,Eastern Cape,Events,Google,500/500 Mbps,27,0.19,5
+2025-02-28,Eastern Cape,Events,Google,1000/1000 Mbps,269,0.11,29
+2025-02-28,Eastern Cape,Events,Word of Mouth,10/10 Mbps,58,0.13,7
+2025-02-28,Eastern Cape,Events,Word of Mouth,50/50 Mbps,263,0.18,47
+2025-02-28,Eastern Cape,Events,Word of Mouth,100/100 Mbps,209,0.08,16
+2025-02-28,Eastern Cape,Events,Word of Mouth,200/200 Mbps,88,0.16,14
+2025-02-28,Eastern Cape,Events,Word of Mouth,500/500 Mbps,85,0.08,6
+2025-02-28,Eastern Cape,Events,Word of Mouth,1000/1000 Mbps,179,0.09,16
+2025-02-28,Eastern Cape,Events,Local Radio,10/10 Mbps,89,0.15,13
+2025-02-28,Eastern Cape,Events,Local Radio,50/50 Mbps,62,0.06,3
+2025-02-28,Eastern Cape,Events,Local Radio,100/100 Mbps,131,0.12,15
+2025-02-28,Eastern Cape,Events,Local Radio,200/200 Mbps,108,0.13,14
+2025-02-28,Eastern Cape,Events,Local Radio,500/500 Mbps,184,0.11,20
+2025-02-28,Eastern Cape,Events,Local Radio,1000/1000 Mbps,278,0.07,19
+2025-03-31,Gauteng,Digital Ads,Facebook,10/10 Mbps,99,0.1,9
+2025-03-31,Gauteng,Digital Ads,Facebook,50/50 Mbps,201,0.06,12
+2025-03-31,Gauteng,Digital Ads,Facebook,100/100 Mbps,168,0.17,28
+2025-03-31,Gauteng,Digital Ads,Facebook,200/200 Mbps,112,0.17,19
+2025-03-31,Gauteng,Digital Ads,Facebook,500/500 Mbps,147,0.15,22
+2025-03-31,Gauteng,Digital Ads,Facebook,1000/1000 Mbps,267,0.12,32
+2025-03-31,Gauteng,Digital Ads,Google,10/10 Mbps,260,0.1,26
+2025-03-31,Gauteng,Digital Ads,Google,50/50 Mbps,114,0.18,20
+2025-03-31,Gauteng,Digital Ads,Google,100/100 Mbps,39,0.13,5
+2025-03-31,Gauteng,Digital Ads,Google,200/200 Mbps,134,0.16,21
+2025-03-31,Gauteng,Digital Ads,Google,500/500 Mbps,36,0.15,5
+2025-03-31,Gauteng,Digital Ads,Google,1000/1000 Mbps,182,0.15,27
+2025-03-31,Gauteng,Digital Ads,Word of Mouth,10/10 Mbps,107,0.09,9
+2025-03-31,Gauteng,Digital Ads,Word of Mouth,50/50 Mbps,58,0.07,4
+2025-03-31,Gauteng,Digital Ads,Word of Mouth,100/100 Mbps,43,0.06,2
+2025-03-31,Gauteng,Digital Ads,Word of Mouth,200/200 Mbps,105,0.16,16
+2025-03-31,Gauteng,Digital Ads,Word of Mouth,500/500 Mbps,195,0.19,37
+2025-03-31,Gauteng,Digital Ads,Word of Mouth,1000/1000 Mbps,42,0.07,2
+2025-03-31,Gauteng,Digital Ads,Local Radio,10/10 Mbps,120,0.09,10
+2025-03-31,Gauteng,Digital Ads,Local Radio,50/50 Mbps,109,0.2,21
+2025-03-31,Gauteng,Digital Ads,Local Radio,100/100 Mbps,66,0.11,7
+2025-03-31,Gauteng,Digital Ads,Local Radio,200/200 Mbps,29,0.06,1
+2025-03-31,Gauteng,Digital Ads,Local Radio,500/500 Mbps,101,0.18,18
+2025-03-31,Gauteng,Digital Ads,Local Radio,1000/1000 Mbps,75,0.19,14
+2025-03-31,Gauteng,Referral,Facebook,10/10 Mbps,241,0.14,33
+2025-03-31,Gauteng,Referral,Facebook,50/50 Mbps,71,0.14,9
+2025-03-31,Gauteng,Referral,Facebook,100/100 Mbps,49,0.15,7
+2025-03-31,Gauteng,Referral,Facebook,200/200 Mbps,60,0.06,3
+2025-03-31,Gauteng,Referral,Facebook,500/500 Mbps,180,0.05,9
+2025-03-31,Gauteng,Referral,Facebook,1000/1000 Mbps,258,0.05,12
+2025-03-31,Gauteng,Referral,Google,10/10 Mbps,213,0.18,38
+2025-03-31,Gauteng,Referral,Google,50/50 Mbps,221,0.19,41
+2025-03-31,Gauteng,Referral,Google,100/100 Mbps,39,0.17,6
+2025-03-31,Gauteng,Referral,Google,200/200 Mbps,100,0.07,7
+2025-03-31,Gauteng,Referral,Google,500/500 Mbps,187,0.08,14
+2025-03-31,Gauteng,Referral,Google,1000/1000 Mbps,269,0.16,43
+2025-03-31,Gauteng,Referral,Word of Mouth,10/10 Mbps,225,0.05,11
+2025-03-31,Gauteng,Referral,Word of Mouth,50/50 Mbps,116,0.06,6
+2025-03-31,Gauteng,Referral,Word of Mouth,100/100 Mbps,79,0.16,12
+2025-03-31,Gauteng,Referral,Word of Mouth,200/200 Mbps,194,0.09,17
+2025-03-31,Gauteng,Referral,Word of Mouth,500/500 Mbps,144,0.13,18
+2025-03-31,Gauteng,Referral,Word of Mouth,1000/1000 Mbps,123,0.08,9
+2025-03-31,Gauteng,Referral,Local Radio,10/10 Mbps,242,0.1,24
+2025-03-31,Gauteng,Referral,Local Radio,50/50 Mbps,179,0.18,32
+2025-03-31,Gauteng,Referral,Local Radio,100/100 Mbps,24,0.1,2
+2025-03-31,Gauteng,Referral,Local Radio,200/200 Mbps,59,0.16,9
+2025-03-31,Gauteng,Referral,Local Radio,500/500 Mbps,177,0.08,14
+2025-03-31,Gauteng,Referral,Local Radio,1000/1000 Mbps,129,0.06,7
+2025-03-31,Gauteng,Outdoor,Facebook,10/10 Mbps,30,0.17,5
+2025-03-31,Gauteng,Outdoor,Facebook,50/50 Mbps,205,0.09,18
+2025-03-31,Gauteng,Outdoor,Facebook,100/100 Mbps,29,0.19,5
+2025-03-31,Gauteng,Outdoor,Facebook,200/200 Mbps,147,0.09,13
+2025-03-31,Gauteng,Outdoor,Facebook,500/500 Mbps,275,0.18,49
+2025-03-31,Gauteng,Outdoor,Facebook,1000/1000 Mbps,187,0.18,33
+2025-03-31,Gauteng,Outdoor,Google,10/10 Mbps,76,0.18,13
+2025-03-31,Gauteng,Outdoor,Google,50/50 Mbps,79,0.13,10
+2025-03-31,Gauteng,Outdoor,Google,100/100 Mbps,290,0.17,49
+2025-03-31,Gauteng,Outdoor,Google,200/200 Mbps,206,0.15,30
+2025-03-31,Gauteng,Outdoor,Google,500/500 Mbps,264,0.12,31
+2025-03-31,Gauteng,Outdoor,Google,1000/1000 Mbps,206,0.14,28
+2025-03-31,Gauteng,Outdoor,Word of Mouth,10/10 Mbps,135,0.16,21
+2025-03-31,Gauteng,Outdoor,Word of Mouth,50/50 Mbps,190,0.12,22
+2025-03-31,Gauteng,Outdoor,Word of Mouth,100/100 Mbps,264,0.14,36
+2025-03-31,Gauteng,Outdoor,Word of Mouth,200/200 Mbps,121,0.16,19
+2025-03-31,Gauteng,Outdoor,Word of Mouth,500/500 Mbps,171,0.11,18
+2025-03-31,Gauteng,Outdoor,Word of Mouth,1000/1000 Mbps,133,0.14,18
+2025-03-31,Gauteng,Outdoor,Local Radio,10/10 Mbps,214,0.07,14
+2025-03-31,Gauteng,Outdoor,Local Radio,50/50 Mbps,114,0.2,22
+2025-03-31,Gauteng,Outdoor,Local Radio,100/100 Mbps,43,0.18,7
+2025-03-31,Gauteng,Outdoor,Local Radio,200/200 Mbps,94,0.06,5
+2025-03-31,Gauteng,Outdoor,Local Radio,500/500 Mbps,142,0.16,22
+2025-03-31,Gauteng,Outdoor,Local Radio,1000/1000 Mbps,111,0.17,18
+2025-03-31,Gauteng,Events,Facebook,10/10 Mbps,269,0.1,26
+2025-03-31,Gauteng,Events,Facebook,50/50 Mbps,71,0.11,7
+2025-03-31,Gauteng,Events,Facebook,100/100 Mbps,203,0.2,40
+2025-03-31,Gauteng,Events,Facebook,200/200 Mbps,48,0.08,3
+2025-03-31,Gauteng,Events,Facebook,500/500 Mbps,230,0.13,29
+2025-03-31,Gauteng,Events,Facebook,1000/1000 Mbps,257,0.13,33
+2025-03-31,Gauteng,Events,Google,10/10 Mbps,30,0.16,4
+2025-03-31,Gauteng,Events,Google,50/50 Mbps,205,0.08,16
+2025-03-31,Gauteng,Events,Google,100/100 Mbps,161,0.06,9
+2025-03-31,Gauteng,Events,Google,200/200 Mbps,114,0.08,9
+2025-03-31,Gauteng,Events,Google,500/500 Mbps,68,0.16,10
+2025-03-31,Gauteng,Events,Google,1000/1000 Mbps,226,0.15,33
+2025-03-31,Gauteng,Events,Word of Mouth,10/10 Mbps,154,0.1,15
+2025-03-31,Gauteng,Events,Word of Mouth,50/50 Mbps,250,0.1,25
+2025-03-31,Gauteng,Events,Word of Mouth,100/100 Mbps,77,0.06,4
+2025-03-31,Gauteng,Events,Word of Mouth,200/200 Mbps,155,0.1,15
+2025-03-31,Gauteng,Events,Word of Mouth,500/500 Mbps,101,0.11,11
+2025-03-31,Gauteng,Events,Word of Mouth,1000/1000 Mbps,277,0.1,27
+2025-03-31,Gauteng,Events,Local Radio,10/10 Mbps,47,0.19,8
+2025-03-31,Gauteng,Events,Local Radio,50/50 Mbps,270,0.13,35
+2025-03-31,Gauteng,Events,Local Radio,100/100 Mbps,205,0.14,28
+2025-03-31,Gauteng,Events,Local Radio,200/200 Mbps,262,0.1,26
+2025-03-31,Gauteng,Events,Local Radio,500/500 Mbps,136,0.18,24
+2025-03-31,Gauteng,Events,Local Radio,1000/1000 Mbps,143,0.09,12
+2025-03-31,Western Cape,Digital Ads,Facebook,10/10 Mbps,221,0.07,15
+2025-03-31,Western Cape,Digital Ads,Facebook,50/50 Mbps,257,0.2,51
+2025-03-31,Western Cape,Digital Ads,Facebook,100/100 Mbps,80,0.15,12
+2025-03-31,Western Cape,Digital Ads,Facebook,200/200 Mbps,209,0.19,39
+2025-03-31,Western Cape,Digital Ads,Facebook,500/500 Mbps,29,0.15,4
+2025-03-31,Western Cape,Digital Ads,Facebook,1000/1000 Mbps,50,0.09,4
+2025-03-31,Western Cape,Digital Ads,Google,10/10 Mbps,35,0.08,2
+2025-03-31,Western Cape,Digital Ads,Google,50/50 Mbps,229,0.13,29
+2025-03-31,Western Cape,Digital Ads,Google,100/100 Mbps,22,0.15,3
+2025-03-31,Western Cape,Digital Ads,Google,200/200 Mbps,192,0.06,11
+2025-03-31,Western Cape,Digital Ads,Google,500/500 Mbps,81,0.19,15
+2025-03-31,Western Cape,Digital Ads,Google,1000/1000 Mbps,133,0.09,11
+2025-03-31,Western Cape,Digital Ads,Word of Mouth,10/10 Mbps,136,0.2,27
+2025-03-31,Western Cape,Digital Ads,Word of Mouth,50/50 Mbps,275,0.09,24
+2025-03-31,Western Cape,Digital Ads,Word of Mouth,100/100 Mbps,88,0.07,6
+2025-03-31,Western Cape,Digital Ads,Word of Mouth,200/200 Mbps,83,0.11,9
+2025-03-31,Western Cape,Digital Ads,Word of Mouth,500/500 Mbps,183,0.15,27
+2025-03-31,Western Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,273,0.09,24
+2025-03-31,Western Cape,Digital Ads,Local Radio,10/10 Mbps,158,0.06,9
+2025-03-31,Western Cape,Digital Ads,Local Radio,50/50 Mbps,217,0.07,15
+2025-03-31,Western Cape,Digital Ads,Local Radio,100/100 Mbps,67,0.09,6
+2025-03-31,Western Cape,Digital Ads,Local Radio,200/200 Mbps,109,0.15,16
+2025-03-31,Western Cape,Digital Ads,Local Radio,500/500 Mbps,134,0.11,14
+2025-03-31,Western Cape,Digital Ads,Local Radio,1000/1000 Mbps,298,0.09,26
+2025-03-31,Western Cape,Referral,Facebook,10/10 Mbps,100,0.13,13
+2025-03-31,Western Cape,Referral,Facebook,50/50 Mbps,70,0.08,5
+2025-03-31,Western Cape,Referral,Facebook,100/100 Mbps,66,0.19,12
+2025-03-31,Western Cape,Referral,Facebook,200/200 Mbps,120,0.05,6
+2025-03-31,Western Cape,Referral,Facebook,500/500 Mbps,200,0.12,24
+2025-03-31,Western Cape,Referral,Facebook,1000/1000 Mbps,56,0.07,3
+2025-03-31,Western Cape,Referral,Google,10/10 Mbps,194,0.14,27
+2025-03-31,Western Cape,Referral,Google,50/50 Mbps,156,0.12,18
+2025-03-31,Western Cape,Referral,Google,100/100 Mbps,35,0.06,2
+2025-03-31,Western Cape,Referral,Google,200/200 Mbps,270,0.15,40
+2025-03-31,Western Cape,Referral,Google,500/500 Mbps,255,0.07,17
+2025-03-31,Western Cape,Referral,Google,1000/1000 Mbps,258,0.18,46
+2025-03-31,Western Cape,Referral,Word of Mouth,10/10 Mbps,95,0.13,12
+2025-03-31,Western Cape,Referral,Word of Mouth,50/50 Mbps,176,0.15,26
+2025-03-31,Western Cape,Referral,Word of Mouth,100/100 Mbps,238,0.07,16
+2025-03-31,Western Cape,Referral,Word of Mouth,200/200 Mbps,113,0.14,15
+2025-03-31,Western Cape,Referral,Word of Mouth,500/500 Mbps,252,0.08,20
+2025-03-31,Western Cape,Referral,Word of Mouth,1000/1000 Mbps,178,0.07,12
+2025-03-31,Western Cape,Referral,Local Radio,10/10 Mbps,164,0.1,16
+2025-03-31,Western Cape,Referral,Local Radio,50/50 Mbps,252,0.17,42
+2025-03-31,Western Cape,Referral,Local Radio,100/100 Mbps,290,0.09,26
+2025-03-31,Western Cape,Referral,Local Radio,200/200 Mbps,202,0.12,24
+2025-03-31,Western Cape,Referral,Local Radio,500/500 Mbps,72,0.15,10
+2025-03-31,Western Cape,Referral,Local Radio,1000/1000 Mbps,66,0.14,9
+2025-03-31,Western Cape,Outdoor,Facebook,10/10 Mbps,67,0.07,4
+2025-03-31,Western Cape,Outdoor,Facebook,50/50 Mbps,130,0.15,19
+2025-03-31,Western Cape,Outdoor,Facebook,100/100 Mbps,265,0.1,26
+2025-03-31,Western Cape,Outdoor,Facebook,200/200 Mbps,261,0.17,44
+2025-03-31,Western Cape,Outdoor,Facebook,500/500 Mbps,283,0.15,42
+2025-03-31,Western Cape,Outdoor,Facebook,1000/1000 Mbps,129,0.14,18
+2025-03-31,Western Cape,Outdoor,Google,10/10 Mbps,77,0.16,12
+2025-03-31,Western Cape,Outdoor,Google,50/50 Mbps,288,0.12,34
+2025-03-31,Western Cape,Outdoor,Google,100/100 Mbps,243,0.12,29
+2025-03-31,Western Cape,Outdoor,Google,200/200 Mbps,266,0.13,34
+2025-03-31,Western Cape,Outdoor,Google,500/500 Mbps,23,0.08,1
+2025-03-31,Western Cape,Outdoor,Google,1000/1000 Mbps,91,0.15,13
+2025-03-31,Western Cape,Outdoor,Word of Mouth,10/10 Mbps,32,0.06,1
+2025-03-31,Western Cape,Outdoor,Word of Mouth,50/50 Mbps,242,0.13,31
+2025-03-31,Western Cape,Outdoor,Word of Mouth,100/100 Mbps,175,0.07,12
+2025-03-31,Western Cape,Outdoor,Word of Mouth,200/200 Mbps,22,0.17,3
+2025-03-31,Western Cape,Outdoor,Word of Mouth,500/500 Mbps,155,0.16,24
+2025-03-31,Western Cape,Outdoor,Word of Mouth,1000/1000 Mbps,216,0.12,25
+2025-03-31,Western Cape,Outdoor,Local Radio,10/10 Mbps,295,0.14,41
+2025-03-31,Western Cape,Outdoor,Local Radio,50/50 Mbps,216,0.13,28
+2025-03-31,Western Cape,Outdoor,Local Radio,100/100 Mbps,223,0.17,37
+2025-03-31,Western Cape,Outdoor,Local Radio,200/200 Mbps,132,0.16,21
+2025-03-31,Western Cape,Outdoor,Local Radio,500/500 Mbps,60,0.15,9
+2025-03-31,Western Cape,Outdoor,Local Radio,1000/1000 Mbps,173,0.11,19
+2025-03-31,Western Cape,Events,Facebook,10/10 Mbps,121,0.12,14
+2025-03-31,Western Cape,Events,Facebook,50/50 Mbps,115,0.14,16
+2025-03-31,Western Cape,Events,Facebook,100/100 Mbps,216,0.09,19
+2025-03-31,Western Cape,Events,Facebook,200/200 Mbps,133,0.07,9
+2025-03-31,Western Cape,Events,Facebook,500/500 Mbps,99,0.13,12
+2025-03-31,Western Cape,Events,Facebook,1000/1000 Mbps,84,0.18,15
+2025-03-31,Western Cape,Events,Google,10/10 Mbps,108,0.2,21
+2025-03-31,Western Cape,Events,Google,50/50 Mbps,39,0.07,2
+2025-03-31,Western Cape,Events,Google,100/100 Mbps,236,0.15,35
+2025-03-31,Western Cape,Events,Google,200/200 Mbps,46,0.19,8
+2025-03-31,Western Cape,Events,Google,500/500 Mbps,199,0.06,11
+2025-03-31,Western Cape,Events,Google,1000/1000 Mbps,63,0.11,6
+2025-03-31,Western Cape,Events,Word of Mouth,10/10 Mbps,91,0.05,4
+2025-03-31,Western Cape,Events,Word of Mouth,50/50 Mbps,139,0.11,15
+2025-03-31,Western Cape,Events,Word of Mouth,100/100 Mbps,139,0.2,27
+2025-03-31,Western Cape,Events,Word of Mouth,200/200 Mbps,168,0.11,18
+2025-03-31,Western Cape,Events,Word of Mouth,500/500 Mbps,202,0.11,22
+2025-03-31,Western Cape,Events,Word of Mouth,1000/1000 Mbps,66,0.09,5
+2025-03-31,Western Cape,Events,Local Radio,10/10 Mbps,197,0.07,13
+2025-03-31,Western Cape,Events,Local Radio,50/50 Mbps,278,0.19,52
+2025-03-31,Western Cape,Events,Local Radio,100/100 Mbps,134,0.17,22
+2025-03-31,Western Cape,Events,Local Radio,200/200 Mbps,30,0.1,3
+2025-03-31,Western Cape,Events,Local Radio,500/500 Mbps,143,0.18,25
+2025-03-31,Western Cape,Events,Local Radio,1000/1000 Mbps,50,0.16,8
+2025-03-31,KwaZulu-Natal,Digital Ads,Facebook,10/10 Mbps,161,0.16,25
+2025-03-31,KwaZulu-Natal,Digital Ads,Facebook,50/50 Mbps,198,0.07,13
+2025-03-31,KwaZulu-Natal,Digital Ads,Facebook,100/100 Mbps,139,0.13,18
+2025-03-31,KwaZulu-Natal,Digital Ads,Facebook,200/200 Mbps,121,0.12,14
+2025-03-31,KwaZulu-Natal,Digital Ads,Facebook,500/500 Mbps,52,0.08,4
+2025-03-31,KwaZulu-Natal,Digital Ads,Facebook,1000/1000 Mbps,207,0.16,33
+2025-03-31,KwaZulu-Natal,Digital Ads,Google,10/10 Mbps,72,0.13,9
+2025-03-31,KwaZulu-Natal,Digital Ads,Google,50/50 Mbps,290,0.13,37
+2025-03-31,KwaZulu-Natal,Digital Ads,Google,100/100 Mbps,216,0.11,23
+2025-03-31,KwaZulu-Natal,Digital Ads,Google,200/200 Mbps,149,0.09,13
+2025-03-31,KwaZulu-Natal,Digital Ads,Google,500/500 Mbps,234,0.12,28
+2025-03-31,KwaZulu-Natal,Digital Ads,Google,1000/1000 Mbps,55,0.09,4
+2025-03-31,KwaZulu-Natal,Digital Ads,Word of Mouth,10/10 Mbps,268,0.1,26
+2025-03-31,KwaZulu-Natal,Digital Ads,Word of Mouth,50/50 Mbps,91,0.13,11
+2025-03-31,KwaZulu-Natal,Digital Ads,Word of Mouth,100/100 Mbps,22,0.15,3
+2025-03-31,KwaZulu-Natal,Digital Ads,Word of Mouth,200/200 Mbps,104,0.1,10
+2025-03-31,KwaZulu-Natal,Digital Ads,Word of Mouth,500/500 Mbps,94,0.06,5
+2025-03-31,KwaZulu-Natal,Digital Ads,Word of Mouth,1000/1000 Mbps,71,0.14,9
+2025-03-31,KwaZulu-Natal,Digital Ads,Local Radio,10/10 Mbps,165,0.11,18
+2025-03-31,KwaZulu-Natal,Digital Ads,Local Radio,50/50 Mbps,156,0.15,23
+2025-03-31,KwaZulu-Natal,Digital Ads,Local Radio,100/100 Mbps,192,0.16,30
+2025-03-31,KwaZulu-Natal,Digital Ads,Local Radio,200/200 Mbps,139,0.17,23
+2025-03-31,KwaZulu-Natal,Digital Ads,Local Radio,500/500 Mbps,271,0.2,54
+2025-03-31,KwaZulu-Natal,Digital Ads,Local Radio,1000/1000 Mbps,94,0.18,16
+2025-03-31,KwaZulu-Natal,Referral,Facebook,10/10 Mbps,166,0.18,29
+2025-03-31,KwaZulu-Natal,Referral,Facebook,50/50 Mbps,240,0.12,28
+2025-03-31,KwaZulu-Natal,Referral,Facebook,100/100 Mbps,64,0.05,3
+2025-03-31,KwaZulu-Natal,Referral,Facebook,200/200 Mbps,188,0.14,26
+2025-03-31,KwaZulu-Natal,Referral,Facebook,500/500 Mbps,256,0.06,15
+2025-03-31,KwaZulu-Natal,Referral,Facebook,1000/1000 Mbps,206,0.07,14
+2025-03-31,KwaZulu-Natal,Referral,Google,10/10 Mbps,144,0.19,27
+2025-03-31,KwaZulu-Natal,Referral,Google,50/50 Mbps,56,0.1,5
+2025-03-31,KwaZulu-Natal,Referral,Google,100/100 Mbps,200,0.19,38
+2025-03-31,KwaZulu-Natal,Referral,Google,200/200 Mbps,199,0.08,15
+2025-03-31,KwaZulu-Natal,Referral,Google,500/500 Mbps,111,0.11,12
+2025-03-31,KwaZulu-Natal,Referral,Google,1000/1000 Mbps,75,0.14,10
+2025-03-31,KwaZulu-Natal,Referral,Word of Mouth,10/10 Mbps,59,0.09,5
+2025-03-31,KwaZulu-Natal,Referral,Word of Mouth,50/50 Mbps,124,0.11,13
+2025-03-31,KwaZulu-Natal,Referral,Word of Mouth,100/100 Mbps,205,0.2,41
+2025-03-31,KwaZulu-Natal,Referral,Word of Mouth,200/200 Mbps,73,0.08,5
+2025-03-31,KwaZulu-Natal,Referral,Word of Mouth,500/500 Mbps,158,0.2,31
+2025-03-31,KwaZulu-Natal,Referral,Word of Mouth,1000/1000 Mbps,249,0.18,44
+2025-03-31,KwaZulu-Natal,Referral,Local Radio,10/10 Mbps,218,0.17,37
+2025-03-31,KwaZulu-Natal,Referral,Local Radio,50/50 Mbps,109,0.14,15
+2025-03-31,KwaZulu-Natal,Referral,Local Radio,100/100 Mbps,205,0.12,24
+2025-03-31,KwaZulu-Natal,Referral,Local Radio,200/200 Mbps,185,0.13,24
+2025-03-31,KwaZulu-Natal,Referral,Local Radio,500/500 Mbps,294,0.17,49
+2025-03-31,KwaZulu-Natal,Referral,Local Radio,1000/1000 Mbps,217,0.1,21
+2025-03-31,KwaZulu-Natal,Outdoor,Facebook,10/10 Mbps,106,0.14,14
+2025-03-31,KwaZulu-Natal,Outdoor,Facebook,50/50 Mbps,115,0.09,10
+2025-03-31,KwaZulu-Natal,Outdoor,Facebook,100/100 Mbps,41,0.1,4
+2025-03-31,KwaZulu-Natal,Outdoor,Facebook,200/200 Mbps,280,0.08,22
+2025-03-31,KwaZulu-Natal,Outdoor,Facebook,500/500 Mbps,31,0.16,4
+2025-03-31,KwaZulu-Natal,Outdoor,Facebook,1000/1000 Mbps,161,0.2,32
+2025-03-31,KwaZulu-Natal,Outdoor,Google,10/10 Mbps,73,0.06,4
+2025-03-31,KwaZulu-Natal,Outdoor,Google,50/50 Mbps,282,0.08,22
+2025-03-31,KwaZulu-Natal,Outdoor,Google,100/100 Mbps,232,0.16,37
+2025-03-31,KwaZulu-Natal,Outdoor,Google,200/200 Mbps,294,0.13,38
+2025-03-31,KwaZulu-Natal,Outdoor,Google,500/500 Mbps,164,0.18,29
+2025-03-31,KwaZulu-Natal,Outdoor,Google,1000/1000 Mbps,235,0.2,47
+2025-03-31,KwaZulu-Natal,Outdoor,Word of Mouth,10/10 Mbps,283,0.16,45
+2025-03-31,KwaZulu-Natal,Outdoor,Word of Mouth,50/50 Mbps,229,0.2,45
+2025-03-31,KwaZulu-Natal,Outdoor,Word of Mouth,100/100 Mbps,269,0.19,51
+2025-03-31,KwaZulu-Natal,Outdoor,Word of Mouth,200/200 Mbps,153,0.1,15
+2025-03-31,KwaZulu-Natal,Outdoor,Word of Mouth,500/500 Mbps,217,0.05,10
+2025-03-31,KwaZulu-Natal,Outdoor,Word of Mouth,1000/1000 Mbps,35,0.1,3
+2025-03-31,KwaZulu-Natal,Outdoor,Local Radio,10/10 Mbps,32,0.12,3
+2025-03-31,KwaZulu-Natal,Outdoor,Local Radio,50/50 Mbps,52,0.18,9
+2025-03-31,KwaZulu-Natal,Outdoor,Local Radio,100/100 Mbps,220,0.13,28
+2025-03-31,KwaZulu-Natal,Outdoor,Local Radio,200/200 Mbps,186,0.15,27
+2025-03-31,KwaZulu-Natal,Outdoor,Local Radio,500/500 Mbps,116,0.12,13
+2025-03-31,KwaZulu-Natal,Outdoor,Local Radio,1000/1000 Mbps,49,0.13,6
+2025-03-31,KwaZulu-Natal,Events,Facebook,10/10 Mbps,248,0.16,39
+2025-03-31,KwaZulu-Natal,Events,Facebook,50/50 Mbps,233,0.13,30
+2025-03-31,KwaZulu-Natal,Events,Facebook,100/100 Mbps,113,0.17,19
+2025-03-31,KwaZulu-Natal,Events,Facebook,200/200 Mbps,261,0.14,36
+2025-03-31,KwaZulu-Natal,Events,Facebook,500/500 Mbps,24,0.12,2
+2025-03-31,KwaZulu-Natal,Events,Facebook,1000/1000 Mbps,271,0.19,51
+2025-03-31,KwaZulu-Natal,Events,Google,10/10 Mbps,97,0.19,18
+2025-03-31,KwaZulu-Natal,Events,Google,50/50 Mbps,267,0.1,26
+2025-03-31,KwaZulu-Natal,Events,Google,100/100 Mbps,93,0.18,16
+2025-03-31,KwaZulu-Natal,Events,Google,200/200 Mbps,243,0.19,46
+2025-03-31,KwaZulu-Natal,Events,Google,500/500 Mbps,135,0.18,24
+2025-03-31,KwaZulu-Natal,Events,Google,1000/1000 Mbps,236,0.06,14
+2025-03-31,KwaZulu-Natal,Events,Word of Mouth,10/10 Mbps,165,0.1,16
+2025-03-31,KwaZulu-Natal,Events,Word of Mouth,50/50 Mbps,289,0.16,46
+2025-03-31,KwaZulu-Natal,Events,Word of Mouth,100/100 Mbps,108,0.12,12
+2025-03-31,KwaZulu-Natal,Events,Word of Mouth,200/200 Mbps,182,0.07,12
+2025-03-31,KwaZulu-Natal,Events,Word of Mouth,500/500 Mbps,186,0.15,27
+2025-03-31,KwaZulu-Natal,Events,Word of Mouth,1000/1000 Mbps,250,0.19,47
+2025-03-31,KwaZulu-Natal,Events,Local Radio,10/10 Mbps,278,0.15,41
+2025-03-31,KwaZulu-Natal,Events,Local Radio,50/50 Mbps,234,0.12,28
+2025-03-31,KwaZulu-Natal,Events,Local Radio,100/100 Mbps,279,0.11,30
+2025-03-31,KwaZulu-Natal,Events,Local Radio,200/200 Mbps,148,0.11,16
+2025-03-31,KwaZulu-Natal,Events,Local Radio,500/500 Mbps,94,0.12,11
+2025-03-31,KwaZulu-Natal,Events,Local Radio,1000/1000 Mbps,139,0.17,23
+2025-03-31,Eastern Cape,Digital Ads,Facebook,10/10 Mbps,192,0.14,26
+2025-03-31,Eastern Cape,Digital Ads,Facebook,50/50 Mbps,179,0.06,10
+2025-03-31,Eastern Cape,Digital Ads,Facebook,100/100 Mbps,239,0.14,33
+2025-03-31,Eastern Cape,Digital Ads,Facebook,200/200 Mbps,185,0.1,18
+2025-03-31,Eastern Cape,Digital Ads,Facebook,500/500 Mbps,257,0.1,25
+2025-03-31,Eastern Cape,Digital Ads,Facebook,1000/1000 Mbps,247,0.06,14
+2025-03-31,Eastern Cape,Digital Ads,Google,10/10 Mbps,34,0.09,3
+2025-03-31,Eastern Cape,Digital Ads,Google,50/50 Mbps,298,0.12,35
+2025-03-31,Eastern Cape,Digital Ads,Google,100/100 Mbps,174,0.18,31
+2025-03-31,Eastern Cape,Digital Ads,Google,200/200 Mbps,52,0.14,7
+2025-03-31,Eastern Cape,Digital Ads,Google,500/500 Mbps,225,0.11,24
+2025-03-31,Eastern Cape,Digital Ads,Google,1000/1000 Mbps,82,0.07,5
+2025-03-31,Eastern Cape,Digital Ads,Word of Mouth,10/10 Mbps,113,0.07,7
+2025-03-31,Eastern Cape,Digital Ads,Word of Mouth,50/50 Mbps,36,0.08,2
+2025-03-31,Eastern Cape,Digital Ads,Word of Mouth,100/100 Mbps,222,0.1,22
+2025-03-31,Eastern Cape,Digital Ads,Word of Mouth,200/200 Mbps,267,0.18,48
+2025-03-31,Eastern Cape,Digital Ads,Word of Mouth,500/500 Mbps,92,0.12,11
+2025-03-31,Eastern Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,202,0.15,30
+2025-03-31,Eastern Cape,Digital Ads,Local Radio,10/10 Mbps,221,0.09,19
+2025-03-31,Eastern Cape,Digital Ads,Local Radio,50/50 Mbps,78,0.07,5
+2025-03-31,Eastern Cape,Digital Ads,Local Radio,100/100 Mbps,155,0.06,9
+2025-03-31,Eastern Cape,Digital Ads,Local Radio,200/200 Mbps,269,0.09,24
+2025-03-31,Eastern Cape,Digital Ads,Local Radio,500/500 Mbps,63,0.15,9
+2025-03-31,Eastern Cape,Digital Ads,Local Radio,1000/1000 Mbps,53,0.08,4
+2025-03-31,Eastern Cape,Referral,Facebook,10/10 Mbps,177,0.11,19
+2025-03-31,Eastern Cape,Referral,Facebook,50/50 Mbps,222,0.16,35
+2025-03-31,Eastern Cape,Referral,Facebook,100/100 Mbps,130,0.12,15
+2025-03-31,Eastern Cape,Referral,Facebook,200/200 Mbps,109,0.08,8
+2025-03-31,Eastern Cape,Referral,Facebook,500/500 Mbps,129,0.09,11
+2025-03-31,Eastern Cape,Referral,Facebook,1000/1000 Mbps,219,0.19,41
+2025-03-31,Eastern Cape,Referral,Google,10/10 Mbps,48,0.1,4
+2025-03-31,Eastern Cape,Referral,Google,50/50 Mbps,225,0.07,15
+2025-03-31,Eastern Cape,Referral,Google,100/100 Mbps,52,0.17,8
+2025-03-31,Eastern Cape,Referral,Google,200/200 Mbps,84,0.11,9
+2025-03-31,Eastern Cape,Referral,Google,500/500 Mbps,76,0.18,13
+2025-03-31,Eastern Cape,Referral,Google,1000/1000 Mbps,50,0.08,4
+2025-03-31,Eastern Cape,Referral,Word of Mouth,10/10 Mbps,273,0.1,27
+2025-03-31,Eastern Cape,Referral,Word of Mouth,50/50 Mbps,121,0.18,21
+2025-03-31,Eastern Cape,Referral,Word of Mouth,100/100 Mbps,135,0.09,12
+2025-03-31,Eastern Cape,Referral,Word of Mouth,200/200 Mbps,169,0.18,30
+2025-03-31,Eastern Cape,Referral,Word of Mouth,500/500 Mbps,99,0.06,5
+2025-03-31,Eastern Cape,Referral,Word of Mouth,1000/1000 Mbps,74,0.18,13
+2025-03-31,Eastern Cape,Referral,Local Radio,10/10 Mbps,291,0.16,46
+2025-03-31,Eastern Cape,Referral,Local Radio,50/50 Mbps,174,0.14,24
+2025-03-31,Eastern Cape,Referral,Local Radio,100/100 Mbps,161,0.14,22
+2025-03-31,Eastern Cape,Referral,Local Radio,200/200 Mbps,126,0.15,18
+2025-03-31,Eastern Cape,Referral,Local Radio,500/500 Mbps,188,0.17,31
+2025-03-31,Eastern Cape,Referral,Local Radio,1000/1000 Mbps,61,0.07,4
+2025-03-31,Eastern Cape,Outdoor,Facebook,10/10 Mbps,155,0.1,15
+2025-03-31,Eastern Cape,Outdoor,Facebook,50/50 Mbps,189,0.16,30
+2025-03-31,Eastern Cape,Outdoor,Facebook,100/100 Mbps,54,0.16,8
+2025-03-31,Eastern Cape,Outdoor,Facebook,200/200 Mbps,163,0.17,27
+2025-03-31,Eastern Cape,Outdoor,Facebook,500/500 Mbps,191,0.14,26
+2025-03-31,Eastern Cape,Outdoor,Facebook,1000/1000 Mbps,268,0.05,13
+2025-03-31,Eastern Cape,Outdoor,Google,10/10 Mbps,32,0.16,5
+2025-03-31,Eastern Cape,Outdoor,Google,50/50 Mbps,195,0.06,11
+2025-03-31,Eastern Cape,Outdoor,Google,100/100 Mbps,286,0.16,45
+2025-03-31,Eastern Cape,Outdoor,Google,200/200 Mbps,204,0.11,22
+2025-03-31,Eastern Cape,Outdoor,Google,500/500 Mbps,138,0.19,26
+2025-03-31,Eastern Cape,Outdoor,Google,1000/1000 Mbps,35,0.15,5
+2025-03-31,Eastern Cape,Outdoor,Word of Mouth,10/10 Mbps,264,0.1,26
+2025-03-31,Eastern Cape,Outdoor,Word of Mouth,50/50 Mbps,260,0.06,15
+2025-03-31,Eastern Cape,Outdoor,Word of Mouth,100/100 Mbps,117,0.17,19
+2025-03-31,Eastern Cape,Outdoor,Word of Mouth,200/200 Mbps,135,0.08,10
+2025-03-31,Eastern Cape,Outdoor,Word of Mouth,500/500 Mbps,163,0.11,17
+2025-03-31,Eastern Cape,Outdoor,Word of Mouth,1000/1000 Mbps,92,0.12,11
+2025-03-31,Eastern Cape,Outdoor,Local Radio,10/10 Mbps,101,0.07,7
+2025-03-31,Eastern Cape,Outdoor,Local Radio,50/50 Mbps,21,0.16,3
+2025-03-31,Eastern Cape,Outdoor,Local Radio,100/100 Mbps,97,0.06,5
+2025-03-31,Eastern Cape,Outdoor,Local Radio,200/200 Mbps,267,0.12,32
+2025-03-31,Eastern Cape,Outdoor,Local Radio,500/500 Mbps,288,0.06,17
+2025-03-31,Eastern Cape,Outdoor,Local Radio,1000/1000 Mbps,275,0.18,49
+2025-03-31,Eastern Cape,Events,Facebook,10/10 Mbps,172,0.07,12
+2025-03-31,Eastern Cape,Events,Facebook,50/50 Mbps,170,0.14,23
+2025-03-31,Eastern Cape,Events,Facebook,100/100 Mbps,58,0.14,8
+2025-03-31,Eastern Cape,Events,Facebook,200/200 Mbps,152,0.1,15
+2025-03-31,Eastern Cape,Events,Facebook,500/500 Mbps,24,0.06,1
+2025-03-31,Eastern Cape,Events,Facebook,1000/1000 Mbps,104,0.13,13
+2025-03-31,Eastern Cape,Events,Google,10/10 Mbps,194,0.18,34
+2025-03-31,Eastern Cape,Events,Google,50/50 Mbps,70,0.12,8
+2025-03-31,Eastern Cape,Events,Google,100/100 Mbps,45,0.07,3
+2025-03-31,Eastern Cape,Events,Google,200/200 Mbps,141,0.09,12
+2025-03-31,Eastern Cape,Events,Google,500/500 Mbps,276,0.2,55
+2025-03-31,Eastern Cape,Events,Google,1000/1000 Mbps,289,0.07,20
+2025-03-31,Eastern Cape,Events,Word of Mouth,10/10 Mbps,169,0.07,11
+2025-03-31,Eastern Cape,Events,Word of Mouth,50/50 Mbps,61,0.08,4
+2025-03-31,Eastern Cape,Events,Word of Mouth,100/100 Mbps,257,0.08,20
+2025-03-31,Eastern Cape,Events,Word of Mouth,200/200 Mbps,286,0.1,28
+2025-03-31,Eastern Cape,Events,Word of Mouth,500/500 Mbps,78,0.14,10
+2025-03-31,Eastern Cape,Events,Word of Mouth,1000/1000 Mbps,89,0.19,16
+2025-03-31,Eastern Cape,Events,Local Radio,10/10 Mbps,90,0.12,10
+2025-03-31,Eastern Cape,Events,Local Radio,50/50 Mbps,70,0.14,9
+2025-03-31,Eastern Cape,Events,Local Radio,100/100 Mbps,32,0.2,6
+2025-03-31,Eastern Cape,Events,Local Radio,200/200 Mbps,43,0.11,4
+2025-03-31,Eastern Cape,Events,Local Radio,500/500 Mbps,44,0.07,3
+2025-03-31,Eastern Cape,Events,Local Radio,1000/1000 Mbps,161,0.08,12
+2025-04-30,Gauteng,Digital Ads,Facebook,10/10 Mbps,67,0.05,3
+2025-04-30,Gauteng,Digital Ads,Facebook,50/50 Mbps,153,0.09,13
+2025-04-30,Gauteng,Digital Ads,Facebook,100/100 Mbps,76,0.12,9
+2025-04-30,Gauteng,Digital Ads,Facebook,200/200 Mbps,209,0.09,18
+2025-04-30,Gauteng,Digital Ads,Facebook,500/500 Mbps,21,0.16,3
+2025-04-30,Gauteng,Digital Ads,Facebook,1000/1000 Mbps,200,0.15,30
+2025-04-30,Gauteng,Digital Ads,Google,10/10 Mbps,253,0.13,32
+2025-04-30,Gauteng,Digital Ads,Google,50/50 Mbps,76,0.06,4
+2025-04-30,Gauteng,Digital Ads,Google,100/100 Mbps,77,0.16,12
+2025-04-30,Gauteng,Digital Ads,Google,200/200 Mbps,290,0.1,29
+2025-04-30,Gauteng,Digital Ads,Google,500/500 Mbps,209,0.13,27
+2025-04-30,Gauteng,Digital Ads,Google,1000/1000 Mbps,68,0.14,9
+2025-04-30,Gauteng,Digital Ads,Word of Mouth,10/10 Mbps,113,0.06,6
+2025-04-30,Gauteng,Digital Ads,Word of Mouth,50/50 Mbps,99,0.19,18
+2025-04-30,Gauteng,Digital Ads,Word of Mouth,100/100 Mbps,257,0.1,25
+2025-04-30,Gauteng,Digital Ads,Word of Mouth,200/200 Mbps,41,0.06,2
+2025-04-30,Gauteng,Digital Ads,Word of Mouth,500/500 Mbps,288,0.08,23
+2025-04-30,Gauteng,Digital Ads,Word of Mouth,1000/1000 Mbps,264,0.17,44
+2025-04-30,Gauteng,Digital Ads,Local Radio,10/10 Mbps,155,0.11,17
+2025-04-30,Gauteng,Digital Ads,Local Radio,50/50 Mbps,70,0.19,13
+2025-04-30,Gauteng,Digital Ads,Local Radio,100/100 Mbps,257,0.16,41
+2025-04-30,Gauteng,Digital Ads,Local Radio,200/200 Mbps,171,0.14,23
+2025-04-30,Gauteng,Digital Ads,Local Radio,500/500 Mbps,297,0.16,47
+2025-04-30,Gauteng,Digital Ads,Local Radio,1000/1000 Mbps,54,0.05,2
+2025-04-30,Gauteng,Referral,Facebook,10/10 Mbps,143,0.08,11
+2025-04-30,Gauteng,Referral,Facebook,50/50 Mbps,135,0.15,20
+2025-04-30,Gauteng,Referral,Facebook,100/100 Mbps,273,0.2,54
+2025-04-30,Gauteng,Referral,Facebook,200/200 Mbps,136,0.07,9
+2025-04-30,Gauteng,Referral,Facebook,500/500 Mbps,253,0.17,43
+2025-04-30,Gauteng,Referral,Facebook,1000/1000 Mbps,139,0.18,25
+2025-04-30,Gauteng,Referral,Google,10/10 Mbps,193,0.09,17
+2025-04-30,Gauteng,Referral,Google,50/50 Mbps,156,0.08,12
+2025-04-30,Gauteng,Referral,Google,100/100 Mbps,200,0.13,26
+2025-04-30,Gauteng,Referral,Google,200/200 Mbps,245,0.08,19
+2025-04-30,Gauteng,Referral,Google,500/500 Mbps,120,0.06,7
+2025-04-30,Gauteng,Referral,Google,1000/1000 Mbps,136,0.08,10
+2025-04-30,Gauteng,Referral,Word of Mouth,10/10 Mbps,219,0.17,37
+2025-04-30,Gauteng,Referral,Word of Mouth,50/50 Mbps,288,0.14,40
+2025-04-30,Gauteng,Referral,Word of Mouth,100/100 Mbps,240,0.14,33
+2025-04-30,Gauteng,Referral,Word of Mouth,200/200 Mbps,231,0.06,13
+2025-04-30,Gauteng,Referral,Word of Mouth,500/500 Mbps,299,0.12,35
+2025-04-30,Gauteng,Referral,Word of Mouth,1000/1000 Mbps,24,0.08,1
+2025-04-30,Gauteng,Referral,Local Radio,10/10 Mbps,32,0.08,2
+2025-04-30,Gauteng,Referral,Local Radio,50/50 Mbps,27,0.1,2
+2025-04-30,Gauteng,Referral,Local Radio,100/100 Mbps,233,0.06,13
+2025-04-30,Gauteng,Referral,Local Radio,200/200 Mbps,247,0.18,44
+2025-04-30,Gauteng,Referral,Local Radio,500/500 Mbps,138,0.16,22
+2025-04-30,Gauteng,Referral,Local Radio,1000/1000 Mbps,233,0.12,27
+2025-04-30,Gauteng,Outdoor,Facebook,10/10 Mbps,162,0.18,29
+2025-04-30,Gauteng,Outdoor,Facebook,50/50 Mbps,225,0.06,13
+2025-04-30,Gauteng,Outdoor,Facebook,100/100 Mbps,117,0.11,12
+2025-04-30,Gauteng,Outdoor,Facebook,200/200 Mbps,74,0.16,11
+2025-04-30,Gauteng,Outdoor,Facebook,500/500 Mbps,224,0.2,44
+2025-04-30,Gauteng,Outdoor,Facebook,1000/1000 Mbps,62,0.16,9
+2025-04-30,Gauteng,Outdoor,Google,10/10 Mbps,210,0.18,37
+2025-04-30,Gauteng,Outdoor,Google,50/50 Mbps,184,0.09,16
+2025-04-30,Gauteng,Outdoor,Google,100/100 Mbps,150,0.08,12
+2025-04-30,Gauteng,Outdoor,Google,200/200 Mbps,284,0.1,28
+2025-04-30,Gauteng,Outdoor,Google,500/500 Mbps,94,0.09,8
+2025-04-30,Gauteng,Outdoor,Google,1000/1000 Mbps,205,0.08,16
+2025-04-30,Gauteng,Outdoor,Word of Mouth,10/10 Mbps,227,0.06,13
+2025-04-30,Gauteng,Outdoor,Word of Mouth,50/50 Mbps,247,0.07,17
+2025-04-30,Gauteng,Outdoor,Word of Mouth,100/100 Mbps,173,0.14,24
+2025-04-30,Gauteng,Outdoor,Word of Mouth,200/200 Mbps,291,0.17,49
+2025-04-30,Gauteng,Outdoor,Word of Mouth,500/500 Mbps,213,0.13,27
+2025-04-30,Gauteng,Outdoor,Word of Mouth,1000/1000 Mbps,175,0.11,19
+2025-04-30,Gauteng,Outdoor,Local Radio,10/10 Mbps,83,0.13,10
+2025-04-30,Gauteng,Outdoor,Local Radio,50/50 Mbps,268,0.09,24
+2025-04-30,Gauteng,Outdoor,Local Radio,100/100 Mbps,45,0.12,5
+2025-04-30,Gauteng,Outdoor,Local Radio,200/200 Mbps,241,0.2,48
+2025-04-30,Gauteng,Outdoor,Local Radio,500/500 Mbps,94,0.16,15
+2025-04-30,Gauteng,Outdoor,Local Radio,1000/1000 Mbps,258,0.14,36
+2025-04-30,Gauteng,Events,Facebook,10/10 Mbps,194,0.11,21
+2025-04-30,Gauteng,Events,Facebook,50/50 Mbps,225,0.15,33
+2025-04-30,Gauteng,Events,Facebook,100/100 Mbps,127,0.1,12
+2025-04-30,Gauteng,Events,Facebook,200/200 Mbps,74,0.18,13
+2025-04-30,Gauteng,Events,Facebook,500/500 Mbps,262,0.2,52
+2025-04-30,Gauteng,Events,Facebook,1000/1000 Mbps,110,0.19,20
+2025-04-30,Gauteng,Events,Google,10/10 Mbps,22,0.14,3
+2025-04-30,Gauteng,Events,Google,50/50 Mbps,57,0.14,7
+2025-04-30,Gauteng,Events,Google,100/100 Mbps,44,0.13,5
+2025-04-30,Gauteng,Events,Google,200/200 Mbps,288,0.09,25
+2025-04-30,Gauteng,Events,Google,500/500 Mbps,159,0.11,17
+2025-04-30,Gauteng,Events,Google,1000/1000 Mbps,59,0.13,7
+2025-04-30,Gauteng,Events,Word of Mouth,10/10 Mbps,41,0.08,3
+2025-04-30,Gauteng,Events,Word of Mouth,50/50 Mbps,91,0.09,8
+2025-04-30,Gauteng,Events,Word of Mouth,100/100 Mbps,97,0.19,18
+2025-04-30,Gauteng,Events,Word of Mouth,200/200 Mbps,216,0.1,21
+2025-04-30,Gauteng,Events,Word of Mouth,500/500 Mbps,92,0.06,5
+2025-04-30,Gauteng,Events,Word of Mouth,1000/1000 Mbps,208,0.18,37
+2025-04-30,Gauteng,Events,Local Radio,10/10 Mbps,294,0.18,52
+2025-04-30,Gauteng,Events,Local Radio,50/50 Mbps,98,0.08,7
+2025-04-30,Gauteng,Events,Local Radio,100/100 Mbps,159,0.05,7
+2025-04-30,Gauteng,Events,Local Radio,200/200 Mbps,25,0.19,4
+2025-04-30,Gauteng,Events,Local Radio,500/500 Mbps,162,0.06,9
+2025-04-30,Gauteng,Events,Local Radio,1000/1000 Mbps,290,0.12,34
+2025-04-30,Western Cape,Digital Ads,Facebook,10/10 Mbps,203,0.13,26
+2025-04-30,Western Cape,Digital Ads,Facebook,50/50 Mbps,103,0.15,15
+2025-04-30,Western Cape,Digital Ads,Facebook,100/100 Mbps,141,0.07,9
+2025-04-30,Western Cape,Digital Ads,Facebook,200/200 Mbps,184,0.11,20
+2025-04-30,Western Cape,Digital Ads,Facebook,500/500 Mbps,193,0.11,21
+2025-04-30,Western Cape,Digital Ads,Facebook,1000/1000 Mbps,257,0.17,43
+2025-04-30,Western Cape,Digital Ads,Google,10/10 Mbps,121,0.1,12
+2025-04-30,Western Cape,Digital Ads,Google,50/50 Mbps,293,0.17,49
+2025-04-30,Western Cape,Digital Ads,Google,100/100 Mbps,255,0.13,33
+2025-04-30,Western Cape,Digital Ads,Google,200/200 Mbps,48,0.08,3
+2025-04-30,Western Cape,Digital Ads,Google,500/500 Mbps,242,0.2,48
+2025-04-30,Western Cape,Digital Ads,Google,1000/1000 Mbps,237,0.08,18
+2025-04-30,Western Cape,Digital Ads,Word of Mouth,10/10 Mbps,245,0.14,34
+2025-04-30,Western Cape,Digital Ads,Word of Mouth,50/50 Mbps,214,0.06,12
+2025-04-30,Western Cape,Digital Ads,Word of Mouth,100/100 Mbps,199,0.18,35
+2025-04-30,Western Cape,Digital Ads,Word of Mouth,200/200 Mbps,20,0.18,3
+2025-04-30,Western Cape,Digital Ads,Word of Mouth,500/500 Mbps,113,0.13,14
+2025-04-30,Western Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,215,0.1,21
+2025-04-30,Western Cape,Digital Ads,Local Radio,10/10 Mbps,55,0.11,6
+2025-04-30,Western Cape,Digital Ads,Local Radio,50/50 Mbps,71,0.11,7
+2025-04-30,Western Cape,Digital Ads,Local Radio,100/100 Mbps,150,0.15,22
+2025-04-30,Western Cape,Digital Ads,Local Radio,200/200 Mbps,231,0.12,27
+2025-04-30,Western Cape,Digital Ads,Local Radio,500/500 Mbps,157,0.12,18
+2025-04-30,Western Cape,Digital Ads,Local Radio,1000/1000 Mbps,243,0.12,29
+2025-04-30,Western Cape,Referral,Facebook,10/10 Mbps,123,0.11,13
+2025-04-30,Western Cape,Referral,Facebook,50/50 Mbps,41,0.18,7
+2025-04-30,Western Cape,Referral,Facebook,100/100 Mbps,25,0.11,2
+2025-04-30,Western Cape,Referral,Facebook,200/200 Mbps,221,0.15,33
+2025-04-30,Western Cape,Referral,Facebook,500/500 Mbps,212,0.16,33
+2025-04-30,Western Cape,Referral,Facebook,1000/1000 Mbps,43,0.19,8
+2025-04-30,Western Cape,Referral,Google,10/10 Mbps,175,0.15,26
+2025-04-30,Western Cape,Referral,Google,50/50 Mbps,209,0.1,20
+2025-04-30,Western Cape,Referral,Google,100/100 Mbps,182,0.16,29
+2025-04-30,Western Cape,Referral,Google,200/200 Mbps,222,0.15,33
+2025-04-30,Western Cape,Referral,Google,500/500 Mbps,146,0.2,29
+2025-04-30,Western Cape,Referral,Google,1000/1000 Mbps,272,0.12,32
+2025-04-30,Western Cape,Referral,Word of Mouth,10/10 Mbps,223,0.06,13
+2025-04-30,Western Cape,Referral,Word of Mouth,50/50 Mbps,263,0.1,26
+2025-04-30,Western Cape,Referral,Word of Mouth,100/100 Mbps,62,0.16,9
+2025-04-30,Western Cape,Referral,Word of Mouth,200/200 Mbps,84,0.11,9
+2025-04-30,Western Cape,Referral,Word of Mouth,500/500 Mbps,186,0.06,11
+2025-04-30,Western Cape,Referral,Word of Mouth,1000/1000 Mbps,41,0.12,4
+2025-04-30,Western Cape,Referral,Local Radio,10/10 Mbps,218,0.17,37
+2025-04-30,Western Cape,Referral,Local Radio,50/50 Mbps,25,0.19,4
+2025-04-30,Western Cape,Referral,Local Radio,100/100 Mbps,191,0.17,32
+2025-04-30,Western Cape,Referral,Local Radio,200/200 Mbps,143,0.17,24
+2025-04-30,Western Cape,Referral,Local Radio,500/500 Mbps,275,0.18,49
+2025-04-30,Western Cape,Referral,Local Radio,1000/1000 Mbps,42,0.15,6
+2025-04-30,Western Cape,Outdoor,Facebook,10/10 Mbps,38,0.11,4
+2025-04-30,Western Cape,Outdoor,Facebook,50/50 Mbps,151,0.16,24
+2025-04-30,Western Cape,Outdoor,Facebook,100/100 Mbps,92,0.12,11
+2025-04-30,Western Cape,Outdoor,Facebook,200/200 Mbps,253,0.07,17
+2025-04-30,Western Cape,Outdoor,Facebook,500/500 Mbps,65,0.16,10
+2025-04-30,Western Cape,Outdoor,Facebook,1000/1000 Mbps,216,0.12,25
+2025-04-30,Western Cape,Outdoor,Google,10/10 Mbps,273,0.06,16
+2025-04-30,Western Cape,Outdoor,Google,50/50 Mbps,255,0.13,33
+2025-04-30,Western Cape,Outdoor,Google,100/100 Mbps,125,0.07,8
+2025-04-30,Western Cape,Outdoor,Google,200/200 Mbps,81,0.1,8
+2025-04-30,Western Cape,Outdoor,Google,500/500 Mbps,194,0.16,31
+2025-04-30,Western Cape,Outdoor,Google,1000/1000 Mbps,86,0.09,7
+2025-04-30,Western Cape,Outdoor,Word of Mouth,10/10 Mbps,35,0.15,5
+2025-04-30,Western Cape,Outdoor,Word of Mouth,50/50 Mbps,56,0.13,7
+2025-04-30,Western Cape,Outdoor,Word of Mouth,100/100 Mbps,234,0.15,35
+2025-04-30,Western Cape,Outdoor,Word of Mouth,200/200 Mbps,263,0.07,18
+2025-04-30,Western Cape,Outdoor,Word of Mouth,500/500 Mbps,210,0.13,27
+2025-04-30,Western Cape,Outdoor,Word of Mouth,1000/1000 Mbps,290,0.2,58
+2025-04-30,Western Cape,Outdoor,Local Radio,10/10 Mbps,177,0.11,19
+2025-04-30,Western Cape,Outdoor,Local Radio,50/50 Mbps,167,0.05,8
+2025-04-30,Western Cape,Outdoor,Local Radio,100/100 Mbps,38,0.08,3
+2025-04-30,Western Cape,Outdoor,Local Radio,200/200 Mbps,194,0.17,32
+2025-04-30,Western Cape,Outdoor,Local Radio,500/500 Mbps,30,0.1,3
+2025-04-30,Western Cape,Outdoor,Local Radio,1000/1000 Mbps,183,0.06,10
+2025-04-30,Western Cape,Events,Facebook,10/10 Mbps,34,0.06,2
+2025-04-30,Western Cape,Events,Facebook,50/50 Mbps,134,0.11,14
+2025-04-30,Western Cape,Events,Facebook,100/100 Mbps,69,0.15,10
+2025-04-30,Western Cape,Events,Facebook,200/200 Mbps,260,0.19,49
+2025-04-30,Western Cape,Events,Facebook,500/500 Mbps,41,0.08,3
+2025-04-30,Western Cape,Events,Facebook,1000/1000 Mbps,268,0.1,26
+2025-04-30,Western Cape,Events,Google,10/10 Mbps,192,0.15,28
+2025-04-30,Western Cape,Events,Google,50/50 Mbps,181,0.13,23
+2025-04-30,Western Cape,Events,Google,100/100 Mbps,41,0.07,2
+2025-04-30,Western Cape,Events,Google,200/200 Mbps,268,0.18,48
+2025-04-30,Western Cape,Events,Google,500/500 Mbps,148,0.19,28
+2025-04-30,Western Cape,Events,Google,1000/1000 Mbps,234,0.07,16
+2025-04-30,Western Cape,Events,Word of Mouth,10/10 Mbps,149,0.15,22
+2025-04-30,Western Cape,Events,Word of Mouth,50/50 Mbps,43,0.14,6
+2025-04-30,Western Cape,Events,Word of Mouth,100/100 Mbps,56,0.09,5
+2025-04-30,Western Cape,Events,Word of Mouth,200/200 Mbps,251,0.2,50
+2025-04-30,Western Cape,Events,Word of Mouth,500/500 Mbps,117,0.18,21
+2025-04-30,Western Cape,Events,Word of Mouth,1000/1000 Mbps,260,0.11,28
+2025-04-30,Western Cape,Events,Local Radio,10/10 Mbps,268,0.16,42
+2025-04-30,Western Cape,Events,Local Radio,50/50 Mbps,295,0.09,26
+2025-04-30,Western Cape,Events,Local Radio,100/100 Mbps,53,0.18,9
+2025-04-30,Western Cape,Events,Local Radio,200/200 Mbps,213,0.06,12
+2025-04-30,Western Cape,Events,Local Radio,500/500 Mbps,254,0.07,17
+2025-04-30,Western Cape,Events,Local Radio,1000/1000 Mbps,131,0.19,24
+2025-04-30,KwaZulu-Natal,Digital Ads,Facebook,10/10 Mbps,37,0.11,4
+2025-04-30,KwaZulu-Natal,Digital Ads,Facebook,50/50 Mbps,120,0.06,7
+2025-04-30,KwaZulu-Natal,Digital Ads,Facebook,100/100 Mbps,272,0.08,21
+2025-04-30,KwaZulu-Natal,Digital Ads,Facebook,200/200 Mbps,111,0.13,14
+2025-04-30,KwaZulu-Natal,Digital Ads,Facebook,500/500 Mbps,178,0.19,33
+2025-04-30,KwaZulu-Natal,Digital Ads,Facebook,1000/1000 Mbps,117,0.16,18
+2025-04-30,KwaZulu-Natal,Digital Ads,Google,10/10 Mbps,152,0.1,15
+2025-04-30,KwaZulu-Natal,Digital Ads,Google,50/50 Mbps,89,0.1,8
+2025-04-30,KwaZulu-Natal,Digital Ads,Google,100/100 Mbps,59,0.2,11
+2025-04-30,KwaZulu-Natal,Digital Ads,Google,200/200 Mbps,95,0.12,11
+2025-04-30,KwaZulu-Natal,Digital Ads,Google,500/500 Mbps,144,0.13,18
+2025-04-30,KwaZulu-Natal,Digital Ads,Google,1000/1000 Mbps,142,0.16,22
+2025-04-30,KwaZulu-Natal,Digital Ads,Word of Mouth,10/10 Mbps,138,0.09,12
+2025-04-30,KwaZulu-Natal,Digital Ads,Word of Mouth,50/50 Mbps,239,0.1,23
+2025-04-30,KwaZulu-Natal,Digital Ads,Word of Mouth,100/100 Mbps,193,0.09,17
+2025-04-30,KwaZulu-Natal,Digital Ads,Word of Mouth,200/200 Mbps,72,0.1,7
+2025-04-30,KwaZulu-Natal,Digital Ads,Word of Mouth,500/500 Mbps,161,0.11,17
+2025-04-30,KwaZulu-Natal,Digital Ads,Word of Mouth,1000/1000 Mbps,220,0.12,26
+2025-04-30,KwaZulu-Natal,Digital Ads,Local Radio,10/10 Mbps,54,0.08,4
+2025-04-30,KwaZulu-Natal,Digital Ads,Local Radio,50/50 Mbps,116,0.06,6
+2025-04-30,KwaZulu-Natal,Digital Ads,Local Radio,100/100 Mbps,122,0.06,7
+2025-04-30,KwaZulu-Natal,Digital Ads,Local Radio,200/200 Mbps,256,0.07,17
+2025-04-30,KwaZulu-Natal,Digital Ads,Local Radio,500/500 Mbps,160,0.13,20
+2025-04-30,KwaZulu-Natal,Digital Ads,Local Radio,1000/1000 Mbps,292,0.12,35
+2025-04-30,KwaZulu-Natal,Referral,Facebook,10/10 Mbps,85,0.15,12
+2025-04-30,KwaZulu-Natal,Referral,Facebook,50/50 Mbps,178,0.2,35
+2025-04-30,KwaZulu-Natal,Referral,Facebook,100/100 Mbps,247,0.14,34
+2025-04-30,KwaZulu-Natal,Referral,Facebook,200/200 Mbps,125,0.06,7
+2025-04-30,KwaZulu-Natal,Referral,Facebook,500/500 Mbps,243,0.12,29
+2025-04-30,KwaZulu-Natal,Referral,Facebook,1000/1000 Mbps,29,0.09,2
+2025-04-30,KwaZulu-Natal,Referral,Google,10/10 Mbps,136,0.14,19
+2025-04-30,KwaZulu-Natal,Referral,Google,50/50 Mbps,113,0.06,6
+2025-04-30,KwaZulu-Natal,Referral,Google,100/100 Mbps,257,0.17,43
+2025-04-30,KwaZulu-Natal,Referral,Google,200/200 Mbps,277,0.08,22
+2025-04-30,KwaZulu-Natal,Referral,Google,500/500 Mbps,252,0.13,32
+2025-04-30,KwaZulu-Natal,Referral,Google,1000/1000 Mbps,99,0.16,15
+2025-04-30,KwaZulu-Natal,Referral,Word of Mouth,10/10 Mbps,33,0.18,5
+2025-04-30,KwaZulu-Natal,Referral,Word of Mouth,50/50 Mbps,297,0.15,44
+2025-04-30,KwaZulu-Natal,Referral,Word of Mouth,100/100 Mbps,289,0.16,46
+2025-04-30,KwaZulu-Natal,Referral,Word of Mouth,200/200 Mbps,211,0.1,21
+2025-04-30,KwaZulu-Natal,Referral,Word of Mouth,500/500 Mbps,118,0.09,10
+2025-04-30,KwaZulu-Natal,Referral,Word of Mouth,1000/1000 Mbps,252,0.06,15
+2025-04-30,KwaZulu-Natal,Referral,Local Radio,10/10 Mbps,70,0.12,8
+2025-04-30,KwaZulu-Natal,Referral,Local Radio,50/50 Mbps,60,0.08,4
+2025-04-30,KwaZulu-Natal,Referral,Local Radio,100/100 Mbps,53,0.08,4
+2025-04-30,KwaZulu-Natal,Referral,Local Radio,200/200 Mbps,180,0.08,14
+2025-04-30,KwaZulu-Natal,Referral,Local Radio,500/500 Mbps,201,0.06,12
+2025-04-30,KwaZulu-Natal,Referral,Local Radio,1000/1000 Mbps,92,0.13,11
+2025-04-30,KwaZulu-Natal,Outdoor,Facebook,10/10 Mbps,294,0.1,29
+2025-04-30,KwaZulu-Natal,Outdoor,Facebook,50/50 Mbps,151,0.18,27
+2025-04-30,KwaZulu-Natal,Outdoor,Facebook,100/100 Mbps,117,0.16,18
+2025-04-30,KwaZulu-Natal,Outdoor,Facebook,200/200 Mbps,247,0.14,34
+2025-04-30,KwaZulu-Natal,Outdoor,Facebook,500/500 Mbps,138,0.16,22
+2025-04-30,KwaZulu-Natal,Outdoor,Facebook,1000/1000 Mbps,104,0.18,18
+2025-04-30,KwaZulu-Natal,Outdoor,Google,10/10 Mbps,22,0.08,1
+2025-04-30,KwaZulu-Natal,Outdoor,Google,50/50 Mbps,299,0.1,29
+2025-04-30,KwaZulu-Natal,Outdoor,Google,100/100 Mbps,56,0.19,10
+2025-04-30,KwaZulu-Natal,Outdoor,Google,200/200 Mbps,261,0.11,28
+2025-04-30,KwaZulu-Natal,Outdoor,Google,500/500 Mbps,135,0.15,20
+2025-04-30,KwaZulu-Natal,Outdoor,Google,1000/1000 Mbps,123,0.1,12
+2025-04-30,KwaZulu-Natal,Outdoor,Word of Mouth,10/10 Mbps,295,0.14,41
+2025-04-30,KwaZulu-Natal,Outdoor,Word of Mouth,50/50 Mbps,57,0.16,9
+2025-04-30,KwaZulu-Natal,Outdoor,Word of Mouth,100/100 Mbps,148,0.15,22
+2025-04-30,KwaZulu-Natal,Outdoor,Word of Mouth,200/200 Mbps,218,0.09,19
+2025-04-30,KwaZulu-Natal,Outdoor,Word of Mouth,500/500 Mbps,95,0.18,17
+2025-04-30,KwaZulu-Natal,Outdoor,Word of Mouth,1000/1000 Mbps,183,0.18,32
+2025-04-30,KwaZulu-Natal,Outdoor,Local Radio,10/10 Mbps,280,0.17,47
+2025-04-30,KwaZulu-Natal,Outdoor,Local Radio,50/50 Mbps,25,0.1,2
+2025-04-30,KwaZulu-Natal,Outdoor,Local Radio,100/100 Mbps,266,0.08,21
+2025-04-30,KwaZulu-Natal,Outdoor,Local Radio,200/200 Mbps,180,0.12,21
+2025-04-30,KwaZulu-Natal,Outdoor,Local Radio,500/500 Mbps,82,0.11,9
+2025-04-30,KwaZulu-Natal,Outdoor,Local Radio,1000/1000 Mbps,133,0.18,23
+2025-04-30,KwaZulu-Natal,Events,Facebook,10/10 Mbps,33,0.12,3
+2025-04-30,KwaZulu-Natal,Events,Facebook,50/50 Mbps,106,0.08,8
+2025-04-30,KwaZulu-Natal,Events,Facebook,100/100 Mbps,92,0.17,15
+2025-04-30,KwaZulu-Natal,Events,Facebook,200/200 Mbps,198,0.12,23
+2025-04-30,KwaZulu-Natal,Events,Facebook,500/500 Mbps,83,0.1,8
+2025-04-30,KwaZulu-Natal,Events,Facebook,1000/1000 Mbps,194,0.15,29
+2025-04-30,KwaZulu-Natal,Events,Google,10/10 Mbps,152,0.11,16
+2025-04-30,KwaZulu-Natal,Events,Google,50/50 Mbps,125,0.12,15
+2025-04-30,KwaZulu-Natal,Events,Google,100/100 Mbps,277,0.16,44
+2025-04-30,KwaZulu-Natal,Events,Google,200/200 Mbps,90,0.08,7
+2025-04-30,KwaZulu-Natal,Events,Google,500/500 Mbps,188,0.07,13
+2025-04-30,KwaZulu-Natal,Events,Google,1000/1000 Mbps,244,0.08,19
+2025-04-30,KwaZulu-Natal,Events,Word of Mouth,10/10 Mbps,24,0.16,3
+2025-04-30,KwaZulu-Natal,Events,Word of Mouth,50/50 Mbps,96,0.18,17
+2025-04-30,KwaZulu-Natal,Events,Word of Mouth,100/100 Mbps,227,0.08,18
+2025-04-30,KwaZulu-Natal,Events,Word of Mouth,200/200 Mbps,119,0.07,8
+2025-04-30,KwaZulu-Natal,Events,Word of Mouth,500/500 Mbps,261,0.16,41
+2025-04-30,KwaZulu-Natal,Events,Word of Mouth,1000/1000 Mbps,292,0.2,58
+2025-04-30,KwaZulu-Natal,Events,Local Radio,10/10 Mbps,58,0.08,4
+2025-04-30,KwaZulu-Natal,Events,Local Radio,50/50 Mbps,230,0.15,34
+2025-04-30,KwaZulu-Natal,Events,Local Radio,100/100 Mbps,26,0.1,2
+2025-04-30,KwaZulu-Natal,Events,Local Radio,200/200 Mbps,233,0.05,11
+2025-04-30,KwaZulu-Natal,Events,Local Radio,500/500 Mbps,232,0.12,27
+2025-04-30,KwaZulu-Natal,Events,Local Radio,1000/1000 Mbps,213,0.09,19
+2025-04-30,Eastern Cape,Digital Ads,Facebook,10/10 Mbps,150,0.17,25
+2025-04-30,Eastern Cape,Digital Ads,Facebook,50/50 Mbps,69,0.18,12
+2025-04-30,Eastern Cape,Digital Ads,Facebook,100/100 Mbps,280,0.06,16
+2025-04-30,Eastern Cape,Digital Ads,Facebook,200/200 Mbps,245,0.09,22
+2025-04-30,Eastern Cape,Digital Ads,Facebook,500/500 Mbps,155,0.09,13
+2025-04-30,Eastern Cape,Digital Ads,Facebook,1000/1000 Mbps,97,0.09,8
+2025-04-30,Eastern Cape,Digital Ads,Google,10/10 Mbps,215,0.09,19
+2025-04-30,Eastern Cape,Digital Ads,Google,50/50 Mbps,101,0.18,18
+2025-04-30,Eastern Cape,Digital Ads,Google,100/100 Mbps,195,0.11,21
+2025-04-30,Eastern Cape,Digital Ads,Google,200/200 Mbps,223,0.06,13
+2025-04-30,Eastern Cape,Digital Ads,Google,500/500 Mbps,250,0.18,45
+2025-04-30,Eastern Cape,Digital Ads,Google,1000/1000 Mbps,250,0.17,42
+2025-04-30,Eastern Cape,Digital Ads,Word of Mouth,10/10 Mbps,167,0.07,11
+2025-04-30,Eastern Cape,Digital Ads,Word of Mouth,50/50 Mbps,114,0.18,20
+2025-04-30,Eastern Cape,Digital Ads,Word of Mouth,100/100 Mbps,209,0.15,31
+2025-04-30,Eastern Cape,Digital Ads,Word of Mouth,200/200 Mbps,195,0.2,39
+2025-04-30,Eastern Cape,Digital Ads,Word of Mouth,500/500 Mbps,250,0.16,40
+2025-04-30,Eastern Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,292,0.15,43
+2025-04-30,Eastern Cape,Digital Ads,Local Radio,10/10 Mbps,258,0.17,43
+2025-04-30,Eastern Cape,Digital Ads,Local Radio,50/50 Mbps,118,0.15,17
+2025-04-30,Eastern Cape,Digital Ads,Local Radio,100/100 Mbps,74,0.1,7
+2025-04-30,Eastern Cape,Digital Ads,Local Radio,200/200 Mbps,262,0.16,41
+2025-04-30,Eastern Cape,Digital Ads,Local Radio,500/500 Mbps,159,0.07,11
+2025-04-30,Eastern Cape,Digital Ads,Local Radio,1000/1000 Mbps,221,0.18,39
+2025-04-30,Eastern Cape,Referral,Facebook,10/10 Mbps,72,0.17,12
+2025-04-30,Eastern Cape,Referral,Facebook,50/50 Mbps,76,0.09,6
+2025-04-30,Eastern Cape,Referral,Facebook,100/100 Mbps,28,0.18,5
+2025-04-30,Eastern Cape,Referral,Facebook,200/200 Mbps,108,0.2,21
+2025-04-30,Eastern Cape,Referral,Facebook,500/500 Mbps,108,0.14,15
+2025-04-30,Eastern Cape,Referral,Facebook,1000/1000 Mbps,290,0.09,26
+2025-04-30,Eastern Cape,Referral,Google,10/10 Mbps,245,0.14,34
+2025-04-30,Eastern Cape,Referral,Google,50/50 Mbps,240,0.08,19
+2025-04-30,Eastern Cape,Referral,Google,100/100 Mbps,193,0.11,21
+2025-04-30,Eastern Cape,Referral,Google,200/200 Mbps,229,0.09,20
+2025-04-30,Eastern Cape,Referral,Google,500/500 Mbps,200,0.05,10
+2025-04-30,Eastern Cape,Referral,Google,1000/1000 Mbps,85,0.15,12
+2025-04-30,Eastern Cape,Referral,Word of Mouth,10/10 Mbps,158,0.09,14
+2025-04-30,Eastern Cape,Referral,Word of Mouth,50/50 Mbps,232,0.07,16
+2025-04-30,Eastern Cape,Referral,Word of Mouth,100/100 Mbps,221,0.19,41
+2025-04-30,Eastern Cape,Referral,Word of Mouth,200/200 Mbps,115,0.07,8
+2025-04-30,Eastern Cape,Referral,Word of Mouth,500/500 Mbps,165,0.15,24
+2025-04-30,Eastern Cape,Referral,Word of Mouth,1000/1000 Mbps,49,0.08,3
+2025-04-30,Eastern Cape,Referral,Local Radio,10/10 Mbps,212,0.18,38
+2025-04-30,Eastern Cape,Referral,Local Radio,50/50 Mbps,243,0.07,17
+2025-04-30,Eastern Cape,Referral,Local Radio,100/100 Mbps,185,0.11,20
+2025-04-30,Eastern Cape,Referral,Local Radio,200/200 Mbps,47,0.17,7
+2025-04-30,Eastern Cape,Referral,Local Radio,500/500 Mbps,254,0.12,30
+2025-04-30,Eastern Cape,Referral,Local Radio,1000/1000 Mbps,89,0.14,12
+2025-04-30,Eastern Cape,Outdoor,Facebook,10/10 Mbps,281,0.16,44
+2025-04-30,Eastern Cape,Outdoor,Facebook,50/50 Mbps,37,0.08,2
+2025-04-30,Eastern Cape,Outdoor,Facebook,100/100 Mbps,215,0.15,32
+2025-04-30,Eastern Cape,Outdoor,Facebook,200/200 Mbps,256,0.09,23
+2025-04-30,Eastern Cape,Outdoor,Facebook,500/500 Mbps,60,0.18,10
+2025-04-30,Eastern Cape,Outdoor,Facebook,1000/1000 Mbps,134,0.09,12
+2025-04-30,Eastern Cape,Outdoor,Google,10/10 Mbps,83,0.1,8
+2025-04-30,Eastern Cape,Outdoor,Google,50/50 Mbps,186,0.14,26
+2025-04-30,Eastern Cape,Outdoor,Google,100/100 Mbps,283,0.13,36
+2025-04-30,Eastern Cape,Outdoor,Google,200/200 Mbps,292,0.1,29
+2025-04-30,Eastern Cape,Outdoor,Google,500/500 Mbps,78,0.17,13
+2025-04-30,Eastern Cape,Outdoor,Google,1000/1000 Mbps,150,0.17,25
+2025-04-30,Eastern Cape,Outdoor,Word of Mouth,10/10 Mbps,93,0.16,14
+2025-04-30,Eastern Cape,Outdoor,Word of Mouth,50/50 Mbps,172,0.14,24
+2025-04-30,Eastern Cape,Outdoor,Word of Mouth,100/100 Mbps,218,0.08,17
+2025-04-30,Eastern Cape,Outdoor,Word of Mouth,200/200 Mbps,246,0.14,34
+2025-04-30,Eastern Cape,Outdoor,Word of Mouth,500/500 Mbps,196,0.15,29
+2025-04-30,Eastern Cape,Outdoor,Word of Mouth,1000/1000 Mbps,116,0.1,11
+2025-04-30,Eastern Cape,Outdoor,Local Radio,10/10 Mbps,280,0.09,25
+2025-04-30,Eastern Cape,Outdoor,Local Radio,50/50 Mbps,110,0.1,11
+2025-04-30,Eastern Cape,Outdoor,Local Radio,100/100 Mbps,145,0.15,21
+2025-04-30,Eastern Cape,Outdoor,Local Radio,200/200 Mbps,234,0.11,25
+2025-04-30,Eastern Cape,Outdoor,Local Radio,500/500 Mbps,128,0.12,15
+2025-04-30,Eastern Cape,Outdoor,Local Radio,1000/1000 Mbps,266,0.06,15
+2025-04-30,Eastern Cape,Events,Facebook,10/10 Mbps,154,0.13,20
+2025-04-30,Eastern Cape,Events,Facebook,50/50 Mbps,31,0.15,4
+2025-04-30,Eastern Cape,Events,Facebook,100/100 Mbps,33,0.1,3
+2025-04-30,Eastern Cape,Events,Facebook,200/200 Mbps,150,0.13,19
+2025-04-30,Eastern Cape,Events,Facebook,500/500 Mbps,232,0.07,16
+2025-04-30,Eastern Cape,Events,Facebook,1000/1000 Mbps,137,0.05,6
+2025-04-30,Eastern Cape,Events,Google,10/10 Mbps,292,0.2,58
+2025-04-30,Eastern Cape,Events,Google,50/50 Mbps,82,0.15,12
+2025-04-30,Eastern Cape,Events,Google,100/100 Mbps,218,0.15,32
+2025-04-30,Eastern Cape,Events,Google,200/200 Mbps,281,0.11,30
+2025-04-30,Eastern Cape,Events,Google,500/500 Mbps,185,0.15,27
+2025-04-30,Eastern Cape,Events,Google,1000/1000 Mbps,283,0.08,22
+2025-04-30,Eastern Cape,Events,Word of Mouth,10/10 Mbps,220,0.07,15
+2025-04-30,Eastern Cape,Events,Word of Mouth,50/50 Mbps,84,0.09,7
+2025-04-30,Eastern Cape,Events,Word of Mouth,100/100 Mbps,261,0.14,36
+2025-04-30,Eastern Cape,Events,Word of Mouth,200/200 Mbps,129,0.06,7
+2025-04-30,Eastern Cape,Events,Word of Mouth,500/500 Mbps,274,0.19,52
+2025-04-30,Eastern Cape,Events,Word of Mouth,1000/1000 Mbps,33,0.08,2
+2025-04-30,Eastern Cape,Events,Local Radio,10/10 Mbps,214,0.07,14
+2025-04-30,Eastern Cape,Events,Local Radio,50/50 Mbps,138,0.2,27
+2025-04-30,Eastern Cape,Events,Local Radio,100/100 Mbps,255,0.16,40
+2025-04-30,Eastern Cape,Events,Local Radio,200/200 Mbps,112,0.1,11
+2025-04-30,Eastern Cape,Events,Local Radio,500/500 Mbps,63,0.05,3
+2025-04-30,Eastern Cape,Events,Local Radio,1000/1000 Mbps,107,0.1,10
+2025-05-31,Gauteng,Digital Ads,Facebook,10/10 Mbps,219,0.15,32
+2025-05-31,Gauteng,Digital Ads,Facebook,50/50 Mbps,249,0.17,42
+2025-05-31,Gauteng,Digital Ads,Facebook,100/100 Mbps,266,0.12,31
+2025-05-31,Gauteng,Digital Ads,Facebook,200/200 Mbps,179,0.14,25
+2025-05-31,Gauteng,Digital Ads,Facebook,500/500 Mbps,131,0.09,11
+2025-05-31,Gauteng,Digital Ads,Facebook,1000/1000 Mbps,40,0.05,2
+2025-05-31,Gauteng,Digital Ads,Google,10/10 Mbps,75,0.09,6
+2025-05-31,Gauteng,Digital Ads,Google,50/50 Mbps,197,0.15,29
+2025-05-31,Gauteng,Digital Ads,Google,100/100 Mbps,175,0.1,17
+2025-05-31,Gauteng,Digital Ads,Google,200/200 Mbps,154,0.13,20
+2025-05-31,Gauteng,Digital Ads,Google,500/500 Mbps,79,0.19,15
+2025-05-31,Gauteng,Digital Ads,Google,1000/1000 Mbps,154,0.06,9
+2025-05-31,Gauteng,Digital Ads,Word of Mouth,10/10 Mbps,183,0.13,23
+2025-05-31,Gauteng,Digital Ads,Word of Mouth,50/50 Mbps,107,0.19,20
+2025-05-31,Gauteng,Digital Ads,Word of Mouth,100/100 Mbps,123,0.11,13
+2025-05-31,Gauteng,Digital Ads,Word of Mouth,200/200 Mbps,274,0.19,52
+2025-05-31,Gauteng,Digital Ads,Word of Mouth,500/500 Mbps,63,0.07,4
+2025-05-31,Gauteng,Digital Ads,Word of Mouth,1000/1000 Mbps,148,0.16,23
+2025-05-31,Gauteng,Digital Ads,Local Radio,10/10 Mbps,194,0.13,25
+2025-05-31,Gauteng,Digital Ads,Local Radio,50/50 Mbps,266,0.2,53
+2025-05-31,Gauteng,Digital Ads,Local Radio,100/100 Mbps,37,0.13,4
+2025-05-31,Gauteng,Digital Ads,Local Radio,200/200 Mbps,153,0.14,21
+2025-05-31,Gauteng,Digital Ads,Local Radio,500/500 Mbps,223,0.06,13
+2025-05-31,Gauteng,Digital Ads,Local Radio,1000/1000 Mbps,141,0.15,21
+2025-05-31,Gauteng,Referral,Facebook,10/10 Mbps,188,0.15,28
+2025-05-31,Gauteng,Referral,Facebook,50/50 Mbps,115,0.11,12
+2025-05-31,Gauteng,Referral,Facebook,100/100 Mbps,58,0.16,9
+2025-05-31,Gauteng,Referral,Facebook,200/200 Mbps,62,0.07,4
+2025-05-31,Gauteng,Referral,Facebook,500/500 Mbps,122,0.08,9
+2025-05-31,Gauteng,Referral,Facebook,1000/1000 Mbps,183,0.05,9
+2025-05-31,Gauteng,Referral,Google,10/10 Mbps,115,0.07,8
+2025-05-31,Gauteng,Referral,Google,50/50 Mbps,297,0.15,44
+2025-05-31,Gauteng,Referral,Google,100/100 Mbps,146,0.08,11
+2025-05-31,Gauteng,Referral,Google,200/200 Mbps,106,0.17,18
+2025-05-31,Gauteng,Referral,Google,500/500 Mbps,202,0.08,16
+2025-05-31,Gauteng,Referral,Google,1000/1000 Mbps,145,0.16,23
+2025-05-31,Gauteng,Referral,Word of Mouth,10/10 Mbps,139,0.12,16
+2025-05-31,Gauteng,Referral,Word of Mouth,50/50 Mbps,174,0.07,12
+2025-05-31,Gauteng,Referral,Word of Mouth,100/100 Mbps,201,0.06,12
+2025-05-31,Gauteng,Referral,Word of Mouth,200/200 Mbps,138,0.2,27
+2025-05-31,Gauteng,Referral,Word of Mouth,500/500 Mbps,203,0.12,24
+2025-05-31,Gauteng,Referral,Word of Mouth,1000/1000 Mbps,42,0.13,5
+2025-05-31,Gauteng,Referral,Local Radio,10/10 Mbps,228,0.17,38
+2025-05-31,Gauteng,Referral,Local Radio,50/50 Mbps,211,0.18,37
+2025-05-31,Gauteng,Referral,Local Radio,100/100 Mbps,206,0.08,16
+2025-05-31,Gauteng,Referral,Local Radio,200/200 Mbps,109,0.08,8
+2025-05-31,Gauteng,Referral,Local Radio,500/500 Mbps,42,0.1,4
+2025-05-31,Gauteng,Referral,Local Radio,1000/1000 Mbps,227,0.1,22
+2025-05-31,Gauteng,Outdoor,Facebook,10/10 Mbps,292,0.15,43
+2025-05-31,Gauteng,Outdoor,Facebook,50/50 Mbps,170,0.09,15
+2025-05-31,Gauteng,Outdoor,Facebook,100/100 Mbps,53,0.19,10
+2025-05-31,Gauteng,Outdoor,Facebook,200/200 Mbps,132,0.12,15
+2025-05-31,Gauteng,Outdoor,Facebook,500/500 Mbps,194,0.06,11
+2025-05-31,Gauteng,Outdoor,Facebook,1000/1000 Mbps,42,0.14,5
+2025-05-31,Gauteng,Outdoor,Google,10/10 Mbps,199,0.13,25
+2025-05-31,Gauteng,Outdoor,Google,50/50 Mbps,51,0.12,6
+2025-05-31,Gauteng,Outdoor,Google,100/100 Mbps,81,0.09,7
+2025-05-31,Gauteng,Outdoor,Google,200/200 Mbps,77,0.17,13
+2025-05-31,Gauteng,Outdoor,Google,500/500 Mbps,130,0.1,13
+2025-05-31,Gauteng,Outdoor,Google,1000/1000 Mbps,271,0.09,24
+2025-05-31,Gauteng,Outdoor,Word of Mouth,10/10 Mbps,54,0.13,7
+2025-05-31,Gauteng,Outdoor,Word of Mouth,50/50 Mbps,83,0.06,4
+2025-05-31,Gauteng,Outdoor,Word of Mouth,100/100 Mbps,95,0.2,19
+2025-05-31,Gauteng,Outdoor,Word of Mouth,200/200 Mbps,101,0.2,20
+2025-05-31,Gauteng,Outdoor,Word of Mouth,500/500 Mbps,160,0.07,11
+2025-05-31,Gauteng,Outdoor,Word of Mouth,1000/1000 Mbps,190,0.19,36
+2025-05-31,Gauteng,Outdoor,Local Radio,10/10 Mbps,173,0.18,31
+2025-05-31,Gauteng,Outdoor,Local Radio,50/50 Mbps,209,0.18,37
+2025-05-31,Gauteng,Outdoor,Local Radio,100/100 Mbps,84,0.09,7
+2025-05-31,Gauteng,Outdoor,Local Radio,200/200 Mbps,224,0.05,11
+2025-05-31,Gauteng,Outdoor,Local Radio,500/500 Mbps,146,0.15,21
+2025-05-31,Gauteng,Outdoor,Local Radio,1000/1000 Mbps,30,0.19,5
+2025-05-31,Gauteng,Events,Facebook,10/10 Mbps,270,0.08,21
+2025-05-31,Gauteng,Events,Facebook,50/50 Mbps,156,0.09,14
+2025-05-31,Gauteng,Events,Facebook,100/100 Mbps,120,0.19,22
+2025-05-31,Gauteng,Events,Facebook,200/200 Mbps,180,0.07,12
+2025-05-31,Gauteng,Events,Facebook,500/500 Mbps,184,0.06,11
+2025-05-31,Gauteng,Events,Facebook,1000/1000 Mbps,69,0.17,11
+2025-05-31,Gauteng,Events,Google,10/10 Mbps,286,0.15,42
+2025-05-31,Gauteng,Events,Google,50/50 Mbps,230,0.19,43
+2025-05-31,Gauteng,Events,Google,100/100 Mbps,37,0.06,2
+2025-05-31,Gauteng,Events,Google,200/200 Mbps,80,0.06,4
+2025-05-31,Gauteng,Events,Google,500/500 Mbps,296,0.1,29
+2025-05-31,Gauteng,Events,Google,1000/1000 Mbps,145,0.19,27
+2025-05-31,Gauteng,Events,Word of Mouth,10/10 Mbps,149,0.17,25
+2025-05-31,Gauteng,Events,Word of Mouth,50/50 Mbps,118,0.08,9
+2025-05-31,Gauteng,Events,Word of Mouth,100/100 Mbps,69,0.11,7
+2025-05-31,Gauteng,Events,Word of Mouth,200/200 Mbps,76,0.2,15
+2025-05-31,Gauteng,Events,Word of Mouth,500/500 Mbps,156,0.06,9
+2025-05-31,Gauteng,Events,Word of Mouth,1000/1000 Mbps,233,0.06,13
+2025-05-31,Gauteng,Events,Local Radio,10/10 Mbps,94,0.11,10
+2025-05-31,Gauteng,Events,Local Radio,50/50 Mbps,51,0.13,6
+2025-05-31,Gauteng,Events,Local Radio,100/100 Mbps,186,0.19,35
+2025-05-31,Gauteng,Events,Local Radio,200/200 Mbps,123,0.15,18
+2025-05-31,Gauteng,Events,Local Radio,500/500 Mbps,187,0.12,22
+2025-05-31,Gauteng,Events,Local Radio,1000/1000 Mbps,113,0.12,13
+2025-05-31,Western Cape,Digital Ads,Facebook,10/10 Mbps,188,0.15,28
+2025-05-31,Western Cape,Digital Ads,Facebook,50/50 Mbps,182,0.06,10
+2025-05-31,Western Cape,Digital Ads,Facebook,100/100 Mbps,267,0.14,37
+2025-05-31,Western Cape,Digital Ads,Facebook,200/200 Mbps,137,0.14,19
+2025-05-31,Western Cape,Digital Ads,Facebook,500/500 Mbps,254,0.11,27
+2025-05-31,Western Cape,Digital Ads,Facebook,1000/1000 Mbps,198,0.12,23
+2025-05-31,Western Cape,Digital Ads,Google,10/10 Mbps,297,0.08,23
+2025-05-31,Western Cape,Digital Ads,Google,50/50 Mbps,53,0.11,5
+2025-05-31,Western Cape,Digital Ads,Google,100/100 Mbps,147,0.15,22
+2025-05-31,Western Cape,Digital Ads,Google,200/200 Mbps,221,0.16,35
+2025-05-31,Western Cape,Digital Ads,Google,500/500 Mbps,188,0.13,24
+2025-05-31,Western Cape,Digital Ads,Google,1000/1000 Mbps,82,0.05,4
+2025-05-31,Western Cape,Digital Ads,Word of Mouth,10/10 Mbps,268,0.09,24
+2025-05-31,Western Cape,Digital Ads,Word of Mouth,50/50 Mbps,192,0.18,34
+2025-05-31,Western Cape,Digital Ads,Word of Mouth,100/100 Mbps,56,0.14,7
+2025-05-31,Western Cape,Digital Ads,Word of Mouth,200/200 Mbps,84,0.17,14
+2025-05-31,Western Cape,Digital Ads,Word of Mouth,500/500 Mbps,76,0.16,12
+2025-05-31,Western Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,177,0.16,28
+2025-05-31,Western Cape,Digital Ads,Local Radio,10/10 Mbps,253,0.06,15
+2025-05-31,Western Cape,Digital Ads,Local Radio,50/50 Mbps,135,0.15,20
+2025-05-31,Western Cape,Digital Ads,Local Radio,100/100 Mbps,86,0.13,11
+2025-05-31,Western Cape,Digital Ads,Local Radio,200/200 Mbps,90,0.06,5
+2025-05-31,Western Cape,Digital Ads,Local Radio,500/500 Mbps,69,0.11,7
+2025-05-31,Western Cape,Digital Ads,Local Radio,1000/1000 Mbps,98,0.18,17
+2025-05-31,Western Cape,Referral,Facebook,10/10 Mbps,112,0.2,22
+2025-05-31,Western Cape,Referral,Facebook,50/50 Mbps,59,0.17,10
+2025-05-31,Western Cape,Referral,Facebook,100/100 Mbps,175,0.08,14
+2025-05-31,Western Cape,Referral,Facebook,200/200 Mbps,161,0.2,32
+2025-05-31,Western Cape,Referral,Facebook,500/500 Mbps,92,0.14,12
+2025-05-31,Western Cape,Referral,Facebook,1000/1000 Mbps,230,0.14,32
+2025-05-31,Western Cape,Referral,Google,10/10 Mbps,229,0.11,25
+2025-05-31,Western Cape,Referral,Google,50/50 Mbps,209,0.07,14
+2025-05-31,Western Cape,Referral,Google,100/100 Mbps,262,0.06,15
+2025-05-31,Western Cape,Referral,Google,200/200 Mbps,41,0.06,2
+2025-05-31,Western Cape,Referral,Google,500/500 Mbps,84,0.16,13
+2025-05-31,Western Cape,Referral,Google,1000/1000 Mbps,41,0.09,3
+2025-05-31,Western Cape,Referral,Word of Mouth,10/10 Mbps,74,0.12,8
+2025-05-31,Western Cape,Referral,Word of Mouth,50/50 Mbps,79,0.2,15
+2025-05-31,Western Cape,Referral,Word of Mouth,100/100 Mbps,134,0.17,22
+2025-05-31,Western Cape,Referral,Word of Mouth,200/200 Mbps,155,0.16,24
+2025-05-31,Western Cape,Referral,Word of Mouth,500/500 Mbps,191,0.1,19
+2025-05-31,Western Cape,Referral,Word of Mouth,1000/1000 Mbps,162,0.16,25
+2025-05-31,Western Cape,Referral,Local Radio,10/10 Mbps,289,0.11,31
+2025-05-31,Western Cape,Referral,Local Radio,50/50 Mbps,236,0.11,25
+2025-05-31,Western Cape,Referral,Local Radio,100/100 Mbps,118,0.14,16
+2025-05-31,Western Cape,Referral,Local Radio,200/200 Mbps,139,0.11,15
+2025-05-31,Western Cape,Referral,Local Radio,500/500 Mbps,280,0.11,30
+2025-05-31,Western Cape,Referral,Local Radio,1000/1000 Mbps,253,0.13,32
+2025-05-31,Western Cape,Outdoor,Facebook,10/10 Mbps,280,0.17,47
+2025-05-31,Western Cape,Outdoor,Facebook,50/50 Mbps,262,0.11,28
+2025-05-31,Western Cape,Outdoor,Facebook,100/100 Mbps,271,0.14,37
+2025-05-31,Western Cape,Outdoor,Facebook,200/200 Mbps,209,0.12,25
+2025-05-31,Western Cape,Outdoor,Facebook,500/500 Mbps,259,0.16,41
+2025-05-31,Western Cape,Outdoor,Facebook,1000/1000 Mbps,169,0.14,23
+2025-05-31,Western Cape,Outdoor,Google,10/10 Mbps,190,0.06,11
+2025-05-31,Western Cape,Outdoor,Google,50/50 Mbps,52,0.12,6
+2025-05-31,Western Cape,Outdoor,Google,100/100 Mbps,118,0.18,21
+2025-05-31,Western Cape,Outdoor,Google,200/200 Mbps,209,0.14,29
+2025-05-31,Western Cape,Outdoor,Google,500/500 Mbps,87,0.11,9
+2025-05-31,Western Cape,Outdoor,Google,1000/1000 Mbps,100,0.14,14
+2025-05-31,Western Cape,Outdoor,Word of Mouth,10/10 Mbps,138,0.19,26
+2025-05-31,Western Cape,Outdoor,Word of Mouth,50/50 Mbps,91,0.14,12
+2025-05-31,Western Cape,Outdoor,Word of Mouth,100/100 Mbps,269,0.06,16
+2025-05-31,Western Cape,Outdoor,Word of Mouth,200/200 Mbps,119,0.07,8
+2025-05-31,Western Cape,Outdoor,Word of Mouth,500/500 Mbps,276,0.1,27
+2025-05-31,Western Cape,Outdoor,Word of Mouth,1000/1000 Mbps,276,0.14,38
+2025-05-31,Western Cape,Outdoor,Local Radio,10/10 Mbps,113,0.16,18
+2025-05-31,Western Cape,Outdoor,Local Radio,50/50 Mbps,199,0.16,31
+2025-05-31,Western Cape,Outdoor,Local Radio,100/100 Mbps,192,0.19,36
+2025-05-31,Western Cape,Outdoor,Local Radio,200/200 Mbps,285,0.11,31
+2025-05-31,Western Cape,Outdoor,Local Radio,500/500 Mbps,142,0.14,19
+2025-05-31,Western Cape,Outdoor,Local Radio,1000/1000 Mbps,161,0.17,27
+2025-05-31,Western Cape,Events,Facebook,10/10 Mbps,129,0.11,14
+2025-05-31,Western Cape,Events,Facebook,50/50 Mbps,224,0.14,31
+2025-05-31,Western Cape,Events,Facebook,100/100 Mbps,75,0.13,9
+2025-05-31,Western Cape,Events,Facebook,200/200 Mbps,205,0.05,10
+2025-05-31,Western Cape,Events,Facebook,500/500 Mbps,95,0.19,18
+2025-05-31,Western Cape,Events,Facebook,1000/1000 Mbps,24,0.16,3
+2025-05-31,Western Cape,Events,Google,10/10 Mbps,137,0.15,20
+2025-05-31,Western Cape,Events,Google,50/50 Mbps,161,0.12,19
+2025-05-31,Western Cape,Events,Google,100/100 Mbps,246,0.14,34
+2025-05-31,Western Cape,Events,Google,200/200 Mbps,132,0.06,7
+2025-05-31,Western Cape,Events,Google,500/500 Mbps,259,0.16,41
+2025-05-31,Western Cape,Events,Google,1000/1000 Mbps,37,0.12,4
+2025-05-31,Western Cape,Events,Word of Mouth,10/10 Mbps,227,0.14,31
+2025-05-31,Western Cape,Events,Word of Mouth,50/50 Mbps,167,0.13,21
+2025-05-31,Western Cape,Events,Word of Mouth,100/100 Mbps,131,0.1,13
+2025-05-31,Western Cape,Events,Word of Mouth,200/200 Mbps,50,0.2,10
+2025-05-31,Western Cape,Events,Word of Mouth,500/500 Mbps,256,0.07,17
+2025-05-31,Western Cape,Events,Word of Mouth,1000/1000 Mbps,264,0.15,39
+2025-05-31,Western Cape,Events,Local Radio,10/10 Mbps,160,0.19,30
+2025-05-31,Western Cape,Events,Local Radio,50/50 Mbps,229,0.09,20
+2025-05-31,Western Cape,Events,Local Radio,100/100 Mbps,28,0.14,3
+2025-05-31,Western Cape,Events,Local Radio,200/200 Mbps,88,0.11,9
+2025-05-31,Western Cape,Events,Local Radio,500/500 Mbps,127,0.17,21
+2025-05-31,Western Cape,Events,Local Radio,1000/1000 Mbps,65,0.17,11
+2025-05-31,KwaZulu-Natal,Digital Ads,Facebook,10/10 Mbps,266,0.14,37
+2025-05-31,KwaZulu-Natal,Digital Ads,Facebook,50/50 Mbps,71,0.17,12
+2025-05-31,KwaZulu-Natal,Digital Ads,Facebook,100/100 Mbps,184,0.18,33
+2025-05-31,KwaZulu-Natal,Digital Ads,Facebook,200/200 Mbps,59,0.14,8
+2025-05-31,KwaZulu-Natal,Digital Ads,Facebook,500/500 Mbps,45,0.06,2
+2025-05-31,KwaZulu-Natal,Digital Ads,Facebook,1000/1000 Mbps,100,0.16,16
+2025-05-31,KwaZulu-Natal,Digital Ads,Google,10/10 Mbps,33,0.19,6
+2025-05-31,KwaZulu-Natal,Digital Ads,Google,50/50 Mbps,296,0.15,44
+2025-05-31,KwaZulu-Natal,Digital Ads,Google,100/100 Mbps,291,0.12,34
+2025-05-31,KwaZulu-Natal,Digital Ads,Google,200/200 Mbps,237,0.11,26
+2025-05-31,KwaZulu-Natal,Digital Ads,Google,500/500 Mbps,195,0.12,23
+2025-05-31,KwaZulu-Natal,Digital Ads,Google,1000/1000 Mbps,246,0.19,46
+2025-05-31,KwaZulu-Natal,Digital Ads,Word of Mouth,10/10 Mbps,249,0.17,42
+2025-05-31,KwaZulu-Natal,Digital Ads,Word of Mouth,50/50 Mbps,244,0.13,31
+2025-05-31,KwaZulu-Natal,Digital Ads,Word of Mouth,100/100 Mbps,219,0.1,21
+2025-05-31,KwaZulu-Natal,Digital Ads,Word of Mouth,200/200 Mbps,183,0.07,12
+2025-05-31,KwaZulu-Natal,Digital Ads,Word of Mouth,500/500 Mbps,70,0.1,7
+2025-05-31,KwaZulu-Natal,Digital Ads,Word of Mouth,1000/1000 Mbps,163,0.05,8
+2025-05-31,KwaZulu-Natal,Digital Ads,Local Radio,10/10 Mbps,30,0.08,2
+2025-05-31,KwaZulu-Natal,Digital Ads,Local Radio,50/50 Mbps,249,0.06,14
+2025-05-31,KwaZulu-Natal,Digital Ads,Local Radio,100/100 Mbps,111,0.1,11
+2025-05-31,KwaZulu-Natal,Digital Ads,Local Radio,200/200 Mbps,159,0.06,9
+2025-05-31,KwaZulu-Natal,Digital Ads,Local Radio,500/500 Mbps,232,0.08,18
+2025-05-31,KwaZulu-Natal,Digital Ads,Local Radio,1000/1000 Mbps,35,0.12,4
+2025-05-31,KwaZulu-Natal,Referral,Facebook,10/10 Mbps,167,0.16,26
+2025-05-31,KwaZulu-Natal,Referral,Facebook,50/50 Mbps,48,0.12,5
+2025-05-31,KwaZulu-Natal,Referral,Facebook,100/100 Mbps,148,0.1,14
+2025-05-31,KwaZulu-Natal,Referral,Facebook,200/200 Mbps,178,0.07,12
+2025-05-31,KwaZulu-Natal,Referral,Facebook,500/500 Mbps,137,0.07,9
+2025-05-31,KwaZulu-Natal,Referral,Facebook,1000/1000 Mbps,27,0.12,3
+2025-05-31,KwaZulu-Natal,Referral,Google,10/10 Mbps,251,0.15,37
+2025-05-31,KwaZulu-Natal,Referral,Google,50/50 Mbps,111,0.1,11
+2025-05-31,KwaZulu-Natal,Referral,Google,100/100 Mbps,246,0.2,49
+2025-05-31,KwaZulu-Natal,Referral,Google,200/200 Mbps,89,0.2,17
+2025-05-31,KwaZulu-Natal,Referral,Google,500/500 Mbps,245,0.12,29
+2025-05-31,KwaZulu-Natal,Referral,Google,1000/1000 Mbps,34,0.07,2
+2025-05-31,KwaZulu-Natal,Referral,Word of Mouth,10/10 Mbps,23,0.06,1
+2025-05-31,KwaZulu-Natal,Referral,Word of Mouth,50/50 Mbps,190,0.07,13
+2025-05-31,KwaZulu-Natal,Referral,Word of Mouth,100/100 Mbps,41,0.06,2
+2025-05-31,KwaZulu-Natal,Referral,Word of Mouth,200/200 Mbps,51,0.12,6
+2025-05-31,KwaZulu-Natal,Referral,Word of Mouth,500/500 Mbps,242,0.09,21
+2025-05-31,KwaZulu-Natal,Referral,Word of Mouth,1000/1000 Mbps,200,0.19,38
+2025-05-31,KwaZulu-Natal,Referral,Local Radio,10/10 Mbps,31,0.07,2
+2025-05-31,KwaZulu-Natal,Referral,Local Radio,50/50 Mbps,32,0.07,2
+2025-05-31,KwaZulu-Natal,Referral,Local Radio,100/100 Mbps,107,0.15,16
+2025-05-31,KwaZulu-Natal,Referral,Local Radio,200/200 Mbps,63,0.14,8
+2025-05-31,KwaZulu-Natal,Referral,Local Radio,500/500 Mbps,197,0.2,39
+2025-05-31,KwaZulu-Natal,Referral,Local Radio,1000/1000 Mbps,102,0.18,18
+2025-05-31,KwaZulu-Natal,Outdoor,Facebook,10/10 Mbps,245,0.15,36
+2025-05-31,KwaZulu-Natal,Outdoor,Facebook,50/50 Mbps,139,0.11,15
+2025-05-31,KwaZulu-Natal,Outdoor,Facebook,100/100 Mbps,264,0.14,36
+2025-05-31,KwaZulu-Natal,Outdoor,Facebook,200/200 Mbps,25,0.07,1
+2025-05-31,KwaZulu-Natal,Outdoor,Facebook,500/500 Mbps,211,0.06,12
+2025-05-31,KwaZulu-Natal,Outdoor,Facebook,1000/1000 Mbps,31,0.12,3
+2025-05-31,KwaZulu-Natal,Outdoor,Google,10/10 Mbps,297,0.09,26
+2025-05-31,KwaZulu-Natal,Outdoor,Google,50/50 Mbps,155,0.07,10
+2025-05-31,KwaZulu-Natal,Outdoor,Google,100/100 Mbps,235,0.07,16
+2025-05-31,KwaZulu-Natal,Outdoor,Google,200/200 Mbps,131,0.1,13
+2025-05-31,KwaZulu-Natal,Outdoor,Google,500/500 Mbps,91,0.12,10
+2025-05-31,KwaZulu-Natal,Outdoor,Google,1000/1000 Mbps,33,0.16,5
+2025-05-31,KwaZulu-Natal,Outdoor,Word of Mouth,10/10 Mbps,278,0.06,16
+2025-05-31,KwaZulu-Natal,Outdoor,Word of Mouth,50/50 Mbps,105,0.18,18
+2025-05-31,KwaZulu-Natal,Outdoor,Word of Mouth,100/100 Mbps,265,0.12,31
+2025-05-31,KwaZulu-Natal,Outdoor,Word of Mouth,200/200 Mbps,205,0.15,30
+2025-05-31,KwaZulu-Natal,Outdoor,Word of Mouth,500/500 Mbps,221,0.12,26
+2025-05-31,KwaZulu-Natal,Outdoor,Word of Mouth,1000/1000 Mbps,181,0.13,23
+2025-05-31,KwaZulu-Natal,Outdoor,Local Radio,10/10 Mbps,96,0.11,10
+2025-05-31,KwaZulu-Natal,Outdoor,Local Radio,50/50 Mbps,259,0.15,38
+2025-05-31,KwaZulu-Natal,Outdoor,Local Radio,100/100 Mbps,122,0.1,12
+2025-05-31,KwaZulu-Natal,Outdoor,Local Radio,200/200 Mbps,107,0.09,9
+2025-05-31,KwaZulu-Natal,Outdoor,Local Radio,500/500 Mbps,92,0.13,11
+2025-05-31,KwaZulu-Natal,Outdoor,Local Radio,1000/1000 Mbps,265,0.19,50
+2025-05-31,KwaZulu-Natal,Events,Facebook,10/10 Mbps,285,0.05,14
+2025-05-31,KwaZulu-Natal,Events,Facebook,50/50 Mbps,93,0.16,14
+2025-05-31,KwaZulu-Natal,Events,Facebook,100/100 Mbps,154,0.17,26
+2025-05-31,KwaZulu-Natal,Events,Facebook,200/200 Mbps,128,0.17,21
+2025-05-31,KwaZulu-Natal,Events,Facebook,500/500 Mbps,127,0.19,24
+2025-05-31,KwaZulu-Natal,Events,Facebook,1000/1000 Mbps,62,0.11,6
+2025-05-31,KwaZulu-Natal,Events,Google,10/10 Mbps,42,0.14,5
+2025-05-31,KwaZulu-Natal,Events,Google,50/50 Mbps,183,0.06,10
+2025-05-31,KwaZulu-Natal,Events,Google,100/100 Mbps,166,0.2,33
+2025-05-31,KwaZulu-Natal,Events,Google,200/200 Mbps,76,0.18,13
+2025-05-31,KwaZulu-Natal,Events,Google,500/500 Mbps,220,0.11,24
+2025-05-31,KwaZulu-Natal,Events,Google,1000/1000 Mbps,110,0.07,7
+2025-05-31,KwaZulu-Natal,Events,Word of Mouth,10/10 Mbps,243,0.18,43
+2025-05-31,KwaZulu-Natal,Events,Word of Mouth,50/50 Mbps,85,0.09,7
+2025-05-31,KwaZulu-Natal,Events,Word of Mouth,100/100 Mbps,64,0.19,12
+2025-05-31,KwaZulu-Natal,Events,Word of Mouth,200/200 Mbps,48,0.06,2
+2025-05-31,KwaZulu-Natal,Events,Word of Mouth,500/500 Mbps,219,0.16,35
+2025-05-31,KwaZulu-Natal,Events,Word of Mouth,1000/1000 Mbps,92,0.16,14
+2025-05-31,KwaZulu-Natal,Events,Local Radio,10/10 Mbps,237,0.19,45
+2025-05-31,KwaZulu-Natal,Events,Local Radio,50/50 Mbps,216,0.08,17
+2025-05-31,KwaZulu-Natal,Events,Local Radio,100/100 Mbps,254,0.14,35
+2025-05-31,KwaZulu-Natal,Events,Local Radio,200/200 Mbps,211,0.09,18
+2025-05-31,KwaZulu-Natal,Events,Local Radio,500/500 Mbps,81,0.17,13
+2025-05-31,KwaZulu-Natal,Events,Local Radio,1000/1000 Mbps,208,0.06,12
+2025-05-31,Eastern Cape,Digital Ads,Facebook,10/10 Mbps,258,0.05,12
+2025-05-31,Eastern Cape,Digital Ads,Facebook,50/50 Mbps,277,0.15,41
+2025-05-31,Eastern Cape,Digital Ads,Facebook,100/100 Mbps,188,0.12,22
+2025-05-31,Eastern Cape,Digital Ads,Facebook,200/200 Mbps,271,0.19,51
+2025-05-31,Eastern Cape,Digital Ads,Facebook,500/500 Mbps,146,0.06,8
+2025-05-31,Eastern Cape,Digital Ads,Facebook,1000/1000 Mbps,141,0.13,18
+2025-05-31,Eastern Cape,Digital Ads,Google,10/10 Mbps,241,0.18,43
+2025-05-31,Eastern Cape,Digital Ads,Google,50/50 Mbps,30,0.13,3
+2025-05-31,Eastern Cape,Digital Ads,Google,100/100 Mbps,162,0.12,19
+2025-05-31,Eastern Cape,Digital Ads,Google,200/200 Mbps,91,0.08,7
+2025-05-31,Eastern Cape,Digital Ads,Google,500/500 Mbps,139,0.11,15
+2025-05-31,Eastern Cape,Digital Ads,Google,1000/1000 Mbps,216,0.07,15
+2025-05-31,Eastern Cape,Digital Ads,Word of Mouth,10/10 Mbps,261,0.13,33
+2025-05-31,Eastern Cape,Digital Ads,Word of Mouth,50/50 Mbps,142,0.12,17
+2025-05-31,Eastern Cape,Digital Ads,Word of Mouth,100/100 Mbps,253,0.05,12
+2025-05-31,Eastern Cape,Digital Ads,Word of Mouth,200/200 Mbps,75,0.09,6
+2025-05-31,Eastern Cape,Digital Ads,Word of Mouth,500/500 Mbps,120,0.07,8
+2025-05-31,Eastern Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,211,0.14,29
+2025-05-31,Eastern Cape,Digital Ads,Local Radio,10/10 Mbps,231,0.18,41
+2025-05-31,Eastern Cape,Digital Ads,Local Radio,50/50 Mbps,173,0.13,22
+2025-05-31,Eastern Cape,Digital Ads,Local Radio,100/100 Mbps,268,0.1,26
+2025-05-31,Eastern Cape,Digital Ads,Local Radio,200/200 Mbps,272,0.06,16
+2025-05-31,Eastern Cape,Digital Ads,Local Radio,500/500 Mbps,188,0.2,37
+2025-05-31,Eastern Cape,Digital Ads,Local Radio,1000/1000 Mbps,230,0.08,18
+2025-05-31,Eastern Cape,Referral,Facebook,10/10 Mbps,259,0.11,28
+2025-05-31,Eastern Cape,Referral,Facebook,50/50 Mbps,256,0.18,46
+2025-05-31,Eastern Cape,Referral,Facebook,100/100 Mbps,278,0.11,30
+2025-05-31,Eastern Cape,Referral,Facebook,200/200 Mbps,114,0.08,9
+2025-05-31,Eastern Cape,Referral,Facebook,500/500 Mbps,123,0.07,8
+2025-05-31,Eastern Cape,Referral,Facebook,1000/1000 Mbps,97,0.18,17
+2025-05-31,Eastern Cape,Referral,Google,10/10 Mbps,75,0.15,11
+2025-05-31,Eastern Cape,Referral,Google,50/50 Mbps,155,0.08,12
+2025-05-31,Eastern Cape,Referral,Google,100/100 Mbps,243,0.11,26
+2025-05-31,Eastern Cape,Referral,Google,200/200 Mbps,178,0.17,30
+2025-05-31,Eastern Cape,Referral,Google,500/500 Mbps,38,0.16,6
+2025-05-31,Eastern Cape,Referral,Google,1000/1000 Mbps,106,0.19,20
+2025-05-31,Eastern Cape,Referral,Word of Mouth,10/10 Mbps,142,0.14,19
+2025-05-31,Eastern Cape,Referral,Word of Mouth,50/50 Mbps,156,0.08,12
+2025-05-31,Eastern Cape,Referral,Word of Mouth,100/100 Mbps,240,0.12,28
+2025-05-31,Eastern Cape,Referral,Word of Mouth,200/200 Mbps,31,0.19,5
+2025-05-31,Eastern Cape,Referral,Word of Mouth,500/500 Mbps,158,0.17,26
+2025-05-31,Eastern Cape,Referral,Word of Mouth,1000/1000 Mbps,102,0.08,8
+2025-05-31,Eastern Cape,Referral,Local Radio,10/10 Mbps,194,0.11,21
+2025-05-31,Eastern Cape,Referral,Local Radio,50/50 Mbps,91,0.19,17
+2025-05-31,Eastern Cape,Referral,Local Radio,100/100 Mbps,284,0.09,25
+2025-05-31,Eastern Cape,Referral,Local Radio,200/200 Mbps,66,0.14,9
+2025-05-31,Eastern Cape,Referral,Local Radio,500/500 Mbps,129,0.09,11
+2025-05-31,Eastern Cape,Referral,Local Radio,1000/1000 Mbps,275,0.14,38
+2025-05-31,Eastern Cape,Outdoor,Facebook,10/10 Mbps,108,0.19,20
+2025-05-31,Eastern Cape,Outdoor,Facebook,50/50 Mbps,267,0.09,24
+2025-05-31,Eastern Cape,Outdoor,Facebook,100/100 Mbps,267,0.12,32
+2025-05-31,Eastern Cape,Outdoor,Facebook,200/200 Mbps,276,0.05,13
+2025-05-31,Eastern Cape,Outdoor,Facebook,500/500 Mbps,236,0.17,40
+2025-05-31,Eastern Cape,Outdoor,Facebook,1000/1000 Mbps,278,0.07,19
+2025-05-31,Eastern Cape,Outdoor,Google,10/10 Mbps,215,0.16,34
+2025-05-31,Eastern Cape,Outdoor,Google,50/50 Mbps,64,0.18,11
+2025-05-31,Eastern Cape,Outdoor,Google,100/100 Mbps,275,0.15,41
+2025-05-31,Eastern Cape,Outdoor,Google,200/200 Mbps,34,0.12,4
+2025-05-31,Eastern Cape,Outdoor,Google,500/500 Mbps,206,0.15,30
+2025-05-31,Eastern Cape,Outdoor,Google,1000/1000 Mbps,186,0.1,18
+2025-05-31,Eastern Cape,Outdoor,Word of Mouth,10/10 Mbps,218,0.1,21
+2025-05-31,Eastern Cape,Outdoor,Word of Mouth,50/50 Mbps,288,0.14,40
+2025-05-31,Eastern Cape,Outdoor,Word of Mouth,100/100 Mbps,134,0.14,18
+2025-05-31,Eastern Cape,Outdoor,Word of Mouth,200/200 Mbps,68,0.08,5
+2025-05-31,Eastern Cape,Outdoor,Word of Mouth,500/500 Mbps,61,0.19,11
+2025-05-31,Eastern Cape,Outdoor,Word of Mouth,1000/1000 Mbps,85,0.15,12
+2025-05-31,Eastern Cape,Outdoor,Local Radio,10/10 Mbps,85,0.09,7
+2025-05-31,Eastern Cape,Outdoor,Local Radio,50/50 Mbps,247,0.07,17
+2025-05-31,Eastern Cape,Outdoor,Local Radio,100/100 Mbps,264,0.09,23
+2025-05-31,Eastern Cape,Outdoor,Local Radio,200/200 Mbps,45,0.12,5
+2025-05-31,Eastern Cape,Outdoor,Local Radio,500/500 Mbps,276,0.09,24
+2025-05-31,Eastern Cape,Outdoor,Local Radio,1000/1000 Mbps,126,0.13,16
+2025-05-31,Eastern Cape,Events,Facebook,10/10 Mbps,129,0.12,15
+2025-05-31,Eastern Cape,Events,Facebook,50/50 Mbps,25,0.13,3
+2025-05-31,Eastern Cape,Events,Facebook,100/100 Mbps,272,0.18,48
+2025-05-31,Eastern Cape,Events,Facebook,200/200 Mbps,148,0.15,22
+2025-05-31,Eastern Cape,Events,Facebook,500/500 Mbps,191,0.13,24
+2025-05-31,Eastern Cape,Events,Facebook,1000/1000 Mbps,108,0.06,6
+2025-05-31,Eastern Cape,Events,Google,10/10 Mbps,61,0.09,5
+2025-05-31,Eastern Cape,Events,Google,50/50 Mbps,32,0.08,2
+2025-05-31,Eastern Cape,Events,Google,100/100 Mbps,207,0.19,39
+2025-05-31,Eastern Cape,Events,Google,200/200 Mbps,80,0.11,8
+2025-05-31,Eastern Cape,Events,Google,500/500 Mbps,202,0.14,28
+2025-05-31,Eastern Cape,Events,Google,1000/1000 Mbps,272,0.17,46
+2025-05-31,Eastern Cape,Events,Word of Mouth,10/10 Mbps,80,0.11,8
+2025-05-31,Eastern Cape,Events,Word of Mouth,50/50 Mbps,70,0.16,11
+2025-05-31,Eastern Cape,Events,Word of Mouth,100/100 Mbps,160,0.11,17
+2025-05-31,Eastern Cape,Events,Word of Mouth,200/200 Mbps,264,0.11,29
+2025-05-31,Eastern Cape,Events,Word of Mouth,500/500 Mbps,124,0.12,14
+2025-05-31,Eastern Cape,Events,Word of Mouth,1000/1000 Mbps,129,0.13,16
+2025-05-31,Eastern Cape,Events,Local Radio,10/10 Mbps,59,0.16,9
+2025-05-31,Eastern Cape,Events,Local Radio,50/50 Mbps,41,0.13,5
+2025-05-31,Eastern Cape,Events,Local Radio,100/100 Mbps,272,0.05,13
+2025-05-31,Eastern Cape,Events,Local Radio,200/200 Mbps,169,0.14,23
+2025-05-31,Eastern Cape,Events,Local Radio,500/500 Mbps,258,0.12,30
+2025-05-31,Eastern Cape,Events,Local Radio,1000/1000 Mbps,257,0.16,41
+2025-06-30,Gauteng,Digital Ads,Facebook,10/10 Mbps,234,0.1,23
+2025-06-30,Gauteng,Digital Ads,Facebook,50/50 Mbps,296,0.12,35
+2025-06-30,Gauteng,Digital Ads,Facebook,100/100 Mbps,287,0.18,51
+2025-06-30,Gauteng,Digital Ads,Facebook,200/200 Mbps,282,0.11,31
+2025-06-30,Gauteng,Digital Ads,Facebook,500/500 Mbps,181,0.19,34
+2025-06-30,Gauteng,Digital Ads,Facebook,1000/1000 Mbps,299,0.12,35
+2025-06-30,Gauteng,Digital Ads,Google,10/10 Mbps,129,0.14,18
+2025-06-30,Gauteng,Digital Ads,Google,50/50 Mbps,46,0.17,7
+2025-06-30,Gauteng,Digital Ads,Google,100/100 Mbps,69,0.19,13
+2025-06-30,Gauteng,Digital Ads,Google,200/200 Mbps,157,0.11,17
+2025-06-30,Gauteng,Digital Ads,Google,500/500 Mbps,65,0.18,11
+2025-06-30,Gauteng,Digital Ads,Google,1000/1000 Mbps,261,0.13,33
+2025-06-30,Gauteng,Digital Ads,Word of Mouth,10/10 Mbps,267,0.11,29
+2025-06-30,Gauteng,Digital Ads,Word of Mouth,50/50 Mbps,41,0.06,2
+2025-06-30,Gauteng,Digital Ads,Word of Mouth,100/100 Mbps,37,0.15,5
+2025-06-30,Gauteng,Digital Ads,Word of Mouth,200/200 Mbps,214,0.11,23
+2025-06-30,Gauteng,Digital Ads,Word of Mouth,500/500 Mbps,167,0.19,31
+2025-06-30,Gauteng,Digital Ads,Word of Mouth,1000/1000 Mbps,120,0.17,20
+2025-06-30,Gauteng,Digital Ads,Local Radio,10/10 Mbps,99,0.06,5
+2025-06-30,Gauteng,Digital Ads,Local Radio,50/50 Mbps,74,0.13,9
+2025-06-30,Gauteng,Digital Ads,Local Radio,100/100 Mbps,198,0.18,35
+2025-06-30,Gauteng,Digital Ads,Local Radio,200/200 Mbps,149,0.07,10
+2025-06-30,Gauteng,Digital Ads,Local Radio,500/500 Mbps,218,0.15,32
+2025-06-30,Gauteng,Digital Ads,Local Radio,1000/1000 Mbps,68,0.06,4
+2025-06-30,Gauteng,Referral,Facebook,10/10 Mbps,219,0.06,13
+2025-06-30,Gauteng,Referral,Facebook,50/50 Mbps,130,0.08,10
+2025-06-30,Gauteng,Referral,Facebook,100/100 Mbps,140,0.14,19
+2025-06-30,Gauteng,Referral,Facebook,200/200 Mbps,155,0.17,26
+2025-06-30,Gauteng,Referral,Facebook,500/500 Mbps,65,0.16,10
+2025-06-30,Gauteng,Referral,Facebook,1000/1000 Mbps,30,0.15,4
+2025-06-30,Gauteng,Referral,Google,10/10 Mbps,53,0.18,9
+2025-06-30,Gauteng,Referral,Google,50/50 Mbps,34,0.15,5
+2025-06-30,Gauteng,Referral,Google,100/100 Mbps,211,0.09,18
+2025-06-30,Gauteng,Referral,Google,200/200 Mbps,243,0.1,24
+2025-06-30,Gauteng,Referral,Google,500/500 Mbps,83,0.17,14
+2025-06-30,Gauteng,Referral,Google,1000/1000 Mbps,266,0.17,45
+2025-06-30,Gauteng,Referral,Word of Mouth,10/10 Mbps,57,0.17,9
+2025-06-30,Gauteng,Referral,Word of Mouth,50/50 Mbps,176,0.13,22
+2025-06-30,Gauteng,Referral,Word of Mouth,100/100 Mbps,33,0.05,1
+2025-06-30,Gauteng,Referral,Word of Mouth,200/200 Mbps,152,0.19,28
+2025-06-30,Gauteng,Referral,Word of Mouth,500/500 Mbps,221,0.16,35
+2025-06-30,Gauteng,Referral,Word of Mouth,1000/1000 Mbps,94,0.06,5
+2025-06-30,Gauteng,Referral,Local Radio,10/10 Mbps,170,0.09,15
+2025-06-30,Gauteng,Referral,Local Radio,50/50 Mbps,121,0.07,8
+2025-06-30,Gauteng,Referral,Local Radio,100/100 Mbps,174,0.09,15
+2025-06-30,Gauteng,Referral,Local Radio,200/200 Mbps,29,0.06,1
+2025-06-30,Gauteng,Referral,Local Radio,500/500 Mbps,48,0.15,7
+2025-06-30,Gauteng,Referral,Local Radio,1000/1000 Mbps,160,0.16,25
+2025-06-30,Gauteng,Outdoor,Facebook,10/10 Mbps,245,0.2,49
+2025-06-30,Gauteng,Outdoor,Facebook,50/50 Mbps,228,0.11,25
+2025-06-30,Gauteng,Outdoor,Facebook,100/100 Mbps,86,0.07,6
+2025-06-30,Gauteng,Outdoor,Facebook,200/200 Mbps,271,0.13,35
+2025-06-30,Gauteng,Outdoor,Facebook,500/500 Mbps,150,0.16,24
+2025-06-30,Gauteng,Outdoor,Facebook,1000/1000 Mbps,43,0.05,2
+2025-06-30,Gauteng,Outdoor,Google,10/10 Mbps,85,0.09,7
+2025-06-30,Gauteng,Outdoor,Google,50/50 Mbps,201,0.09,18
+2025-06-30,Gauteng,Outdoor,Google,100/100 Mbps,282,0.11,31
+2025-06-30,Gauteng,Outdoor,Google,200/200 Mbps,122,0.08,9
+2025-06-30,Gauteng,Outdoor,Google,500/500 Mbps,279,0.16,44
+2025-06-30,Gauteng,Outdoor,Google,1000/1000 Mbps,283,0.16,45
+2025-06-30,Gauteng,Outdoor,Word of Mouth,10/10 Mbps,211,0.15,31
+2025-06-30,Gauteng,Outdoor,Word of Mouth,50/50 Mbps,221,0.2,44
+2025-06-30,Gauteng,Outdoor,Word of Mouth,100/100 Mbps,265,0.12,31
+2025-06-30,Gauteng,Outdoor,Word of Mouth,200/200 Mbps,164,0.11,18
+2025-06-30,Gauteng,Outdoor,Word of Mouth,500/500 Mbps,200,0.1,20
+2025-06-30,Gauteng,Outdoor,Word of Mouth,1000/1000 Mbps,24,0.13,3
+2025-06-30,Gauteng,Outdoor,Local Radio,10/10 Mbps,177,0.13,23
+2025-06-30,Gauteng,Outdoor,Local Radio,50/50 Mbps,203,0.18,36
+2025-06-30,Gauteng,Outdoor,Local Radio,100/100 Mbps,181,0.18,32
+2025-06-30,Gauteng,Outdoor,Local Radio,200/200 Mbps,257,0.05,12
+2025-06-30,Gauteng,Outdoor,Local Radio,500/500 Mbps,38,0.2,7
+2025-06-30,Gauteng,Outdoor,Local Radio,1000/1000 Mbps,227,0.15,34
+2025-06-30,Gauteng,Events,Facebook,10/10 Mbps,148,0.09,13
+2025-06-30,Gauteng,Events,Facebook,50/50 Mbps,25,0.1,2
+2025-06-30,Gauteng,Events,Facebook,100/100 Mbps,282,0.06,16
+2025-06-30,Gauteng,Events,Facebook,200/200 Mbps,235,0.2,47
+2025-06-30,Gauteng,Events,Facebook,500/500 Mbps,79,0.16,12
+2025-06-30,Gauteng,Events,Facebook,1000/1000 Mbps,35,0.16,5
+2025-06-30,Gauteng,Events,Google,10/10 Mbps,189,0.14,26
+2025-06-30,Gauteng,Events,Google,50/50 Mbps,62,0.17,10
+2025-06-30,Gauteng,Events,Google,100/100 Mbps,231,0.07,16
+2025-06-30,Gauteng,Events,Google,200/200 Mbps,51,0.1,5
+2025-06-30,Gauteng,Events,Google,500/500 Mbps,94,0.05,4
+2025-06-30,Gauteng,Events,Google,1000/1000 Mbps,105,0.18,18
+2025-06-30,Gauteng,Events,Word of Mouth,10/10 Mbps,177,0.18,31
+2025-06-30,Gauteng,Events,Word of Mouth,50/50 Mbps,59,0.06,3
+2025-06-30,Gauteng,Events,Word of Mouth,100/100 Mbps,249,0.07,17
+2025-06-30,Gauteng,Events,Word of Mouth,200/200 Mbps,250,0.2,50
+2025-06-30,Gauteng,Events,Word of Mouth,500/500 Mbps,97,0.07,6
+2025-06-30,Gauteng,Events,Word of Mouth,1000/1000 Mbps,203,0.08,16
+2025-06-30,Gauteng,Events,Local Radio,10/10 Mbps,185,0.16,29
+2025-06-30,Gauteng,Events,Local Radio,50/50 Mbps,276,0.17,46
+2025-06-30,Gauteng,Events,Local Radio,100/100 Mbps,159,0.11,17
+2025-06-30,Gauteng,Events,Local Radio,200/200 Mbps,219,0.07,15
+2025-06-30,Gauteng,Events,Local Radio,500/500 Mbps,81,0.1,8
+2025-06-30,Gauteng,Events,Local Radio,1000/1000 Mbps,187,0.16,29
+2025-06-30,Western Cape,Digital Ads,Facebook,10/10 Mbps,189,0.2,37
+2025-06-30,Western Cape,Digital Ads,Facebook,50/50 Mbps,104,0.05,5
+2025-06-30,Western Cape,Digital Ads,Facebook,100/100 Mbps,98,0.08,7
+2025-06-30,Western Cape,Digital Ads,Facebook,200/200 Mbps,244,0.17,41
+2025-06-30,Western Cape,Digital Ads,Facebook,500/500 Mbps,125,0.14,17
+2025-06-30,Western Cape,Digital Ads,Facebook,1000/1000 Mbps,64,0.1,6
+2025-06-30,Western Cape,Digital Ads,Google,10/10 Mbps,142,0.07,9
+2025-06-30,Western Cape,Digital Ads,Google,50/50 Mbps,259,0.12,31
+2025-06-30,Western Cape,Digital Ads,Google,100/100 Mbps,227,0.08,18
+2025-06-30,Western Cape,Digital Ads,Google,200/200 Mbps,24,0.14,3
+2025-06-30,Western Cape,Digital Ads,Google,500/500 Mbps,78,0.11,8
+2025-06-30,Western Cape,Digital Ads,Google,1000/1000 Mbps,37,0.07,2
+2025-06-30,Western Cape,Digital Ads,Word of Mouth,10/10 Mbps,145,0.05,7
+2025-06-30,Western Cape,Digital Ads,Word of Mouth,50/50 Mbps,258,0.14,36
+2025-06-30,Western Cape,Digital Ads,Word of Mouth,100/100 Mbps,200,0.11,22
+2025-06-30,Western Cape,Digital Ads,Word of Mouth,200/200 Mbps,149,0.1,14
+2025-06-30,Western Cape,Digital Ads,Word of Mouth,500/500 Mbps,297,0.1,29
+2025-06-30,Western Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,138,0.12,16
+2025-06-30,Western Cape,Digital Ads,Local Radio,10/10 Mbps,114,0.08,9
+2025-06-30,Western Cape,Digital Ads,Local Radio,50/50 Mbps,115,0.13,14
+2025-06-30,Western Cape,Digital Ads,Local Radio,100/100 Mbps,138,0.08,11
+2025-06-30,Western Cape,Digital Ads,Local Radio,200/200 Mbps,66,0.09,5
+2025-06-30,Western Cape,Digital Ads,Local Radio,500/500 Mbps,27,0.05,1
+2025-06-30,Western Cape,Digital Ads,Local Radio,1000/1000 Mbps,197,0.13,25
+2025-06-30,Western Cape,Referral,Facebook,10/10 Mbps,25,0.1,2
+2025-06-30,Western Cape,Referral,Facebook,50/50 Mbps,171,0.11,18
+2025-06-30,Western Cape,Referral,Facebook,100/100 Mbps,76,0.11,8
+2025-06-30,Western Cape,Referral,Facebook,200/200 Mbps,160,0.11,17
+2025-06-30,Western Cape,Referral,Facebook,500/500 Mbps,122,0.13,15
+2025-06-30,Western Cape,Referral,Facebook,1000/1000 Mbps,271,0.06,16
+2025-06-30,Western Cape,Referral,Google,10/10 Mbps,173,0.11,19
+2025-06-30,Western Cape,Referral,Google,50/50 Mbps,21,0.17,3
+2025-06-30,Western Cape,Referral,Google,100/100 Mbps,42,0.09,3
+2025-06-30,Western Cape,Referral,Google,200/200 Mbps,222,0.1,22
+2025-06-30,Western Cape,Referral,Google,500/500 Mbps,153,0.2,30
+2025-06-30,Western Cape,Referral,Google,1000/1000 Mbps,191,0.08,15
+2025-06-30,Western Cape,Referral,Word of Mouth,10/10 Mbps,81,0.12,9
+2025-06-30,Western Cape,Referral,Word of Mouth,50/50 Mbps,209,0.09,18
+2025-06-30,Western Cape,Referral,Word of Mouth,100/100 Mbps,135,0.09,12
+2025-06-30,Western Cape,Referral,Word of Mouth,200/200 Mbps,28,0.2,5
+2025-06-30,Western Cape,Referral,Word of Mouth,500/500 Mbps,74,0.07,5
+2025-06-30,Western Cape,Referral,Word of Mouth,1000/1000 Mbps,75,0.06,4
+2025-06-30,Western Cape,Referral,Local Radio,10/10 Mbps,93,0.17,15
+2025-06-30,Western Cape,Referral,Local Radio,50/50 Mbps,173,0.16,27
+2025-06-30,Western Cape,Referral,Local Radio,100/100 Mbps,200,0.07,14
+2025-06-30,Western Cape,Referral,Local Radio,200/200 Mbps,105,0.08,8
+2025-06-30,Western Cape,Referral,Local Radio,500/500 Mbps,96,0.2,19
+2025-06-30,Western Cape,Referral,Local Radio,1000/1000 Mbps,282,0.06,16
+2025-06-30,Western Cape,Outdoor,Facebook,10/10 Mbps,119,0.15,17
+2025-06-30,Western Cape,Outdoor,Facebook,50/50 Mbps,39,0.18,7
+2025-06-30,Western Cape,Outdoor,Facebook,100/100 Mbps,52,0.08,4
+2025-06-30,Western Cape,Outdoor,Facebook,200/200 Mbps,84,0.14,11
+2025-06-30,Western Cape,Outdoor,Facebook,500/500 Mbps,243,0.19,46
+2025-06-30,Western Cape,Outdoor,Facebook,1000/1000 Mbps,262,0.15,39
+2025-06-30,Western Cape,Outdoor,Google,10/10 Mbps,38,0.18,6
+2025-06-30,Western Cape,Outdoor,Google,50/50 Mbps,64,0.14,8
+2025-06-30,Western Cape,Outdoor,Google,100/100 Mbps,181,0.13,23
+2025-06-30,Western Cape,Outdoor,Google,200/200 Mbps,207,0.15,31
+2025-06-30,Western Cape,Outdoor,Google,500/500 Mbps,68,0.12,8
+2025-06-30,Western Cape,Outdoor,Google,1000/1000 Mbps,32,0.05,1
+2025-06-30,Western Cape,Outdoor,Word of Mouth,10/10 Mbps,207,0.05,10
+2025-06-30,Western Cape,Outdoor,Word of Mouth,50/50 Mbps,24,0.07,1
+2025-06-30,Western Cape,Outdoor,Word of Mouth,100/100 Mbps,207,0.05,10
+2025-06-30,Western Cape,Outdoor,Word of Mouth,200/200 Mbps,102,0.09,9
+2025-06-30,Western Cape,Outdoor,Word of Mouth,500/500 Mbps,198,0.18,35
+2025-06-30,Western Cape,Outdoor,Word of Mouth,1000/1000 Mbps,178,0.12,21
+2025-06-30,Western Cape,Outdoor,Local Radio,10/10 Mbps,144,0.14,20
+2025-06-30,Western Cape,Outdoor,Local Radio,50/50 Mbps,272,0.2,54
+2025-06-30,Western Cape,Outdoor,Local Radio,100/100 Mbps,232,0.1,23
+2025-06-30,Western Cape,Outdoor,Local Radio,200/200 Mbps,237,0.09,21
+2025-06-30,Western Cape,Outdoor,Local Radio,500/500 Mbps,178,0.06,10
+2025-06-30,Western Cape,Outdoor,Local Radio,1000/1000 Mbps,203,0.15,30
+2025-06-30,Western Cape,Events,Facebook,10/10 Mbps,137,0.14,19
+2025-06-30,Western Cape,Events,Facebook,50/50 Mbps,236,0.14,33
+2025-06-30,Western Cape,Events,Facebook,100/100 Mbps,71,0.13,9
+2025-06-30,Western Cape,Events,Facebook,200/200 Mbps,75,0.12,9
+2025-06-30,Western Cape,Events,Facebook,500/500 Mbps,104,0.11,11
+2025-06-30,Western Cape,Events,Facebook,1000/1000 Mbps,233,0.13,30
+2025-06-30,Western Cape,Events,Google,10/10 Mbps,28,0.05,1
+2025-06-30,Western Cape,Events,Google,50/50 Mbps,191,0.05,9
+2025-06-30,Western Cape,Events,Google,100/100 Mbps,118,0.07,8
+2025-06-30,Western Cape,Events,Google,200/200 Mbps,189,0.14,26
+2025-06-30,Western Cape,Events,Google,500/500 Mbps,252,0.14,35
+2025-06-30,Western Cape,Events,Google,1000/1000 Mbps,272,0.07,19
+2025-06-30,Western Cape,Events,Word of Mouth,10/10 Mbps,234,0.13,30
+2025-06-30,Western Cape,Events,Word of Mouth,50/50 Mbps,254,0.09,22
+2025-06-30,Western Cape,Events,Word of Mouth,100/100 Mbps,56,0.08,4
+2025-06-30,Western Cape,Events,Word of Mouth,200/200 Mbps,143,0.12,17
+2025-06-30,Western Cape,Events,Word of Mouth,500/500 Mbps,193,0.07,13
+2025-06-30,Western Cape,Events,Word of Mouth,1000/1000 Mbps,118,0.06,7
+2025-06-30,Western Cape,Events,Local Radio,10/10 Mbps,41,0.16,6
+2025-06-30,Western Cape,Events,Local Radio,50/50 Mbps,48,0.11,5
+2025-06-30,Western Cape,Events,Local Radio,100/100 Mbps,197,0.16,31
+2025-06-30,Western Cape,Events,Local Radio,200/200 Mbps,227,0.19,43
+2025-06-30,Western Cape,Events,Local Radio,500/500 Mbps,279,0.06,16
+2025-06-30,Western Cape,Events,Local Radio,1000/1000 Mbps,233,0.1,23
+2025-06-30,KwaZulu-Natal,Digital Ads,Facebook,10/10 Mbps,90,0.08,7
+2025-06-30,KwaZulu-Natal,Digital Ads,Facebook,50/50 Mbps,210,0.08,16
+2025-06-30,KwaZulu-Natal,Digital Ads,Facebook,100/100 Mbps,299,0.18,53
+2025-06-30,KwaZulu-Natal,Digital Ads,Facebook,200/200 Mbps,294,0.06,17
+2025-06-30,KwaZulu-Natal,Digital Ads,Facebook,500/500 Mbps,253,0.12,30
+2025-06-30,KwaZulu-Natal,Digital Ads,Facebook,1000/1000 Mbps,190,0.2,38
+2025-06-30,KwaZulu-Natal,Digital Ads,Google,10/10 Mbps,157,0.08,12
+2025-06-30,KwaZulu-Natal,Digital Ads,Google,50/50 Mbps,34,0.19,6
+2025-06-30,KwaZulu-Natal,Digital Ads,Google,100/100 Mbps,35,0.12,4
+2025-06-30,KwaZulu-Natal,Digital Ads,Google,200/200 Mbps,236,0.08,18
+2025-06-30,KwaZulu-Natal,Digital Ads,Google,500/500 Mbps,91,0.09,8
+2025-06-30,KwaZulu-Natal,Digital Ads,Google,1000/1000 Mbps,280,0.16,44
+2025-06-30,KwaZulu-Natal,Digital Ads,Word of Mouth,10/10 Mbps,265,0.17,45
+2025-06-30,KwaZulu-Natal,Digital Ads,Word of Mouth,50/50 Mbps,92,0.14,12
+2025-06-30,KwaZulu-Natal,Digital Ads,Word of Mouth,100/100 Mbps,99,0.06,5
+2025-06-30,KwaZulu-Natal,Digital Ads,Word of Mouth,200/200 Mbps,238,0.16,38
+2025-06-30,KwaZulu-Natal,Digital Ads,Word of Mouth,500/500 Mbps,66,0.09,5
+2025-06-30,KwaZulu-Natal,Digital Ads,Word of Mouth,1000/1000 Mbps,32,0.15,4
+2025-06-30,KwaZulu-Natal,Digital Ads,Local Radio,10/10 Mbps,23,0.07,1
+2025-06-30,KwaZulu-Natal,Digital Ads,Local Radio,50/50 Mbps,46,0.15,6
+2025-06-30,KwaZulu-Natal,Digital Ads,Local Radio,100/100 Mbps,237,0.05,11
+2025-06-30,KwaZulu-Natal,Digital Ads,Local Radio,200/200 Mbps,101,0.07,7
+2025-06-30,KwaZulu-Natal,Digital Ads,Local Radio,500/500 Mbps,107,0.06,6
+2025-06-30,KwaZulu-Natal,Digital Ads,Local Radio,1000/1000 Mbps,27,0.14,3
+2025-06-30,KwaZulu-Natal,Referral,Facebook,10/10 Mbps,231,0.09,20
+2025-06-30,KwaZulu-Natal,Referral,Facebook,50/50 Mbps,200,0.2,40
+2025-06-30,KwaZulu-Natal,Referral,Facebook,100/100 Mbps,81,0.11,8
+2025-06-30,KwaZulu-Natal,Referral,Facebook,200/200 Mbps,285,0.06,17
+2025-06-30,KwaZulu-Natal,Referral,Facebook,500/500 Mbps,56,0.14,7
+2025-06-30,KwaZulu-Natal,Referral,Facebook,1000/1000 Mbps,73,0.07,5
+2025-06-30,KwaZulu-Natal,Referral,Google,10/10 Mbps,72,0.12,8
+2025-06-30,KwaZulu-Natal,Referral,Google,50/50 Mbps,104,0.12,12
+2025-06-30,KwaZulu-Natal,Referral,Google,100/100 Mbps,62,0.06,3
+2025-06-30,KwaZulu-Natal,Referral,Google,200/200 Mbps,282,0.08,22
+2025-06-30,KwaZulu-Natal,Referral,Google,500/500 Mbps,144,0.08,11
+2025-06-30,KwaZulu-Natal,Referral,Google,1000/1000 Mbps,34,0.14,4
+2025-06-30,KwaZulu-Natal,Referral,Word of Mouth,10/10 Mbps,197,0.16,31
+2025-06-30,KwaZulu-Natal,Referral,Word of Mouth,50/50 Mbps,20,0.06,1
+2025-06-30,KwaZulu-Natal,Referral,Word of Mouth,100/100 Mbps,150,0.06,9
+2025-06-30,KwaZulu-Natal,Referral,Word of Mouth,200/200 Mbps,251,0.08,20
+2025-06-30,KwaZulu-Natal,Referral,Word of Mouth,500/500 Mbps,252,0.11,27
+2025-06-30,KwaZulu-Natal,Referral,Word of Mouth,1000/1000 Mbps,228,0.13,29
+2025-06-30,KwaZulu-Natal,Referral,Local Radio,10/10 Mbps,261,0.08,20
+2025-06-30,KwaZulu-Natal,Referral,Local Radio,50/50 Mbps,236,0.19,44
+2025-06-30,KwaZulu-Natal,Referral,Local Radio,100/100 Mbps,166,0.1,16
+2025-06-30,KwaZulu-Natal,Referral,Local Radio,200/200 Mbps,291,0.11,32
+2025-06-30,KwaZulu-Natal,Referral,Local Radio,500/500 Mbps,47,0.17,7
+2025-06-30,KwaZulu-Natal,Referral,Local Radio,1000/1000 Mbps,193,0.06,11
+2025-06-30,KwaZulu-Natal,Outdoor,Facebook,10/10 Mbps,102,0.07,7
+2025-06-30,KwaZulu-Natal,Outdoor,Facebook,50/50 Mbps,258,0.19,49
+2025-06-30,KwaZulu-Natal,Outdoor,Facebook,100/100 Mbps,150,0.12,18
+2025-06-30,KwaZulu-Natal,Outdoor,Facebook,200/200 Mbps,160,0.06,9
+2025-06-30,KwaZulu-Natal,Outdoor,Facebook,500/500 Mbps,128,0.12,15
+2025-06-30,KwaZulu-Natal,Outdoor,Facebook,1000/1000 Mbps,268,0.09,24
+2025-06-30,KwaZulu-Natal,Outdoor,Google,10/10 Mbps,286,0.1,28
+2025-06-30,KwaZulu-Natal,Outdoor,Google,50/50 Mbps,239,0.16,38
+2025-06-30,KwaZulu-Natal,Outdoor,Google,100/100 Mbps,32,0.09,2
+2025-06-30,KwaZulu-Natal,Outdoor,Google,200/200 Mbps,251,0.06,15
+2025-06-30,KwaZulu-Natal,Outdoor,Google,500/500 Mbps,54,0.09,4
+2025-06-30,KwaZulu-Natal,Outdoor,Google,1000/1000 Mbps,110,0.12,13
+2025-06-30,KwaZulu-Natal,Outdoor,Word of Mouth,10/10 Mbps,189,0.15,28
+2025-06-30,KwaZulu-Natal,Outdoor,Word of Mouth,50/50 Mbps,142,0.05,7
+2025-06-30,KwaZulu-Natal,Outdoor,Word of Mouth,100/100 Mbps,184,0.12,22
+2025-06-30,KwaZulu-Natal,Outdoor,Word of Mouth,200/200 Mbps,36,0.05,1
+2025-06-30,KwaZulu-Natal,Outdoor,Word of Mouth,500/500 Mbps,272,0.07,19
+2025-06-30,KwaZulu-Natal,Outdoor,Word of Mouth,1000/1000 Mbps,294,0.14,41
+2025-06-30,KwaZulu-Natal,Outdoor,Local Radio,10/10 Mbps,206,0.14,28
+2025-06-30,KwaZulu-Natal,Outdoor,Local Radio,50/50 Mbps,172,0.15,25
+2025-06-30,KwaZulu-Natal,Outdoor,Local Radio,100/100 Mbps,140,0.05,7
+2025-06-30,KwaZulu-Natal,Outdoor,Local Radio,200/200 Mbps,207,0.09,18
+2025-06-30,KwaZulu-Natal,Outdoor,Local Radio,500/500 Mbps,129,0.17,21
+2025-06-30,KwaZulu-Natal,Outdoor,Local Radio,1000/1000 Mbps,120,0.15,18
+2025-06-30,KwaZulu-Natal,Events,Facebook,10/10 Mbps,32,0.18,5
+2025-06-30,KwaZulu-Natal,Events,Facebook,50/50 Mbps,60,0.17,10
+2025-06-30,KwaZulu-Natal,Events,Facebook,100/100 Mbps,29,0.19,5
+2025-06-30,KwaZulu-Natal,Events,Facebook,200/200 Mbps,52,0.1,5
+2025-06-30,KwaZulu-Natal,Events,Facebook,500/500 Mbps,184,0.19,34
+2025-06-30,KwaZulu-Natal,Events,Facebook,1000/1000 Mbps,87,0.14,12
+2025-06-30,KwaZulu-Natal,Events,Google,10/10 Mbps,286,0.09,25
+2025-06-30,KwaZulu-Natal,Events,Google,50/50 Mbps,288,0.18,51
+2025-06-30,KwaZulu-Natal,Events,Google,100/100 Mbps,39,0.14,5
+2025-06-30,KwaZulu-Natal,Events,Google,200/200 Mbps,66,0.06,3
+2025-06-30,KwaZulu-Natal,Events,Google,500/500 Mbps,268,0.07,18
+2025-06-30,KwaZulu-Natal,Events,Google,1000/1000 Mbps,248,0.07,17
+2025-06-30,KwaZulu-Natal,Events,Word of Mouth,10/10 Mbps,53,0.13,6
+2025-06-30,KwaZulu-Natal,Events,Word of Mouth,50/50 Mbps,299,0.07,20
+2025-06-30,KwaZulu-Natal,Events,Word of Mouth,100/100 Mbps,294,0.1,29
+2025-06-30,KwaZulu-Natal,Events,Word of Mouth,200/200 Mbps,288,0.06,17
+2025-06-30,KwaZulu-Natal,Events,Word of Mouth,500/500 Mbps,260,0.17,44
+2025-06-30,KwaZulu-Natal,Events,Word of Mouth,1000/1000 Mbps,169,0.06,10
+2025-06-30,KwaZulu-Natal,Events,Local Radio,10/10 Mbps,290,0.08,23
+2025-06-30,KwaZulu-Natal,Events,Local Radio,50/50 Mbps,134,0.12,16
+2025-06-30,KwaZulu-Natal,Events,Local Radio,100/100 Mbps,39,0.19,7
+2025-06-30,KwaZulu-Natal,Events,Local Radio,200/200 Mbps,24,0.17,4
+2025-06-30,KwaZulu-Natal,Events,Local Radio,500/500 Mbps,139,0.07,9
+2025-06-30,KwaZulu-Natal,Events,Local Radio,1000/1000 Mbps,224,0.09,20
+2025-06-30,Eastern Cape,Digital Ads,Facebook,10/10 Mbps,80,0.1,8
+2025-06-30,Eastern Cape,Digital Ads,Facebook,50/50 Mbps,215,0.09,19
+2025-06-30,Eastern Cape,Digital Ads,Facebook,100/100 Mbps,185,0.12,22
+2025-06-30,Eastern Cape,Digital Ads,Facebook,200/200 Mbps,54,0.19,10
+2025-06-30,Eastern Cape,Digital Ads,Facebook,500/500 Mbps,175,0.08,14
+2025-06-30,Eastern Cape,Digital Ads,Facebook,1000/1000 Mbps,208,0.15,31
+2025-06-30,Eastern Cape,Digital Ads,Google,10/10 Mbps,252,0.1,25
+2025-06-30,Eastern Cape,Digital Ads,Google,50/50 Mbps,25,0.14,3
+2025-06-30,Eastern Cape,Digital Ads,Google,100/100 Mbps,205,0.08,16
+2025-06-30,Eastern Cape,Digital Ads,Google,200/200 Mbps,172,0.14,24
+2025-06-30,Eastern Cape,Digital Ads,Google,500/500 Mbps,221,0.06,13
+2025-06-30,Eastern Cape,Digital Ads,Google,1000/1000 Mbps,200,0.09,18
+2025-06-30,Eastern Cape,Digital Ads,Word of Mouth,10/10 Mbps,119,0.2,23
+2025-06-30,Eastern Cape,Digital Ads,Word of Mouth,50/50 Mbps,285,0.16,45
+2025-06-30,Eastern Cape,Digital Ads,Word of Mouth,100/100 Mbps,270,0.1,27
+2025-06-30,Eastern Cape,Digital Ads,Word of Mouth,200/200 Mbps,164,0.12,19
+2025-06-30,Eastern Cape,Digital Ads,Word of Mouth,500/500 Mbps,198,0.17,33
+2025-06-30,Eastern Cape,Digital Ads,Word of Mouth,1000/1000 Mbps,24,0.14,3
+2025-06-30,Eastern Cape,Digital Ads,Local Radio,10/10 Mbps,275,0.06,16
+2025-06-30,Eastern Cape,Digital Ads,Local Radio,50/50 Mbps,291,0.12,34
+2025-06-30,Eastern Cape,Digital Ads,Local Radio,100/100 Mbps,226,0.18,40
+2025-06-30,Eastern Cape,Digital Ads,Local Radio,200/200 Mbps,190,0.18,34
+2025-06-30,Eastern Cape,Digital Ads,Local Radio,500/500 Mbps,47,0.1,4
+2025-06-30,Eastern Cape,Digital Ads,Local Radio,1000/1000 Mbps,150,0.17,25
+2025-06-30,Eastern Cape,Referral,Facebook,10/10 Mbps,203,0.12,24
+2025-06-30,Eastern Cape,Referral,Facebook,50/50 Mbps,202,0.11,22
+2025-06-30,Eastern Cape,Referral,Facebook,100/100 Mbps,126,0.06,7
+2025-06-30,Eastern Cape,Referral,Facebook,200/200 Mbps,282,0.07,19
+2025-06-30,Eastern Cape,Referral,Facebook,500/500 Mbps,274,0.09,24
+2025-06-30,Eastern Cape,Referral,Facebook,1000/1000 Mbps,101,0.08,8
+2025-06-30,Eastern Cape,Referral,Google,10/10 Mbps,126,0.18,22
+2025-06-30,Eastern Cape,Referral,Google,50/50 Mbps,175,0.15,26
+2025-06-30,Eastern Cape,Referral,Google,100/100 Mbps,206,0.15,30
+2025-06-30,Eastern Cape,Referral,Google,200/200 Mbps,167,0.16,26
+2025-06-30,Eastern Cape,Referral,Google,500/500 Mbps,200,0.12,24
+2025-06-30,Eastern Cape,Referral,Google,1000/1000 Mbps,136,0.18,24
+2025-06-30,Eastern Cape,Referral,Word of Mouth,10/10 Mbps,124,0.12,14
+2025-06-30,Eastern Cape,Referral,Word of Mouth,50/50 Mbps,210,0.1,21
+2025-06-30,Eastern Cape,Referral,Word of Mouth,100/100 Mbps,186,0.18,33
+2025-06-30,Eastern Cape,Referral,Word of Mouth,200/200 Mbps,294,0.18,52
+2025-06-30,Eastern Cape,Referral,Word of Mouth,500/500 Mbps,171,0.16,27
+2025-06-30,Eastern Cape,Referral,Word of Mouth,1000/1000 Mbps,205,0.11,22
+2025-06-30,Eastern Cape,Referral,Local Radio,10/10 Mbps,273,0.16,43
+2025-06-30,Eastern Cape,Referral,Local Radio,50/50 Mbps,227,0.06,13
+2025-06-30,Eastern Cape,Referral,Local Radio,100/100 Mbps,107,0.18,19
+2025-06-30,Eastern Cape,Referral,Local Radio,200/200 Mbps,252,0.17,42
+2025-06-30,Eastern Cape,Referral,Local Radio,500/500 Mbps,189,0.09,17
+2025-06-30,Eastern Cape,Referral,Local Radio,1000/1000 Mbps,219,0.12,26
+2025-06-30,Eastern Cape,Outdoor,Facebook,10/10 Mbps,97,0.19,18
+2025-06-30,Eastern Cape,Outdoor,Facebook,50/50 Mbps,296,0.18,53
+2025-06-30,Eastern Cape,Outdoor,Facebook,100/100 Mbps,250,0.14,35
+2025-06-30,Eastern Cape,Outdoor,Facebook,200/200 Mbps,89,0.17,15
+2025-06-30,Eastern Cape,Outdoor,Facebook,500/500 Mbps,146,0.1,14
+2025-06-30,Eastern Cape,Outdoor,Facebook,1000/1000 Mbps,85,0.13,11
+2025-06-30,Eastern Cape,Outdoor,Google,10/10 Mbps,218,0.19,41
+2025-06-30,Eastern Cape,Outdoor,Google,50/50 Mbps,97,0.1,9
+2025-06-30,Eastern Cape,Outdoor,Google,100/100 Mbps,216,0.15,32
+2025-06-30,Eastern Cape,Outdoor,Google,200/200 Mbps,279,0.16,44
+2025-06-30,Eastern Cape,Outdoor,Google,500/500 Mbps,211,0.19,40
+2025-06-30,Eastern Cape,Outdoor,Google,1000/1000 Mbps,218,0.11,23
+2025-06-30,Eastern Cape,Outdoor,Word of Mouth,10/10 Mbps,297,0.17,50
+2025-06-30,Eastern Cape,Outdoor,Word of Mouth,50/50 Mbps,131,0.12,15
+2025-06-30,Eastern Cape,Outdoor,Word of Mouth,100/100 Mbps,270,0.2,54
+2025-06-30,Eastern Cape,Outdoor,Word of Mouth,200/200 Mbps,201,0.17,34
+2025-06-30,Eastern Cape,Outdoor,Word of Mouth,500/500 Mbps,126,0.1,12
+2025-06-30,Eastern Cape,Outdoor,Word of Mouth,1000/1000 Mbps,36,0.14,5
+2025-06-30,Eastern Cape,Outdoor,Local Radio,10/10 Mbps,217,0.12,26
+2025-06-30,Eastern Cape,Outdoor,Local Radio,50/50 Mbps,224,0.11,24
+2025-06-30,Eastern Cape,Outdoor,Local Radio,100/100 Mbps,42,0.15,6
+2025-06-30,Eastern Cape,Outdoor,Local Radio,200/200 Mbps,101,0.17,17
+2025-06-30,Eastern Cape,Outdoor,Local Radio,500/500 Mbps,42,0.09,3
+2025-06-30,Eastern Cape,Outdoor,Local Radio,1000/1000 Mbps,202,0.09,18
+2025-06-30,Eastern Cape,Events,Facebook,10/10 Mbps,235,0.06,14
+2025-06-30,Eastern Cape,Events,Facebook,50/50 Mbps,141,0.16,22
+2025-06-30,Eastern Cape,Events,Facebook,100/100 Mbps,177,0.06,10
+2025-06-30,Eastern Cape,Events,Facebook,200/200 Mbps,229,0.18,41
+2025-06-30,Eastern Cape,Events,Facebook,500/500 Mbps,149,0.14,20
+2025-06-30,Eastern Cape,Events,Facebook,1000/1000 Mbps,146,0.18,26
+2025-06-30,Eastern Cape,Events,Google,10/10 Mbps,185,0.12,22
+2025-06-30,Eastern Cape,Events,Google,50/50 Mbps,92,0.1,9
+2025-06-30,Eastern Cape,Events,Google,100/100 Mbps,134,0.12,16
+2025-06-30,Eastern Cape,Events,Google,200/200 Mbps,230,0.15,34
+2025-06-30,Eastern Cape,Events,Google,500/500 Mbps,53,0.16,8
+2025-06-30,Eastern Cape,Events,Google,1000/1000 Mbps,211,0.13,27
+2025-06-30,Eastern Cape,Events,Word of Mouth,10/10 Mbps,125,0.13,16
+2025-06-30,Eastern Cape,Events,Word of Mouth,50/50 Mbps,213,0.17,36
+2025-06-30,Eastern Cape,Events,Word of Mouth,100/100 Mbps,67,0.16,10
+2025-06-30,Eastern Cape,Events,Word of Mouth,200/200 Mbps,149,0.12,17
+2025-06-30,Eastern Cape,Events,Word of Mouth,500/500 Mbps,200,0.13,26
+2025-06-30,Eastern Cape,Events,Word of Mouth,1000/1000 Mbps,197,0.14,27
+2025-06-30,Eastern Cape,Events,Local Radio,10/10 Mbps,96,0.2,19
+2025-06-30,Eastern Cape,Events,Local Radio,50/50 Mbps,144,0.12,17
+2025-06-30,Eastern Cape,Events,Local Radio,100/100 Mbps,175,0.13,22
+2025-06-30,Eastern Cape,Events,Local Radio,200/200 Mbps,88,0.13,11
+2025-06-30,Eastern Cape,Events,Local Radio,500/500 Mbps,210,0.14,29
+2025-06-30,Eastern Cape,Events,Local Radio,1000/1000 Mbps,120,0.19,22
